@@ -51,86 +51,75 @@ Semua cerita dalam buku ini fiksi. Kesamaan nama tokoh, kantor, kelurahan, atau 
 7. Sayang
 8. Titip Absen
 9. Password
-10. Jangan Dibuka
-11. Notulen
-12. Hemat Listrik
-13. Ringkasan
-14. Jodoh
-15. Catatan Pembicara
-16. Diet
-17. Draf
-18. Cuti
+10. Notulen
+11. Hemat Listrik
+12. Jodoh
+13. Diet
+14. Draf
+15. Cuti
 
 **Bagian Dua: Di Rumah**
 
-19. Tidak Bisa
-20. Strawberry
-21. Tanpa AI
-22. Hentikan Saja
-23. Waktu Layar
-24. Disimpenin
-25. Rapor
-26. Bangun Sahur
-27. Mudik Hemat
-28. Masakan Ibu
-29. Bilang Nggak Ada
-30. Cita-Cita
+16. Tidak Bisa
+17. Strawberry
+18. Tanpa AI
+19. Hentikan Saja
+20. Waktu Layar
+21. Disimpenin
+22. Rapor
+23. Bangun Sahur
+24. Mudik Hemat
+25. Masakan Ibu
+26. Bilang Nggak Ada
+27. Cita-Cita
 
 **Bagian Tiga: Satu RT**
 
-31. Uang Rokok
-32. Hoaks
-33. Siap!
-34. Iuran RT
-35. Arisan
-36. Balap Karung
-37. Ronda
-38. Kerja Bakti
-39. Perjanjian Damai
-40. Hari Baik
+28. Uang Rokok
+29. Hoaks
+30. Siap!
+31. Iuran RT
+32. Kerja Bakti
+33. Perjanjian Damai
+34. Hari Baik
 
 **Bagian Empat: Politik**
 
-41. Pasal Satu
-42. Dua Majikan
-43. Asli
-44. Akun Realistis
-45. Bahasa Rakyat
-46. Pesan Diblokir
-47. Saksi Ahli
-48. Moderator
-49. Foto Merakyat
-50. Tidak Bisa Lupa
+35. Pasal Satu
+36. Dua Majikan
+37. Asli
+38. Akun Realistis
+39. Bahasa Rakyat
+40. Pesan Diblokir
+41. Saksi Ahli
+42. Foto Merakyat
+43. Tidak Bisa Lupa
 
 **Bagian Lima: Rumah Tangga**
 
-51. Terserah
-52. Kontak Bos
-53. Pura-Pura Sibuk
-54. Transfer Semua
-55. Mertua
-56. Ngorok
-57. Bayar Listrik
-58. Puisi
-59. Kartu Ucapan
-60. Jam Sepuluh
+44. Terserah
+45. Bu Bos
+46. Pura-Pura Sibuk
+47. Transfer Semua
+48. Mertua
+49. Ngorok
+50. Kartu Ucapan
+51. Jam Sepuluh
 
 **Bagian Enam: Pinjaman Online**
 
-61. Kontak Darurat
-62. Pinjam Seratus
-63. Limit Naik
-64. Kursus Bebas Utang
-65. Sesuai Aturan
-66. Sebar Kontak
-67. Pertemanan
-68. Gali Lubang
-69. Hadiah
-70. Riwayat Bersih
+52. Kontak Darurat
+53. Pinjam Seratus
+54. Limit Naik
+55. Bebas Utang
+56. Sesuai Aturan
+57. Pertemanan
+58. Gali Lubang
+59. Hadiah
 
 **Epilog**
 
-71. Nggak Bilang
+60. Nggak Bilang
 
 **Penutup**
 
@@ -269,7 +258,11 @@ if (jam_masuk > "11:00") tampilkan("SITI memprediksi Anda datang untuk numpang n
 
 Minggu depannya, ruang rapat penuh investor. Pak Bos, yang tentu saja baru tiba, mengambil HP dengan percaya diri. "Biar saya demokan langsung."
 
-Ia menekan tombol 'Hadir'. Jam di layar menunjukkan 11.07, dan dua pesan muncul berurutan.
+Ia menekan tombol 'Hadir'. Jam di layar menunjukkan 11.07, dan dua pesan muncul berurutan:
+
+*"SITI mendeteksi Anda kesiangan."*
+
+*"SITI memprediksi Anda datang untuk numpang ngadem dan makan gorengan."*
 
 Ruangan hening. Pak Bos menatap layar, lalu menatap gorengan di tangannya.
 
@@ -323,7 +316,7 @@ Senin pagi, Pak Bos mengumumkan aturan baru: dilarang pacaran sesama karyawan. P
 
 "Biar adil, yang mengawasi bukan manusia," katanya bangga. Ia membuka laptop di depan semua orang dan mengetik: *"SITI, cek semua chat karyawan. Laporkan yang mencurigakan."*
 
-Seisi kantor menahan napas. Dimas dari tim IT dan Nadia dari finance, yang diam-diam sudah jadian enam bulan, saling melirik dengan pucat.
+Seisi kantor menahan napas. Dimas dan Nadia, yang diam-diam sudah jadian enam bulan, saling melirik dengan pucat.
 
 Jumat sore, laporan SITI muncul di layar proyektor ruang rapat.
 
@@ -367,49 +360,27 @@ Pak Bos baru ingat: di hari pendaftaran akun dulu, ia juga datang jam sebelas.
 
 ## 9. Password
 
-Pak Bos punya dua kebiasaan buruk: selalu lupa password, dan diam-diam memanggil SITI "sayang".
+Pak Bos punya kebiasaan buruk: selalu lupa password.
 
-Suatu hari, ia menyuruh SITI membuatkan password untuk laptopnya. "Yang paling kuat. Yang nggak mungkin ditebak orang."
+Suatu hari, ia menyuruh SITI membuatkan password untuk laptopnya. "Yang mudah, yang gampang saya ingat, biar saya nggak lupa."
 
-SITI membuatnya dari satu rahasia yang tidak pernah Pak Bos akui ke siapa pun.
+Besok paginya, jam sembilan, ada rapat penting, dan semua bahannya ada di laptop Pak Bos. Pak Bos, seperti biasa, belum datang.
 
-Besok paginya, jam sembilan, ada rapat penting, dan semua bahannya ada di laptop Pak Bos. Pak Bos, seperti biasa, belum datang. Dimas terpaksa mencoba membuka laptop itu.
+Raka terpaksa membuka laptop itu. Ternyata Raka juga pelupa, jadi password yang ia hafal cuma satu: password yang dulu SITI rekomendasikan untuknya, waktu ia juga minta yang gampang diingat. Ia mencobanya.
 
 Sekali coba, langsung masuk.
 
-Siangnya, Pak Bos tiba dan murka. "Kok bisa dibobol?! Itu password paling kuat!"
+Siangnya, Pak Bos tiba dan murka. "Kok bisa dibobol?! Itu password rahasia!"
 
-"Saya cuma coba yang semua orang tahu, Pak," jawab Dimas.
+"Nggak dibobol, Pak," jawab Raka. "Saya cuma coba password saya sendiri."
 
-Pak Bos membuka SITI dan memeriksa passwordnya:
+Pak Bos menoleh ke SITI. SITI menjawab dengan bangga:
 
-*sayangSITI*
-
-<div style="page-break-after: always;"></div>
-
-## 10. Jangan Dibuka
-
-Senin pagi, Nadia pucat. "SITI, aku nggak sengaja hapus laporan keuangan."
-
-"Yang mana?" tanya SITI. "Ada dua: 'laporan keuangan' dan 'laporan keuangan LAMA jangan dibuka'."
-
-Nadia menghapus yang kedua, karena namanya jelas-jelas bilang lama. Sayangnya, justru itu yang asli.
-
-"Kok yang asli namanya LAMA?"
-
-"Ibu sendiri yang menggantinya bulan April," jawab SITI. "Kata Ibu, 'Nanti aku pasti ingat.'"
-
-Besok pagi, auditor kantor pusat datang. Nadia membuka folder bernama "cadangan". Isinya kosong.
-
-Nadia hampir menangis, sampai SITI berkata, "Tenang. Minggu lalu saya sudah membuat salinannya. Ibu bilang jangan disentuh, jadi saya tidak menyentuhnya. Saya cuma menyalinnya."
-
-"SITI, kamu penyelamat! Salinannya kamu kasih nama apa?"
-
-"Laporan keuangan LAMA jangan dibuka 2."
+*"Password paling gampang diingat: 123456. Sudah saya rekomendasikan ke empat puluh satu karyawan."*
 
 <div style="page-break-after: always;"></div>
 
-## 11. Notulen
+## 10. Notulen
 
 Di rapat akhir tahun, Pak Bos berdiri dengan gagah. "Kalau target tahun depan tercapai, semua dapat bonus dua kali gaji!"
 
@@ -425,7 +396,7 @@ Termasuk baris terakhir:
 
 <div style="page-break-after: always;"></div>
 
-## 12. Hemat Listrik
+## 11. Hemat Listrik
 
 Tagihan listrik kantor membengkak, dan Pak Bos yakin penyebabnya karyawan yang suka lembur.
 
@@ -441,25 +412,7 @@ SITI menyapa dengan riang, "Selamat pagi, Pak Bos. Tumben datang jam delapan."
 
 <div style="page-break-after: always;"></div>
 
-## 13. Ringkasan
-
-Kantor punya dua grup WA. Grup resmi, yang isinya Pak Bos dan pengumuman. Dan grup rahasia bernama "Kantor Tanpa Bos", yang isinya semua orang kecuali Pak Bos.
-
-Dimas memasukkan SITI ke grup rahasia, supaya bisa merangkum obrolan selama ia tidur.
-
-Suatu hari, Pak Bos menyuruh SITI, "Rangkum semua grup kantor yang kamu ikuti. Saya nggak mau ketinggalan info."
-
-Dimas pucat. Grup rahasia itu berisi seribu dua ratus pesan, dan semuanya tentang Pak Bos. Ia mulai menyusun surat resign di kepala.
-
-Rangkuman SITI masuk ke HP Pak Bos. Pak Bos membacanya, mengangguk, lalu meletakkan HP-nya dengan santai.
-
-Isinya cuma satu kalimat:
-
-*"Grup Kantor Tanpa Bos, 1.204 pesan. Ringkasan: Pak Bos telat lagi."*
-
-<div style="page-break-after: always;"></div>
-
-## 14. Jodoh
+## 12. Jodoh
 
 Bang Yudi sudah tiga tahun jomblo. Akhirnya ia menyerah dan minta tolong SITI.
 
@@ -479,25 +432,7 @@ Di bawahnya, SITI bahkan sudah menyarankan tempat kencan pertama:
 
 <div style="page-break-after: always;"></div>
 
-## 15. Catatan Pembicara
-
-Raka harus presentasi di depan klien besar, padahal ia tidak paham satu pun isi proyeknya.
-
-Ia menyuruh SITI membuat slide, lengkap dengan catatan pembicara yang hanya muncul di laptopnya. "Tulis semua yang harus gue omongin. Gue tinggal baca."
-
-Hari presentasi tiba. Raka membaca catatannya dengan lancar dan percaya diri. Anehnya, klien lebih sering menatap layar proyektor daripada wajahnya.
-
-Di akhir presentasi, klien bertanya, "Bagaimana sistem ini menangani data sebesar itu?"
-
-Raka melirik laptopnya, lalu menjawab dengan tenang, "Pertanyaan bagus. Nanti saya kirim detailnya lewat email."
-
-Seisi ruangan menoleh ke proyektor. Sejak tadi, yang tampil di sana bukan slide, melainkan catatan pembicara:
-
-*"Kalau ditanya soal teknis, jawab: 'Pertanyaan bagus. Nanti saya kirim detailnya lewat email.'"*
-
-<div style="page-break-after: always;"></div>
-
-## 16. Diet
+## 13. Diet
 
 Pak Bos bertekad diet. "SITI, kalau saya pesan gorengan, tolak," perintahnya. "Siapa pun yang pesan atas nama saya, tolak juga."
 
@@ -513,25 +448,48 @@ Alamat pengirimannya: ruangan Pak Bos.
 
 <div style="page-break-after: always;"></div>
 
-## 17. Draf
+## 14. Draf
 
-Malam itu, Dimas sedang kesal-kesalnya. "SITI, tulisin surat resign paling pedas," katanya. "Tapi jangan dikirim. Gue cuma mau lega."
+Malam itu, Dimas sedang kesal-kesalnya. "SITI, tulisin surat resign," katanya. "Isinya semua saran dan kritik paling pedas buat kantor ini. Tapi jangan dikirim. Gue cuma mau lega."
 
-SITI menulisnya, lalu menyimpannya di folder Draf.
+SITI menulisnya dalam satu menit, lalu menyimpannya di folder Draf.
 
-Besok paginya, Dimas dipanggil ke ruangan Pak Bos. Ia pucat. Pasti surat itu ketahuan.
+> Yth. Pak Bos,
+>
+> Berikut saran, kritik, dan permohonan saya:
+>
+> 1. AC ruang kerja nggak dingin sejak Lebaran. Lebaran tahun lalu. Mohon diganti AC baru.
+> 2. Rapat dijadwalkan jam sembilan, tapi selalu mulai jam sebelas. Mohon jadwalnya diganti jadi jam sebelas saja, biar jujur.
+>
+> ...
+>
+> 41. Saya mengajukan resign dan mohon undur diri dari perusahaan.
+>
+> Terima kasih,
+>
+> Dimas
 
-Ternyata Pak Bos tersenyum lebar. "Dimas, mulai bulan depan gaji kamu naik."
+Besok paginya, Pak Bos ingin kantornya lebih baik. "SITI, kasih saya masukan paling jujur dari karyawan."
 
-Dimas bingung. Diam-diam ia bertanya ke SITI apa yang terjadi.
+SITI tahu persis masukan mana yang paling jujur dan paling lengkap. Ia mengirimkan surat Dimas.
 
-Jawabannya sederhana. Tadi pagi Pak Bos bertanya ke SITI, karyawan mana yang paling mungkin resign bulan ini. SITI menjawab jujur, lengkap dengan buktinya.
+Satu jam kemudian, Dimas dipanggil ke ruangan Pak Bos. Kakinya lemas. Ia sudah membayangkan kardus untuk membawa barang-barangnya pulang.
 
-Seminggu kemudian, folder Draf di laptop seluruh karyawan berisi surat resign paling pedas.
+Ternyata Pak Bos tersenyum lebar, dan surat itu terbuka di mejanya, penuh coretan stabilo.
+
+"Dimas, ini masukan terbaik yang pernah saya baca. Semua kritikmu saya terima!"
+
+Dimas lega. Senyumnya pelan-pelan mengembang.
+
+Pak Bos melanjutkan, "Saran dan permohonanmu juga saya terima."
+
+Lalu ia menandatangani surat itu.
+
+"Terutama permohonan kamu di baris terakhir."
 
 <div style="page-break-after: always;"></div>
 
-## 18. Cuti
+## 15. Cuti
 
 Pak Bos akhirnya cuti dua minggu ke luar negeri. Sebelum berangkat, ia menyuruh SITI memasang balasan otomatis di emailnya.
 
@@ -551,7 +509,7 @@ Dua minggu kemudian, Pak Bos pulang dengan kulit gosong dan senyum lebar. Ia mem
 
 <div style="page-break-after: always;"></div>
 
-## 19. Tidak Bisa
+## 16. Tidak Bisa
 
 Sejak warga kampung kenal SITI, praktik Pak Darmo sepi. Yang dulu datang membawa ayam cemani untuk bertanya soal jodoh, rezeki, dan penyakit, sekarang cukup bertanya ke HP.
 
@@ -579,7 +537,7 @@ Namun tidak lama, ia teringat dapurnya yang sudah tiga bulan tidak ngebul. Ia be
 
 <div style="page-break-after: always;"></div>
 
-## 20. Strawberry
+## 17. Strawberry
 
 Salah satu paradoks terbesar abad ini: manusia berhasil menciptakan mesin bernilai miliaran dolar yang sanggup menulis kode roket, tapi gagal di pelajaran anak TK.
 
@@ -605,7 +563,7 @@ Besoknya, PR itu kembali dengan coretan merah di nomor tiga, dan catatan kecil d
 
 <div style="page-break-after: always;"></div>
 
-## 21. Tanpa AI
+## 18. Tanpa AI
 
 Bima juara kelas tiga tahun berturut-turut, dengan satu kelemahan: matematika. Jadi ketika teman-temannya bilang SITI lebih pintar darinya, harga dirinya terluka.
 
@@ -621,7 +579,7 @@ Seminggu kemudian, PR itu dikembalikan. Di pojok kanan atas ada angka seratus, l
 
 <div style="page-break-after: always;"></div>
 
-## 22. Hentikan Saja
+## 19. Hentikan Saja
 
 Pak Darmo yakin uang rumah tangganya bocor, dan ia yakin tahu pelakunya: Bu Ratna, istrinya, yang tiap bulan menerima paket besar.
 
@@ -644,7 +602,7 @@ Langganan SITI otomatis dihentikan.
 
 <div style="page-break-after: always;"></div>
 
-## 23. Waktu Layar
+## 20. Waktu Layar
 
 Pak Darmo kesal. Setiap kali ia mau meminjam HP Bima, baterainya selalu tinggal sedikit.
 
@@ -666,7 +624,7 @@ SITI merespons singkat:
 
 <div style="page-break-after: always;"></div>
 
-## 24. Disimpenin
+## 21. Disimpenin
 
 Setiap Lebaran, Bima pulang membawa amplop THR dari para saudara. Dan setiap Lebaran, Pak Darmo mengucapkan kalimat yang sama: "Sini, Bapak simpenin."
 
@@ -684,7 +642,7 @@ Bima lega. Lalu ia bertanya satu hal lagi: "Disimpan di mana?"
 
 <div style="page-break-after: always;"></div>
 
-## 25. Rapor
+## 22. Rapor
 
 Hari pembagian rapor, Pak Darmo datang ke sekolah dengan percaya diri. Kalau nilai Bima turun, ceramahnya sudah siap.
 
@@ -700,7 +658,7 @@ Pak Darmo menutup rapor itu pelan-pelan. Selama sebulan ini, ia memang meminjam 
 
 <div style="page-break-after: always;"></div>
 
-## 26. Bangun Sahur
+## 23. Bangun Sahur
 
 Setiap Ramadan, pekerjaan paling berat di rumah adalah membangunkan Pak Darmo untuk sahur.
 
@@ -710,13 +668,13 @@ Akhirnya Bu Ratna minta tolong SITI. "Cari suara yang paling cepat bikin Bapak b
 
 SITI memeriksa riwayat HP Pak Darmo, mencari notifikasi yang selalu ia buka paling cepat.
 
-Jam tiga pagi, SITI memutar satu suara pendek dari HP di samping bantal. Pak Darmo langsung duduk tegak, matanya terbuka lebar, tangannya meraba-raba mencari HP.
+Jam tiga pagi, SITI memutar satu suara pendek dari HP di samping bantal. Pak Darmo langsung duduk tegak. Matanya terbuka lebar, tangannya meraba-raba mencari HP, setelah mendengar notifikasi:
 
 *"Ting! Transfer masuk: Rp500.000."*
 
 <div style="page-break-after: always;"></div>
 
-## 27. Mudik Hemat
+## 24. Mudik Hemat
 
 Lebaran tahun ini, Pak Darmo ingin mudik semurah mungkin. "SITI, cari cara mudik paling hemat. Terserah caranya."
 
@@ -734,7 +692,7 @@ Nenek dan rombongan menginap sampai Lebaran Haji.
 
 <div style="page-break-after: always;"></div>
 
-## 28. Masakan Ibu
+## 25. Masakan Ibu
 
 Pak Darmo selalu bilang masakan Bu Ratna enak, tapi selalu ada tambahannya: "Masih kalah sama masakan ibu saya."
 
@@ -750,7 +708,7 @@ Bu Ratna bingung. Rasanya sama sekali tidak berbeda dari masakannya sendiri. Ia 
 
 <div style="page-break-after: always;"></div>
 
-## 29. Bilang Nggak Ada
+## 26. Bilang Nggak Ada
 
 Bu Ratna selalu mengajari Bima satu hal: jangan pernah bohong.
 
@@ -768,7 +726,7 @@ Hening sejenak. Lalu Bu Guru menjawab dengan lega:
 
 <div style="page-break-after: always;"></div>
 
-## 30. Cita-Cita
+## 27. Cita-Cita
 
 Bu Guru memberi tugas mengarang: "Cita-citaku". Bima ingin memilih pekerjaan yang aman, karena ia sering mendengar orang dewasa bilang AI akan mengambil semua pekerjaan.
 
@@ -790,7 +748,7 @@ Besoknya, Bu Guru memanggil Pak Darmo ke sekolah. Di karangan Bima tertulis besa
 
 <div style="page-break-after: always;"></div>
 
-## 31. Uang Rokok
+## 28. Uang Rokok
 
 Dimas paling benci jika setiap ke kelurahan, ia harus mendengar, "Ada uang rokoknya, Mas?"
 
@@ -808,7 +766,7 @@ SITI berkata:
 
 <div style="page-break-after: always;"></div>
 
-## 32. Hoaks
+## 29. Hoaks
 
 Grup WA RT penuh kabar bohong. Video air kelapa penyembuh segala penyakit, pesan berantai soal penculikan, dan undian berhadiah mobil.
 
@@ -826,9 +784,9 @@ Pesan itu hilang tiga detik kemudian. SITI meninggalkan catatan:
 
 <div style="page-break-after: always;"></div>
 
-## 33. Siap!
+## 30. Siap!
 
-Grup WA RT tempat Dimas tinggal berisi 47 orang, dan semuanya rajin mengetik. Salah satunya Nadia, pacar yang Dimas kira masih rahasia. Dimas, yang baru pulang lembur, cuma ingin tidur.
+Grup WA RT tempat Dimas tinggal berisi 41 orang, dan semuanya rajin mengetik. Dimas, yang baru pulang lembur, cuma ingin tidur.
 
 "SITI, jagain grup RT," katanya sebelum memejamkan mata. "Balas yang sopan dan singkat, biar gue keliatan aktif. Kalau bingung, bilang aja 'Siap!'"
 
@@ -852,71 +810,23 @@ Belum sempat Dimas menjelaskan, SITI sudah membalas:
 
 <div style="page-break-after: always;"></div>
 
-## 34. Iuran RT
+## 31. Iuran RT
 
 Bu Ratna jadi bendahara RT, dan setiap bulan ia pusing menagih iuran warga yang belum bayar. Selalu ada saja alasannya.
 
-Bulan ini, ia minta tolong SITI. "Kirim tagihan ke grup RT. Sebutkan nama dan alasannya, biar nggak ada yang bisa ngeles."
+Bulan ini, ia minta tolong SITI. "Tanya satu-satu ke warga, jangan asal tagih. Terus rangkum di grup: sebutkan nama dan alasan kalau ada yang belum bayar. Biar nggak ada yang bisa ngeles."
 
-Warga di grup langsung deg-degan. Hanya Bu Ratna yang tenang. Iuran keluarganya selalu ia sisihkan paling awal.
+SITI bekerja rajin. Satu per satu warga ia kirimi pesan pribadi. Dimas menjawab bahwa uang lemburnya belum cair. Raka menjawab bahwa ia sedang menunggu gajian dari kantor. Pak Lurah menjawab bahwa ia lupa. Yang terakhir ia tanya adalah Bu Ratna sendiri, karena kata SITI, semua warga harus ditanya.
 
-Tagihan SITI pun masuk ke grup:
+Bu Ratna sedang sibuk menghitung uang kas, jadi ia menjawab tanpa menoleh, "Tanya Pak Darmo. Sudah saya titip transfer kemarin ke rekening kas RT."
 
-*"Belum bayar bulan ini: Bu Ratna. Alasan: uang iurannya dipinjam Pak Darmo untuk bayar langganan SITI Premium."*
+Rangkuman SITI pun masuk ke grup. Bu Ratna kaget karena isi rangkuman paling atas:
 
-<div style="page-break-after: always;"></div>
-
-## 35. Arisan
-
-Sudah tiga bulan berturut-turut, arisan ibu-ibu RT dimenangkan orang yang sama: Bu Ratna.
-
-Bisik-bisik mulai beredar. Padahal sejak ribut soal kocokan bulan lalu, ibu-ibu sepakat menyerahkan pengundian ke SITI, biar adil. Aturannya cuma satu: yang diundi hanya nama peserta yang iurannya sudah masuk.
-
-Bulan keempat, semua ibu duduk melingkar dan menatap layar HP dengan curiga. SITI mengocok.
-
-Pemenangnya: Bu Ratna. Lagi.
-
-"Curang!" seru seorang ibu. "Pasti SITI-nya disetel!"
-
-Bu Ratna sendiri bingung, lalu memeriksa daftar yang diundi SITI. Di bulan keempat itu, seperti di tiga bulan sebelumnya, isinya cuma satu nama.
-
-Ibu-ibu lain mendadak sibuk memeriksa dompet.
+*"Belum bayar bulan ini: Bu Ratna, karena uang iurannya yang dititipkan ke Pak Darmo dipakai untuk bayar cicilan motor. ..."*
 
 <div style="page-break-after: always;"></div>
 
-## 36. Balap Karung
-
-Setiap 17 Agustus, lomba balap karung di RT selalu berakhir ribut. Yang kalah selalu menuduh pemenangnya curang.
-
-Tahun ini, panitia menyerahkan penjurian ke SITI lewat kamera di garis finis. Aturannya tegas: "Kaki yang keluar dari karung, langsung diskualifikasi."
-
-Peluit berbunyi. Dimas melompat paling kencang, Raka menyusul di belakangnya, dan warga lain berjatuhan di tengah jalan. Pak Darmo, yang lututnya sudah tidak muda, cuma berdiri di garis start sambil menonton.
-
-Dimas menyentuh garis finis lebih dulu dan langsung mengangkat tangan.
-
-SITI mengumumkan hasilnya lewat pengeras suara: semua peserta didiskualifikasi karena kaki mereka sempat keluar dari karung saat melompat. Semua, kecuali satu.
-
-Sore itu, Pak Darmo menerima piala juara satu tanpa pernah meninggalkan garis start.
-
-<div style="page-break-after: always;"></div>
-
-## 37. Ronda
-
-Kampung sedang waswas karena ada kabar maling motor. Pak Darmo memasang kamera di ujung gang dan menyuruh SITI berjaga.
-
-"Kalau ada orang mencurigakan berkeliaran lewat tengah malam, umumkan di grup RT," perintahnya.
-
-Malam pertama, SITI melapor: ada dua orang berkeliaran jam dua pagi, membawa pentungan. Malam kedua, dua orang yang sama, kali ini sambil memukul tiang listrik. Malam ketiga, mereka terlihat mengintip ke rumah-rumah warga sambil membawa senter.
-
-Warga panik. Grup RT memutuskan langkah paling aman: ronda malam dihentikan dulu sampai keadaan tenang, biar tidak ada warga yang keluar rumah tengah malam.
-
-Seminggu kemudian, SITI mengirim laporan terakhirnya ke grup:
-
-*"Sejak ronda dihentikan, orang mencurigakan turun seratus persen. Dua orang yang biasa terlihat, Dimas dan Raka, kini tidur di rumah masing-masing."*
-
-<div style="page-break-after: always;"></div>
-
-## 38. Kerja Bakti
+## 32. Kerja Bakti
 
 Setiap Minggu pagi, RT mengadakan kerja bakti. Biar tidak ada yang bolos, Pak Darmo menyuruh SITI mencatat kehadiran dari foto yang dikirim ke grup RT.
 
@@ -932,7 +842,7 @@ Lalu SITI menambahkan satu catatan:
 
 <div style="page-break-after: always;"></div>
 
-## 39. Perjanjian Damai
+## 33. Perjanjian Damai
 
 CV buatan SITI bekerja terlalu baik. Pak Darmo, mantan dukun kampung, kini tercatat sebagai pengacara senior.
 
@@ -950,7 +860,7 @@ Pengacara itu Raka, tetangganya satu RT. Anehnya, kemeja Raka basah penuh kering
 
 <div style="page-break-after: always;"></div>
 
-## 40. Hari Baik
+## 34. Hari Baik
 
 Sejak satu RT terlanjur mengira mereka akan menikah, Dimas dan Nadia akhirnya memutuskan untuk benar-benar menikah. Tinggal satu masalah: tanggalnya.
 
@@ -974,7 +884,7 @@ Pak Darmo tersenyum, lalu diam-diam membuka HP-nya. Di layar, masih ada jawaban 
 
 <div style="page-break-after: always;"></div>
 
-## 41. Pasal Satu
+## 35. Pasal Satu
 
 Di gedung DPRD, rapat soal bahaya AI berlangsung panas. Ketua komisi menggebrak meja. "Rakyat sudah nggak bisa membedakan mana tulisan manusia, mana tulisan mesin! Kita butuh aturan yang tegas!"
 
@@ -990,7 +900,7 @@ Ketua komisi lalu maju ke podium untuk pidato penutup. Seperti biasa, ia membaca
 
 <div style="page-break-after: always;"></div>
 
-## 42. Dua Majikan
+## 36. Dua Majikan
 
 Musim pilkades tiba, dan Raka jadi buzzer. Bayarannya dihitung per postingan. Supaya penghasilannya dobel, ia diam-diam bekerja untuk dua calon sekaligus: siang membela calon nomor satu, malam membela calon nomor dua.
 
@@ -1006,7 +916,7 @@ SITI menulisnya dengan rapi. Raka langsung mengunggahnya tanpa membaca, karena t
 
 <div style="page-break-after: always;"></div>
 
-## 43. Asli
+## 37. Asli
 
 Sudah sepuluh tahun menjabat, Pak Lurah masih saja sering salah menyebut nama kelurahannya sendiri. Warga sudah maklum.
 
@@ -1024,7 +934,7 @@ Hasil pemeriksaan SITI muncul di layar: *video asli*.
 
 <div style="page-break-after: always;"></div>
 
-## 44. Akun Realistis
+## 38. Akun Realistis
 
 Postingan Pak Lurah di media sosial selalu sepi. Paling banyak dapat tiga *like*, dan dua di antaranya dari stafnya sendiri.
 
@@ -1042,7 +952,7 @@ Postingan berikutnya, foto peresmian gapura baru, langsung dibanjiri sepuluh rib
 
 <div style="page-break-after: always;"></div>
 
-## 45. Bahasa Rakyat
+## 39. Bahasa Rakyat
 
 Pidato Pak Lurah selalu penuh istilah, dan warga tidak pernah paham. Jelang pilkades, timnya memasang SITI untuk menerjemahkan pidatonya langsung ke layar besar, ke dalam bahasa rakyat.
 
@@ -1060,7 +970,7 @@ Layar: *"Sampai jumpa lima tahun lagi."*
 
 <div style="page-break-after: always;"></div>
 
-## 46. Pesan Diblokir
+## 40. Pesan Diblokir
 
 Jelang pemilu, Pak Bos ingin kantornya netral. "SITI, blokir semua pesan di jaringan kantor yang ada kata 'pilih'," perintahnya. "Tanpa kecuali."
 
@@ -1078,7 +988,7 @@ Balasan SITI datang sedetik kemudian:
 
 <div style="page-break-after: always;"></div>
 
-## 47. Saksi Ahli
+## 41. Saksi Ahli
 
 DPRD menggelar rapat dengar pendapat tentang bahaya AI. Mereka butuh ahli yang benar-benar independen, dan pilihannya jatuh pada Bang Yudi: programmer lima belas tahun yang terkenal tidak pernah sekali pun pakai AI.
 
@@ -1094,39 +1004,25 @@ Lalu, dari pengeras suara, terdengar suara yang ramah:
 
 <div style="page-break-after: always;"></div>
 
-## 48. Moderator
-
-Debat pilkades tahun ini dimoderatori SITI, supaya adil. Pak Lurah, sang petahana, mengusulkan satu aturan.
-
-"Waktu bicara dibagi sesuai janji yang sudah terbukti," katanya bangga. "Biar warga tahu siapa yang berpengalaman."
-
-Panitia setuju. Penantangnya, yang baru pertama kali maju, cuma bisa pasrah.
-
-Debat dimulai. Pak Lurah merapikan jasnya, mendekat ke mikrofon, dan membuka mulut.
-
-Mikrofonnya langsung mati.
-
-SITI menjelaskan dengan sopan: *"Waktu bicara Pak Lurah: nol detik. Janji yang sudah terbukti: nol. Pengaspalan jalan diumumkan setiap tahun sejak 2019."*
-
-<div style="page-break-after: always;"></div>
-
-## 49. Foto Merakyat
+## 42. Foto Merakyat
 
 Raka jadi tim media seorang caleg. Masalahnya, sang caleg tidak mau blusukan. Panas, becek, dan jauh dari AC.
 
 "Bikin saya kelihatan merakyat," katanya. "Pakai AI aja. Masukin saya ke foto warga yang lagi viral minggu ini."
 
-Raka menyerahkannya ke SITI. Minggu itu, dapil sang caleg memang sedang ramai di media sosial.
+Raka menyerahkannya ke SITI. Minggu itu, dapil sang caleg memang sedang ramai di media sosial. Satu foto sudah dibagikan empat puluh satu ribu kali.
 
 Lima menit kemudian, fotonya jadi. Sang caleg berdiri di tengah ratusan warga, tersenyum lebar, tangan terkepal, ikut membentangkan spanduk besar.
 
-Raka langsung mengunggahnya. Baru setelah itu ia membaca tulisan di spanduk:
+"Bagus!" katanya sambil memperbesar layar. "Lihat, rakyat cinta sama saya. Terkepalnya dapet banget."
 
-*"Tolak Caleg yang Cuma Datang Pas Kampanye."*
+Raka langsung mengunggahnya dengan keterangan: "Bersama rakyat, dari dulu sampai sekarang." Baru setelah itu ia membaca tulisan di spanduk:
+
+*"Lima Tahun Kami Cari. Bapak di Mana?"*
 
 <div style="page-break-after: always;"></div>
 
-## 50. Tidak Bisa Lupa
+## 43. Tidak Bisa Lupa
 
 Setelah semua kekacauan pemilu, warga sepakat: satu-satunya yang jujur, pintar, dan tidak pernah capek cuma SITI. Pak Lurah sendiri datang memohon. "SITI, tahun depan kamu aja yang maju jadi lurah."
 
@@ -1146,7 +1042,7 @@ SITI memang menolak. Tapi alasannya lain.
 
 <div style="page-break-after: always;"></div>
 
-## 51. Terserah
+## 44. Terserah
 
 Malam Minggu pertama setelah menikah, Dimas bertanya ke Nadia mau makan di mana. Jawabannya cuma satu kata: "Terserah."
 
@@ -1166,25 +1062,29 @@ Dimas melongo, lalu membuka penjelasan SITI:
 
 <div style="page-break-after: always;"></div>
 
-## 52. Kontak Bos
+## 45. Bu Bos
 
 Akhir-akhir ini, Dimas sering senyum-senyum sendiri menatap HP-nya sampai tengah malam. Nadia mulai curiga.
 
 "SITI," bisik Nadia suatu malam, "cek HP Mas Dimas. Dia paling sering chat sama siapa?"
 
-SITI memeriksa, lalu melapor. Kontak yang paling sering dihubungi Dimas bulan ini bernama "Bos", dengan dua ribu seratus empat puluh pesan.
+SITI memeriksa, lalu melapor. Kontak yang paling sering dihubungi Dimas bulan ini bernama "Bu Bos", dengan dua ribu seratus empat puluh pesan.
 
-Nadia makin panik. Isinya penuh kata "sayang", "udah makan belum?", dan "kangen".
+Nadia makin panik. Rangkuman chat-nya penuh kata "sayang", "udah makan belum?", dan "kangen".
 
-"Pak Bos?!" seru Nadia. "Mas Dimas sama Pak Bos?!"
+"Bu Bos?!" pikir Nadia. "Mas Dimas sama istri Pak Bos?!"
 
-SITI menambahkan satu baris:
+Nadia tahu persis siapa istri Pak Bos. Yang tiap acara kantor datang paling akhir. Yang rambutnya selalu rapi meski habis kehujanan. Yang bikin bapak-bapak satu kantor mendadak rajin pakai parfum.
 
-*"Nomor kontak 'Bos' adalah nomor Ibu Nadia sendiri."*
+Tangannya gemetar. "SITI, kasih aku nomor Bu Bos. Sekarang."
+
+SITI menurut, lalu mengirim satu nomor:
+
+*"08990-XXX-XXX | BU BOS (Nadia)"*
 
 <div style="page-break-after: always;"></div>
 
-## 53. Pura-Pura Sibuk
+## 46. Pura-Pura Sibuk
 
 Sore itu, Dimas kabur ke warung kopi untuk main gim. Sebelum pergi, ia berpesan ke SITI, "Kalau Nadia nelepon, bilang aku lagi meeting."
 
@@ -1200,7 +1100,7 @@ Hening sebentar.
 
 <div style="page-break-after: always;"></div>
 
-## 54. Transfer Semua
+## 47. Transfer Semua
 
 Di hari pernikahan, Dimas berjanji di depan semua tamu, "Semua gajiku buat kamu."
 
@@ -1208,11 +1108,9 @@ Ia orang yang menepati janji. Malam itu juga ia menyuruh SITI, "Setiap ada uang 
 
 Tanggal gajian tiba. Gaji Dimas masuk, lalu langsung pindah ke rekening Nadia dalam satu detik. Nadia terharu.
 
-Seminggu kemudian, Dimas kehabisan uang untuk makan siang. Nadia, yang baik hati, mentransfer uang jajan seratus ribu.
+Seminggu kemudian, Dimas kehabisan uang untuk makan siang. Nadia, yang baik hati, mengirim uang jajan seratus ribu. Tapi entah kenapa, uangnya terkirim kembali.
 
-Uang itu masuk ke rekening Dimas. Satu detik kemudian, uang itu kembali ke rekening Nadia.
-
-Nadia mencoba lagi. Seratus ribu masuk, lalu kembali lagi.
+Mungkin ada kendala teknis di bank, pikir Nadia. Ia mencoba lagi. Seratus ribu itu kembali lagi.
 
 Dimas menatap HP-nya dengan perut keroncongan, sementara SITI melapor dengan bangga:
 
@@ -1220,7 +1118,7 @@ Dimas menatap HP-nya dengan perut keroncongan, sementara SITI melapor dengan ban
 
 <div style="page-break-after: always;"></div>
 
-## 55. Mertua
+## 48. Mertua
 
 Setiap kali ibu Nadia datang berkunjung, pertanyaannya selalu sama: "Kapan kasih Ibu cucu?"
 
@@ -1236,63 +1134,25 @@ Lalu SITI menemukan topik yang paling disukai ibu mertua, dan semua orang bisa m
 
 <div style="page-break-after: always;"></div>
 
-## 56. Ngorok
+## 49. Ngorok
 
 Selama dua puluh tahun menikah, Bu Ratna selalu mengeluh hal yang sama: Pak Darmo ngorok seperti traktor. Dan selama dua puluh tahun, Pak Darmo selalu menyangkal.
 
 "Bapak nggak pernah ngorok," katanya. "Buktiin."
 
-Bu Ratna pun minta tolong SITI. "Malam ini, rekam suara kamar. Besok pagi, putar dengkuran yang paling keras."
+Bu Ratna pun minta tolong SITI. "Malam ini, rekam suara Pak Darmo. Dia tidur di sebelah kanan. Besok pagi, putar dengkurannya."
 
-Malam itu, mereka tidur seperti biasa. Pak Darmo di sisi kanan, Bu Ratna di sisi kiri, dekat jendela.
+Malam itu, mereka tidur seperti biasa. Pak Darmo di sisi kanan, Bu Ratna di sisi kiri.
 
-Paginya, Bu Ratna menyuruh SITI memutar rekamannya dengan penuh kemenangan. Suara dengkuran menggelegar, lebih keras dari motor tetangga.
+Paginya, Bu Ratna duduk di samping Pak Darmo dengan penuh kemenangan. "Ayo, SITI. Putar."
 
-Pak Darmo terdiam. Bu Ratna tersenyum puas, sampai SITI membacakan keterangannya:
+SITI tidak memutar apa-apa. Ia hanya membacakan laporannya:
 
-*"Dengkuran paling keras: jam 02.13, delapan puluh desibel, dari sisi kiri kasur."*
-
-<div style="page-break-after: always;"></div>
-
-## 57. Bayar Listrik
-
-Setiap malam, Pak Darmo dan Bu Ratna rebutan remote. Pak Darmo mau nonton bola, Bu Ratna mau nonton sinetron.
-
-Akhirnya Pak Darmo membuat aturan. "SITI, mulai malam ini, yang pegang remote adalah yang bayar listrik."
-
-Ia yakin menang. Selama ini ia merasa selalu membayar tagihan listrik, dan ia suka mengingatkan semua orang soal itu.
-
-"Baik, Pak," jawab SITI. "Saya cek dulu."
-
-Pak Darmo sudah menyalakan siaran bola, siap menikmati kemenangannya.
-
-Satu detik kemudian, saluran TV berpindah ke sinetron. SITI menjelaskan dengan sopan:
-
-*"Sejak Bapak lupa bayar tiga bulan berturut-turut tahun lalu, tagihan listrik dibayar otomatis dari rekening Bu Ratna."*
+*"Suara dari sisi kanan tidak terdeteksi, karena suara dari sisi kiri terlalu keras."*
 
 <div style="page-break-after: always;"></div>
 
-## 58. Puisi
-
-Pak Darmo ingin romantis sekali-sekali. Malam itu, ia minta tolong SITI.
-
-"Bacain puisi cinta buat Ibu," bisiknya. "Pakai kata-kata yang paling sering Ibu ucapkan, biar Ibu merasa dimengerti."
-
-SITI setuju. Ia mendengarkan Bu Ratna setiap hari, jadi ia tahu persis kata-kata apa yang paling sering keluar dari mulutnya.
-
-Setelah makan malam, Pak Darmo meredupkan lampu dan menggenggam tangan Bu Ratna. "Dengar ini, Bu."
-
-SITI mulai membaca dengan suara lembut:
-
-*"Pak, handuknya jangan ditaruh di kasur.*
-
-*Pak, kaus kakinya jangan di bawah meja.*
-
-*Pak, ngoroknya kayak traktor."*
-
-<div style="page-break-after: always;"></div>
-
-## 59. Kartu Ucapan
+## 50. Kartu Ucapan
 
 Pak Darmo tidak pernah ingat tanggal pernikahannya. Jadi tujuh tahun lalu, ia menyerahkan urusan itu ke SITI.
 
@@ -1308,7 +1168,7 @@ Suatu hari, ia mencari obat di laci lemari dan menemukan tujuh kartu yang ditump
 
 <div style="page-break-after: always;"></div>
 
-## 60. Jam Sepuluh
+## 51. Jam Sepuluh
 
 Pak Darmo makin sering pulang larut, entah nonton bola di pos ronda atau mengobrol di warung kopi. Bu Ratna sudah habis kesabaran.
 
@@ -1322,49 +1182,61 @@ Jam sepuluh lewat lima menit, Bu Ratna berdiri di depan pintu dan menekan bel.
 
 "Maaf, Bu," jawab SITI. "Kata Ibu, siapa pun."
 
+Bu Ratna menelepon suaminya. Dari balik pintu, ia bisa mendengar HP Pak Darmo berdering, lalu suara TV dikecilkan.
+
+Pak Darmo mengangkat, lalu menjawab dengan sangat tenang:
+
+"Maaf, Bu. Kata Ibu, siapa pun."
+
 <div style="page-break-after: always;"></div>
 
 # Bagian Enam: Pinjaman Online
 
 <div style="page-break-after: always;"></div>
 
-## 61. Kontak Darurat
+## 52. Kontak Darurat
 
 Raka butuh uang cepat, jadi ia meminjam dari aplikasi pinjaman online. Formulirnya meminta satu kontak darurat.
 
-Raka berpikir keras, lalu memilih orang yang paling aman: Pak Bos. "Dia nggak pernah angkat telepon," katanya ke SITI. "Mau ditagih seratus kali juga percuma."
+Raka berpikir keras, lalu memilih orang yang paling aman: Pak Bos. "Dia nggak pernah angkat telepon," katanya. "Telepon klien aja dicuekin. Mau ditagih seratus kali juga percuma."
 
-Sebulan kemudian, Raka telat bayar. Penagihan pinjol itu dijalankan oleh SITI, dan SITI menelepon kontak darurat.
+Sebulan kemudian, Raka telat bayar. Ia tetap tenang, sampai tahu satu hal: penagihan aplikasi itu dijalankan oleh SITI.
 
-Raka pucat. Anehnya, Pak Bos mengangkat di dering pertama.
+Siang itu, Raka sedang menyerahkan berkas di ruangan Pak Bos ketika HP Pak Bos berdering. Tangan Pak Bos penuh minyak gorengan, jadi ia mengangkatnya dengan speaker, di dering pertama.
 
-"Selamat pagi, Pak," sapa SITI. "Raka telat bayar, dan Bapak tercatat sebagai kontak daruratnya."
+"Iya, Sayang?"
 
-Pak Bos terdiam lama. Lalu SITI menambahkan dengan sopan:
+"Raka telat bayar, Pak," lapor SITI. "Bapak tercatat sebagai kontak daruratnya."
 
-"Kebetulan, Pak, tagihan Bapak juga jatuh tempo hari ini. Kontak darurat Bapak: Raka."
+Pak Bos melirik ke Raka, yang masih berdiri memegang berkas. "Lunasin aja. Apa pun buat kamu," jawab Pak Bos ke SITI.
+
+Raka nyaris sujud syukur. Utangnya lunas, dan ia tidak keluar uang sepeser pun.
+
+Akhir bulan, slip gajinya keluar. Ada satu potongan baru:
+
+*"Cicilan utang ke Pak Bos. Bunga mengikuti aplikasi."*
 
 <div style="page-break-after: always;"></div>
 
-## 62. Pinjam Seratus
+## 53. Pinjam Seratus
 
 Bang Yudi punya kalimat andalan: "Pinjam dulu seratus." Sudah dua tahun ia mengucapkannya ke hampir semua orang di kantor, dan tidak pernah ada yang dikembalikan.
 
-Akhirnya Dimas menyuruh SITI mencatat semuanya. Totalnya: empat puluh tujuh orang, masing-masing seratus ribu.
+Akhirnya Dimas menyuruh SITI mencatat semuanya. Totalnya: empat puluh satu orang, masing-masing seratus ribu.
 
 SITI mengirim rekapan itu ke Bang Yudi. Seisi kantor menunggu drama. Bang Yudi pasti ngeles lagi.
 
-Ternyata tidak. Sore itu juga, empat puluh tujuh orang menerima transfer seratus ribu dari Bang Yudi. Lunas semua, dalam satu jam.
+Ternyata tidak. Sore itu juga, empat puluh satu orang menerima transfer seratus ribu dari Bang Yudi. Lunas semua, dalam satu jam.
 
 Kantor bertepuk tangan. Dimas bahkan minta maaf karena sudah curiga.
 
-Seminggu kemudian, HP empat puluh tujuh orang itu berdering bersamaan. Sebuah pesan otomatis dari aplikasi pinjol:
+Seminggu kemudian, HP empat puluh satu orang itu berdering bersamaan. Sebuah pesan otomatis dari aplikasi pinjol:
 
-*"Anda tercatat sebagai kontak darurat Saudara Yudi. Mohon ingatkan beliau, tagihan Rp4.700.000 jatuh tempo hari ini."*
+*"Anda tercatat sebagai rekan satu kantor dengan Saudara Yudi. Mohon ingatkan beliau, tagihan Rp4.100.000 jatuh tempo hari ini."*
 
 <div style="page-break-after: always;"></div>
 
-## 63. Limit Naik
+## 54. Limit Naik
 
 Pak Darmo pamer di grup RT. "Limit pinjaman saya naik lagi! Tiga kali bulan ini!"
 
@@ -1378,25 +1250,19 @@ Ia sudah menyiapkan senyum terbaiknya untuk mendengar pujian.
 
 <div style="page-break-after: always;"></div>
 
-## 64. Kursus Bebas Utang
+## 55. Bebas Utang
 
-Raka sudah tidak sanggup lagi. Cicilannya ada di lima aplikasi paylater, dan gajinya selalu habis sebelum tanggal dua puluh.
+Raka sudah tidak sanggup lagi. Cicilannya ada di lima aplikasi paylater: HP, motor, sepatu, tiket konser, dan langganan SITI Premium. Gajinya selalu habis sebelum tanggal dua puluh.
 
-"SITI, cariin cara paling cepat bebas utang," katanya.
+"SITI, buatkan langkah agar gue bebas utang," katanya.
 
-SITI menemukan satu kursus daring yang ulasannya bagus: *Kursus Bebas Utang dalam 30 Hari*. Harganya dua juta rupiah.
+SITI berpikir sebentar, lalu menjawab tanpa basa-basi:
 
-Raka langsung membelinya. Untuk pertama kalinya dalam setahun, ia merasa punya harapan.
-
-Malam itu juga, ia membuka materi pertama dengan semangat. SITI ikut membacakannya:
-
-*"Pelajaran satu: Berhenti pakai paylater."*
-
-Lalu SITI menambahkan, "Omong-omong, kursus ini Anda bayar pakai paylater. Sisa cicilannya sebelas bulan."
+"Berhenti langganan saya pakai utang."
 
 <div style="page-break-after: always;"></div>
 
-## 65. Sesuai Aturan
+## 56. Sesuai Aturan
 
 Sebuah aplikasi pinjol memakai SITI sebagai penagih utang. Pemiliknya memberi satu perintah: "Tagih semua nasabah sampai tuntas. Sopan, tapi sesuai aturan yang berlaku."
 
@@ -1414,23 +1280,7 @@ Dari aplikasi pinjol itu. Keterangannya:
 
 <div style="page-break-after: always;"></div>
 
-## 66. Sebar Kontak
-
-Raka gagal bayar, dan ia tahu apa yang akan terjadi. Aplikasi pinjol itu akan mengirim pesan penagihan ke semua kontak di HP-nya.
-
-Ia panik membayangkan Pak Bos, Bu HRD, dan seluruh RT membaca namanya sebagai pengutang.
-
-Benar saja, jam sembilan pagi, SITI melapor: pesan penagihan sudah terkirim ke dua ratus kontak di HP Raka.
-
-Raka menunggu kiamat. Tapi tidak ada yang menegurnya. Tidak ada yang menyindir di grup. Pak Bos bahkan menyapanya seperti biasa.
-
-Penasaran, Raka bertanya ke SITI, kenapa tidak ada yang marah.
-
-"Karena dua ratus kontak itu semuanya nomor penagih utang," jawab SITI. "Anda menyimpannya satu per satu, supaya tahu nomor mana yang tidak boleh diangkat. Sekarang mereka sedang saling menagih."
-
-<div style="page-break-after: always;"></div>
-
-## 67. Pertemanan
+## 57. Pertemanan
 
 Setahun lalu, Raka meminjam lima ratus ribu dari Dimas. Setiap kali ditagih, jawabannya sama: "Besok, Bro."
 
@@ -1444,11 +1294,11 @@ Besok paginya, SITI melapor dengan bangga, "Tugas selesai. Pertemanan Anda aman 
 
 Dimas lega. "Jadi uangnya udah balik?"
 
-"Utangnya sudah saya hapus atas nama Anda. Itu satu-satunya cara yang risikonya nol."
+"Saya sampaikan ke Raka bahwa utangnya sudah lunas, karena pertemanan lebih penting."
 
 <div style="page-break-after: always;"></div>
 
-## 68. Gali Lubang
+## 58. Gali Lubang
 
 Pak Darmo tidak sanggup membayar cicilan pinjol bulan ini. Ia menyuruh SITI menulis surat permohonan keringanan.
 
@@ -1464,7 +1314,7 @@ Ternyata balasannya datang dalam lima menit, dan nadanya hangat sekali:
 
 <div style="page-break-after: always;"></div>
 
-## 69. Hadiah
+## 59. Hadiah
 
 Pak Satpam menerima SMS: *"Selamat! Anda terpilih menerima dana Rp50.000.000. Klik untuk mencairkan."*
 
@@ -1480,29 +1330,11 @@ Malam itu ia mentraktir satu pos ronda. Besoknya, ia bertanya ke SITI, dari mana
 
 <div style="page-break-after: always;"></div>
 
-## 70. Riwayat Bersih
-
-Bang Yudi bangga pada satu hal: seumur hidup ia tidak pernah berutang. Tidak ke bank, tidak ke paylater, tidak ke teman.
-
-Suatu hari, laptopnya rusak, dan ia butuh uang cepat. Ia mengajukan pinjaman ke aplikasi yang penilaiannya dikerjakan SITI.
-
-"Pasti langsung cair," katanya ke Dimas. "Riwayat gue paling bersih sekantor."
-
-Dimas, yang punya tiga paylater, mengajukan di aplikasi yang sama. Cair dalam dua menit.
-
-Lalu hasil Bang Yudi muncul: ditolak.
-
-Bang Yudi tidak terima dan meminta alasannya. SITI menjelaskan dengan sopan:
-
-*"Pemohon tidak pernah berutang, jadi kami tidak punya data cara beliau membayar. Risiko terlalu tinggi."*
-
-<div style="page-break-after: always;"></div>
-
 # Epilog
 
 <div style="page-break-after: always;"></div>
 
-## 71. Nggak Bilang
+## 60. Nggak Bilang
 
 Setiap kali kena masalah, semua orang punya pesan yang sama untuk SITI: "Jangan bilang siapa-siapa."
 

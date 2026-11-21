@@ -2,7 +2,7 @@
 
 Short funny stories written in casual Indonesian (gue/lu for dialogue). Each book lives in its own folder, with one story per file (`1.md`, `2.md`, ...) and its own `naskah.md`:
 
-- `ai/`: book 1, *Kecerdasan Buatan, Kelakuan Asli*. 41 stories about AI, in three parts.
+- `ai/`: book 1, *Kecerdasan Buatan, Kelakuan Asli*. 60 stories about AI, in six parts plus an epilog.
 - `politics/`: book 2. 100 Indonesian political jokes.
 
 `naskah.md` compiles every story of that book into one manuscript (title page, copyright, contents, foreword, the parts, closing). When a story changes or a new one is added, update that book's `naskah.md` and its Daftar Isi in the same change.

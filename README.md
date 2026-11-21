@@ -6,7 +6,7 @@ Two books of short, funny Indonesian stories and a coloring book, plus a small w
 
 | Folder | Title | Stories |
 |---|---|---|
-| `ai/` | *Kecerdasan Buatan, Kelakuan Asli* | 71, in six parts plus an epilog |
+| `ai/` | *Kecerdasan Buatan, Kelakuan Asli* | 60, in six parts plus an epilog |
 | `politics/` | *Janji Tinggal Janji* (working title) | 100, in five parts |
 | `draw/` | *Buku Mewarnai SITI* | 11 coloring pages, one per story from book 1 |
 
