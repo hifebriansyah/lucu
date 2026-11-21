@@ -1,0 +1,18 @@
+[
+  {
+    "id": "ai",
+    "title": "Kecerdasan Buatan, Kelakuan Asli",
+    "subtitle": "Cerita-Cerita Pendek tentang SITI, AI yang Terlalu Rajin",
+    "manuscript": "ai/naskah.md",
+    "cover": "ai/cover.jpg",
+    "color": "#1f4e5f"
+  },
+  {
+    "id": "politics",
+    "title": "Buku Politik",
+    "subtitle": "Seratus Cerita Pendek tentang Politik di Sekitar Kita",
+    "manuscript": "politics/naskah.md",
+    "cover": "politics/cover.jpg",
+    "color": "#7a2e2a"
+  }
+]

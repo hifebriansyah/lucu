@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Rak Buku Lucu</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,700;1,7..72,400&display=swap">
+  <link rel="stylesheet" href="assets/base.css">
+  <style>
+    main { max-width: 980px; margin: 0 auto; padding: 48px 16px 64px; }
+    header h1 { font: 700 34px/1.1 var(--font-book); margin: 0 0 8px; color: var(--ink); }
+    header p { margin: 0 0 40px; color: var(--muted); }
+    @media (prefers-color-scheme: dark) {
+      :root:not([data-theme="light"]) header h1 { color: #f6f1e7; }
+    }
+    .shelf { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 40px; }
+    .book { display: flex; flex-direction: column; gap: 16px; }
+    .book .cover-wrap {
+      aspect-ratio: 14 / 21;
+      border-radius: 3px 8px 8px 3px;
+      overflow: hidden;
+      font-size: 15px;
+      box-shadow: 0 18px 40px var(--shadow), inset 6px 0 10px rgba(0,0,0,.25);
+      transition: transform .3s ease;
+    }
+    .book:hover .cover-wrap { transform: translateY(-4px) rotate(-0.6deg); }
+    .book .meta { color: var(--muted); font-size: 14px; }
+    .book .actions { display: flex; gap: 10px; flex-wrap: wrap; }
+    .book.missing .cover-wrap { filter: grayscale(.6) opacity(.7); }
+  </style>
+</head>
+<body>
+  <main>
+    <header>
+      <h1>Rak Buku Lucu</h1>
+      <p>Pratinjau setiap buku, lalu cetak naskahnya sebagai PDF siap cetak.</p>
+    </header>
+    <section class="shelf" id="shelf"></section>
+  </main>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.2/marked.min.js"></script>
+  <script src="https://unpkg.com/lucide@0.469.0/dist/umd/lucide.min.js"></script>
+  <script type="module">
+    import { loadCatalog, parseSections, coverMarkup } from "./assets/book.js";
+    const shelf = document.getElementById("shelf");
+    for (const book of await loadCatalog()) {
+      const res = await fetch(book.manuscript, { cache: "no-store" });
+      const ok = res.ok;
+      const stories = ok ? parseSections(await res.text()).filter((s) => s.type === "story").length : 0;
+      const el = document.createElement("article");
+      el.className = "book" + (ok ? "" : " missing");
+      el.innerHTML = `
+        <div class="cover-wrap">${coverMarkup(book)}</div>
+        <div class="meta">${ok ? `${stories} cerita` : "Naskah belum tersedia"}</div>
+        <div class="actions">
+          <a class="btn" href="reader.html?book=${book.id}" ${ok ? "" : 'aria-disabled="true" style="pointer-events:none;opacity:.4"'}>
+            <i data-lucide="book-open" class="icon"></i> Baca
+          </a>
+          <a class="btn ghost" href="print.html?book=${book.id}" ${ok ? "" : 'aria-disabled="true" style="pointer-events:none;opacity:.4"'}>
+            <i data-lucide="printer" class="icon"></i> PDF siap cetak
+          </a>
+        </div>`;
+      shelf.append(el);
+    }
+    lucide.createIcons();
+  </script>
+</body>
+</html>

@@ -1,8 +1,17 @@
 # lucu/
 
-`naskah.md` compiles every story into one book manuscript (title page, copyright, contents, foreword, the three parts, closing). When a story changes or a new one is added, update `naskah.md` and its Daftar Isi in the same change.
+Short funny stories written in casual Indonesian (gue/lu for dialogue). Each book lives in its own folder, with one story per file (`1.md`, `2.md`, ...) and its own `naskah.md`:
 
-Short funny stories about AI, written in casual Indonesian (gue/lu for dialogue). One story per file: `1.md`, `2.md`, ...
+- `ai/`: book 1, *Kecerdasan Buatan, Kelakuan Asli*. 41 stories about AI, in three parts.
+- `politics/`: book 2. 100 Indonesian political jokes.
+
+`naskah.md` compiles every story of that book into one manuscript (title page, copyright, contents, foreword, the parts, closing). When a story changes or a new one is added, update that book's `naskah.md` and its Daftar Isi in the same change.
+
+## Characters
+
+Every book uses the same names: Pak Bos, Bu HRD, Dimas, Raka, Bang Yudi, Nadia, Pak Satpam, Pak Darmo, Bu Ratna, Bima, Bu Guru, Pak Lurah, and SITI. Whether SITI must appear depends on the book; see its `CLAUDE.md`. Don't add new named characters; unnamed roles (warga, investor, caleg lawan) are fine.
+
+Each character's background (job, habits, relationships) can differ between books. Each book's folder has its own `CLAUDE.md` with that book's cast and background; follow it inside that folder.
 
 ## Rules
 
@@ -31,4 +40,4 @@ Use at least two in every story:
 - **Smooth storytelling.** Flowing narrative prose with dialogue woven in, like a story told aloud. No chat transcripts, no tables, no bullet lists, no `---` breaks. Link the beats with transitions ("CV itu bekerja terlalu baik.", "Sayangnya, ...") so each paragraph leads into the next.
 - **No emoji or emoticons**, not even inside an AI message.
 - Give the human character a name (Raka, Dimas, ...).
-- The AI character is always **SITI**, an AI agent with code **M4.KZ-A**. Never explain the code's meaning in a story.
+- When a story has an AI character, it is always **SITI**, an AI agent with code **M4.KZ-A**. Never explain the code's meaning in a story.
