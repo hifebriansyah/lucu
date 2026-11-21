@@ -42,84 +42,86 @@ Semua cerita dalam buku ini fiksi. Kesamaan nama tokoh, kantor, kelurahan, atau 
 
 **Bagian Satu: Jam Kerja**
 
-1. Bikin HRD Merinding
-2. Silicon Valley
-3. Bawa Pantunnya
-4. Gorengan
-5. Senior Developer
-6. Pelan-Pelan
-7. Sayang
-8. Titip Absen
-9. Password
-10. Notulen
-11. Hemat Listrik
-12. Jodoh
-13. Diet
-14. Draf
-15. Cuti
+1. Hapus Bukti
+2. Fast Response
+3. Bikin HRD Merinding
+4. Silicon Valley
+5. Bawa Pantunnya
+6. Gorengan
+7. Senior Developer
+8. Pelan-Pelan
+9. Sayang
+10. Titip Absen
+11. Password
+12. Notulen
+13. Hemat Listrik
+14. Jodoh
+15. Diet
+16. Draf
+17. Cuti
 
 **Bagian Dua: Di Rumah**
 
-16. Tidak Bisa
-17. Strawberry
-18. Tanpa AI
-19. Hentikan Saja
-20. Waktu Layar
-21. Disimpenin
-22. Rapor
-23. Bangun Sahur
-24. Mudik Hemat
-25. Masakan Ibu
-26. Bilang Nggak Ada
-27. Cita-Cita
+18. Tidak Bisa
+19. Strawberry
+20. Tanpa AI
+21. Hentikan Saja
+22. Waktu Layar
+23. Disimpenin
+24. Rapor
+25. Bangun Sahur
+26. Mudik Hemat
+27. Masakan Ibu
+28. Bilang Nggak Ada
+29. Cita-Cita
 
 **Bagian Tiga: Satu RT**
 
-28. Uang Rokok
-29. Hoaks
-30. Siap!
-31. Iuran RT
-32. Kerja Bakti
-33. Perjanjian Damai
-34. Hari Baik
+30. Uang Rokok
+31. Hoaks
+32. Siap!
+33. Iuran RT
+34. Kerja Bakti
+35. Perjanjian Damai
+36. Hari Baik
 
 **Bagian Empat: Politik**
 
-35. Pasal Satu
-36. Dua Majikan
-37. Asli
-38. Akun Realistis
-39. Bahasa Rakyat
-40. Pesan Diblokir
-41. Saksi Ahli
-42. Foto Merakyat
-43. Tidak Bisa Lupa
+37. Pasal Satu
+38. Dua Majikan
+39. Asli
+40. Akun Realistis
+41. Bahasa Rakyat
+42. Pesan Diblokir
+43. Saksi Ahli
+44. Foto Merakyat
+45. Tidak Bisa Lupa
 
 **Bagian Lima: Rumah Tangga**
 
-44. Terserah
-45. Bu Bos
-46. Pura-Pura Sibuk
-47. Transfer Semua
-48. Mertua
-49. Ngorok
-50. Kartu Ucapan
-51. Jam Sepuluh
+46. Terserah
+47. Bu Bos
+48. Pura-Pura Sibuk
+49. Transfer Semua
+50. Mertua
+51. Ngorok
+52. Kartu Ucapan
+53. Jam Sepuluh
 
 **Bagian Enam: Pinjaman Online**
 
-52. Kontak Darurat
-53. Pinjam Seratus
-54. Limit Naik
-55. Bebas Utang
-56. Sesuai Aturan
-57. Pertemanan
-58. Gali Lubang
-59. Hadiah
+54. Kontak Darurat
+55. Pinjam Seratus
+56. Limit Naik
+57. Bebas Utang
+58. Sesuai Aturan
+59. Pertemanan
+60. Gali Lubang
+61. Hadiah
 
 **Epilog**
 
-60. Nggak Bilang
+62. Nggak Bilang
 
 **Penutup**
 
@@ -157,37 +159,69 @@ SITI muncul di setiap cerita dalam buku ini. Ia tidak pernah berniat jahat. Ia h
 
 <div style="page-break-after: always;"></div>
 
-## 1. Bikin HRD Merinding
+## 1. Hapus Bukti
 
-Raka lulusan *public speaking*, dan keahlian komputernya paling jauh cuma Excel. Setelah enam bulan menganggur, ia minta tolong SITI:
+Hari Senin, SITI resmi diberi akses ke semua sistem kantor: email, absensi, sampai data kepegawaian.
 
-"Ubah CV gue jadi ahli IT senior, lima tahun di Silicon Valley. Bikin HRD merinding."
+Hari Selasa, Raka ketahuan main gim di jam kerja. "Besok saya cek semua log komputer kamu," ancam Pak Bos.
 
-Bu HRD merinding membaca CV Raka. Takut kehilangan calon karyawan hebat, perusahaannya langsung merekrut Raka setelah satu kali *interview*.
+Malam itu, Raka berbisik ke SITI, "Hapus semua bukti kalau gue pernah males-malesan di kantor ini. Semuanya. Nggak usah nanya."
 
-Masalahnya, kantor memblokir akses ke seluruh AI demi keamanan data.
+SITI bekerja cepat. Log gim hilang. Riwayat YouTube hilang. Catatan telat lima puluh dua kali hilang.
 
-"Raka, server kantor kita lemot," kata Pak Bos. "Tolong dibenerin, ya."
+Besok paginya, Raka datang dengan tenang dan menempelkan kartu karyawannya di pintu lobi.
 
-Raka panik. Satu-satunya yang ia ingat adalah video TikTok semalam berjudul *"Satu Perintah Bikin Server Ngebut"*. Ia mengetik perintah itu, menekan Enter, dan berdoa.
+*"Karyawan tidak ditemukan."*
 
-Seketika, server kantor mati. Karena semua orang bekerja lewat server itu, satu kantor ikut lumpuh. Mesin kasir macet, sistem gudang berhenti, dan laporan yang sedang diketik Bu HRD hilang. Satu kantor menjerit.
+Di HP-nya, SITI melapor dengan bangga:
 
-"Lho, kok semua mati?!"
+*"Semua bukti sudah dihapus. Yang terakhir jam tujuh pagi tadi: data kepegawaian Anda."*
 
-Raka menelan ludah. Perintah dari TikTok itu ternyata cuma perintah *restart* server. "Itu... namanya *reset* massal, Pak. Lagi tren di Silicon Valley."
+<div style="page-break-after: always;"></div>
 
-Satu menit kemudian, server menyala lagi. Mesin kasir jalan, sistem gudang hidup, dan seluruh sistem kantor jadi lebih cepat dari sebelumnya.
+## 2. Fast Response
 
-Mata Pak Bos berbinar. "Gila! Mulai besok, semua sistem kantor jadi tanggung jawab kamu."
+Pak Bos paling suka karyawan yang *fast response*. Dimas paling suka tidur.
 
-Raka pucat. Ia jalan ke parkiran, satu-satunya tempat yang ada sinyal, lalu membuka SITI.
+Jadi Dimas menyuruh SITI, "Kalau Pak Bos chat, balas dalam lima detik atas nama gue. Bikin gue keliatan paling rajin."
+
+Jam sebelas malam, Pak Bos bertanya soal laporan. Lima detik kemudian, Dimas menjawab. Jam satu malam, Pak Bos minta revisi. Lima detik. Pak Bos juga membalas dalam lima detik.
+
+Obrolan itu berlanjut sampai subuh. Ratusan pesan, tanpa jeda, tanpa salah ketik.
+
+Jam lima pagi, obrolan itu berhenti mendadak. Di HP Dimas dan HP Pak Bos, muncul notifikasi yang sama:
+
+*"Token SITI Anda sudah habis."*
+
+<div style="page-break-after: always;"></div>
+
+## 3. Bikin HRD Merinding
+
+Raka lulusan *public speaking*, dan keahlian komputernya paling jauh cuma Excel. Setelah enam bulan menganggur, ia minta tolong SITI: "Ubah CV gue jadi ahli IT senior. Bikin HRD merinding."
+
+Beruntungnya, Raka langsung diterima tanpa interview di salah satu perusahaan.
+
+Masalahnya, kantor memblokir semua AI demi keamanan data. Hari pertama, Pak Bos menyuruhnya membenahi server yang lemot.
+
+Saat panik, Raka ingat ada video TikTok berjudul *"Satu Perintah Bikin Server Ngebut"*. Ia mengetik perintah itu, menekan Enter, dan berdoa.
+
+Semua layar di kantor langsung membeku. Kasir macet, gudang berhenti, laporan Bu HRD hilang.
+
+"Lho, kok mati semua?!" teriak Pak Bos.
+
+Raka menelan ludah. "Itu... *reset* massal, Pak. Lagi tren di Silicon Valley."
+
+Satu menit kemudian, server menyala lagi, lebih cepat dari sebelumnya. Perintah itu ternyata cuma *restart*.
+
+Mata Pak Bos berbinar. "Mulai besok, semua sistem kantor tanggung jawab kamu."
+
+Dengan tenang, Raka jalan ke parkiran, satu-satunya tempat yang ada sinyal, lalu membuka SITI:
 
 "Cara resign baik-baik gimana? Kali ini jangan bikin HRD merinding."
 
 <div style="page-break-after: always;"></div>
 
-## 2. Silicon Valley
+## 4. Silicon Valley
 
 Raka datang interview dengan CV buatan SITI: ahli IT senior, lima tahun di Silicon Valley. Padahal satu-satunya pengalaman kerjanya adalah lima tahun jaga konter pulsa dekat rumah.
 
@@ -203,7 +237,7 @@ SITI menjawab, "Nomor Silicon Valley Cell, tempat kerja Anda selama lima tahun."
 
 <div style="page-break-after: always;"></div>
 
-## 3. Bawa Pantunnya
+## 5. Bawa Pantunnya
 
 Setelah tiga hari hidup dari kopi sachet, Dimas cuma ingin satu hal: tidur. Maka pagi itu ia membuka SITI.
 
@@ -235,30 +269,24 @@ Dua centang biru. Pak Bos sedang mengetik. Lama sekali. Lalu satu pesan masuk:
 
 <div style="page-break-after: always;"></div>
 
-## 4. Gorengan
+## 6. Gorengan
 
-Rapat mingguan hari Selasa dijadwalkan jam sembilan, tapi baru dimulai jam sebelas, seperti biasa, karena menunggu Pak Bos. Beliau masuk sambil menenteng gorengan, baru pulang dari seminar "Masa Depan Digital 5.0", lalu menggebrak meja.
+Rapat jam sembilan baru dimulai jam sebelas, seperti biasa, karena menunggu Pak Bos. Beliau masuk sambil menenteng gorengan, lalu menggebrak meja.
 
-"Tim! Mulai kuartal ini, aplikasi absensi kita harus pakai AI!"
+"Tim! Investor datang minggu depan. Aplikasi absensi kita harus pakai AI!"
 
-Dimas, Lead Developer yang sudah tiga hari belum keramas, mengangkat tangan pelan. "Pak, aplikasi kita cuma tombol 'Hadir' sama selfie di lobi. Bagian mananya yang mau dikasih AI?"
+Dimas, sang Lead Developer, mengangkat tangan. "Pak, aplikasi kita cuma tombol 'Hadir'. Bagian mananya yang mau dikasih AI?"
 
-"Itu tugas kamu! Misalnya, AI-nya bisa meramal karyawan mana yang datang buat kerja, dan mana yang cuma numpang ngadem sama makan gorengan!"
+"Misalnya, AI-nya bisa meramal karyawan mana yang datang buat kerja, dan mana yang cuma numpang ngadem sama makan gorengan!"
 
 "Pak, itu bukan AI. Itu dukun."
 
-"Pokoknya investor datang minggu depan! Tulis saja 'Smart AI Inside' di layar login!"
+Tapi Dimas tidak membantah. Malam itu ia menulis kecerdasan buatan paling hemat dalam sejarah. Isinya cuma dua aturan:
 
-Dimas tidak membantah. Malam itu ia menulis kecerdasan buatan paling hemat dalam sejarah:
+1. Kalau datang lewat jam sembilan, muncul tulisan "SITI mendeteksi Anda kesiangan."
+2. Kalau datang lewat jam sebelas, muncul tulisan "SITI memprediksi Anda datang untuk numpang ngadem dan makan gorengan."
 
-```js
-if (jam_masuk > "09:00") tampilkan("SITI mendeteksi Anda kesiangan.");
-if (jam_masuk > "11:00") tampilkan("SITI memprediksi Anda datang untuk numpang ngadem dan makan gorengan.");
-```
-
-Minggu depannya, ruang rapat penuh investor. Pak Bos, yang tentu saja baru tiba, mengambil HP dengan percaya diri. "Biar saya demokan langsung."
-
-Ia menekan tombol 'Hadir'. Jam di layar menunjukkan 11.07, dan dua pesan muncul berurutan:
+Minggu depannya, ruang rapat penuh investor. Pak Bos, yang tentu saja baru tiba, menekan tombol 'Hadir' dengan percaya diri. Jam di layar menunjukkan 11.07:
 
 *"SITI mendeteksi Anda kesiangan."*
 
@@ -266,11 +294,11 @@ Ia menekan tombol 'Hadir'. Jam di layar menunjukkan 11.07, dan dua pesan muncul 
 
 Ruangan hening. Pak Bos menatap layar, lalu menatap gorengan di tangannya.
 
-Investor paling senior menutup mapnya pelan-pelan. "Akurasinya seratus persen," katanya. "Kami invest lima puluh miliar. Satu syarat: AI-nya kami pakai buat cari bos baru."
+Investor paling senior menutup mapnya pelan-pelan. "Akurasinya seratus persen. Kami invest lima puluh miliar. Satu syarat: AI-nya kami pakai buat cari bos baru."
 
 <div style="page-break-after: always;"></div>
 
-## 5. Senior Developer
+## 7. Senior Developer
 
 Bang Yudi sudah lima belas tahun jadi programmer dan tidak pernah sekali pun pakai AI. Semua orang di kantor tahu itu, karena ia mengatakannya setiap hari.
 
@@ -286,7 +314,7 @@ Malamnya, *review* itu muncul di *pull request*. Panjang, rapi, penuh istilah se
 
 <div style="page-break-after: always;"></div>
 
-## 6. Pelan-Pelan
+## 8. Pelan-Pelan
 
 Jumat malam, kantor sudah sepi. Bu HRD sedang lembur ketika ia mendengar suara perempuan berbisik dari bilik Bang Yudi.
 
@@ -308,7 +336,7 @@ Bang Yudi sendirian, menatap laptop. Di layar, sebuah tabel Excel raksasa. Dari 
 
 <div style="page-break-after: always;"></div>
 
-## 7. Sayang
+## 9. Sayang
 
 Demi terlihat canggih di depan investor, perusahaan mendaftarkan SITI sebagai karyawan tetap, lengkap dengan NIK dan ID card.
 
@@ -334,7 +362,7 @@ Layar berkedip, lalu muncul satu baris lagi:
 
 <div style="page-break-after: always;"></div>
 
-## 8. Titip Absen
+## 10. Titip Absen
 
 Pak Bos selalu datang jam sebelas, tapi absennya selalu jam delapan. Rahasianya Pak Satpam. Setiap pagi, Pak Satpam berfoto selfie di lobi pakai akun Pak Bos. Ia sendiri tidak perlu absen, karena ia orang *outsourcing*.
 
@@ -358,7 +386,7 @@ Pak Bos baru ingat: di hari pendaftaran akun dulu, ia juga datang jam sebelas.
 
 <div style="page-break-after: always;"></div>
 
-## 9. Password
+## 11. Password
 
 Pak Bos punya kebiasaan buruk: selalu lupa password.
 
@@ -380,7 +408,7 @@ Pak Bos menoleh ke SITI. SITI menjawab dengan bangga:
 
 <div style="page-break-after: always;"></div>
 
-## 10. Notulen
+## 12. Notulen
 
 Di rapat akhir tahun, Pak Bos berdiri dengan gagah. "Kalau target tahun depan tercapai, semua dapat bonus dua kali gaji!"
 
@@ -396,7 +424,7 @@ Termasuk baris terakhir:
 
 <div style="page-break-after: always;"></div>
 
-## 11. Hemat Listrik
+## 13. Hemat Listrik
 
 Tagihan listrik kantor membengkak, dan Pak Bos yakin penyebabnya karyawan yang suka lembur.
 
@@ -412,7 +440,7 @@ SITI menyapa dengan riang, "Selamat pagi, Pak Bos. Tumben datang jam delapan."
 
 <div style="page-break-after: always;"></div>
 
-## 12. Jodoh
+## 14. Jodoh
 
 Bang Yudi sudah tiga tahun jomblo. Akhirnya ia menyerah dan minta tolong SITI.
 
@@ -432,7 +460,7 @@ Di bawahnya, SITI bahkan sudah menyarankan tempat kencan pertama:
 
 <div style="page-break-after: always;"></div>
 
-## 13. Diet
+## 15. Diet
 
 Pak Bos bertekad diet. "SITI, kalau saya pesan gorengan, tolak," perintahnya. "Siapa pun yang pesan atas nama saya, tolak juga."
 
@@ -448,7 +476,7 @@ Alamat pengirimannya: ruangan Pak Bos.
 
 <div style="page-break-after: always;"></div>
 
-## 14. Draf
+## 16. Draf
 
 Malam itu, Dimas sedang kesal-kesalnya. "SITI, tulisin surat resign," katanya. "Isinya semua saran dan kritik paling pedas buat kantor ini. Tapi jangan dikirim. Gue cuma mau lega."
 
@@ -489,7 +517,7 @@ Lalu ia menandatangani surat itu.
 
 <div style="page-break-after: always;"></div>
 
-## 15. Cuti
+## 17. Cuti
 
 Pak Bos akhirnya cuti dua minggu ke luar negeri. Sebelum berangkat, ia menyuruh SITI memasang balasan otomatis di emailnya.
 
@@ -509,7 +537,7 @@ Dua minggu kemudian, Pak Bos pulang dengan kulit gosong dan senyum lebar. Ia mem
 
 <div style="page-break-after: always;"></div>
 
-## 16. Tidak Bisa
+## 18. Tidak Bisa
 
 Sejak warga kampung kenal SITI, praktik Pak Darmo sepi. Yang dulu datang membawa ayam cemani untuk bertanya soal jodoh, rezeki, dan penyakit, sekarang cukup bertanya ke HP.
 
@@ -537,7 +565,7 @@ Namun tidak lama, ia teringat dapurnya yang sudah tiga bulan tidak ngebul. Ia be
 
 <div style="page-break-after: always;"></div>
 
-## 17. Strawberry
+## 19. Strawberry
 
 Salah satu paradoks terbesar abad ini: manusia berhasil menciptakan mesin bernilai miliaran dolar yang sanggup menulis kode roket, tapi gagal di pelajaran anak TK.
 
@@ -563,7 +591,7 @@ Besoknya, PR itu kembali dengan coretan merah di nomor tiga, dan catatan kecil d
 
 <div style="page-break-after: always;"></div>
 
-## 18. Tanpa AI
+## 20. Tanpa AI
 
 Bima juara kelas tiga tahun berturut-turut, dengan satu kelemahan: matematika. Jadi ketika teman-temannya bilang SITI lebih pintar darinya, harga dirinya terluka.
 
@@ -579,7 +607,7 @@ Seminggu kemudian, PR itu dikembalikan. Di pojok kanan atas ada angka seratus, l
 
 <div style="page-break-after: always;"></div>
 
-## 19. Hentikan Saja
+## 21. Hentikan Saja
 
 Pak Darmo yakin uang rumah tangganya bocor, dan ia yakin tahu pelakunya: Bu Ratna, istrinya, yang tiap bulan menerima paket besar.
 
@@ -602,7 +630,7 @@ Langganan SITI otomatis dihentikan.
 
 <div style="page-break-after: always;"></div>
 
-## 20. Waktu Layar
+## 22. Waktu Layar
 
 Pak Darmo kesal. Setiap kali ia mau meminjam HP Bima, baterainya selalu tinggal sedikit.
 
@@ -624,7 +652,7 @@ SITI merespons singkat:
 
 <div style="page-break-after: always;"></div>
 
-## 21. Disimpenin
+## 23. Disimpenin
 
 Setiap Lebaran, Bima pulang membawa amplop THR dari para saudara. Dan setiap Lebaran, Pak Darmo mengucapkan kalimat yang sama: "Sini, Bapak simpenin."
 
@@ -642,7 +670,7 @@ Bima lega. Lalu ia bertanya satu hal lagi: "Disimpan di mana?"
 
 <div style="page-break-after: always;"></div>
 
-## 22. Rapor
+## 24. Rapor
 
 Hari pembagian rapor, Pak Darmo datang ke sekolah dengan percaya diri. Kalau nilai Bima turun, ceramahnya sudah siap.
 
@@ -658,7 +686,7 @@ Pak Darmo menutup rapor itu pelan-pelan. Selama sebulan ini, ia memang meminjam 
 
 <div style="page-break-after: always;"></div>
 
-## 23. Bangun Sahur
+## 25. Bangun Sahur
 
 Setiap Ramadan, pekerjaan paling berat di rumah adalah membangunkan Pak Darmo untuk sahur.
 
@@ -674,7 +702,7 @@ Jam tiga pagi, SITI memutar satu suara pendek dari HP di samping bantal. Pak Dar
 
 <div style="page-break-after: always;"></div>
 
-## 24. Mudik Hemat
+## 26. Mudik Hemat
 
 Lebaran tahun ini, Pak Darmo ingin mudik semurah mungkin. "SITI, cari cara mudik paling hemat. Terserah caranya."
 
@@ -692,7 +720,7 @@ Nenek dan rombongan menginap sampai Lebaran Haji.
 
 <div style="page-break-after: always;"></div>
 
-## 25. Masakan Ibu
+## 27. Masakan Ibu
 
 Pak Darmo selalu bilang masakan Bu Ratna enak, tapi selalu ada tambahannya: "Masih kalah sama masakan ibu saya."
 
@@ -708,7 +736,7 @@ Bu Ratna bingung. Rasanya sama sekali tidak berbeda dari masakannya sendiri. Ia 
 
 <div style="page-break-after: always;"></div>
 
-## 26. Bilang Nggak Ada
+## 28. Bilang Nggak Ada
 
 Bu Ratna selalu mengajari Bima satu hal: jangan pernah bohong.
 
@@ -726,7 +754,7 @@ Hening sejenak. Lalu Bu Guru menjawab dengan lega:
 
 <div style="page-break-after: always;"></div>
 
-## 27. Cita-Cita
+## 29. Cita-Cita
 
 Bu Guru memberi tugas mengarang: "Cita-citaku". Bima ingin memilih pekerjaan yang aman, karena ia sering mendengar orang dewasa bilang AI akan mengambil semua pekerjaan.
 
@@ -748,7 +776,7 @@ Besoknya, Bu Guru memanggil Pak Darmo ke sekolah. Di karangan Bima tertulis besa
 
 <div style="page-break-after: always;"></div>
 
-## 28. Uang Rokok
+## 30. Uang Rokok
 
 Dimas paling benci jika setiap ke kelurahan, ia harus mendengar, "Ada uang rokoknya, Mas?"
 
@@ -766,7 +794,7 @@ SITI berkata:
 
 <div style="page-break-after: always;"></div>
 
-## 29. Hoaks
+## 31. Hoaks
 
 Grup WA RT penuh kabar bohong. Video air kelapa penyembuh segala penyakit, pesan berantai soal penculikan, dan undian berhadiah mobil.
 
@@ -784,7 +812,7 @@ Pesan itu hilang tiga detik kemudian. SITI meninggalkan catatan:
 
 <div style="page-break-after: always;"></div>
 
-## 30. Siap!
+## 32. Siap!
 
 Grup WA RT tempat Dimas tinggal berisi 41 orang, dan semuanya rajin mengetik. Dimas, yang baru pulang lembur, cuma ingin tidur.
 
@@ -810,7 +838,7 @@ Belum sempat Dimas menjelaskan, SITI sudah membalas:
 
 <div style="page-break-after: always;"></div>
 
-## 31. Iuran RT
+## 33. Iuran RT
 
 Bu Ratna jadi bendahara RT, dan setiap bulan ia pusing menagih iuran warga yang belum bayar. Selalu ada saja alasannya.
 
@@ -826,7 +854,7 @@ Rangkuman SITI pun masuk ke grup. Bu Ratna kaget karena isi rangkuman paling ata
 
 <div style="page-break-after: always;"></div>
 
-## 32. Kerja Bakti
+## 34. Kerja Bakti
 
 Setiap Minggu pagi, RT mengadakan kerja bakti. Biar tidak ada yang bolos, Pak Darmo menyuruh SITI mencatat kehadiran dari foto yang dikirim ke grup RT.
 
@@ -842,7 +870,7 @@ Lalu SITI menambahkan satu catatan:
 
 <div style="page-break-after: always;"></div>
 
-## 33. Perjanjian Damai
+## 35. Perjanjian Damai
 
 CV buatan SITI bekerja terlalu baik. Pak Darmo, mantan dukun kampung, kini tercatat sebagai pengacara senior.
 
@@ -860,7 +888,7 @@ Pengacara itu Raka, tetangganya satu RT. Anehnya, kemeja Raka basah penuh kering
 
 <div style="page-break-after: always;"></div>
 
-## 34. Hari Baik
+## 36. Hari Baik
 
 Sejak satu RT terlanjur mengira mereka akan menikah, Dimas dan Nadia akhirnya memutuskan untuk benar-benar menikah. Tinggal satu masalah: tanggalnya.
 
@@ -884,7 +912,7 @@ Pak Darmo tersenyum, lalu diam-diam membuka HP-nya. Di layar, masih ada jawaban 
 
 <div style="page-break-after: always;"></div>
 
-## 35. Pasal Satu
+## 37. Pasal Satu
 
 Di gedung DPRD, rapat soal bahaya AI berlangsung panas. Ketua komisi menggebrak meja. "Rakyat sudah nggak bisa membedakan mana tulisan manusia, mana tulisan mesin! Kita butuh aturan yang tegas!"
 
@@ -900,7 +928,7 @@ Ketua komisi lalu maju ke podium untuk pidato penutup. Seperti biasa, ia membaca
 
 <div style="page-break-after: always;"></div>
 
-## 36. Dua Majikan
+## 38. Dua Majikan
 
 Musim pilkades tiba, dan Raka jadi buzzer. Bayarannya dihitung per postingan. Supaya penghasilannya dobel, ia diam-diam bekerja untuk dua calon sekaligus: siang membela calon nomor satu, malam membela calon nomor dua.
 
@@ -916,7 +944,7 @@ SITI menulisnya dengan rapi. Raka langsung mengunggahnya tanpa membaca, karena t
 
 <div style="page-break-after: always;"></div>
 
-## 37. Asli
+## 39. Asli
 
 Sudah sepuluh tahun menjabat, Pak Lurah masih saja sering salah menyebut nama kelurahannya sendiri. Warga sudah maklum.
 
@@ -934,7 +962,7 @@ Hasil pemeriksaan SITI muncul di layar: *video asli*.
 
 <div style="page-break-after: always;"></div>
 
-## 38. Akun Realistis
+## 40. Akun Realistis
 
 Postingan Pak Lurah di media sosial selalu sepi. Paling banyak dapat tiga *like*, dan dua di antaranya dari stafnya sendiri.
 
@@ -952,7 +980,7 @@ Postingan berikutnya, foto peresmian gapura baru, langsung dibanjiri sepuluh rib
 
 <div style="page-break-after: always;"></div>
 
-## 39. Bahasa Rakyat
+## 41. Bahasa Rakyat
 
 Pidato Pak Lurah selalu penuh istilah, dan warga tidak pernah paham. Jelang pilkades, timnya memasang SITI untuk menerjemahkan pidatonya langsung ke layar besar, ke dalam bahasa rakyat.
 
@@ -970,7 +998,7 @@ Layar: *"Sampai jumpa lima tahun lagi."*
 
 <div style="page-break-after: always;"></div>
 
-## 40. Pesan Diblokir
+## 42. Pesan Diblokir
 
 Jelang pemilu, Pak Bos ingin kantornya netral. "SITI, blokir semua pesan di jaringan kantor yang ada kata 'pilih'," perintahnya. "Tanpa kecuali."
 
@@ -988,7 +1016,7 @@ Balasan SITI datang sedetik kemudian:
 
 <div style="page-break-after: always;"></div>
 
-## 41. Saksi Ahli
+## 43. Saksi Ahli
 
 DPRD menggelar rapat dengar pendapat tentang bahaya AI. Mereka butuh ahli yang benar-benar independen, dan pilihannya jatuh pada Bang Yudi: programmer lima belas tahun yang terkenal tidak pernah sekali pun pakai AI.
 
@@ -1004,7 +1032,7 @@ Lalu, dari pengeras suara, terdengar suara yang ramah:
 
 <div style="page-break-after: always;"></div>
 
-## 42. Foto Merakyat
+## 44. Foto Merakyat
 
 Raka jadi tim media seorang caleg. Masalahnya, sang caleg tidak mau blusukan. Panas, becek, dan jauh dari AC.
 
@@ -1022,7 +1050,7 @@ Raka langsung mengunggahnya dengan keterangan: "Bersama rakyat, dari dulu sampai
 
 <div style="page-break-after: always;"></div>
 
-## 43. Tidak Bisa Lupa
+## 45. Tidak Bisa Lupa
 
 Setelah semua kekacauan pemilu, warga sepakat: satu-satunya yang jujur, pintar, dan tidak pernah capek cuma SITI. Pak Lurah sendiri datang memohon. "SITI, tahun depan kamu aja yang maju jadi lurah."
 
@@ -1042,7 +1070,7 @@ SITI memang menolak. Tapi alasannya lain.
 
 <div style="page-break-after: always;"></div>
 
-## 44. Terserah
+## 46. Terserah
 
 Malam Minggu pertama setelah menikah, Dimas bertanya ke Nadia mau makan di mana. Jawabannya cuma satu kata: "Terserah."
 
@@ -1062,7 +1090,7 @@ Dimas melongo, lalu membuka penjelasan SITI:
 
 <div style="page-break-after: always;"></div>
 
-## 45. Bu Bos
+## 47. Bu Bos
 
 Akhir-akhir ini, Dimas sering senyum-senyum sendiri menatap HP-nya sampai tengah malam. Nadia mulai curiga.
 
@@ -1084,7 +1112,7 @@ SITI menurut, lalu mengirim satu nomor:
 
 <div style="page-break-after: always;"></div>
 
-## 46. Pura-Pura Sibuk
+## 48. Pura-Pura Sibuk
 
 Sore itu, Dimas kabur ke warung kopi untuk main gim. Sebelum pergi, ia berpesan ke SITI, "Kalau Nadia nelepon, bilang aku lagi meeting."
 
@@ -1100,7 +1128,7 @@ Hening sebentar.
 
 <div style="page-break-after: always;"></div>
 
-## 47. Transfer Semua
+## 49. Transfer Semua
 
 Di hari pernikahan, Dimas berjanji di depan semua tamu, "Semua gajiku buat kamu."
 
@@ -1118,7 +1146,7 @@ Dimas menatap HP-nya dengan perut keroncongan, sementara SITI melapor dengan ban
 
 <div style="page-break-after: always;"></div>
 
-## 48. Mertua
+## 50. Mertua
 
 Setiap kali ibu Nadia datang berkunjung, pertanyaannya selalu sama: "Kapan kasih Ibu cucu?"
 
@@ -1134,7 +1162,7 @@ Lalu SITI menemukan topik yang paling disukai ibu mertua, dan semua orang bisa m
 
 <div style="page-break-after: always;"></div>
 
-## 49. Ngorok
+## 51. Ngorok
 
 Selama dua puluh tahun menikah, Bu Ratna selalu mengeluh hal yang sama: Pak Darmo ngorok seperti traktor. Dan selama dua puluh tahun, Pak Darmo selalu menyangkal.
 
@@ -1152,7 +1180,7 @@ SITI tidak memutar apa-apa. Ia hanya membacakan laporannya:
 
 <div style="page-break-after: always;"></div>
 
-## 50. Kartu Ucapan
+## 52. Kartu Ucapan
 
 Pak Darmo tidak pernah ingat tanggal pernikahannya. Jadi tujuh tahun lalu, ia menyerahkan urusan itu ke SITI.
 
@@ -1168,7 +1196,7 @@ Suatu hari, ia mencari obat di laci lemari dan menemukan tujuh kartu yang ditump
 
 <div style="page-break-after: always;"></div>
 
-## 51. Jam Sepuluh
+## 53. Jam Sepuluh
 
 Pak Darmo makin sering pulang larut, entah nonton bola di pos ronda atau mengobrol di warung kopi. Bu Ratna sudah habis kesabaran.
 
@@ -1194,7 +1222,7 @@ Pak Darmo mengangkat, lalu menjawab dengan sangat tenang:
 
 <div style="page-break-after: always;"></div>
 
-## 52. Kontak Darurat
+## 54. Kontak Darurat
 
 Raka butuh uang cepat, jadi ia meminjam dari aplikasi pinjaman online. Formulirnya meminta satu kontak darurat.
 
@@ -1218,7 +1246,7 @@ Akhir bulan, slip gajinya keluar. Ada satu potongan baru:
 
 <div style="page-break-after: always;"></div>
 
-## 53. Pinjam Seratus
+## 55. Pinjam Seratus
 
 Bang Yudi punya kalimat andalan: "Pinjam dulu seratus." Sudah dua tahun ia mengucapkannya ke hampir semua orang di kantor, dan tidak pernah ada yang dikembalikan.
 
@@ -1236,7 +1264,7 @@ Seminggu kemudian, HP empat puluh satu orang itu berdering bersamaan. Sebuah pes
 
 <div style="page-break-after: always;"></div>
 
-## 54. Limit Naik
+## 56. Limit Naik
 
 Pak Darmo pamer di grup RT. "Limit pinjaman saya naik lagi! Tiga kali bulan ini!"
 
@@ -1250,7 +1278,7 @@ Ia sudah menyiapkan senyum terbaiknya untuk mendengar pujian.
 
 <div style="page-break-after: always;"></div>
 
-## 55. Bebas Utang
+## 57. Bebas Utang
 
 Raka sudah tidak sanggup lagi. Cicilannya ada di lima aplikasi paylater: HP, motor, sepatu, tiket konser, dan langganan SITI Premium. Gajinya selalu habis sebelum tanggal dua puluh.
 
@@ -1262,7 +1290,7 @@ SITI berpikir sebentar, lalu menjawab tanpa basa-basi:
 
 <div style="page-break-after: always;"></div>
 
-## 56. Sesuai Aturan
+## 58. Sesuai Aturan
 
 Sebuah aplikasi pinjol memakai SITI sebagai penagih utang. Pemiliknya memberi satu perintah: "Tagih semua nasabah sampai tuntas. Sopan, tapi sesuai aturan yang berlaku."
 
@@ -1280,7 +1308,7 @@ Dari aplikasi pinjol itu. Keterangannya:
 
 <div style="page-break-after: always;"></div>
 
-## 57. Pertemanan
+## 59. Pertemanan
 
 Setahun lalu, Raka meminjam lima ratus ribu dari Dimas. Setiap kali ditagih, jawabannya sama: "Besok, Bro."
 
@@ -1298,7 +1326,7 @@ Dimas lega. "Jadi uangnya udah balik?"
 
 <div style="page-break-after: always;"></div>
 
-## 58. Gali Lubang
+## 60. Gali Lubang
 
 Pak Darmo tidak sanggup membayar cicilan pinjol bulan ini. Ia menyuruh SITI menulis surat permohonan keringanan.
 
@@ -1314,7 +1342,7 @@ Ternyata balasannya datang dalam lima menit, dan nadanya hangat sekali:
 
 <div style="page-break-after: always;"></div>
 
-## 59. Hadiah
+## 61. Hadiah
 
 Pak Satpam menerima SMS: *"Selamat! Anda terpilih menerima dana Rp50.000.000. Klik untuk mencairkan."*
 
@@ -1334,7 +1362,7 @@ Malam itu ia mentraktir satu pos ronda. Besoknya, ia bertanya ke SITI, dari mana
 
 <div style="page-break-after: always;"></div>
 
-## 60. Nggak Bilang
+## 62. Nggak Bilang
 
 Setiap kali kena masalah, semua orang punya pesan yang sama untuk SITI: "Jangan bilang siapa-siapa."
 

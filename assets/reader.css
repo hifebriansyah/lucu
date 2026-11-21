@@ -1,5 +1,5 @@
-/* Page base size in CSS px. The whole book is scaled to fit the window. */
-:root { --pw: 420px; --ph: 630px; }
+/* The open book. Page size and page styles are in pages.css; the whole book is
+   scaled to fit the window. */
 
 body { height: 100vh; overflow: hidden; display: flex; flex-direction: column; }
 
@@ -45,39 +45,9 @@ body { height: 100vh; overflow: hidden; display: flex; flex-direction: column; }
 .turn:disabled { opacity: .2; cursor: default; }
 .turn.prev { left: 16px; } .turn.next { right: 16px; }
 
-/* A page */
-.page {
-  width: var(--pw); height: var(--ph);
-  background: var(--paper);
-  color: var(--ink);
-  font: 400 15.5px/1.62 var(--font-book);
-  padding: 46px 44px 40px;
-  display: flex; flex-direction: column;
-  overflow: hidden;
-}
+/* Spine shading on the open book */
 .slot.left .page { background: linear-gradient(to left, rgba(0,0,0,.07), transparent 7%), var(--paper); }
 .slot.right .page { background: linear-gradient(to right, rgba(0,0,0,.08), transparent 7%), var(--paper); }
-.page .head { font: 500 10.5px/1 var(--font-ui); letter-spacing: .08em; text-transform: uppercase; color: var(--muted); text-align: center; height: 18px; }
-.page .body { flex: 1; overflow: hidden; }
-.page .foot { font: 500 11px/1 var(--font-ui); color: var(--muted); text-align: center; height: 14px; }
-.page.cover-page { padding: 0; }
-.page.cover-page .body { font-size: 15px; }
-
-.body p { margin: 0 0 .75em; text-wrap: pretty; hyphens: auto; }
-.body h1, .body h2, .body h3 { font-family: var(--font-book); line-height: 1.15; text-wrap: balance; }
-.body h2 { font-size: 23px; margin: 18px 0 22px; }
-.body em { font-style: italic; }
-.body pre { font-size: 11px; white-space: pre-wrap; background: #f3eee4; padding: 8px; border-radius: 4px; }
-.body ul, .body ol { padding-left: 1.2em; margin: 0 0 .75em; }
-
-.page.part .body { display: flex; flex-direction: column; justify-content: center; text-align: center; }
-.page.part h1 { font-size: 28px; margin: 0; }
-.page.title .body { display: flex; flex-direction: column; justify-content: center; text-align: center; }
-.page.title h1 { font-size: 30px; margin: 0 0 14px; }
-.page.title h3 { font-weight: 400; font-style: italic; font-size: 17px; margin: 0 0 40px; }
-.page.dedication .body { display: flex; flex-direction: column; justify-content: center; text-align: center; font-style: italic; }
-.page.toc .body p, .page.toc .body li { margin: 0 0 .25em; font-size: 14px; }
-.page.toc .body ol { padding-left: 2.4em; }
 
 /* Page turn */
 .leaf {
@@ -128,15 +98,7 @@ body { height: 100vh; overflow: hidden; display: flex; flex-direction: column; }
 .loading { position: fixed; inset: 0; display: grid; place-items: center; font: 500 15px var(--font-ui); color: var(--muted); background: var(--bg); z-index: 10; }
 .loading.done { display: none; }
 
-.measure { position: absolute; left: -9999px; top: 0; visibility: hidden; }
 
 @media (max-width: 600px) { .hide-sm { display: none; } .turn { width: 38px; height: 38px; } .turn.prev { left: 6px; } .turn.next { right: 6px; } }
 
 .single .leaf .page { background: linear-gradient(to right, rgba(0,0,0,.08), transparent 7%), var(--paper); box-shadow: 6px 10px 28px var(--shadow); border-radius: 0 4px 4px 0; }
-
-/* Coloring book: one picture fills the page */
-.page.image { padding: 16px; }
-.page.image .head { display: none; }
-.page.image .body { display: flex; align-items: center; justify-content: center; }
-.page.image .body p { margin: 0; height: 100%; display: flex; align-items: center; }
-.page.image .body img { max-width: 100%; max-height: 100%; display: block; }

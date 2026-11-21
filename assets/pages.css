@@ -1,0 +1,62 @@
+/* Book pages, shared by the reader and the print PDF. Every page is a real A5 sheet
+   (148 × 210 mm) laid out once by paginate.js: print uses it at full size, the
+   reader only scales it to fit the window. So the screen shows exactly what prints. */
+:root { --pw: 148mm; --ph: 210mm; }
+
+.page {
+  position: relative;
+  width: var(--pw); height: var(--ph);
+  background: var(--paper);
+  color: #111;
+  font: 400 11pt/1.45 var(--font-book); /* 11 pt on about 16 pt leading */
+  /* Mirrored margins: the wider side is the spine. Right-hand pages by default. */
+  padding: 20mm 16mm 20mm 20mm;
+  display: flex; flex-direction: column;
+  overflow: hidden;
+}
+.page.left { padding: 20mm 20mm 20mm 16mm; }
+
+/* Running head and page number sit in the margins, so they never move the text. */
+.page .head, .page .foot {
+  position: absolute; left: 0; right: 0;
+  font: 500 7.5pt/1 var(--font-ui); letter-spacing: .08em; text-transform: uppercase;
+  color: #777; text-align: center;
+}
+.page .head { top: 10mm; }
+.page .foot { bottom: 10mm; font-size: 9pt; letter-spacing: 0; color: #555; }
+.page .body { flex: 1; overflow: hidden; }
+.page.cover-page { padding: 0; }
+.page.cover-page .body { font-size: 15px; }
+
+.body p { margin: 0 0 .6em; hyphens: auto; }
+.body h1, .body h2, .body h3 { font-family: var(--font-book); line-height: 1.15; text-wrap: balance; }
+.body em { font-style: italic; }
+.body pre { font: 8pt/1.45 "Menlo", "Consolas", monospace; white-space: pre-wrap; overflow-wrap: anywhere; background: #f3eee4; padding: 6pt 8pt; border-radius: 3pt; margin: 0 0 .8em; }
+.body ul, .body ol { padding-left: 1.2em; margin: 0 0 .6em; }
+/* Quoted letters and messages: same spacing as the paragraphs around them, set off by a thin rule instead of a deep indent. */
+.body blockquote { margin: 0 0 .6em; padding-left: 10pt; border-left: 1.5pt solid #d8cfbf; }
+.body blockquote > :last-child { margin-bottom: 0; }
+
+.page.story h2 { font-size: 16pt; margin: 12pt 0 18pt; }
+.page.front h2 { font-size: 15pt; margin: 0 0 16pt; }
+
+.page.title .body { text-align: center; padding-top: 30%; }
+.page.title h1 { font-size: 24pt; margin: 0 0 10pt; }
+.page.title h3 { font-weight: 400; font-style: italic; font-size: 12pt; margin: 0 0 40pt; }
+.page.dedication .body { text-align: center; font-style: italic; padding-top: 35%; }
+.page.part .body { text-align: center; padding-top: 40%; }
+.page.part h1 { font-size: 20pt; margin: 0; }
+
+.page.toc h2 { font-size: 15pt; margin: 0 0 14pt; }
+.page.toc .body p, .page.toc .body li { margin: 0 0 3pt; font-size: 10pt; }
+.page.toc .body p { margin-top: 9pt; }
+.page.toc .body ol { padding-left: 2.2em; }
+.page.toc .pg { float: right; padding-left: .6em; font-variant-numeric: tabular-nums; }
+
+/* Coloring book: one picture fills the page */
+.page.image { padding: 12mm; }
+.page.image .body { display: flex; align-items: center; justify-content: center; }
+.page.image .body p { margin: 0; height: 100%; display: flex; align-items: center; }
+.page.image .body img { max-width: 100%; max-height: 100%; display: block; }
+
+.measure { position: absolute; left: -9999px; top: 0; visibility: hidden; }

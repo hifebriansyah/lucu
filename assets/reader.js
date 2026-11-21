@@ -1,4 +1,5 @@
 import { loadBook, coverMarkup } from "./book.js";
+import { paginate, pageElement, blankPage } from "./paginate.js";
 
 const $ = (id) => document.getElementById(id);
 const params = new URLSearchParams(location.search);
@@ -15,122 +16,31 @@ if (missing) {
 
 /* ---------- Pagination ---------- */
 
-// Measure with the real book font, or the page breaks drift once it loads.
-await Promise.all([
-  "400 15.5px Literata", "italic 400 15.5px Literata", "700 23px Literata",
-].map((f) => document.fonts.load(f).catch(() => {})));
+// The same engine lays out the print PDF, so every page here is a page of the book.
+const interior = await paginate(sections, $("measure"), { bookTitle: book.title });
 
-const measure = $("measure");
-const pages = []; // { kind, html, head, folio, story }
-
-function blankPage(kind) {
-  const el = document.createElement("div");
-  el.className = `page ${kind}`;
-  el.innerHTML = `<div class="head"></div><div class="body"></div><div class="foot"></div>`;
-  return el;
-}
-
-function overflows(body) {
-  return body.scrollHeight > body.clientHeight + 1;
-}
-
-function pushPage(kind, html, story = "") {
-  pages.push({ kind, html, story });
-}
-
-// Keep the given kind on a right-hand (odd... see below) page: index 0 is the cover on the right,
-// so right-hand pages have even indexes.
-function startOnRight() {
-  if (pages.length % 2 === 1) pushPage("blank", "");
-}
-
-function flow(kind, html, story) {
-  const holder = document.createElement("div");
-  holder.innerHTML = html;
-  const blocks = [...holder.children];
-  let page = blankPage(kind);
-  measure.replaceChildren(page);
-  let body = page.querySelector(".body");
-
-  const flush = () => {
-    if (body.childElementCount) pushPage(kind, body.innerHTML, story);
-    page = blankPage(kind);
-    measure.replaceChildren(page);
-    body = page.querySelector(".body");
-  };
-
-  for (const block of blocks) {
-    body.append(block);
-    if (!overflows(body)) continue;
-    block.remove();
-    // Lists can continue across pages, so fill the rest of this page first.
-    const isList = block.tagName === "OL" || block.tagName === "UL";
-    if (body.childElementCount && !isList) {
-      flush();
-      body.append(block);
-      if (!overflows(body)) continue;
-      block.remove();
-    }
-    // A single block taller than a page (a long paragraph, or the contents list):
-    // move its pieces one by one into copies of the block, starting a new page
-    // whenever the current one is full.
-    let shell = block.cloneNode(false);
-    body.append(shell);
-    const pieces = [...block.childNodes].flatMap((n) =>
-      n.nodeType === Node.TEXT_NODE ? n.textContent.split(/(?<=\s)/).map((t) => document.createTextNode(t)) : [n]);
-    for (const piece of pieces) {
-      shell.append(piece);
-      if (!overflows(body)) continue;
-      piece.remove();
-      if (piece.nodeName === "BR") continue; // a line break at the page end is not needed
-      const prev = shell;
-      flush();
-      shell = block.cloneNode(false);
-      if (shell.tagName === "OL") {
-        shell.start = (prev.start || 1) + prev.children.length; // keep numbering going
-      }
-      body.append(shell);
-      if (piece.nodeType === Node.TEXT_NODE && !piece.textContent.trim()) continue;
-      shell.append(piece);
-    }
-    // drop a leading line break left at the top of a continued block
-    while (shell.firstChild && shell.firstChild.nodeName === "BR") shell.firstChild.remove();
-  }
-  flush();
-}
-
+// Screen order: the cover on its own, then the inside of the cover, so page 1 opens
+// on the right as in the printed book. Interior page n sits at index n + 1.
 const hasCover = await fetch(book.cover, { method: "HEAD" }).then((r) => r.ok).catch(() => false);
 if (hasCover) await new Promise((r) => { const img = new Image(); img.onload = img.onerror = r; img.src = book.cover; });
-pushPage("cover-page", coverMarkup(book, { withImage: hasCover }));
-for (const s of sections) {
-  if (s.type === "title") { startOnRight(); pushPage("title", s.html); }
-  else if (s.type === "part") { startOnRight(); pushPage("part", s.html, s.title); }
-  else if (s.type === "dedication") { pushPage("dedication", s.html); }
-  else if (s.type === "image") { s.page = pages.length; pushPage("image", s.html, s.title); }
-  else if (s.type === "story") { s.page = pages.length; flow("story", s.html, s.title); }
-  else { s.page = pages.length; flow(s.type === "toc" ? "toc" : "front", s.html, s.title); }
-  if (s.type === "part") s.page = pages.length - 1;
-}
-if (pages.length % 2 === 0) pushPage("blank", ""); // even out the last spread
+const pages = [
+  { kind: "cover-page", html: coverMarkup(book, { withImage: hasCover }) },
+  { kind: "blank", html: "" },
+  ...interior,
+];
+for (const s of sections) if (s.page !== undefined) s.page += 1;
+if (pages.length % 2 === 0) pages.push({ kind: "blank", html: "" }); // even out the last spread
 
 /* ---------- Rendering ---------- */
 
-const NO_FOLIO = new Set(["cover-page", "title", "part", "dedication", "blank"]);
-
 function buildPage(i) {
   const data = pages[i];
-  const el = blankPage(data ? data.kind : "blank");
-  if (!data) return el;
-  if (data.kind === "cover-page") {
+  if (data && data.kind === "cover-page") {
+    const el = blankPage("cover-page");
     el.innerHTML = `<div class="body">${data.html}</div>`;
     return el;
   }
-  el.querySelector(".body").innerHTML = data.html;
-  if (!NO_FOLIO.has(data.kind)) {
-    el.querySelector(".foot").textContent = i;
-    el.querySelector(".head").textContent = i % 2 === 1 ? book.title : (data.story || "");
-  }
-  return el;
+  return pageElement(data);
 }
 
 const cache = pages.map((_, i) => buildPage(i));
@@ -165,7 +75,7 @@ function render() {
   const atEnd = single ? pos === pages.length - 1 : spreadOf(pos) === lastSpread();
   $("prev").disabled = atStart;
   $("next").disabled = atEnd;
-  $("folio").textContent = `${pos} / ${pages.length - 1}`;
+  $("folio").textContent = pos < 2 ? "Sampul" : `${pos - 1} / ${interior.length}`;
   history.replaceState(null, "", `#p=${pos}`);
   syncToc();
 }
@@ -173,9 +83,9 @@ function render() {
 function layout() {
   single = window.innerWidth < 900;
   document.body.classList.toggle("single", single);
-  const pw = 420, ph = 630, bw = single ? pw : pw * 2;
+  const mm = 96 / 25.4, pw = 148 * mm, ph = 210 * mm, bw = single ? pw : pw * 2; // A5, as printed
   const pad = window.innerWidth < 600 ? 24 : 120;
-  const scale = Math.min((stage.clientWidth - pad) / bw, (stage.clientHeight - 32) / ph, 1.6);
+  const scale = Math.min((stage.clientWidth - pad) / bw, (stage.clientHeight - 32) / ph, 1.25);
   bookEl.style.transform = `scale(${scale})`;
   frame.style.width = `${bw * scale}px`;
   frame.style.height = `${ph * scale}px`;

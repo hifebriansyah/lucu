@@ -6,8 +6,11 @@
   <title>PDF Siap Cetak</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,700;1,7..72,400&display=swap">
+  <link rel="stylesheet" href="assets/base.css">
+  <link rel="stylesheet" href="assets/pages.css">
+  <link rel="stylesheet" href="assets/print.css">
   <style>
-    /* Screen-only chrome around the paged preview. */
+    /* Screen-only chrome around the page preview. */
     @media screen {
       body { margin: 0; background: #5b564d; font-family: "Inter", system-ui, sans-serif; }
       .toolbar {
@@ -28,9 +31,6 @@
       .toolbar button:disabled { opacity: .4; cursor: default; }
       .toolbar svg { width: 18px; height: 18px; }
       .tip { padding: 8px 16px; background: #3a362f; color: #e9e1d2; font-size: 13px; }
-      #pages { padding: 24px 0 64px; }
-      .pagedjs_pages { display: flex; flex-wrap: wrap; justify-content: center; gap: 24px; }
-      .pagedjs_page { background: #fff; box-shadow: 0 6px 24px rgba(0,0,0,.35); }
     }
     @media print {
       .toolbar, .tip { display: none !important; }
@@ -41,21 +41,14 @@
   <div class="toolbar">
     <a class="ghost" href="index.html"><i data-lucide="library"></i>Rak</a>
     <a class="ghost" id="readLink" href="#"><i data-lucide="book-open"></i>Baca</a>
-    <label>Ukuran
-      <select id="size">
-        <option value="14x21">14 × 21 cm</option>
-        <option value="a5">A5 (14,8 × 21 cm)</option>
-        <option value="13x19">13 × 19 cm</option>
-      </select>
-    </label>
     <button id="printBtn" disabled><i data-lucide="printer"></i>Cetak / Simpan PDF</button>
     <span class="info" id="info">Menata halaman…</span>
   </div>
-  <div class="tip">Di jendela cetak, pilih <b>Simpan sebagai PDF</b>, biarkan ukuran kertas default, margin <b>Tidak ada</b>, dan matikan <b>Header dan footer</b>. Sampul dicetak terpisah.</div>
+  <div class="tip">Halamannya sama persis dengan yang tampil di Baca. Di jendela cetak, pilih <b>Simpan sebagai PDF</b>, biarkan ukuran kertas default, margin <b>Tidak ada</b>, dan matikan <b>Header dan footer</b>. Sampul dicetak terpisah.</div>
   <div id="pages"></div>
+  <div class="measure" id="measure" aria-hidden="true"></div>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.2/marked.min.js"></script>
   <script src="https://unpkg.com/lucide@0.469.0/dist/umd/lucide.min.js"></script>
-  <script src="https://unpkg.com/pagedjs@0.4.3/dist/paged.js"></script>
   <script type="module" src="assets/print.js"></script>
 </body>
 </html>

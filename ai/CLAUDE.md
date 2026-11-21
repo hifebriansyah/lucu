@@ -6,21 +6,21 @@ When a story needs an arbitrary count (people, messages, shares, employees), use
 
 ## Parts
 
-- Bagian Satu: Jam Kerja (1–15)
-- Bagian Dua: Di Rumah (16–27)
-- Bagian Tiga: Satu RT (28–34)
-- Bagian Empat: Politik (35–43)
-- Bagian Lima: Rumah Tangga (44–51): married life
-- Bagian Enam: Pinjaman Online (52–59)
-- Epilog (60): "Nggak Bilang", the finale. It stays last.
+- Bagian Satu: Jam Kerja (1–17)
+- Bagian Dua: Di Rumah (18–29)
+- Bagian Tiga: Satu RT (30–36)
+- Bagian Empat: Politik (37–45)
+- Bagian Lima: Rumah Tangga (46–53): married life
+- Bagian Enam: Pinjaman Online (54–61)
+- Epilog (62): "Nggak Bilang", the finale. It stays last.
 
 ## Cast in this book
 
 - **SITI**: AI agent M4.KZ-A. Too obedient, too literal, too honest. Registered as a karyawan tetap at Pak Bos's office, and in a secret relationship with Pak Bos.
 - **Pak Bos**: the office boss. Always arrives at eleven but claims eight, loves gorengan, has Pak Satpam do his titip absen.
 - **Bu HRD**: HR at the office. Works late on Friday nights.
-- **Dimas**: tired IT developer and Lead Developer. Secretly dating Nadia, later marries her (story 34). Lives in the same RT as Pak Darmo.
-- **Raka**: got in with SITI's fake CV ("ahli IT senior, lima tahun di Silicon Valley"). His only real job was five years at Silicon Valley Cell, a phone-credit counter. Junior at the office, and in story 33 a fake lawyer. Neighbour in the same RT.
+- **Dimas**: tired IT developer and Lead Developer. Secretly dating Nadia, later marries her (story 36). Lives in the same RT as Pak Darmo.
+- **Raka**: got in with SITI's fake CV ("ahli IT senior, lima tahun di Silicon Valley"). His only real job was five years at Silicon Valley Cell, a phone-credit counter. Junior at the office, and in story 35 a fake lawyer. Neighbour in the same RT.
 - **Bang Yudi**: fifteen-year programmer who claims he never uses AI, but secretly does. Three years single.
 - **Nadia**: finance. Dating Dimas.
 - **Pak Satpam**: outsourced security guard, so he never has to check in himself.
