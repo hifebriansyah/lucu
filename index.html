@@ -8,59 +8,109 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,700;1,7..72,400&display=swap">
   <link rel="stylesheet" href="assets/base.css">
   <style>
-    main { max-width: 980px; margin: 0 auto; padding: 48px 16px 64px; }
-    header h1 { font: 700 34px/1.1 var(--font-book); margin: 0 0 8px; color: var(--ink); }
-    header p { margin: 0 0 40px; color: var(--muted); }
+    :root { --wall: #e8dfd0; --wood: #8a5a35; --wood-dark: #5e3b20; --wood-light: #a8754b; }
+    @media (prefers-color-scheme: dark) {
+      :root:not([data-theme="light"]) { --wall: #24201b; --wood: #6b4528; --wood-dark: #3e2714; --wood-light: #845735; }
+    }
+    body {
+      background:
+        radial-gradient(ellipse at 50% 0%, rgba(255,255,255,.18), transparent 60%),
+        var(--wall);
+      min-height: 100vh;
+    }
+    main { max-width: 1100px; margin: 0 auto; padding: 48px 16px 64px; }
+    header { margin-bottom: 36px; }
+    header h1 { font: 700 34px/1.1 var(--font-book); margin: 0 0 8px; }
+    header p { margin: 0; color: var(--muted); }
     @media (prefers-color-scheme: dark) {
       :root:not([data-theme="light"]) header h1 { color: #f6f1e7; }
     }
-    .shelf { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 40px; }
-    .book { display: flex; flex-direction: column; gap: 16px; }
-    .book .cover-wrap {
-      aspect-ratio: 14 / 21;
-      border-radius: 3px 8px 8px 3px;
-      overflow: hidden;
-      font-size: 15px;
-      box-shadow: 0 18px 40px var(--shadow), inset 6px 0 10px rgba(0,0,0,.25);
-      transition: transform .3s ease;
+
+    /* The bookcase: books stand face-out; each one carries its own slice of plank,
+       so the planks join into one shelf per row. */
+    .case {
+      display: flex; flex-wrap: wrap;
+      padding: 28px 20px 0;
+      background: linear-gradient(var(--wood-dark), var(--wood) 6px, var(--wood-dark));
+      border-radius: 10px;
+      box-shadow: inset 0 0 0 10px var(--wood), 0 24px 50px var(--shadow);
     }
-    .book:hover .cover-wrap { transform: translateY(-4px) rotate(-0.6deg); }
-    .book .meta { color: var(--muted); font-size: 14px; }
-    .book .actions { display: flex; gap: 10px; flex-wrap: wrap; }
-    .book.missing .cover-wrap { filter: grayscale(.6) opacity(.7); }
+    .slot {
+      flex: 0 0 auto;
+      width: 230px;
+      padding: 28px 22px 0;
+      display: flex; flex-direction: column; align-items: center;
+      background: linear-gradient(to bottom, rgba(0,0,0,.35), rgba(0,0,0,.12) 40%, rgba(0,0,0,.2));
+    }
+    .plank {
+      display: block; width: calc(100% + 44px); height: 22px; flex: none;
+      background: linear-gradient(var(--wood-light), var(--wood) 40%, var(--wood-dark));
+      box-shadow: 0 6px 10px rgba(0,0,0,.35);
+    }
+    .book {
+      position: relative; display: block; width: 100%;
+      aspect-ratio: 14 / 21;
+      border-radius: 2px 6px 6px 2px;
+      overflow: hidden; font-size: 13px;
+      box-shadow: 4px 6px 14px rgba(0,0,0,.45), inset 7px 0 10px rgba(0,0,0,.28);
+      transform-origin: 50% 100%;
+      transition: transform .25s ease;
+      text-decoration: none;
+    }
+    .book:hover, .book:focus-visible { transform: translateY(-10px) rotate(-1deg); }
+    .book.missing { filter: grayscale(.7) brightness(.8); }
+    .label {
+      width: 100%; min-height: 84px; padding: 12px 0 16px; text-align: center;
+      color: #f6efe2; font-size: 13px;
+    }
+    .label .count { opacity: .8; display: block; margin-bottom: 10px; }
+    .label .actions { display: flex; gap: 8px; justify-content: center; }
+    .label .btn { padding: 8px 12px; font-size: 13px; background: rgba(0,0,0,.45); color: #f6efe2; }
+    .empty-slot .book { background: rgba(255,255,255,.04); box-shadow: inset 0 0 0 2px rgba(255,255,255,.12); display: grid; place-items: center; color: rgba(255,255,255,.4); }
+    @media (max-width: 560px) { .slot { width: 50%; padding: 22px 10px 0; } .plank { width: calc(100% + 20px); } }
   </style>
 </head>
 <body>
   <main>
     <header>
       <h1>Rak Buku Lucu</h1>
-      <p>Pratinjau setiap buku, lalu cetak naskahnya sebagai PDF siap cetak.</p>
+      <p>Semua buku di satu rak. Pilih buku untuk dibaca, atau buat PDF siap cetak.</p>
     </header>
-    <section class="shelf" id="shelf"></section>
+    <section class="case" id="case" aria-label="Rak buku"></section>
   </main>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.2/marked.min.js"></script>
   <script src="https://unpkg.com/lucide@0.469.0/dist/umd/lucide.min.js"></script>
   <script type="module">
     import { loadCatalog, parseSections, coverMarkup } from "./assets/book.js";
-    const shelf = document.getElementById("shelf");
-    for (const book of await loadCatalog()) {
+    const shelf = document.getElementById("case");
+    const books = await loadCatalog();
+    for (const book of books) {
       const res = await fetch(book.manuscript, { cache: "no-store" });
       const ok = res.ok;
       const stories = ok ? parseSections(await res.text()).filter((s) => s.type === "story").length : 0;
-      const el = document.createElement("article");
-      el.className = "book" + (ok ? "" : " missing");
-      el.innerHTML = `
-        <div class="cover-wrap">${coverMarkup(book)}</div>
-        <div class="meta">${ok ? `${stories} cerita` : "Naskah belum tersedia"}</div>
-        <div class="actions">
-          <a class="btn" href="reader.html?book=${book.id}" ${ok ? "" : 'aria-disabled="true" style="pointer-events:none;opacity:.4"'}>
-            <i data-lucide="book-open" class="icon"></i> Baca
-          </a>
-          <a class="btn ghost" href="print.html?book=${book.id}" ${ok ? "" : 'aria-disabled="true" style="pointer-events:none;opacity:.4"'}>
-            <i data-lucide="printer" class="icon"></i> PDF siap cetak
-          </a>
+      const off = ok ? "" : ' aria-disabled="true" style="pointer-events:none;opacity:.4"';
+      const slot = document.createElement("div");
+      slot.className = "slot";
+      slot.innerHTML = `
+        <a class="book${ok ? "" : " missing"}" href="reader.html?book=${book.id}"${off} title="${book.title}">${coverMarkup(book)}</a>
+        <span class="plank"></span>
+        <div class="label">
+          <span class="count">${ok ? `${stories} cerita` : "Naskah belum tersedia"}</span>
+          <span class="actions">
+            <a class="btn" href="reader.html?book=${book.id}"${off}><i data-lucide="book-open" class="icon"></i>Baca</a>
+            <a class="btn" href="print.html?book=${book.id}"${off}><i data-lucide="printer" class="icon"></i>PDF</a>
+          </span>
         </div>`;
-      shelf.append(el);
+      shelf.append(slot);
+    }
+    // Pad the shelf with empty spaces so the planks run the full width.
+    const perRow = Math.max(1, Math.floor(shelf.clientWidth / 230));
+    const filler = (perRow - (books.length % perRow)) % perRow;
+    for (let i = 0; i < filler; i++) {
+      const slot = document.createElement("div");
+      slot.className = "slot empty-slot";
+      slot.innerHTML = `<div class="book" aria-hidden="true"></div><span class="plank"></span><div class="label">&nbsp;</div>`;
+      shelf.append(slot);
     }
     lucide.createIcons();
   </script>

@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Pembaca Buku</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,700;1,7..72,400&display=swap">
+  <link rel="stylesheet" href="assets/base.css">
+  <link rel="stylesheet" href="assets/reader.css">
+</head>
+<body>
+  <nav class="bar">
+    <a class="btn ghost" href="index.html"><i data-lucide="library" class="icon"></i><span class="hide-sm">Rak</span></a>
+    <select id="toc" aria-label="Lompat ke cerita"></select>
+    <span id="folio" class="folio"></span>
+    <a class="btn" id="printLink" href="#"><i data-lucide="printer" class="icon"></i><span class="hide-sm">PDF</span></a>
+  </nav>
+  <div class="stage" id="stage">
+    <button class="turn prev" id="prev" aria-label="Halaman sebelumnya"><i data-lucide="chevron-left"></i></button>
+    <div class="book-frame" id="frame">
+      <div class="book" id="book">
+        <div class="slot left" id="left"></div>
+        <div class="slot right" id="right"></div>
+      </div>
+    </div>
+    <button class="turn next" id="next" aria-label="Halaman berikutnya"><i data-lucide="chevron-right"></i></button>
+  </div>
+  <div class="loading" id="loading">Menata halaman…</div>
+  <div class="measure" id="measure" aria-hidden="true"></div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/12.0.2/marked.min.js"></script>
+  <script src="https://unpkg.com/lucide@0.469.0/dist/umd/lucide.min.js"></script>
+  <script type="module" src="assets/reader.js"></script>
+</body>
+</html>

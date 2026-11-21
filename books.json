@@ -3,13 +3,14 @@
     "id": "ai",
     "title": "Kecerdasan Buatan, Kelakuan Asli",
     "subtitle": "Cerita-Cerita Pendek tentang SITI, AI yang Terlalu Rajin",
+    "kicker": "SITI · M4.KZ-A",
     "manuscript": "ai/naskah.md",
     "cover": "ai/cover.jpg",
     "color": "#1f4e5f"
   },
   {
     "id": "politics",
-    "title": "Buku Politik",
+    "title": "Janji Tinggal Janji",
     "subtitle": "Seratus Cerita Pendek tentang Politik di Sekitar Kita",
     "manuscript": "politics/naskah.md",
     "cover": "politics/cover.jpg",

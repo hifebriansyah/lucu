@@ -1,0 +1,56 @@
+/* Book interior for print. Page size and margins are added by print.js. */
+
+@page {
+  @bottom-center {
+    content: counter(page);
+    font: 500 8.5pt "Inter", sans-serif;
+    color: #555;
+  }
+}
+@page :left {
+  @top-center { content: string(booktitle); font: 500 7.5pt "Inter", sans-serif; letter-spacing: .08em; text-transform: uppercase; color: #777; }
+}
+@page :right {
+  @top-center { content: string(storytitle); font: 500 7.5pt "Inter", sans-serif; letter-spacing: .08em; text-transform: uppercase; color: #777; }
+}
+@page front {
+  @top-center { content: none; }
+  @bottom-center { content: none; }
+}
+@page :blank {
+  @top-center { content: none; }
+  @bottom-center { content: none; }
+}
+
+.pagedjs_area { font: 10.5pt/1.55 "Literata", Georgia, serif; color: #111; }
+.pagedjs_area .booktitle-marker { string-set: booktitle content(text); display: none; }
+
+.pagedjs_area p { margin: 0 0 0.6em; orphans: 2; widows: 2; text-align: left; hyphens: auto; }
+.pagedjs_area em { font-style: italic; }
+.pagedjs_area h1, .pagedjs_area h2, .pagedjs_area h3 { font-family: "Literata", Georgia, serif; line-height: 1.15; break-after: avoid; }
+
+.title-page, .front, .dedication, .toc-page, .part { page: front; }
+.title-page, .front, .dedication, .toc-page, .story { break-before: page; }
+.title-page { break-before: right; }
+.part { break-before: right; break-after: page; }
+
+.title-page { text-align: center; padding-top: 30%; }
+.title-page h1 { font-size: 22pt; margin: 0 0 10pt; }
+.title-page h3 { font-weight: 400; font-style: italic; font-size: 12pt; margin: 0 0 40pt; }
+
+.dedication { text-align: center; font-style: italic; padding-top: 35%; }
+
+.front h2 { font-size: 15pt; margin: 0 0 16pt; }
+
+.part { text-align: center; padding-top: 40%; }
+.part h1 { font-size: 20pt; margin: 0; }
+
+.story h2 { font-size: 16pt; margin: 12pt 0 18pt; string-set: storytitle content(text); }
+
+.toc-page h2 { font-size: 15pt; margin: 0 0 14pt; }
+.toc-page ol { list-style: none; padding: 0; margin: 0; }
+.toc-page li { margin: 0 0 3pt; font-size: 9.5pt; }
+.toc-page li.toc-part { font-weight: 700; margin-top: 9pt; }
+.toc-page a { color: inherit; text-decoration: none; display: flex; }
+.toc-page a .t { flex: 1; }
+.toc-page a::after { content: target-counter(attr(href), page); }
