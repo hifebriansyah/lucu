@@ -38,6 +38,7 @@ for (const s of sections) {
   else if (s.type === "part") el.className = "part";
   else if (s.type === "story") el.className = "story";
   else if (s.type === "toc") el.className = "toc-page";
+  else if (s.type === "image") el.className = "image-page";
   else el.className = "front";
   el.innerHTML = s.html;
   if (s.type === "story" || s.type === "part") {

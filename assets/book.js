@@ -28,7 +28,11 @@ export function parseSections(md) {
     const story = text.match(/^##\s+(\d+)\.\s+(.+)$/m);
     const part = text.match(/^#\s+(.+)$/m);
     const heading = text.match(/^##\s+(.+)$/m);
-    if (index === 0) {
+    const image = text.match(/^!\[[^\]]*\]\(([^)]+)\)$/);
+    if (image) {
+      type = "image";
+      title = (text.match(/^!\[([^\]]*)\]/) || [])[1] || "";
+    } else if (index === 0) {
       type = "title";
       title = part ? part[1] : "";
     } else if (story && text.trim().startsWith("##")) {

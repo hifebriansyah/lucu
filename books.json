@@ -15,5 +15,14 @@
     "manuscript": "politics/naskah.md",
     "cover": "politics/cover.jpg",
     "color": "#7a2e2a"
+  },
+  {
+    "id": "draw",
+    "title": "Buku Mewarnai SITI",
+    "subtitle": "Gambar dari Cerita-Cerita Kecerdasan Buatan, Kelakuan Asli",
+    "kicker": "Digambar dengan kode",
+    "manuscript": "draw/naskah.md",
+    "cover": "draw/cover.jpg",
+    "color": "#3d6b3a"
   }
 ]

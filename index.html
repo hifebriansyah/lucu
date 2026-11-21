@@ -87,7 +87,9 @@
     for (const book of books) {
       const res = await fetch(book.manuscript, { cache: "no-store" });
       const ok = res.ok;
-      const stories = ok ? parseSections(await res.text()).filter((s) => s.type === "story").length : 0;
+      const secs = ok ? parseSections(await res.text()) : [];
+      const stories = secs.filter((s) => s.type === "story").length;
+      const images = secs.filter((s) => s.type === "image").length;
       const off = ok ? "" : ' aria-disabled="true" style="pointer-events:none;opacity:.4"';
       const slot = document.createElement("div");
       slot.className = "slot";
@@ -95,7 +97,7 @@
         <a class="book${ok ? "" : " missing"}" href="reader.html?book=${book.id}"${off} title="${book.title}">${coverMarkup(book)}</a>
         <span class="plank"></span>
         <div class="label">
-          <span class="count">${ok ? `${stories} cerita` : "Naskah belum tersedia"}</span>
+          <span class="count">${!ok ? "Naskah belum tersedia" : stories ? `${stories} cerita` : `${images} gambar`}</span>
           <span class="actions">
             <a class="btn" href="reader.html?book=${book.id}"${off}><i data-lucide="book-open" class="icon"></i>Baca</a>
             <a class="btn" href="print.html?book=${book.id}"${off}><i data-lucide="printer" class="icon"></i>PDF</a>

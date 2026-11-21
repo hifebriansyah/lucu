@@ -63,40 +63,50 @@ function flow(kind, html, story) {
     body.append(block);
     if (!overflows(body)) continue;
     block.remove();
-    if (body.childElementCount) {
+    // Lists can continue across pages, so fill the rest of this page first.
+    const isList = block.tagName === "OL" || block.tagName === "UL";
+    if (body.childElementCount && !isList) {
       flush();
       body.append(block);
       if (!overflows(body)) continue;
       block.remove();
     }
-    // A single block taller than a page: split plain paragraphs by words.
-    if (block.tagName === "P" && block.children.length === 0) {
-      const words = block.textContent.split(/\s+/);
-      let p = document.createElement("p");
-      body.append(p);
-      for (const w of words) {
-        p.textContent = (p.textContent ? p.textContent + " " : "") + w;
-        if (overflows(body)) {
-          p.textContent = p.textContent.slice(0, -(w.length + 1));
-          flush();
-          p = document.createElement("p");
-          p.textContent = w;
-          body.append(p);
-        }
-      }
-    } else {
-      body.append(block); // accept clipping rather than losing text
+    // A single block taller than a page (a long paragraph, or the contents list):
+    // move its pieces one by one into copies of the block, starting a new page
+    // whenever the current one is full.
+    let shell = block.cloneNode(false);
+    body.append(shell);
+    const pieces = [...block.childNodes].flatMap((n) =>
+      n.nodeType === Node.TEXT_NODE ? n.textContent.split(/(?<=\s)/).map((t) => document.createTextNode(t)) : [n]);
+    for (const piece of pieces) {
+      shell.append(piece);
+      if (!overflows(body)) continue;
+      piece.remove();
+      if (piece.nodeName === "BR") continue; // a line break at the page end is not needed
+      const prev = shell;
       flush();
+      shell = block.cloneNode(false);
+      if (shell.tagName === "OL") {
+        shell.start = (prev.start || 1) + prev.children.length; // keep numbering going
+      }
+      body.append(shell);
+      if (piece.nodeType === Node.TEXT_NODE && !piece.textContent.trim()) continue;
+      shell.append(piece);
     }
+    // drop a leading line break left at the top of a continued block
+    while (shell.firstChild && shell.firstChild.nodeName === "BR") shell.firstChild.remove();
   }
   flush();
 }
 
-pushPage("cover-page", coverMarkup(book));
+const hasCover = await fetch(book.cover, { method: "HEAD" }).then((r) => r.ok).catch(() => false);
+if (hasCover) await new Promise((r) => { const img = new Image(); img.onload = img.onerror = r; img.src = book.cover; });
+pushPage("cover-page", coverMarkup(book, { withImage: hasCover }));
 for (const s of sections) {
   if (s.type === "title") { startOnRight(); pushPage("title", s.html); }
   else if (s.type === "part") { startOnRight(); pushPage("part", s.html, s.title); }
   else if (s.type === "dedication") { pushPage("dedication", s.html); }
+  else if (s.type === "image") { s.page = pages.length; pushPage("image", s.html, s.title); }
   else if (s.type === "story") { s.page = pages.length; flow("story", s.html, s.title); }
   else { s.page = pages.length; flow(s.type === "toc" ? "toc" : "front", s.html, s.title); }
   if (s.type === "part") s.page = pages.length - 1;
@@ -107,7 +117,7 @@ if (pages.length % 2 === 0) pushPage("blank", ""); // even out the last spread
 
 const NO_FOLIO = new Set(["cover-page", "title", "part", "dedication", "blank"]);
 
-function pageEl(i) {
+function buildPage(i) {
   const data = pages[i];
   const el = blankPage(data ? data.kind : "blank");
   if (!data) return el;
@@ -123,6 +133,10 @@ function pageEl(i) {
   return el;
 }
 
+const cache = pages.map((_, i) => buildPage(i));
+const blankEl = blankPage("blank");
+const pageEl = (i) => (cache[i] || blankEl).cloneNode(true);
+
 const left = $("left"), right = $("right"), bookEl = $("book"), frame = $("frame"), stage = $("stage");
 let single = false;
 let pos = Math.min(parseInt((location.hash.match(/p=(\d+)/) || [])[1] || "0", 10), pages.length - 1);
@@ -132,6 +146,8 @@ const spreadOf = (p) => Math.floor((p + 1) / 2);
 const lastSpread = () => spreadOf(pages.length - 1);
 
 function fill(slot, i) {
+  if (slot.dataset.idx === String(i)) return;
+  slot.dataset.idx = String(i);
   slot.replaceChildren();
   slot.classList.toggle("empty", i < 0 || i >= pages.length);
   if (i >= 0 && i < pages.length) slot.append(pageEl(i));
@@ -213,20 +229,28 @@ function turn(dir) {
     angle = 180;
   }
 
-  bookEl.append(leaf);
-  leaf.getBoundingClientRect(); // commit the start state before animating
-  leaf.style.transition = "";
-  leaf.classList.add("turning");
-  leaf.style.transform = `rotateY(${angle}deg)`;
+  const cast = document.createElement("div");
+  cast.className = `cast ${!single && dir < 0 ? "on-left" : "on-right"}`;
+  bookEl.append(cast, leaf);
+  requestAnimationFrame(() => requestAnimationFrame(() => {
+    leaf.style.transition = "";
+    cast.classList.add("turning");
+    leaf.classList.add("turning");
+    leaf.style.transform = `rotateY(${angle}deg)`;
+  }));
 
+  let finished = false;
   const done = () => {
-    leaf.remove();
+    if (finished) return;
+    finished = true;
     pos = Math.max(0, Math.min(target, pages.length - 1));
-    busy = false;
-    render();
+    render(); // fills the slot the leaf now covers, while the leaf is still on top
+    requestAnimationFrame(() => { leaf.remove(); cast.remove(); busy = false; });
   };
-  leaf.addEventListener("transitionend", done, { once: true });
-  setTimeout(() => busy && done(), 1200);
+  leaf.addEventListener("transitionend", (e) => {
+    if (e.target === leaf && e.propertyName === "transform") done();
+  });
+  setTimeout(done, 1100);
 }
 
 function jump(p) {
