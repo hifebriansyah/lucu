@@ -1,6 +1,6 @@
 # lucu/
 
-`naskah.md` compiles every story into one book manuscript (title page, copyright, contents, foreword, both parts, closing). When a story changes or a new one is added, update `naskah.md` and its Daftar Isi in the same change.
+`naskah.md` compiles every story into one book manuscript (title page, copyright, contents, foreword, the three parts, closing). When a story changes or a new one is added, update `naskah.md` and its Daftar Isi in the same change.
 
 Short funny stories about AI, written in casual Indonesian (gue/lu for dialogue). One story per file: `1.md`, `2.md`, ...
 
