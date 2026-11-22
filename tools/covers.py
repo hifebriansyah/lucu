@@ -20,6 +20,10 @@ For each original this writes, when the copy is missing or the original's conten
   part prints black and the lightest white (plain grayscale often prints flat and muddy).
 The cover (books.json `cover`, for example ai/book-cover/web/cover.jpg) is copied from the
 picture one folder up, whatever its name (cover.jpeg wins if there are several), 1800 px tall.
+Each part's contents page has a picture too (books.json `contentsArt`, for example
+ai/section-art/web/{n}.jpg from ai/section-art/1.jpeg, numbered like the parts).
+Front-matter pictures (books.json `frontArt`, for example "Kenalan dengan SITI" ->
+ai/front-art/web/siti.jpg) are copied from the picture of the same name one folder up.
 It also writes web/index.json with each picture's fingerprint; the pages add it to the
 picture's address, so the browser never shows an old cached copy. It deletes copies whose
 original is gone, and warns about
@@ -180,6 +184,40 @@ def sync_cover(pattern, rebuild, check):
     return 1
 
 
+def sync_front(art, rebuild, check):
+    """Each part's contents page has a picture too (books.json `contentsArt`, for example
+ai/section-art/web/{n}.jpg from ai/section-art/1.jpeg, numbered like the parts).
+Front-matter pictures (books.json `frontArt`, title -> web/<name>.jpg): each is copied
+    from the picture of the same name one folder up (ai/front-art/siti.jpeg -> web/siti.jpg),
+    HEIGHT px tall, with a black-and-white copy in bw/."""
+    made = 0
+    for title, pattern in art.items():
+        dest = ROOT / pattern
+        web, bw = dest.parent, dest.parent.parent / "bw"
+        srcs = [p for p in web.parent.glob(dest.stem + ".*") if p.suffix.lower() in EXTS]
+        if not srcs:
+            print(f"  warning: no picture for {title} ({web.parent.relative_to(ROOT)}/{dest.stem}.jpeg)")
+            continue
+        index_file = web / "index.json"
+        try:
+            index = json.loads(index_file.read_text(encoding="utf-8"))
+        except (OSError, ValueError):
+            index = {}
+        fp = fingerprint(srcs[0])
+        if not rebuild and index.get(dest.name, {}).get("src") == fp and dest.exists():
+            continue
+        print(f"  {'would update' if check else 'update'} {srcs[0].relative_to(ROOT)} -> {dest.relative_to(ROOT)}")
+        made += 1
+        if not check:
+            web.mkdir(parents=True, exist_ok=True)
+            bw.mkdir(exist_ok=True)
+            save_copies(srcs[0], dest, bw / dest.name, 1.0)
+            index[dest.name] = {"src": fp}
+            index_file.write_text(json.dumps(dict(sorted(index.items())), indent=1) + "\n", encoding="utf-8")
+    print(f"front: {len(art)} pictures, {made} {'to update' if check else 'updated'}")
+    return made
+
+
 def main():
     parser = argparse.ArgumentParser(description="Update the color and black-and-white copies of story and section pictures.")
     parser.add_argument("--book", default="ai", help="book id from books.json (default: ai)")
@@ -194,7 +232,7 @@ def main():
         sys.exit(f"no book '{args.book}' in books.json")
     cover = book.get("cover", "")
     has_cover = "/web/" in cover  # a cover kept as a copy of an original one folder up
-    if not book.get("storyArt") and not book.get("partArt") and not has_cover:
+    if not book.get("storyArt") and not book.get("partArt") and not book.get("frontArt") and not book.get("contentsArt") and not has_cover:
         sys.exit(f"book '{args.book}' has no storyArt, partArt or cover copy in books.json")
 
     stories, parts = manuscript_counts(book)
@@ -202,6 +240,10 @@ def main():
         sync("story", book["storyArt"], stories, args.all, args.check, args.contrast)
     if book.get("partArt"):
         sync("section", book["partArt"], parts, args.all, args.check, args.contrast)
+    if book.get("contentsArt"):
+        sync("contents", book["contentsArt"], parts, args.all, args.check, args.contrast)
+    if book.get("frontArt"):
+        sync_front(book["frontArt"], args.all, args.check)
     if has_cover:
         sync_cover(cover, args.all, args.check)
 

@@ -1,6 +1,6 @@
 import { loadBook, coverMarkup } from "./book.js";
 import { paginate, pageElement, blankPage } from "./paginate.js";
-import { PAPERS, DEFAULT_PAPER, savedPaper, savePaper, applyPaper } from "./paper.js";
+import { PAPERS, DEFAULT_PAPER, savedPaper, savePaper, applyPaper, BORDERS, DEFAULT_BORDER, savedBorder, saveBorder, applyBorder, FRAMES, DEFAULT_FRAME, savedFrame, saveFrame, applyFrame } from "./paper.js";
 
 const $ = (id) => document.getElementById(id);
 const params = new URLSearchParams(location.search);
@@ -23,37 +23,61 @@ try { bwSaved = localStorage.getItem("lucu-bw") === "1"; } catch {}
 setBw(bwSaved);
 bwBtn.addEventListener("click", () => setBw(!document.body.classList.contains("bw")));
 
-// Paper color: try colors live, Simpan keeps it (for this book, and for the PDF);
-// closing the panel without saving goes back to the saved color.
-let paper = savedPaper(book.id) || DEFAULT_PAPER;
-let trying = paper;
-const paperBtn = $("paperBtn"), paperPanel = $("paperPanel"), paperInput = $("paperInput");
-function tryPaper(color) {
-  trying = color.toLowerCase();
-  applyPaper(trying === DEFAULT_PAPER ? null : trying);
-  $("paperDot").style.background = trying;
-  paperInput.value = trying;
-  for (const b of $("paperSwatches").children) b.setAttribute("aria-pressed", b.dataset.color === trying);
+// Paper and picture-border colors and the part-picture shape: try them live, Simpan keeps all (for this book, and
+// for the PDF); closing the panel without saving goes back to the saved colors.
+const paperBtn = $("paperBtn"), paperPanel = $("paperPanel");
+function picker({ list, def, saved, save, apply, swatches, input, onTry }) {
+  let kept = saved(book.id) || def, now = kept;
+  const set = (color) => {
+    now = color.toLowerCase();
+    apply(now === def ? null : now);
+    $(input).value = now;
+    for (const b of $(swatches).children) b.setAttribute("aria-pressed", b.dataset.color === now);
+    onTry(now);
+  };
+  for (const p of list) {
+    const b = Object.assign(document.createElement("button"), { type: "button", title: p.name, className: "swatch-btn" });
+    b.dataset.color = p.color;
+    b.innerHTML = `<span class="swatch" style="background:${p.color}"></span>${p.name}`;
+    b.addEventListener("click", () => set(p.color));
+    $(swatches).append(b);
+  }
+  $(input).addEventListener("input", () => set($(input).value));
+  set(kept);
+  return { reset: () => set(def), revert: () => set(kept), keep: () => { kept = now; save(book.id, kept); } };
 }
+const paperPick = picker({ list: PAPERS, def: DEFAULT_PAPER, saved: savedPaper, save: savePaper, apply: applyPaper,
+  swatches: "paperSwatches", input: "paperInput", onTry: (c) => { $("paperDot").style.background = c; } });
+const borderPick = picker({ list: BORDERS, def: DEFAULT_BORDER, saved: savedBorder, save: saveBorder, apply: applyBorder,
+  swatches: "borderSwatches", input: "borderInput", onTry: (c) => { $("paperDot").style.boxShadow = `inset 0 0 0 1px rgba(0, 0, 0, .25), 0 0 0 2px ${c}`; } });
+// Shape of the picture facing each part picture: one of a few shapes, no custom value.
+const framePick = (() => {
+  let kept = savedFrame(book.id) || DEFAULT_FRAME, now = kept;
+  const set = (v) => {
+    now = v;
+    applyFrame(v);
+    for (const b of $("frameButtons").children) b.setAttribute("aria-pressed", b.dataset.value === v);
+  };
+  for (const f of FRAMES) {
+    const b = Object.assign(document.createElement("button"), { type: "button", title: f.name, className: "swatch-btn" });
+    b.dataset.value = f.value;
+    b.innerHTML = `<span class="shape-dot" data-shape="${f.value}"></span>${f.name}`;
+    b.addEventListener("click", () => set(f.value));
+    $("frameButtons").append(b);
+  }
+  set(kept);
+  return { reset: () => set(DEFAULT_FRAME), revert: () => set(kept), keep: () => { kept = now; saveFrame(book.id, kept); } };
+})();
 function openPaper(open) {
   paperPanel.hidden = !open;
   paperBtn.setAttribute("aria-expanded", open);
-  if (!open) tryPaper(paper); // drop an unsaved try
+  if (!open) { paperPick.revert(); borderPick.revert(); framePick.revert(); } // drop an unsaved try
 }
-for (const p of PAPERS) {
-  const b = Object.assign(document.createElement("button"), { type: "button", title: p.name, className: "swatch-btn" });
-  b.dataset.color = p.color;
-  b.innerHTML = `<span class="swatch" style="background:${p.color}"></span>${p.name}`;
-  b.addEventListener("click", () => tryPaper(p.color));
-  $("paperSwatches").append(b);
-}
-paperInput.addEventListener("input", () => tryPaper(paperInput.value));
 paperBtn.addEventListener("click", () => openPaper(paperPanel.hidden));
-$("paperReset").addEventListener("click", () => tryPaper(DEFAULT_PAPER));
-$("paperSave").addEventListener("click", () => { paper = trying; savePaper(book.id, paper); openPaper(false); });
+$("paperReset").addEventListener("click", () => { paperPick.reset(); borderPick.reset(); framePick.reset(); });
+$("paperSave").addEventListener("click", () => { paperPick.keep(); borderPick.keep(); framePick.keep(); openPaper(false); });
 document.addEventListener("click", (e) => { if (!paperPanel.hidden && !e.target.closest(".paper-pick")) openPaper(false); });
 document.addEventListener("keydown", (e) => { if (e.key === "Escape" && !paperPanel.hidden) openPaper(false); });
-tryPaper(paper);
 
 if (missing) {
   $("loading").textContent = "Naskah buku ini belum tersedia.";
@@ -119,8 +143,11 @@ function render() {
   }
   const atStart = single ? pos === 0 : spreadOf(pos) === 0;
   const atEnd = single ? pos === pages.length - 1 : spreadOf(pos) === lastSpread();
-  $("prev").disabled = atStart;
-  $("next").disabled = atEnd;
+  $("prev").disabled = $("prevPage").disabled = atStart;
+  $("next").disabled = $("nextPage").disabled = atEnd;
+  const [first, last] = shown();
+  $("prevSec").disabled = !partPages.some((p) => p < first);
+  $("nextSec").disabled = !partPages.some((p) => p > last);
   $("folio").textContent = pos < 2 ? "Sampul" : `${pos - 1} / ${interior.length}`;
   history.replaceState(null, "", `#p=${pos}`);
   syncToc();
@@ -209,6 +236,22 @@ function turn(dir) {
   setTimeout(done, 1100);
 }
 
+// Screen indexes of the pages now in view (one page, or the two of a spread).
+function shown() {
+  if (single) return [pos, pos];
+  const sp = spreadOf(pos);
+  return [Math.max(0, 2 * sp - 1), 2 * sp];
+}
+
+// Part (section) opening pages, in screen indexes: » goes to the next one after the pages
+// in view, « to the start of the current part, or the one before if already at its start.
+const partPages = sections.filter((s) => s.type === "part" && s.page !== undefined).map((s) => s.page);
+function jumpSection(dir) {
+  const [first, last] = shown();
+  const target = dir > 0 ? partPages.find((p) => p > last) : partPages.filter((p) => p < first).pop();
+  if (target !== undefined) jump(target);
+}
+
 function jump(p) {
   pos = Math.max(0, Math.min(p, pages.length - 1));
   render();
@@ -242,6 +285,10 @@ toc.addEventListener("change", () => jump(+toc.value));
 /* ---------- Input ---------- */
 
 $("next").addEventListener("click", () => turn(1));
+$("nextPage").addEventListener("click", () => turn(1));
+$("prevPage").addEventListener("click", () => turn(-1));
+$("nextSec").addEventListener("click", () => jumpSection(1));
+$("prevSec").addEventListener("click", () => jumpSection(-1));
 $("prev").addEventListener("click", () => turn(-1));
 document.addEventListener("keydown", (e) => {
   if (e.key === "ArrowRight" || e.key === "PageDown" || e.key === " ") { e.preventDefault(); turn(1); }

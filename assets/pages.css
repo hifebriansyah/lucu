@@ -39,12 +39,16 @@
 
 /* Story title in the section posters' face (Orbitron), so the whole book shares one title font;
    centered, with wide letter spacing. */
-.page.story h2 { font: 900 16pt/1.25 "Orbitron", var(--font-ui); letter-spacing: .16em; text-align: center; margin: 12pt 0 18pt; }
+/* Every page heading (stories, front pages, contents) is centered in the title font. */
+.page.story h2, .page.front h2, .page.toc h2 { font: 900 16pt/1.25 "Orbitron", var(--font-ui); letter-spacing: .16em; text-align: center; margin: 12pt 0 18pt; }
 /* Story picture: on the right-hand page facing the story. It keeps the normal page margins, so
    it lines up with the text block on the facing page and leaves room for the page number;
    rounded corners are 41px, for "AI", with a white gap and then a SITI-blue border. */
-.page.art .body img { box-sizing: border-box; width: 100%; height: 100%; object-fit: cover; display: block; border-radius: 41px; border: 1.5pt solid var(--siti); padding: 3pt; background: #fff; }
-.page.front h2 { font-size: 15pt; margin: 0 0 16pt; }
+.page.art .body { display: flex; flex-direction: column; gap: 7mm; } /* between the spill text and the picture */
+.page.art .body img { box-sizing: border-box; width: 100%; flex: 1 1 0; min-height: 0; object-fit: cover; display: block; border-radius: 41px; border: 1.5pt solid var(--siti); padding: 3pt; background: #fff; }
+/* A story only a few lines too long ends at the top of its picture page; the picture takes
+   the rest of the page, 7 mm below the last line. */
+.page.art .spill > :last-child { margin-bottom: 0; }
 
 .page.title .body { text-align: center; padding-top: 30%; }
 .page.title h1 { font-size: 24pt; margin: 0 0 10pt; }
@@ -67,11 +71,30 @@
 .page.part h1.poster.big .main { font-size: 56pt; }
 .page.part h1.poster .sub { font: 600 19pt/1.1 "Orbitron", var(--font-ui); letter-spacing: .12em; -webkit-text-stroke-width: 1pt; }
 
-.page.toc h2 { font-size: 15pt; margin: 0 0 14pt; }
 .page.toc .body p, .page.toc .body li { margin: 0 0 3pt; font-size: 10pt; }
 .page.toc .body p { margin-top: 9pt; }
 .page.toc .body ol { padding-left: 2.2em; }
 .page.toc .pg { float: right; padding-left: .6em; font-variant-numeric: tabular-nums; }
+/* The page facing a part's picture: a picture in a frame shape chosen in the reader
+   (paper.js sets data-frame on the page root; hexagon by default), as big as the page allows,
+   framed like the story pictures: a --siti line, a white gap, then the picture. The same shape
+   variables draw the small previews on the reader's shape buttons (data-shape). */
+:root, [data-shape="hexagon"] { --frame-clip: polygon(50% 0, 100% 25%, 100% 75%, 50% 100%, 0 75%, 0 25%); --frame-ratio: .866; }
+[data-frame="gon41"], [data-shape="gon41"] { --frame-clip: polygon(50.00% 0.00%, 57.63% 0.59%, 65.09% 2.33%, 72.19% 5.19%, 78.77% 9.10%, 84.67% 13.97%, 89.76% 19.69%, 93.93% 26.11%, 97.06% 33.10%, 99.09% 40.48%, 99.96% 48.08%, 99.67% 55.73%, 98.21% 63.25%, 95.63% 70.45%, 91.97% 77.18%, 87.33% 83.27%, 81.81% 88.57%, 75.55% 92.98%, 68.69% 96.38%, 61.39% 98.68%, 53.83% 99.85%, 46.17% 99.85%, 38.61% 98.68%, 31.31% 96.38%, 24.45% 92.98%, 18.19% 88.57%, 12.67% 83.27%, 8.03% 77.18%, 4.37% 70.45%, 1.79% 63.25%, 0.33% 55.73%, 0.04% 48.08%, 0.91% 40.48%, 2.94% 33.10%, 6.07% 26.11%, 10.24% 19.69%, 15.33% 13.97%, 21.23% 9.10%, 27.81% 5.19%, 34.91% 2.33%, 42.37% 0.59%); --frame-ratio: 1; }
+[data-frame="circle"], [data-shape="circle"] { --frame-clip: circle(50%); --frame-ratio: 1; }
+[data-frame="square"], [data-shape="square"] { --frame-clip: inset(0); --frame-ratio: 1; }
+/* A triangle's slanted sides need more room for an even line and gap: an inward offset d moves
+   the apex down 2d and the base corners in 1.73d. */
+[data-frame="triangle"], [data-shape="triangle"] { --frame-clip: polygon(50% 0, 100% 100%, 0 100%); --frame-ratio: 1.1547; --ring-pad: 4pt 3.46pt 2pt; --gap-pad: 7pt 6.06pt 3.5pt; }
+[data-frame="wide"], [data-shape="wide"] { --frame-clip: inset(0); --frame-ratio: 1.7778; }
+.page.hex-art .body { display: flex; flex-direction: column; align-items: center; justify-content: center; }
+.page.hex-art .hex { margin: 0; width: 100%; display: flex; justify-content: center; }
+.page.hex-art .hex span, .page.hex-art .hex img { display: block; clip-path: var(--frame-clip); }
+.page.hex-art .hex-ring { width: 100%; aspect-ratio: var(--frame-ratio); background: var(--siti); padding: var(--ring-pad, 2pt); box-sizing: border-box; }
+.page.hex-art .hex-gap { width: 100%; height: 100%; background: #fff; padding: var(--gap-pad, 3.5pt); box-sizing: border-box; }
+.page.hex-art .hex img { width: 100%; height: 100%; object-fit: cover; }
+.page.hex-art .trivia { margin: 9mm 4mm 0; text-align: center; font-style: italic; font-size: 10.5pt; line-height: 1.45; text-wrap: balance; }
+.page.hex-art .trivia-label { display: block; margin-bottom: 2.5pt; font: 600 8pt/1 "Orbitron", var(--font-ui); font-style: normal; letter-spacing: .3em; text-transform: uppercase; color: var(--siti); }
 
 /* Coloring book: one picture fills the page */
 .page.image { padding: 12mm; }

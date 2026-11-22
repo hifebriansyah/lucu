@@ -102,21 +102,22 @@ body {
 .cover-over {
   position: absolute; inset: 0; z-index: 1;
   display: flex; flex-direction: column; align-items: center;
-  padding: 7cqw 6cqw; text-align: center; color: #fff;
+  padding: 13cqw 6cqw 8.5cqw; text-align: center; color: #fff;
   background:
     linear-gradient(rgba(5, 12, 24, .78), rgba(5, 12, 24, .35) 26%, transparent 40%),
     linear-gradient(transparent 80%, rgba(5, 12, 24, .7));
 }
 .cover-over .kicker { font: 600 2.6cqw/1 "Orbitron", var(--font-ui); letter-spacing: .3em; color: #9fe6ff; }
 .cover-over .title {
-  margin: 3cqw 0 0; display: flex; flex-direction: column; align-items: center; gap: 1.2cqw;
-  text-transform: uppercase; line-height: 1;
+  margin: 4cqw 0 0; display: flex; flex-direction: column; align-items: center; gap: 1.2cqw;
+  line-height: 1; /* letters as written in coverTitle, so "Ai" keeps its small i */
   -webkit-text-stroke: .35cqw #0b1a26; paint-order: stroke fill;
   text-shadow: 0 0 1.6cqw rgba(80, 220, 255, .85), 0 .5cqw 1cqw rgba(0, 0, 0, .6);
 }
-.cover-over .lead { font: 900 5.4cqw/1 "Orbitron", var(--font-ui); letter-spacing: .04em; }
-.cover-over .main { font: 900 9.6cqw/1 "Orbitron", var(--font-ui); letter-spacing: .03em; }
-.cover-over .sub { margin: auto 0 0; max-width: 80%; font: 600 3cqw/1.35 "Orbitron", var(--font-ui); letter-spacing: .06em; text-wrap: balance; text-shadow: 0 .3cqw 1cqw rgba(0, 0, 0, .8); }
+/* First line big (KELAKUAN), second line smaller (PENGGUNA Ai !!). */
+.cover-over .lead { font: 900 12.4cqw/1 "Orbitron", var(--font-ui); letter-spacing: .03em; }
+.cover-over .main { font: 900 6.6cqw/1 "Orbitron", var(--font-ui); letter-spacing: .04em; }
+.cover-over .sub { margin: auto 0 0; max-width: 80%; font: 600 3.6cqw/1.4 "Orbitron", var(--font-ui); letter-spacing: .06em; text-wrap: balance; text-shadow: 0 .3cqw 1cqw rgba(0, 0, 0, .8); }
 
 .btn {
   display: inline-flex;

@@ -1,14 +1,26 @@
 [
   {
     "id": "ai",
-    "title": "Kecerdasan Buatan, Kelakuan Asli",
-    "subtitle": "Cerita-Cerita Pendek tentang SITI, AI yang Terlalu Rajin",
+    "title": "Kelakuan Pengguna Ai!!",
+    "subtitle": "Cerita-Cerita Pendek tentang SITI & Para Pengguna Ai",
     "kicker": "SITI · M4.KZ-A",
     "manuscript": "ai/naskah.md",
     "cover": "ai/book-cover/web/cover.jpg",
     "coverText": true,
+    "coverTitle": ["KELAKUAN", "PENGGUNA Ai !!"],
     "storyArt": "ai/story-cover/web/{n}.jpg",
     "partArt": "ai/section-cover/web/s{n}.jpg",
+    "contentsArt": "ai/section-art/web/{n}.jpg",
+    "contentsTrivia": [
+      "Nadia adalah pengguna SITI paling aktif di dunia.",
+      "Nadia bersama teman kecilnya.",
+      "Nadia berlibur di pantai.",
+      "Nadia menjenguk teman dekatnya.",
+      "Nadia saat masih bekerja di SITI Corp., penyumbang data kepribadian terbesar SITI.",
+      "Nadia pertama kali menggunakan SITI BETA.",
+      "Mimpi Nadia bersama teman kecilnya."
+    ],
+    "frontArt": { "Kenalan dengan SITI": "ai/front-art/web/siti.jpg" },
     "color": "#1f4e5f"
   },
   {
@@ -18,14 +30,5 @@
     "manuscript": "politics/naskah.md",
     "cover": "politics/cover.jpg",
     "color": "#7a2e2a"
-  },
-  {
-    "id": "draw",
-    "title": "Buku Mewarnai SITI",
-    "subtitle": "Gambar dari Cerita-Cerita Kecerdasan Buatan, Kelakuan Asli",
-    "kicker": "Digambar dengan kode",
-    "manuscript": "draw/naskah.md",
-    "cover": "draw/cover.jpg",
-    "color": "#3d6b3a"
   }
 ]

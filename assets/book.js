@@ -24,6 +24,17 @@ export async function loadBook(id) {
   const sections = parseSections(md);
   if (book.storyArt) addStoryArt(sections, await versioned(book.storyArt));
   if (book.partArt) addPartArt(sections, await versioned(book.partArt));
+  if (book.contentsArt) {
+    const art = await versioned(book.contentsArt);
+    sections.filter((s) => s.type === "part").forEach((s, i) => {
+      s.contentsArt = art(i + 1);
+      s.contentsTrivia = (book.contentsTrivia || [])[i] || ""; // a line of trivia under the picture
+    });
+  }
+  for (const [title, src] of Object.entries(book.frontArt || {})) {
+    const s = sections.find((x) => x.type === "front" && x.title === title);
+    if (s) s.art = (await versioned(src))();
+  }
   return { book, sections, missing: false };
 }
 
@@ -54,6 +65,9 @@ function addPartArt(sections, pattern) {
       + `<figure class="part-art"><img src="${src}" alt="" onerror="this.parentElement.remove()"></figure>`;
   });
 }
+
+// frontArt (books.json) gives a front-matter section, by its heading, a picture page facing it,
+// laid out like a story's.
 
 // A picture for each story. paginate.js puts it on the right-hand page facing the story.
 function addStoryArt(sections, pattern) {
@@ -97,10 +111,11 @@ export function parseSections(md) {
 export function coverMarkup(book, { withImage = true } = {}) {
   // coverText: the cover picture has no lettering, so the title is set over it, in the
   // same Orbitron poster style as the part pages ("A, B" puts B on its own, bigger line).
-  const [lead, rest] = book.title.includes(",") ? book.title.split(/,\s*/) : ["", book.title];
+  // coverTitle ([small line, big line]) overrides the title on the cover only.
+  const [lead, rest] = book.coverTitle || (book.title.includes(",") ? book.title.split(/,\s*/).map((t, i) => i ? t : t + ",") : ["", book.title]);
   const over = book.coverText
     ? `<div class="cover-over"><span class="kicker">${book.kicker || ""}</span>`
-      + `<h1 class="title">${lead ? `<span class="lead">${lead},</span>` : ""}<span class="main">${rest}</span></h1>`
+      + `<h1 class="title">${lead ? `<span class="lead">${lead}</span>` : ""}<span class="main">${rest}</span></h1>`
       + `<p class="sub">${book.subtitle}</p></div>`
     : "";
   const img = withImage

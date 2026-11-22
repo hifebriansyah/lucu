@@ -30,6 +30,22 @@ export function pageElement(data) {
 
 const overflows = (body) => body.scrollHeight > body.clientHeight + 1;
 
+// A story that runs over its first page by fewer lines than this continues on its picture page.
+const SPILL_MAX = 20;
+
+// How many lines of body text a page's content takes up.
+function spillLines(html, measure) {
+  const page = blankPage("story");
+  measure.replaceChildren(page);
+  const box = document.createElement("div");
+  box.innerHTML = html;
+  page.querySelector(".body").append(box);
+  const lh = parseFloat(getComputedStyle(page).lineHeight);
+  const last = box.lastElementChild;
+  const gap = last ? parseFloat(getComputedStyle(last).marginBottom) : 0; // trailing margin isn't a line
+  return (box.getBoundingClientRect().height - gap) / lh;
+}
+
 // Contents entries get a page-number slot before layout, sized for three digits,
 // so filling in the real numbers afterwards cannot change the line breaks.
 function addTocSlots(html) {
@@ -110,18 +126,28 @@ export async function paginate(sections, measure, { bookTitle = "" } = {}) {
 
   for (const s of sections) {
     if (s.type === "title") { startOnRight(); s.page = pages.length + 1; push("title", s.html); }
-    else if (s.type === "part") { startOnRight(); s.page = pages.length + 1; push("part", s.html, s.title); }
+    else if (s.type === "part") {
+      // The left-hand page before a part would be blank: it shows the part's hexagon picture
+      // (contentsArt) instead, facing the part's picture page.
+      if (pages.length % 2 === 1) push(s.contentsArt ? "hex-art" : "blank", partArtPage(s));
+      startOnRight(); s.page = pages.length + 1; push("part", s.html, s.title);
+    }
     else if (s.type === "dedication") { s.page = pages.length + 1; push("dedication", s.html); }
     // Coloring pages sit on a right-hand page with a blank back, so colors don't bleed through.
     else if (s.type === "image") { startOnRight(); s.page = pages.length + 1; push("image", s.html, s.title); push("blank", ""); }
-    else if (s.type === "story" && s.art) {
-      // Illustrated story: text starts on a left-hand page, its picture fills the right-hand
-      // page facing it. A longer story continues on the next left-hand page.
+    else if ((s.type === "story" || s.type === "front") && s.art) {
+      // Illustrated story (or front-matter page): text starts on a left-hand page, its picture
+      // fills the right-hand page facing it. A longer story continues on the next left-hand page.
       startOnLeft();
       s.page = pages.length + 1;
-      flow("story", s.html, s.title);
+      flow(s.type, s.html, s.title);
       pages[s.page - 1].first = true;
-      pages.splice(s.page, 0, { kind: "art", html: `<img src="${s.art}" alt="">`, story: s.title, bookTitle });
+      // Only a few lines spill over (fewer than SPILL_MAX): they go at the top of the picture
+      // page instead, and the picture shrinks to fit below them (pages.css).
+      let spill = "";
+      if (pages.length === s.page + 1 && spillLines(pages[s.page].html, measure) < SPILL_MAX) spill = pages.pop().html;
+      const img = `<img src="${s.art}" alt="">`;
+      pages.splice(s.page, 0, { kind: "art", html: spill ? `<div class="spill">${spill}</div>${img}` : img, story: s.title, bookTitle });
       pages.forEach((p, i) => { p.number = i + 1; });
     }
     else if (s.type === "story") { s.page = pages.length + 1; flow("story", s.html, s.title); pages[s.page - 1].first = true; }
@@ -132,6 +158,14 @@ export async function paginate(sections, measure, { bookTitle = "" } = {}) {
 
   fillTocNumbers(pages, sections);
   return pages;
+}
+
+// The page facing a part's picture: books.json contentsArt, a picture in a hexagon frame,
+// with that part's line of contentsTrivia under it.
+function partArtPage(part) {
+  if (!part.contentsArt) return "";
+  const trivia = part.contentsTrivia ? `<p class="trivia"><span class="trivia-label">Trivia</span>${part.contentsTrivia}</p>` : "";
+  return `<figure class="hex"><span class="hex-ring"><span class="hex-gap"><img src="${part.contentsArt}" alt="" onerror="this.closest('figure').remove()"></span></span></figure>${trivia}`;
 }
 
 // Put each section's real page number into its contents entry.

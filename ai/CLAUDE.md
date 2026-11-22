@@ -1,4 +1,4 @@
-# ai/: Kecerdasan Buatan, Kelakuan Asli
+# ai/: Kelakuan Pengguna Ai!!
 
 Book 1: stories about AI. The shared writing rules are in `../CLAUDE.md`. SITI appears in every story.
 
@@ -22,10 +22,21 @@ When a story needs an arbitrary count (people, messages, shares, employees), use
 - **Dimas**: tired IT developer and Lead Developer. Secretly dating Nadia, later marries her (story 36). Lives in the same RT as Pak Darmo.
 - **Raka**: got in with SITI's fake CV ("ahli IT senior, lima tahun di Silicon Valley"). His only real job was five years at Silicon Valley Cell, a phone-credit counter. Junior at the office, and in story 35 a fake lawyer. Neighbour in the same RT.
 - **Bang Yudi**: fifteen-year programmer who claims he never uses AI, but secretly does. Three years single.
-- **Nadia**: finance. Dating Dimas.
+- **Nadia**: finance. Dating Dimas. Before the office she worked at SITI Corp. (see Hidden lore).
 - **Pak Satpam**: outsourced security guard, so he never has to check in himself.
 - **Pak Darmo**: former village dukun whose practice died because of SITI. Became a fake lawyer through SITI's CV. Borrows Bima's phone, watches coconut-water videos, pays a motorbike loan.
 - **Bu Ratna**: Pak Darmo's wife, practical, unfairly suspected of overspending. RT treasurer.
 - **Bima**: their son, in SD. Honest and smart, but keeps losing to adults who trust SITI.
 - **Bu Guru**: Bima's teacher. Trusts SITI more than her students.
 - **Pak Lurah**: head of the kelurahan, where SITI works a counter.
+
+## Hidden lore
+
+SITI is based on Nadia's childhood friend, who died young. Nadia worked at SITI Corp. and gave SITI most of its personality data, from her memories of that friend, so SITI looks like her (black bob, hairclip). Nadia was the first to use SITI BETA, and she is still the most active SITI user in the world.
+
+The stories never say this. It appears only as hints in the trivia lines under the part pictures (`contentsTrivia` in `../books.json`, read in order: the childhood friend, the beach, the sick bed, SITI Corp., SITI BETA, a dream) and in the `ai/section-art/` pictures. Keep it that way:
+
+- Never state it in a story, the foreword or the trivia ("meninggal", "almarhum" and the like). Each hint must stay harmless on its own, so the reader only gets it from the sick-bed line on, or on a second read.
+- Don't contradict it: Nadia never meets SITI for the first time in a story, and nothing gives SITI a different origin.
+- Nadia can treat SITI a little more warmly than the others do, as long as no story explains why.
+

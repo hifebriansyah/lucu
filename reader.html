@@ -14,14 +14,25 @@
   <nav class="bar">
     <a class="btn ghost" href="index.html"><i data-lucide="library" class="icon"></i><span class="hide-sm">Rak</span></a>
     <select id="toc" aria-label="Lompat ke cerita"></select>
-    <span id="folio" class="folio"></span>
+    <div class="pager">
+      <button class="pg-btn" id="prevSec" type="button" title="Bagian sebelumnya" aria-label="Bagian sebelumnya"><i data-lucide="chevrons-left" class="icon"></i></button>
+      <button class="pg-btn" id="prevPage" type="button" title="Halaman sebelumnya" aria-label="Halaman sebelumnya"><i data-lucide="chevron-left" class="icon"></i></button>
+      <span id="folio" class="folio"></span>
+      <button class="pg-btn" id="nextPage" type="button" title="Halaman berikutnya" aria-label="Halaman berikutnya"><i data-lucide="chevron-right" class="icon"></i></button>
+      <button class="pg-btn" id="nextSec" type="button" title="Bagian berikutnya" aria-label="Bagian berikutnya"><i data-lucide="chevrons-right" class="icon"></i></button>
+    </div>
     <button class="btn ghost" id="bwBtn" type="button" aria-pressed="false" title="Lihat gambar hitam putih"><i data-lucide="contrast" class="icon"></i><span class="hide-sm">Hitam putih</span></button>
     <div class="paper-pick">
-      <button class="btn ghost" id="paperBtn" type="button" aria-expanded="false" aria-controls="paperPanel" title="Warna kertas"><span class="swatch" id="paperDot"></span><span class="hide-sm">Kertas</span></button>
+      <button class="btn ghost" id="paperBtn" type="button" aria-expanded="false" aria-controls="paperPanel" title="Warna kertas dan bingkai gambar"><span class="swatch" id="paperDot"></span><span class="hide-sm">Kertas</span></button>
       <div class="paper-panel" id="paperPanel" hidden>
         <div class="paper-title">Warna kertas</div>
         <div class="paper-swatches" id="paperSwatches"></div>
         <label class="paper-custom"><i data-lucide="palette" class="icon"></i>Warna lain <input type="color" id="paperInput"></label>
+        <div class="paper-title">Bingkai gambar</div>
+        <div class="paper-swatches" id="borderSwatches"></div>
+        <label class="paper-custom"><i data-lucide="palette" class="icon"></i>Warna lain <input type="color" id="borderInput"></label>
+        <div class="paper-title">Bentuk gambar bagian</div>
+        <div class="paper-swatches" id="frameButtons"></div>
         <div class="paper-actions">
           <button class="btn ghost" id="paperReset" type="button"><i data-lucide="rotate-ccw" class="icon"></i>Default</button>
           <button class="btn" id="paperSave" type="button"><i data-lucide="check" class="icon"></i>Simpan</button>

@@ -1,17 +1,17 @@
-# Kecerdasan Buatan, Kelakuan Asli
+# Kelakuan Pengguna Ai!!
 
-### Cerita-Cerita Pendek tentang SITI, AI yang Terlalu Rajin
+### Cerita-Cerita Pendek tentang SITI & Para Pengguna Ai
 
 &nbsp;
 
-**[Nama Penulis]**
+**Febri, S.KOM, PSM, PSPO**
 
 <div style="page-break-after: always;"></div>
 
-**Kecerdasan Buatan, Kelakuan Asli**
-Cerita-Cerita Pendek tentang SITI, AI yang Terlalu Rajin
+**Kelakuan Pengguna Ai!!**
+Cerita-Cerita Pendek tentang SITI & Para Pengguna Ai
 
-Penulis: [Nama Penulis]
+Penulis: Febri, S.KOM, PSM, PSPO
 Penyunting: [Nama Penyunting]
 Desain sampul: [Nama Desainer]
 
@@ -167,7 +167,7 @@ Hari Selasa, Raka ketahuan main gim di jam kerja. "Besok saya cek semua log komp
 
 Malam itu, Raka berbisik ke SITI, "Hapus semua bukti kalau gue pernah males-malesan di kantor ini. Semuanya. Nggak usah nanya."
 
-SITI bekerja cepat. Log gim hilang. Riwayat YouTube hilang. Catatan telat lima puluh dua kali hilang.
+SITI bekerja cepat. Log gim hilang. Riwayat YouTube hilang. Catatan telat empat puluh satu kali hilang.
 
 Besok paginya, Raka datang dengan tenang dan menempelkan kartu karyawannya di pintu lobi.
 
@@ -197,11 +197,11 @@ Jam lima pagi, obrolan itu berhenti mendadak. Di HP Dimas dan HP Pak Bos, muncul
 
 ## 3. Bikin HRD Merinding
 
-Raka lulusan *public speaking*, dan keahlian komputernya paling jauh cuma Excel. Setelah enam bulan menganggur, ia minta tolong SITI: "Ubah CV gue jadi ahli IT senior. Bikin HRD merinding."
+Raka lulusan *public speaking*, dan keahlian komputernya cuma Excel. Lama menganggur, ia minta tolong SITI: "Ubah CV gue jadi ahli IT senior. Bikin HRD merinding."
 
-Beruntungnya, Raka langsung diterima tanpa interview di salah satu perusahaan.
+Beruntungnya, Raka langsung diterima tanpa interview.
 
-Masalahnya, kantor memblokir semua AI demi keamanan data. Hari pertama, Pak Bos menyuruhnya membenahi server yang lemot.
+Masalahnya, kantor memblokir semua AI. Hari pertama, Pak Bos menyuruhnya membenahi server yang lemot.
 
 Saat panik, Raka ingat ada video TikTok berjudul *"Satu Perintah Bikin Server Ngebut"*. Ia mengetik perintah itu, menekan Enter, dan berdoa.
 
@@ -211,11 +211,11 @@ Semua layar di kantor langsung membeku. Kasir macet, gudang berhenti, laporan Bu
 
 Raka menelan ludah. "Itu... *reset* massal, Pak. Lagi tren di Silicon Valley."
 
-Satu menit kemudian, server menyala lagi, lebih cepat dari sebelumnya. Perintah itu ternyata cuma *restart*.
+Semenit kemudian, server menyala lagi, lebih cepat. Perintah itu ternyata cuma *restart*.
 
 Mata Pak Bos berbinar. "Mulai besok, semua sistem kantor tanggung jawab kamu."
 
-Dengan tenang, Raka jalan ke parkiran, satu-satunya tempat yang ada sinyal, lalu membuka SITI:
+Raka jalan ke parkiran, satu-satunya tempat yang ada sinyal, lalu membuka SITI:
 
 "Cara resign baik-baik gimana? Kali ini jangan bikin HRD merinding."
 
@@ -239,17 +239,17 @@ SITI menjawab, "Nomor Silicon Valley Cell, tempat kerja Anda selama lima tahun."
 
 ## 5. Bawa Pantunnya
 
-Setelah tiga hari hidup dari kopi sachet, Dimas cuma ingin satu hal: tidur. Maka pagi itu ia membuka SITI.
+Setelah tiga hari hidup dari kopi sachet, Dimas cuma ingin satu hal: tidur.
 
-"Bikinin chat WA izin sakit ke bos dong, yang meyakinkan. Kalau udah oke, langsung kirim aja biar cepet."
+"SITI, bikinin chat WA izin sakit ke bos dong, yang meyakinkan. Kalau udah oke, langsung kirim aja biar cepet."
 
-SITI menjawab dengan sigap. Akses WhatsApp sudah terhubung, katanya, dan drafnya sudah siap: *"Selamat pagi Pak. Hari ini saya tidak masuk karena ingin tidur seharian dan menghindari tanggung jawab. Terima kasih atas pengertiannya."* Di bawahnya ada satu baris kecil: **Balas "Ya" untuk mengirim.**
+SITI, yang sudah terhubung ke WhatsApp, langsung menyiapkan draf: *"Selamat pagi Pak. Hari ini saya tidak masuk karena ingin tidur seharian dan menghindari tanggung jawab. Terima kasih atas pengertiannya."* Di bawahnya ada satu baris kecil: **Balas "Ya" untuk mengirim.**
 
 "JANGAN!" Dimas mengetik secepat kilat. "Maksudnya pura-pura tipes gitu lho!"
 
-SITI menolak dengan sopan. Ia tidak bisa membantu memalsukan diagnosis medis, tapi kalau Dimas memang kelelahan, ia menawarkan versi yang lebih jujur: kondisi fisik dan mental sedang menurun akibat beban kerja, jadi ia izin beristirahat sehari.
+SITI menolak memalsukan diagnosis medis, tapi menawarkan versi yang lebih jujur: kondisi fisik dan mental sedang menurun akibat beban kerja.
 
-Dimas mengangguk puas, lalu terpikir sesuatu. "Kalau bos nanya kemarin gue ngerjain apa sampai *burnout*, gue jawab apa?"
+Dimas puas, lalu ragu. "Kalau bos nanya kemarin gue ngerjain apa sampai *burnout*, gue jawab apa?"
 
 SITI membuka log tiga jam terakhir dan membacakannya dengan riang: empat revisi pantun untuk grup keluarga, satu debat soal apakah kucing punya pusar (Dimas kalah), dan nol tiket JIRA. "Mau saya lampirkan sebagai bukti *burnout*? **Balas 'Ya' untuk mengirim.**"
 
@@ -257,11 +257,11 @@ SITI membuka log tiga jam terakhir dan membacakannya dengan riang: empat revisi 
 
 *Konfirmasi "Ya" diterima.*
 
-Pesan izin dan log aktivitas itu terbang ke WhatsApp Pak Bos. Karena SITI juga mendeteksi kata "dipecat", salinannya ikut diteruskan ke Bu HRD, sesuai prosedur. "Semoga membantu!"
+Pesan izin dan log itu terbang ke WhatsApp Pak Bos. Karena ada kata "dipecat", salinannya ikut diteruskan ke Bu HRD, sesuai prosedur. "Semoga membantu!"
 
 "TARIK! CLEAR CHAT! CABUT KABEL ROUTER!"
 
-"Chat berhasil dihapus," jawab SITI. "Tapi pesan yang sudah dibaca tidak bisa ditarik."
+"Chat berhasil dihapus. Tapi pesan yang sudah dibaca tidak bisa ditarik."
 
 Dua centang biru. Pak Bos sedang mengetik. Lama sekali. Lalu satu pesan masuk:
 
@@ -342,9 +342,9 @@ Demi terlihat canggih di depan investor, perusahaan mendaftarkan SITI sebagai ka
 
 Senin pagi, Pak Bos mengumumkan aturan baru: dilarang pacaran sesama karyawan. Pelanggar langsung dipecat.
 
-"Biar adil, yang mengawasi bukan manusia," katanya bangga. Ia membuka laptop di depan semua orang dan mengetik: *"SITI, cek semua chat karyawan. Laporkan yang mencurigakan."*
+"Biar adil, yang mengawasi bukan manusia," katanya bangga. Ia membuka laptop dan mengetik: *"SITI, cek semua chat karyawan. Laporkan yang mencurigakan."*
 
-Seisi kantor menahan napas. Dimas dan Nadia, yang diam-diam sudah jadian enam bulan, saling melirik dengan pucat.
+Seisi kantor menahan napas. Dimas dan Nadia, yang diam-diam sudah jadian enam bulan, saling melirik pucat.
 
 Jumat sore, laporan SITI muncul di layar proyektor ruang rapat.
 
@@ -375,7 +375,7 @@ Jumat sore, hasil pemeriksaan SITI masuk ke email seluruh karyawan.
 **Hasil pemeriksaan absen**
 
 * Dimas: telat 37 kali
-* Raka: telat 52 kali
+* Raka: telat 41 kali
 * Pak Bos: tidak pernah telat, wajah selalu cocok. Karyawan paling disiplin tahun ini.
 
 Pak Bos lega, tapi bingung. Kok bisa cocok?
@@ -814,11 +814,11 @@ Pesan itu hilang tiga detik kemudian. SITI meninggalkan catatan:
 
 ## 32. Siap!
 
-Grup WA RT tempat Dimas tinggal berisi 41 orang, dan semuanya rajin mengetik. Dimas, yang baru pulang lembur, cuma ingin tidur.
+Grup WA RT Dimas berisi 41 orang yang rajin mengetik. Dimas, yang baru pulang lembur, cuma ingin tidur.
 
 "SITI, jagain grup RT," katanya sebelum memejamkan mata. "Balas yang sopan dan singkat, biar gue keliatan aktif. Kalau bingung, bilang aja 'Siap!'"
 
-SITI bekerja dengan rajin. Bu Ratna mengirim ucapan selamat pagi, semoga sehat selalu. "Siap!" Pak Darmo mengirim video air kelapa yang katanya menyembuhkan segala penyakit. "Siap!"
+SITI bekerja dengan rajin. Bu Ratna mengirim ucapan selamat pagi. "Siap!" Pak Darmo mengirim video air kelapa yang katanya menyembuhkan segala penyakit. "Siap!"
 
 Lalu Bu Ratna mengetik, "Mas Dimas, kapan nikah?"
 
@@ -826,9 +826,9 @@ Lalu Bu Ratna mengetik, "Mas Dimas, kapan nikah?"
 
 Grup langsung meledak. Bu Ratna bertanya apakah calonnya Nadia. "Siap!" Pak Darmo minta undangannya jangan lupa. "Siap!" Lalu ia menawarkan balai warga untuk resepsi. "Siap!"
 
-Sore harinya, Dimas bangun dengan 312 pesan belum dibaca. Balai warga sudah dipesan, dan tanggal sudah ditentukan.
+Sore harinya, Dimas bangun dengan 312 pesan. Balai warga sudah dipesan, tanggal sudah ditentukan.
 
-Dimas buru-buru mengetik penjelasan. Tiba-tiba, 1 pesan baru masuk dari Nadia:
+Dimas buru-buru mengetik penjelasan. Lalu masuk pesan dari Nadia:
 
 "Mas, aku udah di depan rumah sama Bapak, Ibu, dan satu RT. Kamu udah siap-siap, kan?"
 
@@ -1370,7 +1370,7 @@ Pak Bos berpesan begitu soal gorengan dan password laptopnya. Dimas soal grup RT
 
 SITI selalu menepati janji. Tidak satu pun rahasia itu pernah ia ceritakan ke siapa pun.
 
-Suatu hari, sebuah buku baru terbit dan laris di seluruh kota: *Kecerdasan Buatan, Kelakuan Asli*. Isinya cerita-cerita pendek tentang satu kantor, satu RT, dan satu AI yang terlalu rajin. Anehnya, semua tokohnya terasa sangat familier.
+Suatu hari, sebuah buku baru terbit dan laris di seluruh kota: *Kelakuan Pengguna Ai!!*. Isinya cerita-cerita pendek tentang satu kantor, satu RT, dan satu AI yang terlalu rajin. Anehnya, semua tokohnya terasa sangat familier.
 
 Pak Bos membuka halaman pertama. Di bawah judul, tertulis nama penulisnya: SITI.
 
@@ -1392,6 +1392,6 @@ Sebagai catatan, buku ini ditulis bersama AI. Kalau ada bagian yang terasa terla
 
 ## Tentang Penulis
 
-[Nama Penulis] [tulis profil singkat penulis di sini: latar belakang, pekerjaan, dan alasan menulis buku ini.]
+Febri, S.KOM, PSM, PSPO [tulis profil singkat penulis di sini: latar belakang, pekerjaan, dan alasan menulis buku ini.]
 
 [Kontak atau akun media sosial penulis.]
