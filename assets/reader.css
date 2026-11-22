@@ -102,3 +102,27 @@ body { height: 100vh; overflow: hidden; display: flex; flex-direction: column; }
 @media (max-width: 600px) { .hide-sm { display: none; } .turn { width: 38px; height: 38px; } .turn.prev { left: 6px; } .turn.next { right: 6px; } }
 
 .single .leaf .page { background: linear-gradient(to right, rgba(0,0,0,.08), transparent 7%), var(--paper); box-shadow: 6px 10px 28px var(--shadow); border-radius: 0 4px 4px 0; }
+
+/* Black-and-white preview: interior pictures only, the cover stays in color. */
+.bw .page:not(.cover-page) img { filter: grayscale(1); }
+
+/* Paper color picker in the bar. */
+.paper-pick { position: relative; }
+.swatch { display: inline-block; width: 16px; height: 16px; border-radius: 50%; box-shadow: inset 0 0 0 1px rgba(0, 0, 0, .25); flex: none; }
+.paper-panel {
+  position: absolute; right: 0; top: calc(100% + 8px); z-index: 20; width: 230px;
+  padding: 12px; border-radius: 12px; background: var(--ui); color: var(--ui-ink);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, .35); font: 500 13px var(--font-ui);
+}
+.paper-panel[hidden] { display: none; }
+.paper-title { font-weight: 600; margin-bottom: 8px; }
+.paper-swatches { display: grid; grid-template-columns: 1fr 1fr; gap: 4px; }
+.swatch-btn { display: flex; align-items: center; gap: 8px; padding: 6px 8px; border: 0; border-radius: 8px; background: transparent; color: inherit; font: inherit; cursor: pointer; text-align: left; }
+.swatch-btn:hover { background: #3a362f; }
+.swatch-btn[aria-pressed="true"] { background: #3a362f; box-shadow: inset 0 0 0 1.5px var(--accent); }
+.paper-custom { display: flex; align-items: center; gap: 8px; margin: 8px 0 10px; padding: 6px 8px; cursor: pointer; }
+.paper-custom input { margin-left: auto; width: 36px; height: 26px; padding: 0; border: 0; background: none; cursor: pointer; }
+.paper-actions { display: flex; gap: 6px; justify-content: flex-end; }
+.paper-actions .btn { padding: 8px 12px; font-size: 13px; }
+.paper-actions .btn:not(.ghost) { background: var(--accent); }
+.paper-note { margin: 8px 0 0; opacity: .65; font-size: 12px; }

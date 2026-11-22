@@ -2,7 +2,9 @@
 
 @page { size: 148mm 210mm; margin: 0; }
 
+/* White paper unless a paper color was saved in the reader (paper.js sets --paper). */
 #pages .page { background: #fff; break-after: page; }
+.custom-paper #pages .page { background: var(--paper); }
 
 @media screen {
   #pages { display: flex; flex-wrap: wrap; justify-content: center; gap: 24px; padding: 24px 0 64px; }

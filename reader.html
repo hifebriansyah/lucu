@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Pembaca Buku</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,700;1,7..72,400&display=swap">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Literata:ital,opsz,wght@0,7..72,400;0,7..72,700;1,7..72,400&family=Orbitron:wght@600;900&display=swap">
   <link rel="stylesheet" href="assets/base.css">
   <link rel="stylesheet" href="assets/pages.css">
   <link rel="stylesheet" href="assets/reader.css">
@@ -15,6 +15,20 @@
     <a class="btn ghost" href="index.html"><i data-lucide="library" class="icon"></i><span class="hide-sm">Rak</span></a>
     <select id="toc" aria-label="Lompat ke cerita"></select>
     <span id="folio" class="folio"></span>
+    <button class="btn ghost" id="bwBtn" type="button" aria-pressed="false" title="Lihat gambar hitam putih"><i data-lucide="contrast" class="icon"></i><span class="hide-sm">Hitam putih</span></button>
+    <div class="paper-pick">
+      <button class="btn ghost" id="paperBtn" type="button" aria-expanded="false" aria-controls="paperPanel" title="Warna kertas"><span class="swatch" id="paperDot"></span><span class="hide-sm">Kertas</span></button>
+      <div class="paper-panel" id="paperPanel" hidden>
+        <div class="paper-title">Warna kertas</div>
+        <div class="paper-swatches" id="paperSwatches"></div>
+        <label class="paper-custom"><i data-lucide="palette" class="icon"></i>Warna lain <input type="color" id="paperInput"></label>
+        <div class="paper-actions">
+          <button class="btn ghost" id="paperReset" type="button"><i data-lucide="rotate-ccw" class="icon"></i>Default</button>
+          <button class="btn" id="paperSave" type="button"><i data-lucide="check" class="icon"></i>Simpan</button>
+        </div>
+        <p class="paper-note">Dipakai juga di PDF.</p>
+      </div>
+    </div>
     <a class="btn" id="printLink" href="#"><i data-lucide="printer" class="icon"></i><span class="hide-sm">PDF</span></a>
   </nav>
   <div class="stage" id="stage">

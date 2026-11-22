@@ -5,7 +5,12 @@ const PAGE_BREAK = /<div style="page-break-after: always;"><\/div>/g;
 
 export async function loadCatalog() {
   const res = await fetch("books.json", { cache: "no-store" });
-  return res.json();
+  const books = await res.json();
+  // A cover made by tools/covers.py (in a web/ folder) gets its fingerprint, so a new cover shows at once.
+  await Promise.all(books.map(async (b) => {
+    if (b.cover?.includes("/web/")) b.cover = (await versioned(b.cover))();
+  }));
+  return books;
 }
 
 export async function loadBook(id) {
@@ -16,7 +21,45 @@ export async function loadBook(id) {
     return { book, sections: [], missing: true };
   }
   const md = await res.text();
-  return { book, sections: parseSections(md), missing: false };
+  const sections = parseSections(md);
+  if (book.storyArt) addStoryArt(sections, await versioned(book.storyArt));
+  if (book.partArt) addPartArt(sections, await versioned(book.partArt));
+  return { book, sections, missing: false };
+}
+
+// tools/covers.py writes index.json next to the picture copies with a fingerprint per
+// picture. Adding it to the address means a replaced picture is never shown from cache.
+async function versioned(pattern) {
+  const dir = pattern.slice(0, pattern.lastIndexOf("/") + 1);
+  let index = {};
+  try { index = await (await fetch(`${dir}index.json`, { cache: "no-store" })).json(); } catch {}
+  return (n) => {
+    const src = pattern.replace("{n}", n);
+    const v = index[src.slice(dir.length)]?.src;
+    return v ? `${src}?v=${v}` : src;
+  };
+}
+
+// A picture on each part page, numbered by the part's order (s1 = Bagian Satu, ..., the last = Epilog).
+// The title becomes a poster-style heading on the picture: "Bagian Satu: Jam Kerja" shows
+// BAGIAN SATU big with JAM KERJA under it. A part with no subtitle (the Epilog) shows its name only.
+function addPartArt(sections, pattern) {
+  let n = 0;
+  sections.forEach((s) => {
+    if (s.type !== "part") return;
+    const src = pattern(++n);
+    const [main, sub = ""] = s.title.split(/:\s*/);
+    const size = main.length <= 8 ? "big" : "";
+    s.html = `<h1 class="poster ${size}"><span class="main">${main}</span>${sub ? `<span class="sub">${sub}</span>` : ""}</h1>`
+      + `<figure class="part-art"><img src="${src}" alt="" onerror="this.parentElement.remove()"></figure>`;
+  });
+}
+
+// A picture for each story. paginate.js puts it on the right-hand page facing the story.
+function addStoryArt(sections, pattern) {
+  for (const s of sections) {
+    if (s.type === "story") s.art = pattern(s.title.match(/^\d+/)[0]);
+  }
 }
 
 export function parseSections(md) {
@@ -52,8 +95,16 @@ export function parseSections(md) {
 }
 
 export function coverMarkup(book, { withImage = true } = {}) {
+  // coverText: the cover picture has no lettering, so the title is set over it, in the
+  // same Orbitron poster style as the part pages ("A, B" puts B on its own, bigger line).
+  const [lead, rest] = book.title.includes(",") ? book.title.split(/,\s*/) : ["", book.title];
+  const over = book.coverText
+    ? `<div class="cover-over"><span class="kicker">${book.kicker || ""}</span>`
+      + `<h1 class="title">${lead ? `<span class="lead">${lead},</span>` : ""}<span class="main">${rest}</span></h1>`
+      + `<p class="sub">${book.subtitle}</p></div>`
+    : "";
   const img = withImage
-    ? `<img class="cover-img" src="${book.cover}" alt="" onerror="this.remove()">`
+    ? `<img class="cover-img" src="${book.cover}" alt="" onerror="this.remove()">${over}`
     : "";
   return `
     <div class="cover" style="--cover:${book.color}">

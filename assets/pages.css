@@ -1,7 +1,7 @@
 /* Book pages, shared by the reader and the print PDF. Every page is a real A5 sheet
    (148 × 210 mm) laid out once by paginate.js: print uses it at full size, the
    reader only scales it to fit the window. So the screen shows exactly what prints. */
-:root { --pw: 148mm; --ph: 210mm; }
+:root { --pw: 148mm; --ph: 210mm; --siti: #4aa8e0; /* SITI blue, from her blazer and glow */ }
 
 .page {
   position: relative;
@@ -37,7 +37,13 @@
 .body blockquote { margin: 0 0 .6em; padding-left: 10pt; border-left: 1.5pt solid #d8cfbf; }
 .body blockquote > :last-child { margin-bottom: 0; }
 
-.page.story h2 { font-size: 16pt; margin: 12pt 0 18pt; }
+/* Story title in the section posters' face (Orbitron), so the whole book shares one title font;
+   centered, with wide letter spacing. */
+.page.story h2 { font: 900 16pt/1.25 "Orbitron", var(--font-ui); letter-spacing: .16em; text-align: center; margin: 12pt 0 18pt; }
+/* Story picture: on the right-hand page facing the story. It keeps the normal page margins, so
+   it lines up with the text block on the facing page and leaves room for the page number;
+   rounded corners are 41px, for "AI", with a white gap and then a SITI-blue border. */
+.page.art .body img { box-sizing: border-box; width: 100%; height: 100%; object-fit: cover; display: block; border-radius: 41px; border: 1.5pt solid var(--siti); padding: 3pt; background: #fff; }
 .page.front h2 { font-size: 15pt; margin: 0 0 16pt; }
 
 .page.title .body { text-align: center; padding-top: 30%; }
@@ -46,6 +52,20 @@
 .page.dedication .body { text-align: center; font-style: italic; padding-top: 35%; }
 .page.part .body { text-align: center; padding-top: 40%; }
 .page.part h1 { font-size: 20pt; margin: 0; }
+/* Part page with a picture: the picture fills the whole page, edge to edge, with a poster
+   title on top over a dark fade so it stays readable. */
+.page.part:has(.part-art) { padding: 0; }
+.page.part .body:has(.part-art) { padding-top: 20mm; }
+.page.part .part-art { position: absolute; inset: 0; margin: 0; }
+.page.part .part-art img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.page.part .part-art::after { content: ""; position: absolute; inset: 0 0 auto; height: 45%; background: linear-gradient(rgba(0, 0, 0, .6), transparent); }
+/* Thin white line just inside the picture's edge, like a poster frame. */
+.page.part .part-art::before { content: ""; position: absolute; inset: 7mm; border: 1pt solid #fff; z-index: 1; }
+/* Poster title in a futuristic face: white letters, a dark outline and SITI's cyan glow. */
+.page.part h1.poster { position: relative; z-index: 2; margin: 0; padding: 0 14mm; display: flex; flex-direction: column; align-items: center; gap: 2.5mm; color: #fff; text-transform: uppercase; line-height: 1; text-align: center; -webkit-text-stroke: 1.4pt #0b1a26; paint-order: stroke fill; text-shadow: 0 0 6pt rgba(80, 220, 255, .85), 0 2pt 4pt rgba(0, 0, 0, .6); }
+.page.part h1.poster .main { font: 900 33pt/1 "Orbitron", var(--font-ui); letter-spacing: .04em; }
+.page.part h1.poster.big .main { font-size: 56pt; }
+.page.part h1.poster .sub { font: 600 19pt/1.1 "Orbitron", var(--font-ui); letter-spacing: .12em; -webkit-text-stroke-width: 1pt; }
 
 .page.toc h2 { font-size: 15pt; margin: 0 0 14pt; }
 .page.toc .body p, .page.toc .body li { margin: 0 0 3pt; font-size: 10pt; }

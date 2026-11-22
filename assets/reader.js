@@ -1,5 +1,6 @@
 import { loadBook, coverMarkup } from "./book.js";
 import { paginate, pageElement, blankPage } from "./paginate.js";
+import { PAPERS, DEFAULT_PAPER, savedPaper, savePaper, applyPaper } from "./paper.js";
 
 const $ = (id) => document.getElementById(id);
 const params = new URLSearchParams(location.search);
@@ -8,6 +9,51 @@ const bookId = params.get("book") || "ai";
 const { book, sections, missing } = await loadBook(bookId);
 document.title = `${book.title} · Pembaca`;
 $("printLink").href = `print.html?book=${book.id}`;
+
+// Black-and-white preview of the pictures, for a grayscale print. Remembered per browser.
+const bwBtn = $("bwBtn");
+function setBw(on) {
+  document.body.classList.toggle("bw", on);
+  bwBtn.setAttribute("aria-pressed", on);
+  bwBtn.classList.toggle("ghost", !on);
+  try { localStorage.setItem("lucu-bw", on ? "1" : ""); } catch {}
+}
+let bwSaved = false;
+try { bwSaved = localStorage.getItem("lucu-bw") === "1"; } catch {}
+setBw(bwSaved);
+bwBtn.addEventListener("click", () => setBw(!document.body.classList.contains("bw")));
+
+// Paper color: try colors live, Simpan keeps it (for this book, and for the PDF);
+// closing the panel without saving goes back to the saved color.
+let paper = savedPaper(book.id) || DEFAULT_PAPER;
+let trying = paper;
+const paperBtn = $("paperBtn"), paperPanel = $("paperPanel"), paperInput = $("paperInput");
+function tryPaper(color) {
+  trying = color.toLowerCase();
+  applyPaper(trying === DEFAULT_PAPER ? null : trying);
+  $("paperDot").style.background = trying;
+  paperInput.value = trying;
+  for (const b of $("paperSwatches").children) b.setAttribute("aria-pressed", b.dataset.color === trying);
+}
+function openPaper(open) {
+  paperPanel.hidden = !open;
+  paperBtn.setAttribute("aria-expanded", open);
+  if (!open) tryPaper(paper); // drop an unsaved try
+}
+for (const p of PAPERS) {
+  const b = Object.assign(document.createElement("button"), { type: "button", title: p.name, className: "swatch-btn" });
+  b.dataset.color = p.color;
+  b.innerHTML = `<span class="swatch" style="background:${p.color}"></span>${p.name}`;
+  b.addEventListener("click", () => tryPaper(p.color));
+  $("paperSwatches").append(b);
+}
+paperInput.addEventListener("input", () => tryPaper(paperInput.value));
+paperBtn.addEventListener("click", () => openPaper(paperPanel.hidden));
+$("paperReset").addEventListener("click", () => tryPaper(DEFAULT_PAPER));
+$("paperSave").addEventListener("click", () => { paper = trying; savePaper(book.id, paper); openPaper(false); });
+document.addEventListener("click", (e) => { if (!paperPanel.hidden && !e.target.closest(".paper-pick")) openPaper(false); });
+document.addEventListener("keydown", (e) => { if (e.key === "Escape" && !paperPanel.hidden) openPaper(false); });
+tryPaper(paper);
 
 if (missing) {
   $("loading").textContent = "Naskah buku ini belum tersedia.";

@@ -5,7 +5,7 @@
 // Returns the interior pages (no cover). Page n is pages[n - 1]; odd pages are
 // right-hand pages, as in a printed book.
 
-const FONTS = ["400 11pt Literata", "italic 400 11pt Literata", "700 11pt Literata", "700 16pt Literata", "500 9pt Inter"];
+const FONTS = ["400 11pt Literata", "italic 400 11pt Literata", "700 11pt Literata", "700 16pt Literata", "500 9pt Inter", "900 33pt Orbitron", "600 19pt Orbitron"];
 
 export function blankPage(kind) {
   const el = document.createElement("div");
@@ -51,6 +51,7 @@ export async function paginate(sections, measure, { bookTitle = "" } = {}) {
   const push = (kind, html, story = "") => pages.push({ kind, html, story, bookTitle, number: pages.length + 1 });
   // Start on a right-hand (odd) page.
   const startOnRight = () => { if (pages.length % 2 === 1) push("blank", ""); };
+  const startOnLeft = () => { if (pages.length % 2 === 0) push("blank", ""); };
 
   function flow(kind, html, story) {
     const holder = document.createElement("div");
@@ -113,6 +114,16 @@ export async function paginate(sections, measure, { bookTitle = "" } = {}) {
     else if (s.type === "dedication") { s.page = pages.length + 1; push("dedication", s.html); }
     // Coloring pages sit on a right-hand page with a blank back, so colors don't bleed through.
     else if (s.type === "image") { startOnRight(); s.page = pages.length + 1; push("image", s.html, s.title); push("blank", ""); }
+    else if (s.type === "story" && s.art) {
+      // Illustrated story: text starts on a left-hand page, its picture fills the right-hand
+      // page facing it. A longer story continues on the next left-hand page.
+      startOnLeft();
+      s.page = pages.length + 1;
+      flow("story", s.html, s.title);
+      pages[s.page - 1].first = true;
+      pages.splice(s.page, 0, { kind: "art", html: `<img src="${s.art}" alt="">`, story: s.title, bookTitle });
+      pages.forEach((p, i) => { p.number = i + 1; });
+    }
     else if (s.type === "story") { s.page = pages.length + 1; flow("story", s.html, s.title); pages[s.page - 1].first = true; }
     else if (s.type === "toc") { s.page = pages.length + 1; flow("toc", addTocSlots(s.html), s.title); }
     else { s.page = pages.length + 1; flow("front", s.html, s.title); }
