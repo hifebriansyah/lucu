@@ -13,7 +13,7 @@ Book 1's author is Febri, S.Kom., PSM, PSPO; the manuscript ends with a Tentang 
 
 The story books have one story per file (`1.md`, `2.md`, ...) and a `naskah.md` with the full manuscript. Writing rules are in `CLAUDE.md`; each book's cast and background are in its own `CLAUDE.md`.
 
-`ai/naskah.docx` is a Word export of book 1 for publishers and the ISBN submission: A5, 11 pt Literata, mirrored margins, parts on right-hand pages, running heads, page numbers and a Daftar Isi with page references (Word asks to update fields on open). It is generated from `naskah.md`, so rebuild it after the manuscript changes. Install Literata on any computer that opens it.
+`ai/naskah.docx` is a Word export of book 1 for publishers and the ISBN submission: A5, 11 pt Literata, mirrored margins, parts on right-hand pages, running heads, page numbers and a Daftar Isi with page references (Word asks to update fields on open). It is generated from `naskah.md`, so rebuild it after the manuscript changes. The **Word** button on the print page builds the same file in the browser from the current `naskah.md` and downloads it as `<book>-naskah.docx` (`assets/docx.js`, with the docx and fflate libraries loaded from jsDelivr on first click), so it is always up to date and works for every book. It has no pictures yet. Install Literata on any computer that opens it.
 
 ## Preview site
 

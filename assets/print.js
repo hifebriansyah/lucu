@@ -1,4 +1,5 @@
 import { loadBook } from "./book.js";
+import { exportDocx } from "./docx.js";
 import { paginate, pageElement } from "./paginate.js";
 import { DEFAULT_PAPER, savedPaper, applyPaper, savedBorder, applyBorder, savedFrame, applyFrame, savedBw, saveBw, applyBw } from "./paper.js";
 
@@ -39,4 +40,14 @@ const showInfo = () => {
 showInfo();
 bwBtn.addEventListener("click", () => { const on = !document.body.classList.contains("bw"); applyBw(on, bwBtn); saveBw(on); showInfo(); });
 $("printBtn").disabled = false;
+
+// Word: the same manuscript as an A5 .docx, built in the browser (assets/docx.js).
+const docxBtn = $("docxBtn"), docxLabel = docxBtn.querySelector("span");
+docxBtn.disabled = false;
+docxBtn.addEventListener("click", async () => {
+  docxBtn.disabled = true; docxLabel.textContent = "Membuat…";
+  try { await exportDocx(book); docxLabel.textContent = "Word"; }
+  catch (e) { console.error(e); docxLabel.textContent = "Gagal, coba lagi"; }
+  finally { docxBtn.disabled = false; }
+});
 $("printBtn").addEventListener("click", () => window.print());
