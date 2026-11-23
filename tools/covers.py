@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
-"""Update the copies of a book's cover, story and section pictures: color for the reader,
-and black and white for a grayscale print.
+"""Update the copies of a book's cover, story and section pictures that the reader and the
+print page load. (Hitam putih greys these same copies in the browser, so there are no
+separate black-and-white copies.)
 
 Usage:
     python3 tools/covers.py              # book "ai": only new or changed pictures
     python3 tools/covers.py --all        # remake every copy
     python3 tools/covers.py --check      # only report what would change
-    python3 tools/covers.py --contrast 1.2   # punchier black and white (use with --all)
 
 The reader and the print page load small copies of the pictures, set in books.json:
 `storyArt` (for example ai/story-cover/web/{n}.jpg) and `partArt`
@@ -15,9 +15,7 @@ ai/section-cover/s1.jpeg) and can be jpg, jpeg, png or webp.
 
 For each original this writes, when the copy is missing or the original's contents changed
 (checked by fingerprint, not by file date, since a file copied in from Finder keeps its old date):
-- web/<name>.jpg: color, 1200 px tall, loaded by the reader and the print page;
-- bw/<name>.jpg: black and white at the same size, with the tones stretched so the darkest
-  part prints black and the lightest white (plain grayscale often prints flat and muddy).
+- web/<name>.jpg: color, 1200 px tall, loaded by the reader and the print page.
 The cover (books.json `cover`, for example ai/book-cover/web/cover.jpg) is copied from the
 picture one folder up, whatever its name (cover.jpeg wins if there are several), 1800 px tall.
 Each part's contents page has a picture too (books.json `contentsArt`, for example
@@ -40,7 +38,7 @@ import re
 import sys
 from pathlib import Path
 
-from PIL import Image, ImageEnhance, ImageOps
+from PIL import Image, ImageOps
 
 ROOT = Path(__file__).resolve().parent.parent
 EXTS = {".jpg", ".jpeg", ".png", ".webp"}
@@ -57,38 +55,30 @@ def manuscript_counts(book):
     return stories, parts
 
 
-def save_copies(src, dest, bw_dest, contrast):
+def save_copy(src, dest):
     with Image.open(src) as im:
         im = ImageOps.exif_transpose(im).convert("RGB")
     if im.height > HEIGHT:
         im = im.resize((round(im.width * HEIGHT / im.height), HEIGHT), Image.LANCZOS)
-    if dest:
-        dest.parent.mkdir(exist_ok=True)
-        im.save(dest, "JPEG", quality=QUALITY, optimize=True, progressive=True)
-    if bw_dest:
-        gray = ImageOps.autocontrast(ImageOps.grayscale(im), cutoff=0.5)
-        if contrast != 1:
-            gray = ImageEnhance.Contrast(gray).enhance(contrast)
-        bw_dest.parent.mkdir(exist_ok=True)
-        gray.save(bw_dest, "JPEG", quality=85, optimize=True, progressive=True)
+    dest.parent.mkdir(exist_ok=True)
+    im.save(dest, "JPEG", quality=QUALITY, optimize=True, progressive=True)
 
 
 def fingerprint(path):
     return hashlib.sha1(path.read_bytes()).hexdigest()[:12]
 
 
-def sync(label, pattern, expected, rebuild, check, contrast):
+def sync(label, pattern, expected, rebuild, check):
     """pattern is the books.json value, e.g. ai/section-cover/web/s{n}.jpg."""
     web = ROOT / Path(pattern).parent
     src_dir = web.parent
-    bw = src_dir / "bw"
     prefix, suffix = Path(pattern).name.split("{n}")
     stem_re = re.compile(rf"^{re.escape(prefix)}(\d+)$")
     if not src_dir.is_dir():
         print(f"{label}: no folder {src_dir.relative_to(ROOT)}")
         return 0
 
-    # What each copy was last made from: {copy name: {"src": fingerprint, "contrast": n}}.
+    # What each copy was last made from: {copy name: {"src": fingerprint}}.
     index_file = web / "index.json"
     try:
         index = json.loads(index_file.read_text(encoding="utf-8"))
@@ -111,18 +101,16 @@ def sync(label, pattern, expected, rebuild, check, contrast):
         old = index.get(name, {})
         changed = rebuild or old.get("src") != fp
         dest = web / name if changed or not (web / name).exists() else None
-        bw_dest = bw / name if changed or not (bw / name).exists() or old.get("contrast") != contrast else None
-        index[name] = {"src": fp, "contrast": contrast}
-        if not dest and not bw_dest:
+        index[name] = {"src": fp}
+        if not dest:
             continue
         made += 1
-        what = " + ".join(x for x, d in (("color", dest), ("bw", bw_dest)) if d)
-        print(f"  {'would update' if check else 'update'} {src.relative_to(ROOT)} ({what})")
+        print(f"  {'would update' if check else 'update'} {src.relative_to(ROOT)}")
         if not check:
-            save_copies(src, dest, bw_dest, contrast)
+            save_copy(src, dest)
 
     # Copies whose original was removed or renamed.
-    for folder in (web, bw):
+    for folder in (web,):
         if not folder.is_dir():
             continue
         for copy in folder.iterdir():
@@ -189,11 +177,11 @@ def sync_front(art, rebuild, check):
 ai/section-art/web/{n}.jpg from ai/section-art/1.jpeg, numbered like the parts).
 Front-matter pictures (books.json `frontArt`, title -> web/<name>.jpg): each is copied
     from the picture of the same name one folder up (ai/front-art/siti.jpeg -> web/siti.jpg),
-    HEIGHT px tall, with a black-and-white copy in bw/."""
+    HEIGHT px tall."""
     made = 0
     for title, pattern in art.items():
         dest = ROOT / pattern
-        web, bw = dest.parent, dest.parent.parent / "bw"
+        web = dest.parent
         srcs = [p for p in web.parent.glob(dest.stem + ".*") if p.suffix.lower() in EXTS]
         if not srcs:
             print(f"  warning: no picture for {title} ({web.parent.relative_to(ROOT)}/{dest.stem}.jpeg)")
@@ -210,8 +198,7 @@ Front-matter pictures (books.json `frontArt`, title -> web/<name>.jpg): each is 
         made += 1
         if not check:
             web.mkdir(parents=True, exist_ok=True)
-            bw.mkdir(exist_ok=True)
-            save_copies(srcs[0], dest, bw / dest.name, 1.0)
+            save_copy(srcs[0], dest)
             index[dest.name] = {"src": fp}
             index_file.write_text(json.dumps(dict(sorted(index.items())), indent=1) + "\n", encoding="utf-8")
     print(f"front: {len(art)} pictures, {made} {'to update' if check else 'updated'}")
@@ -223,7 +210,6 @@ def main():
     parser.add_argument("--book", default="ai", help="book id from books.json (default: ai)")
     parser.add_argument("--all", action="store_true", help="remake every copy, not only changed ones")
     parser.add_argument("--check", action="store_true", help="only report what would change")
-    parser.add_argument("--contrast", type=float, default=1.0, help="extra black-and-white contrast, 1 = none (try 1.1 to 1.3)")
     args = parser.parse_args()
 
     catalog = json.loads((ROOT / "books.json").read_text(encoding="utf-8"))
@@ -237,11 +223,11 @@ def main():
 
     stories, parts = manuscript_counts(book)
     if book.get("storyArt"):
-        sync("story", book["storyArt"], stories, args.all, args.check, args.contrast)
+        sync("story", book["storyArt"], stories, args.all, args.check)
     if book.get("partArt"):
-        sync("section", book["partArt"], parts, args.all, args.check, args.contrast)
+        sync("section", book["partArt"], parts, args.all, args.check)
     if book.get("contentsArt"):
-        sync("contents", book["contentsArt"], parts, args.all, args.check, args.contrast)
+        sync("contents", book["contentsArt"], parts, args.all, args.check)
     if book.get("frontArt"):
         sync_front(book["frontArt"], args.all, args.check)
     if has_cover:
