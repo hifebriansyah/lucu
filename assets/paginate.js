@@ -14,7 +14,7 @@ export function blankPage(kind) {
   return el;
 }
 
-const NO_FOLIO = new Set(["title", "part", "dedication", "blank", "image"]);
+const NO_FOLIO = new Set(["title", "copyright", "part", "dedication", "blank", "image"]);
 
 // Builds the element for one interior page: left or right side, running head
 // (book title on the left, story title on the right) and page number.
@@ -132,7 +132,7 @@ export async function paginate(sections, measure, { bookTitle = "" } = {}) {
       if (pages.length % 2 === 1) push(s.contentsArt ? "hex-art" : "blank", partArtPage(s));
       startOnRight(); s.page = pages.length + 1; push("part", s.html, s.title);
     }
-    else if (s.type === "dedication") { s.page = pages.length + 1; push("dedication", s.html); }
+    else if (s.type === "dedication" || s.type === "copyright") { s.page = pages.length + 1; push(s.type, s.html); }
     // Coloring pages sit on a right-hand page with a blank back, so colors don't bleed through.
     else if (s.type === "image") { startOnRight(); s.page = pages.length + 1; push("image", s.html, s.title); push("blank", ""); }
     else if ((s.type === "story" || s.type === "front") && s.art) {

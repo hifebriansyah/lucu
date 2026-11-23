@@ -109,8 +109,6 @@ body { height: 100vh; overflow: hidden; display: flex; flex-direction: column; }
 
 .single .leaf .page { background: linear-gradient(to right, rgba(0,0,0,.08), transparent 7%), var(--paper); box-shadow: 6px 10px 28px var(--shadow); border-radius: 0 4px 4px 0; }
 
-/* Black-and-white preview: interior pictures only, the cover stays in color. */
-.bw .page:not(.cover-page) img { filter: grayscale(1); }
 
 /* Paper color picker in the bar. */
 .paper-pick { position: relative; }
@@ -123,6 +121,7 @@ body { height: 100vh; overflow: hidden; display: flex; flex-direction: column; }
 }
 .paper-panel[hidden] { display: none; }
 .paper-title { font-weight: 600; margin-bottom: 8px; }
+.shape-dot[data-shape="square"], .shape-dot[data-shape="wide"] { clip-path: none; border-radius: 4px; }
 .shape-dot { width: 16px; aspect-ratio: var(--frame-ratio); max-height: 16px; flex: none; background: #9fe6ff; clip-path: var(--frame-clip); }
 .paper-custom + .paper-title { margin-top: 4px; padding-top: 10px; border-top: 1px solid rgba(255, 255, 255, .12); }
 .paper-swatches { display: grid; grid-template-columns: 1fr 1fr; gap: 4px; }

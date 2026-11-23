@@ -45,7 +45,7 @@ from PIL import Image, ImageEnhance, ImageOps
 ROOT = Path(__file__).resolve().parent.parent
 EXTS = {".jpg", ".jpeg", ".png", ".webp"}
 HEIGHT = 1200
-COVER_HEIGHT = 1800  # the cover shows larger, so it gets a bigger copy
+COVER_HEIGHT = 2600  # full size: the reader can save the cover for print (A5 at 300 dpi is 2480 px tall)
 QUALITY = 80
 
 

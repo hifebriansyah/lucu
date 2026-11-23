@@ -1,6 +1,6 @@
 import { loadBook, coverMarkup } from "./book.js";
 import { paginate, pageElement, blankPage } from "./paginate.js";
-import { PAPERS, DEFAULT_PAPER, savedPaper, savePaper, applyPaper, BORDERS, DEFAULT_BORDER, savedBorder, saveBorder, applyBorder, FRAMES, DEFAULT_FRAME, savedFrame, saveFrame, applyFrame } from "./paper.js";
+import { PAPERS, DEFAULT_PAPER, savedPaper, savePaper, applyPaper, BORDERS, DEFAULT_BORDER, savedBorder, saveBorder, applyBorder, FRAMES, DEFAULT_FRAME, savedFrame, saveFrame, applyFrame, savedBw, saveBw, applyBw } from "./paper.js";
 
 const $ = (id) => document.getElementById(id);
 const params = new URLSearchParams(location.search);
@@ -10,18 +10,10 @@ const { book, sections, missing } = await loadBook(bookId);
 document.title = `${book.title} · Pembaca`;
 $("printLink").href = `print.html?book=${book.id}`;
 
-// Black-and-white preview of the pictures, for a grayscale print. Remembered per browser.
+// Hitam putih: interior pages in black and white, for a grayscale print. Remembered per browser.
 const bwBtn = $("bwBtn");
-function setBw(on) {
-  document.body.classList.toggle("bw", on);
-  bwBtn.setAttribute("aria-pressed", on);
-  bwBtn.classList.toggle("ghost", !on);
-  try { localStorage.setItem("lucu-bw", on ? "1" : ""); } catch {}
-}
-let bwSaved = false;
-try { bwSaved = localStorage.getItem("lucu-bw") === "1"; } catch {}
-setBw(bwSaved);
-bwBtn.addEventListener("click", () => setBw(!document.body.classList.contains("bw")));
+applyBw(savedBw(), bwBtn);
+bwBtn.addEventListener("click", () => { const on = !document.body.classList.contains("bw"); applyBw(on, bwBtn); saveBw(on); });
 
 // Paper and picture-border colors and the part-picture shape: try them live, Simpan keeps all (for this book, and
 // for the PDF); closing the panel without saving goes back to the saved colors.
@@ -281,6 +273,45 @@ function syncToc() {
   toc.value = String(best);
 }
 toc.addEventListener("change", () => jump(+toc.value));
+
+/* ---------- Save the cover ---------- */
+
+// Saves the cover as the reader shows it, title included, as a PNG at A5 300 dpi
+// (1748 x 2480 px): the cover is laid out off screen at 874 x 1240 CSS px and drawn at
+// twice that by html-to-image (loaded only when the button is used).
+const COVER_W = 874, COVER_H = 1240, COVER_SCALE = 2;
+function loadScript(src) {
+  return new Promise((ok, fail) => {
+    const el = Object.assign(document.createElement("script"), { src, onload: ok, onerror: fail });
+    document.head.append(el);
+  });
+}
+async function saveCover() {
+  const btn = $("coverBtn");
+  btn.disabled = true;
+  try {
+    if (!window.htmlToImage) await loadScript("https://cdn.jsdelivr.net/npm/html-to-image@1.11.11/dist/html-to-image.js");
+    const holder = document.createElement("div");
+    holder.style.cssText = `position:fixed;left:-10000px;top:0;width:${COVER_W}px;height:${COVER_H}px;`;
+    holder.innerHTML = coverMarkup(book, { withImage: true });
+    document.body.append(holder);
+    const img = holder.querySelector(".cover-img");
+    if (img && !img.complete) await new Promise((r) => { img.onload = img.onerror = r; });
+    await document.fonts.ready;
+    const url = await window.htmlToImage.toPng(holder.firstElementChild, { width: COVER_W, height: COVER_H, pixelRatio: COVER_SCALE, cacheBust: false });
+    holder.remove();
+    const a = Object.assign(document.createElement("a"), { href: url, download: `${book.id}-sampul.png` });
+    document.body.append(a);
+    a.click();
+    a.remove();
+  } catch (err) {
+    console.error(err);
+    alert("Sampul belum bisa disimpan. Coba lagi.");
+  } finally {
+    btn.disabled = false;
+  }
+}
+$("coverBtn").addEventListener("click", saveCover);
 
 /* ---------- Input ---------- */
 

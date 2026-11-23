@@ -7,7 +7,7 @@
     "manuscript": "ai/naskah.md",
     "cover": "ai/book-cover/web/cover.jpg",
     "coverText": true,
-    "coverTitle": ["KELAKUAN", "PENGGUNA Ai !!"],
+    "coverTitle": ["KELAKUAN", "PENGGUNA Ai!!"],
     "storyArt": "ai/story-cover/web/{n}.jpg",
     "partArt": "ai/section-cover/web/s{n}.jpg",
     "contentsArt": "ai/section-art/web/{n}.jpg",

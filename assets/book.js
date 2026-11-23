@@ -22,6 +22,12 @@ export async function loadBook(id) {
   }
   const md = await res.text();
   const sections = parseSections(md);
+  // The title page sets the title like the cover: coverTitle's small and big lines.
+  const titlePage = sections.find((s) => s.type === "title");
+  if (titlePage && book.coverTitle) {
+    const [lead, main] = book.coverTitle;
+    titlePage.html = titlePage.html.replace(/<h1[^>]*>[\s\S]*?<\/h1>/, `<h1 class="poster-title"><span class="lead">${lead}</span><span class="main">${main}</span></h1>`);
+  }
   if (book.storyArt) addStoryArt(sections, await versioned(book.storyArt));
   if (book.partArt) addPartArt(sections, await versioned(book.partArt));
   if (book.contentsArt) {
@@ -101,11 +107,38 @@ export function parseSections(md) {
     } else if (heading) {
       type = heading[1].trim() === "Daftar Isi" ? "toc" : "front";
       title = heading[1].trim();
+    } else if (/ISBN|Hak cipta/i.test(text)) {
+      type = "copyright"; // the imprint page: publisher, ISBN, rights
     } else {
       type = "dedication";
     }
-    return { index, type, title, html, text };
+    const shaped = type === "front" ? profileCards(html) : type === "dedication" ? chatBubble(html) : html;
+    return { index, type, title, html: shaped, text };
   });
+}
+
+// A dedication that ends on a quoted question ("Yakin?") shows the question as a sent chat
+// message under the verse (pages.css .bubble).
+function chatBubble(html) {
+  const q = '(?:"|&quot;|&#34;|\u201c|\u201d)';
+  return html.replace(new RegExp(`,?\\s*${q}([^"<&\u201d]+)${q}\\s*</em>\\s*</p>\\s*$`), ',</em></p><p class="bubble">$1</p>');
+}
+
+// A front-matter paragraph made only of "**Label:** value" lines (Kenalan dengan SITI) becomes a
+// profile card: a two-column list of labels and values (pages.css .profile).
+function profileCards(html) {
+  const holder = document.createElement("div");
+  holder.innerHTML = html;
+  for (const p of holder.querySelectorAll("p")) {
+    const lines = p.innerHTML.split(/<br\s*\/?>\s*/i).map((l) => l.trim()).filter(Boolean);
+    const rows = lines.map((l) => l.match(/^<strong>([^<]+?):?<\/strong>:?\s*(.*)$/s));
+    if (lines.length < 2 || rows.some((r) => !r)) continue;
+    const dl = document.createElement("dl");
+    dl.className = "profile";
+    dl.innerHTML = rows.map((r) => `<dt>${r[1]}</dt><dd>${r[2]}</dd>`).join("");
+    p.replaceWith(dl);
+  }
+  return holder.innerHTML;
 }
 
 export function coverMarkup(book, { withImage = true } = {}) {

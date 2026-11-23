@@ -1,6 +1,6 @@
 import { loadBook } from "./book.js";
 import { paginate, pageElement } from "./paginate.js";
-import { savedPaper, applyPaper, savedBorder, applyBorder, savedFrame, applyFrame } from "./paper.js";
+import { DEFAULT_PAPER, savedPaper, applyPaper, savedBorder, applyBorder, savedFrame, applyFrame, savedBw, saveBw, applyBw } from "./paper.js";
 
 const $ = (id) => document.getElementById(id);
 const params = new URLSearchParams(location.search);
@@ -12,10 +12,12 @@ $("readLink").href = `reader.html?book=${book.id}`;
 // The paper color saved in the reader prints too (print.css keeps the colors exact).
 const paper = savedPaper(book.id);
 applyPaper(paper);
-document.documentElement.classList.toggle("custom-paper", !!paper);
 const border = savedBorder(book.id); // and the picture border color
 applyBorder(border);
 applyFrame(savedFrame(book.id)); // and the shape of the part pictures' facing pictures
+// Hitam putih, the same switch as in the reader (and saved for it too).
+const bwBtn = $("bwBtn");
+applyBw(savedBw(), bwBtn);
 lucide.createIcons();
 
 if (missing) {
@@ -30,6 +32,11 @@ const frag = document.createDocumentFragment();
 for (const data of pages) frag.append(pageElement(data));
 $("pages").replaceChildren(frag);
 
-$("info").textContent = `${pages.length} halaman · A5 (14,8 × 21 cm)${paper ? ` · kertas ${paper}` : ""}${border ? ` · bingkai ${border}` : ""}`;
+const showInfo = () => {
+  const bw = document.body.classList.contains("bw") ? " · hitam putih" : "";
+  $("info").textContent = `${pages.length} halaman · A5 (14,8 × 21 cm) · kertas ${paper || DEFAULT_PAPER}${border ? ` · bingkai ${border}` : ""}${bw}`;
+};
+showInfo();
+bwBtn.addEventListener("click", () => { const on = !document.body.classList.contains("bw"); applyBw(on, bwBtn); saveBw(on); showInfo(); });
 $("printBtn").disabled = false;
 $("printBtn").addEventListener("click", () => window.print());

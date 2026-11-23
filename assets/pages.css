@@ -1,7 +1,7 @@
 /* Book pages, shared by the reader and the print PDF. Every page is a real A5 sheet
    (148 × 210 mm) laid out once by paginate.js: print uses it at full size, the
    reader only scales it to fit the window. So the screen shows exactly what prints. */
-:root { --pw: 148mm; --ph: 210mm; --siti: #4aa8e0; /* SITI blue, from her blazer and glow */ }
+:root { --pw: 148mm; --ph: 210mm; --siti: #3fb8a8; /* the accent color (toska): picture borders, rules, labels; the reader can change it */ }
 
 .page {
   position: relative;
@@ -43,7 +43,7 @@
 .page.story h2, .page.front h2, .page.toc h2 { font: 900 16pt/1.25 "Orbitron", var(--font-ui); letter-spacing: .16em; text-align: center; margin: 12pt 0 18pt; }
 /* Story picture: on the right-hand page facing the story. It keeps the normal page margins, so
    it lines up with the text block on the facing page and leaves room for the page number;
-   rounded corners are 41px, for "AI", with a white gap and then a SITI-blue border. */
+   rounded corners are 41px, for "AI", with a white gap and then a toska border. */
 .page.art .body { display: flex; flex-direction: column; gap: 7mm; } /* between the spill text and the picture */
 .page.art .body img { box-sizing: border-box; width: 100%; flex: 1 1 0; min-height: 0; object-fit: cover; display: block; border-radius: 41px; border: 1.5pt solid var(--siti); padding: 3pt; background: #fff; }
 /* A story only a few lines too long ends at the top of its picture page; the picture takes
@@ -51,9 +51,35 @@
 .page.art .spill > :last-child { margin-bottom: 0; }
 
 .page.title .body { text-align: center; padding-top: 30%; }
-.page.title h1 { font-size: 24pt; margin: 0 0 10pt; }
-.page.title h3 { font-weight: 400; font-style: italic; font-size: 12pt; margin: 0 0 40pt; }
-.page.dedication .body { text-align: center; font-style: italic; padding-top: 35%; }
+/* A profile card page (Kenalan dengan SITI): set in the middle of the page, the card framed
+   in toska with labels in small Orbitron, then the paragraph under it, centered. */
+.page.front .body:has(dl.profile) { display: flex; flex-direction: column; justify-content: center; padding-bottom: 8mm; }
+.page.front dl.profile { display: grid; grid-template-columns: max-content 1fr; gap: 6pt 10pt; align-items: baseline; margin: 0 0 16pt; padding: 13pt 15pt; border: 1.5pt solid var(--siti); border-radius: 18pt; background: rgba(255, 255, 255, .55); }
+.page.front dl.profile dt { font: 600 7.5pt/1 "Orbitron", var(--font-ui); letter-spacing: .14em; text-transform: uppercase; color: var(--siti); }
+.page.front dl.profile dd { margin: 0; }
+.page.front dl.profile + p, .page.front dl.profile ~ p { text-align: center; text-wrap: balance; font-style: italic; }
+/* Title page: the title in Orbitron like the cover and part pages, in plain dark ink (no glow,
+   so it prints cleanly), a short toska rule under it, then the subtitle and the author. */
+.page.title h1 { font: 900 24pt/1.1 "Orbitron", var(--font-ui); letter-spacing: .06em; margin: 0 0 12pt; }
+.page.title h1.poster-title { display: flex; flex-direction: column; align-items: center; gap: 4pt; }
+.page.title h1.poster-title .lead { font-size: 34pt; letter-spacing: .05em; }
+.page.title h1.poster-title .main { font-size: 18pt; letter-spacing: .1em; }
+.page.title h1::after { content: ""; display: block; width: 22mm; height: 1.5pt; margin: 12pt auto 0; background: var(--siti); border-radius: 1pt; }
+.page.title h3 { font-weight: 400; font-style: italic; font-size: 11.5pt; line-height: 1.45; margin: 0 8mm 44pt; text-wrap: balance; }
+.page.title strong { font: 600 9.5pt/1.4 var(--font-ui); letter-spacing: .08em; }
+/* Imprint page: small type, left-aligned, at the foot of the page, as in printed books; the
+   book's name in bold, and a thin rule before the rights notice. */
+.page.copyright .body { display: flex; flex-direction: column; justify-content: flex-end; font-size: 8.5pt; line-height: 1.55; }
+.page.copyright .body p { margin: 0 0 7pt; }
+.page.copyright .body p:first-child strong { font: 600 9.5pt/1.4 "Orbitron", var(--font-ui); letter-spacing: .06em; }
+.page.copyright .body p:nth-last-child(2) { margin-top: 6pt; padding-top: 9pt; border-top: .75pt solid rgba(0, 0, 0, .3); }
+.page.copyright .body p:last-child { margin-bottom: 0; font-style: italic; }
+/* Dedication: the verse in italic in the upper middle of the page; a closing question becomes
+   a sent chat message, framed in toska with a tail at its lower right. */
+.page.dedication .body { display: flex; flex-direction: column; align-items: center; text-align: center; padding-top: 32%; }
+.page.dedication .body p { margin: 0; font-style: italic; font-size: 12pt; line-height: 1.7; }
+.page.dedication .body p.bubble { margin: 16pt 0 0 28mm; padding: 6pt 15pt 7pt; font: 700 13pt/1.2 var(--font-book); font-style: normal; border: 1.5pt solid var(--siti); border-radius: 14pt 14pt 3pt 14pt; background: #fff; }
+.page.dedication .body p.bubble::after { content: "Terkirim"; display: block; margin-top: 3pt; text-align: right; font: 500 6.5pt/1 var(--font-ui); letter-spacing: .06em; color: var(--siti); }
 .page.part .body { text-align: center; padding-top: 40%; }
 .page.part h1 { font-size: 20pt; margin: 0; }
 /* Part page with a picture: the picture fills the whole page, edge to edge, with a poster
@@ -64,9 +90,11 @@
 .page.part .part-art img { width: 100%; height: 100%; object-fit: cover; display: block; }
 .page.part .part-art::after { content: ""; position: absolute; inset: 0 0 auto; height: 45%; background: linear-gradient(rgba(0, 0, 0, .6), transparent); }
 /* Thin white line just inside the picture's edge, like a poster frame. */
-.page.part .part-art::before { content: ""; position: absolute; inset: 7mm; border: 1pt solid #fff; z-index: 1; }
+.page.part .part-art::before { content: ""; position: absolute; inset: 7mm; border: 1pt solid #fff; border-radius: 41px; z-index: 1; }
 /* Poster title in a futuristic face: white letters, a dark outline and SITI's cyan glow. */
-.page.part h1.poster { position: relative; z-index: 2; margin: 0; padding: 0 14mm; display: flex; flex-direction: column; align-items: center; gap: 2.5mm; color: #fff; text-transform: uppercase; line-height: 1; text-align: center; -webkit-text-stroke: 1.4pt #0b1a26; paint-order: stroke fill; text-shadow: 0 0 6pt rgba(80, 220, 255, .85), 0 2pt 4pt rgba(0, 0, 0, .6); }
+.page.part h1.poster { position: relative; z-index: 2; margin: 0; padding: 0 14mm; display: flex; flex-direction: column; align-items: center; gap: 2.5mm; color: #fff; text-transform: uppercase; line-height: 1; text-align: center; -webkit-text-stroke: 1.4pt #0b1a26; paint-order: stroke fill; filter: drop-shadow(0 0 3pt rgba(80, 220, 255, .85)) drop-shadow(0 2pt 2pt rgba(0, 0, 0, .6)); }
+/* The glow is a drop-shadow filter, not text-shadow: Chrome prints a blurred text-shadow on
+   outlined text as a solid box in the PDF. (drop-shadow blur is half a text-shadow blur.) */
 .page.part h1.poster .main { font: 900 33pt/1 "Orbitron", var(--font-ui); letter-spacing: .04em; }
 .page.part h1.poster.big .main { font-size: 56pt; }
 .page.part h1.poster .sub { font: 600 19pt/1.1 "Orbitron", var(--font-ui); letter-spacing: .12em; -webkit-text-stroke-width: 1pt; }
@@ -93,6 +121,15 @@
 .page.hex-art .hex-ring { width: 100%; aspect-ratio: var(--frame-ratio); background: var(--siti); padding: var(--ring-pad, 2pt); box-sizing: border-box; }
 .page.hex-art .hex-gap { width: 100%; height: 100%; background: #fff; padding: var(--gap-pad, 3.5pt); box-sizing: border-box; }
 .page.hex-art .hex img { width: 100%; height: 100%; object-fit: cover; }
+/* Square and 16:9 get the story pictures' 41px corners; each layer inside is rounded a little
+   less, by the line and the gap, so the frame stays even at the corners. */
+/* The hexagon (the default shape) gets rounded corners, about 41px like the story pictures:
+   clip-path can't round a polygon, so each layer is masked with a rounded hexagon instead. */
+:root:not([data-frame]) .page.hex-art .hex :is(span, img) { clip-path: none; -webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 86.6 100' preserveAspectRatio='none'%3E%3Cpath d='M35.94 4.25Q43.30 0.00 50.66 4.25L79.24 20.75Q86.60 25.00 86.60 33.50L86.60 66.50Q86.60 75.00 79.24 79.25L50.66 95.75Q43.30 100.00 35.94 95.75L7.36 79.25Q0.00 75.00 0.00 66.50L0.00 33.50Q0.00 25.00 7.36 20.75Z'/%3E%3C/svg%3E") center / 100% 100% no-repeat; mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 86.6 100' preserveAspectRatio='none'%3E%3Cpath d='M35.94 4.25Q43.30 0.00 50.66 4.25L79.24 20.75Q86.60 25.00 86.60 33.50L86.60 66.50Q86.60 75.00 79.24 79.25L50.66 95.75Q43.30 100.00 35.94 95.75L7.36 79.25Q0.00 75.00 0.00 66.50L0.00 33.50Q0.00 25.00 7.36 20.75Z'/%3E%3C/svg%3E") center / 100% 100% no-repeat; }
+:is([data-frame="square"], [data-frame="wide"]) .page.hex-art .hex :is(span, img) { clip-path: none; }
+:is([data-frame="square"], [data-frame="wide"]) .page.hex-art .hex-ring { border-radius: 41px; }
+:is([data-frame="square"], [data-frame="wide"]) .page.hex-art .hex-gap { border-radius: calc(41px - 2pt); }
+:is([data-frame="square"], [data-frame="wide"]) .page.hex-art .hex img { border-radius: calc(41px - 5.5pt); }
 .page.hex-art .trivia { margin: 9mm 4mm 0; text-align: center; font-style: italic; font-size: 10.5pt; line-height: 1.45; text-wrap: balance; }
 .page.hex-art .trivia-label { display: block; margin-bottom: 2.5pt; font: 600 8pt/1 "Orbitron", var(--font-ui); font-style: normal; letter-spacing: .3em; text-transform: uppercase; color: var(--siti); }
 
@@ -103,3 +140,11 @@
 .page.image .body img { max-width: 100%; max-height: 100%; display: block; }
 
 .measure { position: absolute; left: -9999px; top: 0; visibility: hidden; }
+
+/* Hitam putih (body.bw, reader and print): interior pages in black and white for a grayscale
+   print. Pictures go grey, and every color swaps for a grey of the same brightness. Colors are
+   swapped instead of filtering the whole page, because Chrome prints filtered text as a picture.
+   The paper keeps its color and the cover stays in color. */
+.bw .page:not(.cover-page) { --siti: var(--siti-grey, rgb(157, 157, 157)); }
+.bw .page:not(.cover-page) img { filter: grayscale(1); }
+.bw .page.part h1.poster { -webkit-text-stroke-color: #161616; filter: drop-shadow(0 0 3pt rgba(206, 206, 206, .85)) drop-shadow(0 2pt 2pt rgba(0, 0, 0, .6)); }

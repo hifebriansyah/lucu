@@ -2,13 +2,13 @@
 // Saved per book in this browser (localStorage), so the print page, which opens from
 // the same site, picks up the same color.
 
-export const DEFAULT_PAPER = "#fffdf8";
+export const DEFAULT_PAPER = "#fbf5e6"; // Gading, --paper in base.css
 
 // A few book papers to start from; any other color comes from the color picker.
 export const PAPERS = [
+  { name: "Gading", color: "#fbf5e6" },
   { name: "Krem", color: "#fffdf8" },
   { name: "Putih", color: "#ffffff" },
-  { name: "Gading", color: "#fbf5e6" },
   { name: "Novel", color: "#f5ecd7" },
   { name: "Abu", color: "#f1f1ee" },
 ];
@@ -33,15 +33,14 @@ export function applyPaper(color) {
 }
 
 // Border color of the story pictures (the line around each picture page), saved the same way.
-export const DEFAULT_BORDER = "#4aa8e0"; // SITI blue, --siti in pages.css
+export const DEFAULT_BORDER = "#3fb8a8"; // toska, --siti in pages.css
 
 export const BORDERS = [
-  { name: "Biru SITI", color: "#4aa8e0" },
+  { name: "Toska", color: "#3fb8a8" },
   { name: "Hitam", color: "#222222" },
   { name: "Abu", color: "#9a9a9a" },
   { name: "Emas", color: "#c9a227" },
   { name: "Merah", color: "#d04a4a" },
-  { name: "Toska", color: "#3fb8a8" },
 ];
 
 const borderKey = (bookId) => `lucu-border-${bookId}`;
@@ -58,8 +57,30 @@ export function saveBorder(bookId, color) {
 }
 
 export function applyBorder(color) {
-  if (color) document.documentElement.style.setProperty("--siti", color);
-  else document.documentElement.style.removeProperty("--siti");
+  const root = document.documentElement.style;
+  if (color) root.setProperty("--siti", color);
+  else root.removeProperty("--siti");
+  root.setProperty("--siti-grey", grey(color || DEFAULT_BORDER)); // what Hitam putih shows instead
+}
+
+// The same color as a grey of equal brightness (Rec. 709 luma), for black-and-white pages.
+export function grey(hex) {
+  const n = parseInt(hex.slice(1), 16);
+  const y = Math.round(.2126 * (n >> 16) + .7152 * ((n >> 8) & 255) + .0722 * (n & 255));
+  return `rgb(${y}, ${y}, ${y})`;
+}
+
+// Hitam putih: interior pages in black and white, for a grayscale print. One setting for every
+// book, shared by the reader and the print page.
+export function savedBw() {
+  try { return localStorage.getItem("lucu-bw") === "1"; } catch { return false; }
+}
+export function saveBw(on) {
+  try { localStorage.setItem("lucu-bw", on ? "1" : ""); } catch {}
+}
+export function applyBw(on, btn) {
+  document.body.classList.toggle("bw", on);
+  if (btn) { btn.setAttribute("aria-pressed", on); btn.classList.toggle("ghost", !on); }
 }
 
 // Shape of the picture on the page facing each part picture (pages.css, data-frame).
