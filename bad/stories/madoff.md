@@ -2,7 +2,7 @@
 
 *New York, 2008. Investasi: imbal hasil yang terlalu mulus selama puluhan tahun.*
 
-### Kisahnya
+### Kisah
 
 Bernard Lawrence Madoff lahir pada 1938 di New York, dari keluarga kelas pekerja. Pada 1960, dengan modal sekitar 5.000 dolar dari tabungannya bekerja sebagai penjaga pantai dan pemasang alat penyiram taman, ia mendirikan perusahaan pialang sahamnya sendiri.
 
@@ -18,7 +18,7 @@ Ada yang curiga. Seorang analis keuangan bernama Harry Markopolos mencoba meniru
 
 Skema Ponzi hanya bisa bertahan selama uang baru terus masuk lebih banyak daripada uang yang keluar. Pada 2008, krisis keuangan global membuat banyak investor menarik dananya sekaligus. Madoff tidak punya uang untuk membayar. Pada 10 Desember 2008, ia mengaku kepada kedua putranya bahwa bisnis investasinya adalah "satu kebohongan besar". Malam itu juga, lewat pengacara, kedua putranya melaporkannya ke pihak berwenang. Keesokan paginya, 11 Desember 2008, Madoff ditangkap.
 
-### Konsekuensi
+### Harga
 
 Laporan rekening para nasabah menunjukkan saldo total sekitar 65 miliar dolar, sebagian besar keuntungan khayalan. Uang pokok yang benar-benar disetor dan hilang diperkirakan sekitar 17 sampai 20 miliar dolar. Korbannya ribuan orang dan lembaga di seluruh dunia: pensiunan, yayasan amal, universitas, bank, dan selebritas. Beberapa yayasan amal harus tutup.
 
@@ -28,9 +28,17 @@ Tragedi juga menimpa keluarganya. Putra sulungnya, Mark, meninggal bunuh diri pa
 
 Seorang kurator kebangkrutan, Irving Picard, menghabiskan lebih dari satu dekade melacak uang yang hilang, termasuk menggugat investor yang sempat menarik "keuntungan" palsu dari Madoff. Sampai akhir 2025, ia berhasil memulihkan lebih dari 15 miliar dolar untuk para korban, jauh lebih banyak dari yang semula diperkirakan, di luar sekitar 4,3 miliar dolar dari dana korban milik Departemen Kehakiman Amerika.
 
-### Keuntungan
+### Hasil
 
 Selama puluhan tahun, Madoff hidup sebagai salah satu orang paling terhormat di Wall Street. Ia punya penthouse di Manhattan, rumah di Long Island, Palm Beach, dan Riviera Prancis, serta kapal pesiar. Ia membiayai gaya hidup keluarganya dan bisnis pialangnya sebagian dengan uang para korban.
+
+### Pelajaran
+
+Imbal hasil yang terlalu mulus sama mencurigakannya dengan imbal hasil yang terlalu tinggi. Pasar yang sungguhan naik turun. Investasi yang tidak pernah rugi, dalam keadaan apa pun, hampir pasti bukan investasi.
+
+Kepercayaan pada orang yang kita kenal, satu komunitas, satu agama, satu kampung, atau satu grup WhatsApp, justru membuat kita berhenti memeriksa. Penipuan yang memanfaatkan kedekatan seperti ini sering disebut *affinity fraud*, dan bentuknya sangat akrab di Indonesia, dari arisan bodong sampai investasi berkedok komunitas.
+
+Dan kalau seseorang menolak menjelaskan cara ia menghasilkan uangmu, dengan alasan rahasia, rumit, atau "kamu tidak akan mengerti", itu bukan tanda kecerdasan. Itu alasan untuk menarik uangmu.
 
 ### Analisa Dark Triad
 
@@ -42,10 +50,13 @@ Selama puluhan tahun, Madoff hidup sebagai salah satu orang paling terhormat di 
 
 **Kesimpulan:** Kombinasi psikopati dan Machiavellianisme yang sangat kuat. Madoff adalah contoh paling ekstrem di buku ini dari orang yang bisa berbohong kepada orang-orang terdekatnya selama puluhan tahun tanpa terlihat goyah.
 
-### Hikmah
+### Profil
 
-Imbal hasil yang terlalu mulus sama mencurigakannya dengan imbal hasil yang terlalu tinggi. Pasar yang sungguhan naik turun. Investasi yang tidak pernah rugi, dalam keadaan apa pun, hampir pasti bukan investasi.
+**Nama:** Bernard Lawrence Madoff
+**Lahir:** 29 April 1938, Queens, New York
+**Wafat:** 14 April 2021, Butner, North Carolina
+**Jenis kelamin:** Laki-laki
+**Negara:** Amerika Serikat
 
-Kepercayaan pada orang yang kita kenal, satu komunitas, satu agama, satu kampung, atau satu grup WhatsApp, justru membuat kita berhenti memeriksa. Penipuan yang memanfaatkan kedekatan seperti ini sering disebut *affinity fraud*, dan bentuknya sangat akrab di Indonesia, dari arisan bodong sampai investasi berkedok komunitas.
-
-Dan kalau seseorang menolak menjelaskan cara ia menghasilkan uangmu, dengan alasan rahasia, rumit, atau "kamu tidak akan mengerti", itu bukan tanda kecerdasan. Itu alasan untuk menarik uangmu.
+> “Ketika saya memulai skema Ponzi itu, saya yakin semuanya akan segera berakhir dan saya akan bisa melepaskan diri saya dan klien-klien saya dari skema tersebut.”
+> — Pengakuan bersalah di pengadilan, Maret 2009

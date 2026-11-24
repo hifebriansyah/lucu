@@ -2,7 +2,7 @@
 
 *Amerika Serikat, 2016. Obat: harga EpiPen naik enam kali lipat.*
 
-### Kisahnya
+### Kisah
 
 EpiPen adalah suntikan otomatis berbentuk pena, berisi epinefrin, atau adrenalin. Bagi orang dengan alergi berat, terhadap kacang, sengatan lebah, atau obat tertentu, reaksi alergi bisa membuat tenggorokan membengkak dan tekanan darah anjlok dalam hitungan menit. Satu suntikan epinefrin di paha bisa menyelamatkan nyawa sampai ambulans datang. Obatnya sendiri sangat murah, hanya bernilai beberapa dolar. Yang mahal adalah alat suntiknya, yang dirancang supaya bisa dipakai oleh siapa saja, termasuk anak-anak dan guru, dalam keadaan panik.
 
@@ -18,7 +18,7 @@ Di saat yang sama, Mylan gencar mendorong sekolah-sekolah menyediakan epinefrin 
 
 Pesaing memang hampir tidak ada. Satu produk saingan ditarik dari pasar pada 2015 karena masalah dosis, dan versi generik lain belum mendapat izin. Lagi-lagi, menaikkan harga obat tidak melanggar hukum di Amerika.
 
-### Konsekuensi
+### Harga
 
 Pada musim panas 2016, menjelang tahun ajaran baru, para orang tua yang terkejut melihat tagihan apotek mulai bercerita di media sosial. Banyak keluarga dengan asuransi kesehatan yang berbiaya sendiri tinggi harus membayar harga penuh, ratusan dolar untuk pena yang mungkin tidak akan dipakai dan harus dibeli lagi tahun depan. Cerita-cerita itu menyebar cepat, dan media besar mulai membandingkan kenaikan harga EpiPen dengan kenaikan gaji para eksekutif Mylan.
 
@@ -28,9 +28,17 @@ Mylan kemudian meluncurkan versi generik EpiPen yang identik, dengan harga sekit
 
 Kisah lama Bresch juga ikut diangkat kembali. Pada akhir 2007, sebuah koran di Pittsburgh melaporkan bahwa West Virginia University memberikan gelar MBA kepadanya padahal ia belum menyelesaikan syarat-syaratnya. Pada 2008, penyelidikan kampus menyimpulkan gelar itu diberikan secara keliru dan mencabutnya, dan rektor universitas tersebut, bersama beberapa pejabat lain, mengundurkan diri.
 
-### Keuntungan
+### Hasil
 
 EpiPen menjadi salah satu produk paling menguntungkan Mylan, menyumbang miliaran dolar penjualan. Kompensasi tahunan Bresch naik dari sekitar 2,5 juta dolar pada 2007 menjadi sekitar 19 juta dolar pada 2015, naik lebih dari enam ratus persen dalam periode yang hampir sama dengan kenaikan harga EpiPen. Ketika Mylan bergabung dengan Upjohn milik Pfizer pada 2020 membentuk Viatris, Bresch pergi dengan paket keluar sekitar 30 juta dolar.
+
+### Pelajaran
+
+Kenaikan kecil yang diulang terus terasa wajar, sampai seseorang menjumlahkannya. Banyak kenaikan harga, dari biaya langganan sampai biaya administrasi bank, bekerja dengan cara yang sama. Periksa sesekali berapa yang kamu bayar sekarang dibandingkan lima tahun lalu.
+
+Produk yang dibutuhkan orang karena takut, dan diwajibkan oleh aturan, adalah pasar yang sangat mudah diperas. Orang tua tidak akan menawar harga alat yang menyelamatkan nyawa anaknya. Ketika sebuah perusahaan ikut melobi aturan yang mewajibkan produknya sendiri, perhatikan baik-baik.
+
+Bagi konsumen, kekuatan terbesar ternyata bukan regulator, tetapi cerita yang disebarkan bersama-sama. Bagi pebisnis, pelajarannya sederhana: harga yang tidak bisa kamu jelaskan di depan seorang ibu yang anaknya alergi, kemungkinan besar memang tidak bisa dibela.
 
 ### Analisa Dark Triad
 
@@ -42,10 +50,13 @@ EpiPen menjadi salah satu produk paling menguntungkan Mylan, menyumbang miliaran
 
 **Kesimpulan:** Kisah EpiPen adalah pengingat penting. Tidak semua "jahat tapi legal" membutuhkan Dark Triad yang kuat. Kadang cukup sebuah perusahaan dengan insentif yang salah, eksekutif yang dibayar berdasarkan laba, dan pasar di mana pembelinya tidak punya pilihan. Sistemnya sendiri yang menghasilkan kekejaman, satu kenaikan harga kecil pada satu waktu.
 
-### Hikmah
+### Profil
 
-Kenaikan kecil yang diulang terus terasa wajar, sampai seseorang menjumlahkannya. Banyak kenaikan harga, dari biaya langganan sampai biaya administrasi bank, bekerja dengan cara yang sama. Periksa sesekali berapa yang kamu bayar sekarang dibandingkan lima tahun lalu.
+**Nama:** Heather Bresch
+**Lahir:** 27 Juni 1969, Morgantown, West Virginia
+**Wafat:** Masih hidup
+**Jenis kelamin:** Perempuan
+**Negara:** Amerika Serikat
 
-Produk yang dibutuhkan orang karena takut, dan diwajibkan oleh aturan, adalah pasar yang sangat mudah diperas. Orang tua tidak akan menawar harga alat yang menyelamatkan nyawa anaknya. Ketika sebuah perusahaan ikut melobi aturan yang mewajibkan produknya sendiri, perhatikan baik-baik.
-
-Bagi konsumen, kekuatan terbesar ternyata bukan regulator, tetapi cerita yang disebarkan bersama-sama. Bagi pebisnis, pelajarannya sederhana: harga yang tidak bisa kamu jelaskan di depan seorang ibu yang anaknya alergi, kemungkinan besar memang tidak bisa dibela.
+> “Tidak ada yang lebih frustrasi daripada saya. [...] Ada sistemnya.”
+> — Wawancara dengan CNBC, Agustus 2016

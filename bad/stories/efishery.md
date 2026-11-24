@@ -1,10 +1,10 @@
-# eFishery
+# Gibran Huzaifah
 
-*Bandung, 2018–2024. Startup: ketika "jahat tapi legal" tidak lagi cukup.*
+*Bandung, 2018–2024. Startup eFishery: ketika "jahat tapi legal" tidak lagi cukup.*
 
 Kisah terakhir buku ini datang dari dekat rumah. Seperti Ponzi, Leeson, Madoff, dan Holmes di bagian ini, tokohnya melewati garis hukum jauh, selama bertahun-tahun. Yang membuatnya penting bagi kita adalah alasan yang membuatnya merasa harus melakukannya.
 
-### Kisahnya
+### Kisah
 
 Gibran Huzaifah kuliah biologi di Institut Teknologi Bandung. Untuk membiayai hidupnya sebagai mahasiswa, ia beternak lele. Dari kolam-kolam itu ia belajar masalah terbesar pembudidaya ikan: pakan. Pakan adalah biaya terbesar, bisa lebih dari separuh ongkos produksi. Pembudidaya memberi pakan dengan tangan, sering terlalu banyak atau pada waktu yang salah. Sisa pakan membusuk di dasar kolam, mencemari air, dan membuang uang.
 
@@ -22,7 +22,7 @@ Pada akhir 2024, seorang mantan pegawai senior yang punya akses ke sistem keuang
 
 Dalam wawancara dengan Bloomberg setelah kasus terbongkar, Gibran mengakui telah memanipulasi angka selama bertahun-tahun. Menurut pengakuannya, ia merasa perusahaannya tidak akan mendapat dana, dan tidak akan bertahan, tanpa angka yang lebih bagus. Dalam berbagai kesempatan, ia juga menyatakan tidak mengambil uang perusahaan untuk dirinya sendiri.
 
-### Konsekuensi
+### Harga
 
 Pada Desember 2024, dewan perusahaan menonaktifkan Gibran dan salah satu pendiri lainnya, lalu keduanya lengser dari jabatannya. Manajemen sementara menemukan perusahaan dalam keadaan yang jauh lebih buruk dari yang dibayangkan. Kerugian investor diperkirakan sekitar 300 juta dolar. Perusahaan menyusut drastis, sebagian besar karyawan kehilangan pekerjaan, dan pembudidaya yang bergantung pada alat, pakan, dan pembiayaannya ikut terdampak.
 
@@ -32,9 +32,19 @@ Pada Juli 2025, Gibran dan dua mantan petinggi eFishery ditahan polisi. Pada Apr
 
 Pada Juli 2026, di tingkat banding, Pengadilan Tinggi Bandung menguatkan putusan bersalah itu, tetapi memangkas hukuman Gibran menjadi enam tahun penjara, menaikkan dendanya menjadi dua miliar rupiah, dan memerintahkan asetnya, termasuk rumahnya di Bandung, dirampas untuk mengganti kerugian para korban.
 
-### Keuntungan
+### Hasil
 
 Selama sekitar enam tahun, kebohongan itu bekerja. eFishery mendapat ratusan juta dolar dari investor, membangun kantor, merekrut ribuan karyawan, mendapat liputan media dan penghargaan, dan meraih gelar unicorn. Gibran menjadi wajah startup Indonesia di panggung dunia. Semua itu dibangun di atas angka yang tidak pernah ada, dan hilang dalam beberapa bulan.
+
+### Pelajaran
+
+Kenapa orang secerdas itu memilih jalan jahat? Menurut pengakuannya sendiri, bukan karena ia ingin menjadi penjahat. Ia merasa terdesak: investor menuntut pertumbuhan, pesaing terlihat tumbuh lebih cepat, dan satu angka yang dibulatkan ke atas terasa seperti hal kecil yang akan diperbaiki nanti, setelah bisnisnya benar-benar besar. Nanti itu tidak pernah datang.
+
+Tokoh-tokoh di bagian awal buku ini menang karena mereka berhenti tepat di garis hukum. eFishery mengajarkan apa yang terjadi kalau seseorang mengira garis itu bisa digeser sedikit demi sedikit. Setiap kebohongan berikutnya harus lebih besar untuk menutupi yang sebelumnya, sampai tidak bisa ditutupi lagi.
+
+Jadi, apakah kita harus jahat supaya bisa bertahan? Kisah ini menjawab sebaliknya. Kalau angka yang jujur tidak cukup untuk meyakinkan investor, yang harus diubah adalah bisnisnya, rencananya, atau investornya, bukan angkanya. Perusahaan yang tumbuh lebih lambat dengan angka yang benar masih bisa diperbaiki. Perusahaan yang tumbuh cepat dengan angka palsu hanya menunggu waktu.
+
+Bagi investor, karyawan, dan siapa pun yang bekerja di startup, pelajarannya juga jelas: pertumbuhan yang terlalu indah untuk dipercaya patut diperiksa, terutama ketika hanya sedikit orang yang boleh melihat angka aslinya. Dan bagi karyawan yang melihat ada yang salah, kisah ini juga menunjukkan bahwa satu orang pelapor bisa menghentikan kebohongan yang bertahan selama bertahun-tahun.
 
 ### Analisa Dark Triad
 
@@ -48,12 +58,13 @@ Menilai orang yang masih hidup, dan sedang menjalani proses hukum, harus dilakuk
 
 **Kesimpulan:** Kisah eFishery mungkin lebih tepat dijelaskan dengan konsep lain dari dunia audit, yaitu *segitiga kecurangan*, yang berangkat dari teori kriminolog Donald Cressey pada 1950-an. Menurutnya, kecurangan terjadi ketika tiga hal bertemu: tekanan (investor menuntut pertumbuhan), kesempatan (pengawasan yang lemah dan kepercayaan yang terlalu besar), dan rasionalisasi ("kalau tidak begini, perusahaan akan mati, dan semua karyawan kehilangan pekerjaan"). Orang tidak perlu memiliki Dark Triad yang kuat untuk melakukan kecurangan besar. Ia hanya perlu merasa tidak punya pilihan, lalu menemukan alasan yang terdengar mulia.
 
-### Hikmah
+### Profil
 
-Kenapa orang secerdas itu memilih jalan jahat? Menurut pengakuannya sendiri, bukan karena ia ingin menjadi penjahat. Ia merasa terdesak: investor menuntut pertumbuhan, pesaing terlihat tumbuh lebih cepat, dan satu angka yang dibulatkan ke atas terasa seperti hal kecil yang akan diperbaiki nanti, setelah bisnisnya benar-benar besar. Nanti itu tidak pernah datang.
+**Nama:** Gibran Huzaifah Amsi El Farizy
+**Lahir:** Sekitar 1989, Jakarta
+**Wafat:** Masih hidup
+**Jenis kelamin:** Laki-laki
+**Negara:** Indonesia
 
-Tokoh-tokoh di bagian awal buku ini menang karena mereka berhenti tepat di garis hukum. eFishery mengajarkan apa yang terjadi kalau seseorang mengira garis itu bisa digeser sedikit demi sedikit. Setiap kebohongan berikutnya harus lebih besar untuk menutupi yang sebelumnya, sampai tidak bisa ditutupi lagi.
-
-Jadi, apakah kita harus jahat supaya bisa bertahan? Kisah ini menjawab sebaliknya. Kalau angka yang jujur tidak cukup untuk meyakinkan investor, yang harus diubah adalah bisnisnya, rencananya, atau investornya, bukan angkanya. Perusahaan yang tumbuh lebih lambat dengan angka yang benar masih bisa diperbaiki. Perusahaan yang tumbuh cepat dengan angka palsu hanya menunggu waktu.
-
-Bagi investor, karyawan, dan siapa pun yang bekerja di startup, pelajarannya juga jelas: pertumbuhan yang terlalu indah untuk dipercaya patut diperiksa, terutama ketika hanya sedikit orang yang boleh melihat angka aslinya. Dan bagi karyawan yang melihat ada yang salah, kisah ini juga menunjukkan bahwa satu orang pelapor bisa menghentikan kebohongan yang bertahan selama bertahun-tahun.
+> “Saya pikir saya hanya melakukannya untuk bertahan hidup.”
+> — Wawancara dengan Bloomberg, April 2025

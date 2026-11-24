@@ -2,7 +2,7 @@
 
 *Yogyakarta, 1812. Penaklukan: menyerbu keraton, membawa pulang hartanya, lalu menulis sejarah dari naskah-naskahnya.*
 
-### Kisahnya
+### Kisah
 
 Pada Agustus 1811, armada Inggris mendarat di dekat Batavia. Dalam waktu sekitar enam minggu, pasukan Belanda-Prancis di Jawa menyerah. Pulau itu kini berada di bawah Inggris, lebih tepatnya di bawah Kongsi Dagang Inggris di India, East India Company. Untuk memerintahnya, Gubernur Jenderal India, Lord Minto, menunjuk seorang pegawai muda yang ambisius: Thomas Stamford Raffles.
 
@@ -20,7 +20,7 @@ Sultan Hamengkubuwono II ditangkap. Menurut Carey, penangkapannya dilakukan deng
 
 Semua itu sah menurut aturan zamannya. Penaklukan adalah hak pemenang perang, dan rampasan perang dibagi menurut aturan resmi angkatan bersenjata Inggris. Tidak ada hukum internasional yang melarang sebuah kongsi dagang menyerbu keraton yang menolak tunduk.
 
-### Konsekuensi
+### Harga
 
 Setelah menundukkan keraton, Raffles memperkenalkan sistem baru: sewa tanah, atau *landrent*. Teorinya, semua tanah adalah milik negara sebagai pewaris para raja, sehingga petani wajib membayar sewa untuk tanah yang mereka garap. Besarnya ditentukan menurut kesuburan tanah, dan sering disebut sekitar dua perlima hasil panen. Mula-mula sewa ditarik per desa, lalu mulai 1814 diubah menjadi per orang. Di atas kertas, petani menjadi lebih bebas. Dalam praktiknya, mereka harus membayar dengan uang yang jarang mereka punya, dan penarikannya tetap bergantung pada kepala desa dan pejabat setempat. Untuk menutup kas yang terus kurang, pemerintahan Raffles juga menjual tanah-tanah negara kepada pembeli swasta, dan menurut penulis riwayat hidupnya, Raffles sendiri ikut membeli tanah di Sukabumi bersama beberapa rekan.
 
@@ -28,15 +28,23 @@ Pemerintahan Raffles di Jawa tidak menguntungkan bagi East India Company. Gilles
 
 Raffles pulang ke Inggris dan pada 1817 menerbitkan *The History of Java*, dua jilid tebal tentang sejarah, bahasa, sastra, dan alam Jawa. Buku itu dipuji luas dan menjadikannya tokoh terpandang. Sebagian bahannya berasal dari naskah-naskah Jawa yang dikumpulkan oleh dirinya dan para pembantunya, termasuk dari koleksi yang diambil dari keraton. Ia lalu ditugaskan di Bengkulu, mendirikan Singapura sebagai pos dagang Inggris pada 1819, dan meninggal di Inggris pada 1826, sehari sebelum ulang tahunnya yang ke-45.
 
-Hamengkubuwono II baru kembali ke Jawa bertahun-tahun kemudian. Naskah-naskah keraton tidak pernah kembali. Sebagian besar kini tersimpan di British Library dan lembaga lain di Inggris. Pada 2018, British Library dan Keraton Yogyakarta memulai proyek digitalisasi, dan pada Maret 2019 salinan digital 75 naskah diserahkan kepada Sultan Hamengkubuwono X. Pada 2023, salinan digital sekitar 120 naskah lagi diserahkan lewat kerja sama dengan Perpustakaan Nasional. Naskah aslinya masih di London.
+Hamengkubuwono II baru kembali ke Jawa bertahun-tahun kemudian. Naskah-naskah keraton tidak pernah kembali. Sebagian besar kini tersimpan di British Library dan lembaga lain di Inggris. Pada 2018, British Library dan Keraton Yogyakarta memulai proyek digitalisasi, dan pada Maret 2019 salinan digital 75 naskah diserahkan kepada Sultan Hamengkubuwono X. Pada 2023, British Library bersama Perpustakaan Nasional menyelesaikan digitalisasi 120 naskah Jawa lain dari koleksinya, dan salinannya diserahkan kepada Sultan pada November 2023. Naskah aslinya masih di London.
 
-### Keuntungan
+### Hasil
 
-Raffles mendapat gelar kebangsawanan dari raja Inggris pada 1817, nama besar sebagai ilmuwan, dan tempat dalam sejarah sebagai pendiri Singapura. Namanya diabadikan pada hotel, sekolah, rumah sakit, bahkan bunga raksasa *Rafflesia arnoldii*. Para perwira yang menyerbu keraton mendapat bagian rampasan. Dan Inggris memperoleh koleksi naskah Jawa yang menjadi bahan penelitian para sarjana selama dua abad.
+Raffles dianugerahi gelar ksatria (Sir) oleh Pangeran Regent Inggris pada 1817, nama besar sebagai ilmuwan, dan tempat dalam sejarah sebagai pendiri Singapura. Namanya diabadikan pada hotel, sekolah, rumah sakit, bahkan bunga raksasa *Rafflesia arnoldii*. Para perwira yang menyerbu keraton mendapat bagian rampasan. Dan Inggris memperoleh koleksi naskah Jawa yang menjadi bahan penelitian para sarjana selama dua abad.
+
+### Pelajaran
+
+Pengetahuan yang dikumpulkan dari barang rampasan tetap berutang kepada pemiliknya. Banyak museum dan perpustakaan besar dunia menyimpan benda dari Nusantara yang dibawa lewat perang. Digitalisasi adalah langkah baik, tetapi bukan pengganti pengembalian, dan tidak menghapus pertanyaan tentang bagaimana benda itu berpindah tangan.
+
+Hati-hati juga dengan pembaharu yang datang membawa kebebasan sambil membawa pasukan. Bahasa reformasi bisa dipakai untuk membenarkan pengambilalihan, baik oleh negara maupun oleh perusahaan.
+
+Dan bagi pembaca Indonesia, ini pengingat bahwa arsip adalah kekuasaan. Siapa yang menyimpan naskah, dialah yang menulis sejarah. Menjaga, menyalin, dan membuka arsip kita sendiri adalah cara agar cerita tentang kita tidak hanya ditulis oleh orang lain.
 
 ### Analisa Dark Triad
 
-**Narsisisme: kuat.** Raffles sangat peduli pada nama dan warisannya. Ia menulis buku besar, menamai temuan-temuan dengan namanya, dan menampilkan dirinya sebagai pembaharu yang tercerahkan, yang membebaskan orang Jawa dari raja-raja mereka sendiri. Citra itu bertahan lama. Baru sejak akhir abad ke-20, dan terutama menjelang peringatan dua ratus tahun Singapura pada 2019, sisi gelapnya lebih sering dibicarakan.
+**Narsisisme: kuat.** Raffles sangat peduli pada nama dan warisannya. Ia menulis buku besar, membiarkan namanya diabadikan pada temuan-temuan ilmiah, dan menampilkan dirinya sebagai pembaharu yang tercerahkan, yang membebaskan orang Jawa dari raja-raja mereka sendiri. Citra itu bertahan lama. Baru sejak akhir abad ke-20, dan terutama menjelang peringatan dua ratus tahun Singapura pada 2019, sisi gelapnya lebih sering dibicarakan.
 
 **Machiavellianisme: kuat.** Ia memakai cita-cita yang terdengar mulia, seperti menghapus kerja paksa dan perbudakan, sambil menyingkirkan penguasa Jawa yang menghalangi kendali Inggris. Penyerbuan keraton dibingkai sebagai penertiban seorang raja yang membangkang. Hasilnya, ia mendapat kekuasaan, wilayah, dan bahan ilmu sekaligus.
 
@@ -44,10 +52,13 @@ Raffles mendapat gelar kebangsawanan dari raja Inggris pada 1817, nama besar seb
 
 **Kesimpulan:** Narsisisme dan Machiavellianisme yang bekerja bersama. Raffles menunjukkan bahwa penjarahan bisa dikenang sebagai ilmu pengetahuan, selama yang menulis sejarahnya adalah pihak yang menjarah.
 
-### Hikmah
+### Profil
 
-Pengetahuan yang dikumpulkan dari barang rampasan tetap berutang kepada pemiliknya. Banyak museum dan perpustakaan besar dunia menyimpan benda dari Nusantara yang dibawa lewat perang. Digitalisasi adalah langkah baik, tetapi bukan pengganti pengembalian, dan tidak menghapus pertanyaan tentang bagaimana benda itu berpindah tangan.
+**Nama:** Thomas Stamford Raffles
+**Lahir:** 5 Juli 1781, di atas kapal lepas pantai Jamaika
+**Wafat:** 5 Juli 1826, Mill Hill, London
+**Jenis kelamin:** Laki-laki
+**Negara:** Inggris
 
-Hati-hati juga dengan pembaharu yang datang membawa kebebasan sambil membawa pasukan. Bahasa reformasi bisa dipakai untuk membenarkan pengambilalihan, baik oleh negara maupun oleh perusahaan.
-
-Dan bagi pembaca Indonesia, ini pengingat bahwa arsip adalah kekuasaan. Siapa yang menyimpan naskah, dialah yang menulis sejarah. Menjaga, menyalin, dan membuka arsip kita sendiri adalah cara agar cerita tentang kita tidak hanya ditulis oleh orang lain.
+> “Untuk pertama kalinya kekuasaan Eropa berdiri paling tinggi di Jawa. Kini kami dapat mendikte syarat-syarat hubungan di masa depan antara pemerintah Inggris dan pemerintahan pribumi.”
+> — Surat kepada Lord Minto setelah penyerbuan keraton, 1812

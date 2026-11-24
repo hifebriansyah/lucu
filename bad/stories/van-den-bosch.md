@@ -2,7 +2,7 @@
 
 *Jawa, 1830. Kebijakan: memaksa petani menanam untuk mengisi kas negeri lain.*
 
-### Kisahnya
+### Kisah
 
 Pada 1830, keuangan kerajaan Belanda berada di ambang kebangkrutan. Perang Jawa, perlawanan Pangeran Diponegoro yang berlangsung dari 1825 sampai 1830, telah menghabiskan biaya yang sangat besar. Utang Belanda menumpuk. Dan tak lama setelah Tanam Paksa dimulai, Belgia memberontak dan memisahkan diri, sehingga biaya mempertahankan tentara siaga perang sampai 1839 makin menguras kas negara.
 
@@ -16,7 +16,7 @@ Dalam praktiknya, aturan di atas kertas jarang dipatuhi. Banyak desa harus menye
 
 Penyebabnya ada pada satu rancangan yang cerdik. Para pejabat Belanda dan para bupati serta kepala desa pribumi yang menjalankan sistem itu diberi *cultuurprocenten*, bonus berupa persentase dari hasil panen yang dikumpulkan di wilayah mereka. Semakin banyak yang diperas dari petani, semakin besar bonus para pejabat. Sistem itu tidak perlu memerintahkan kekejaman. Ia cukup memberi hadiah kepada orang yang paling keras memeras.
 
-### Konsekuensi
+### Harga
 
 Bagi Belanda, Tanam Paksa sukses besar. Uang mengalir dari Jawa ke kas negara Belanda dalam jumlah yang belum pernah terjadi. Antara 1831 dan 1877, keuntungan bersih yang dikirim ke Belanda, yang disebut *batig slot*, mencapai lebih dari delapan ratus juta gulden, rata-rata sekitar sepertiga dari seluruh pendapatan negara Belanda, dan pada puncaknya di tahun 1850-an lebih dari separuhnya. Uang itu dipakai untuk melunasi utang, menurunkan pajak di Belanda, dan membangun jalur kereta api di sana.
 
@@ -24,9 +24,17 @@ Bagi Jawa, akibatnya bencana. Ketika sawah ditinggalkan demi tanaman ekspor, per
 
 Pada 1860, seorang mantan pejabat Belanda yang pernah bertugas di Lebak, Banten, Eduard Douwes Dekker, menerbitkan novel *Max Havelaar* dengan nama samaran Multatuli. Novel itu menggambarkan pemerasan petani Jawa oleh pejabat pribumi dengan restu pejabat Belanda, dan mengguncang pembaca di Belanda. Bersama tekanan kaum liberal yang ingin membuka Jawa bagi perusahaan swasta, kritik itu mendorong pemerintah Belanda menghapus Tanam Paksa secara bertahap, terutama setelah Undang-Undang Agraria 1870, walaupun tanam paksa kopi baru benar-benar berakhir pada awal abad ke-20.
 
-### Keuntungan
+### Hasil
 
 Van den Bosch menjabat sebagai Gubernur Jenderal hanya sekitar tiga tahun, lalu kembali ke Belanda dan menjadi Menteri Urusan Koloni. Raja Belanda mengangkatnya menjadi baron pada 1835 dan graaf pada 1839, dan ia dikenang di negerinya sebagai penyelamat keuangan negara. Belanda sendiri memperoleh kekayaan yang ikut membiayai pembangunan negerinya pada abad ke-19.
+
+### Pelajaran
+
+Bacalah sebuah kebijakan dari insentifnya, bukan dari tujuannya. Aturan Tanam Paksa di atas kertas terdengar adil. Yang menentukan nasib jutaan petani adalah bonus persentase yang diberikan kepada para pejabat. Hal yang sama berlaku pada target penjualan, komisi, dan bonus di perusahaan mana pun: orang akan melakukan apa yang dibayar, bukan apa yang ditulis.
+
+Ketika pelaksanaan diserahkan kepada perantara yang dibayar dari hasil perasan, tidak ada yang merasa bertanggung jawab. Pemerintah menunjuk pejabat lokal, pejabat lokal menunjuk aturan, dan petani yang kelaparan tidak punya siapa pun untuk disalahkan.
+
+Dan kadang, satu buku bisa mengubah sejarah. *Max Havelaar* tidak menghapus Tanam Paksa sendirian, tetapi ia membuat orang di negeri penjajah tidak bisa lagi berpura-pura tidak tahu.
 
 ### Analisa Dark Triad
 
@@ -38,10 +46,10 @@ Van den Bosch menjabat sebagai Gubernur Jenderal hanya sekitar tiga tahun, lalu 
 
 **Kesimpulan:** Tanam Paksa adalah contoh paling besar di buku ini tentang bagaimana Machiavellianisme bisa dibangun menjadi sebuah sistem. Seperti kisah EpiPen di bagian Zaman Sekarang, kekejamannya tidak membutuhkan satu orang yang jahat, cukup aturan yang memberi hadiah kepada orang yang paling tega.
 
-### Hikmah
+### Profil
 
-Bacalah sebuah kebijakan dari insentifnya, bukan dari tujuannya. Aturan Tanam Paksa di atas kertas terdengar adil. Yang menentukan nasib jutaan petani adalah bonus persentase yang diberikan kepada para pejabat. Hal yang sama berlaku pada target penjualan, komisi, dan bonus di perusahaan mana pun: orang akan melakukan apa yang dibayar, bukan apa yang ditulis.
-
-Ketika pelaksanaan diserahkan kepada perantara yang dibayar dari hasil perasan, tidak ada yang merasa bertanggung jawab. Pemerintah menunjuk pejabat lokal, pejabat lokal menunjuk aturan, dan petani yang kelaparan tidak punya siapa pun untuk disalahkan.
-
-Dan kadang, satu buku bisa mengubah sejarah. *Max Havelaar* tidak menghapus Tanam Paksa sendirian, tetapi ia membuat orang di negeri penjajah tidak bisa lagi berpura-pura tidak tahu.
+**Nama:** Johannes van den Bosch
+**Lahir:** 2 Februari 1780, Herwijnen, Belanda
+**Wafat:** 28 Januari 1844, Den Haag, Belanda
+**Jenis kelamin:** Laki-laki
+**Negara:** Belanda

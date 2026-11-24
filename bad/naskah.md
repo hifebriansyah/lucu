@@ -42,10 +42,10 @@ Kisah-kisah dalam buku ini disusun dari pemberitaan, buku, dan dokumen pengadila
 
 **Bagian Satu: Zaman Dulu**
 
-1. Raden Wijaya
-2. Jan Pieterszoon Coen
-3. Herman Willem Daendels
-4. Rockefeller
+1. Rockefeller
+2. Raden Wijaya
+3. Jan Pieterszoon Coen
+4. Herman Willem Daendels
 5. Cecil Rhodes
 6. Ray Kroc
 7. Liem Sioe Liong
@@ -64,7 +64,7 @@ Kisah-kisah dalam buku ini disusun dari pemberitaan, buku, dan dokumen pengadila
 14. Nick Leeson
 15. Bernie Madoff
 16. Elizabeth Holmes
-17. eFishery
+17. Gibran Huzaifah
 
 **Penutup**
 
@@ -80,7 +80,7 @@ Mereka membaca kontrak lebih teliti daripada lawannya. Mereka menemukan pasar ya
 
 Buku ini adalah jilid pertama dari dua jilid, dan dibagi menjadi tiga bagian. *Zaman Dulu* berisi kisah dari masa ketika aturannya belum ada atau ditulis oleh pihak yang kuat, dari seorang raja yang mendirikan Majapahit dengan tipu muslihat, sampai seorang penjual mesin milkshake yang mengambil alih nama McDonald's. *Zaman Sekarang* berisi kisah dari pasar modal, rumah sakit, dan ruang pengadilan modern, ketika celahnya lebih rumit tetapi caranya sama. Dan *Melewati Batas Legal* berisi kisah orang-orang yang memulai dengan cara yang sah atau hampir sah, lalu terus melangkah sampai jauh melewati garis itu, termasuk satu kisah dari Indonesia, dan apa yang menunggu mereka di sana.
 
-Setiap kisah disusun dengan urutan yang sama: kisahnya, konsekuensinya, keuntungannya, analisa Dark Triad, dan hikmah yang bisa kita ambil. Analisa itu mencoba menjawab satu pertanyaan: apakah perilaku mereka menunjukkan sifat-sifat gelap yang dikenal dalam psikologi, atau apakah orang biasa pun bisa sampai ke sana?
+Setiap kisah disusun dengan urutan yang sama: kisahnya, harga yang harus dibayar, hasil yang didapat, pelajaran yang bisa kita ambil, lalu analisa Dark Triad. Analisa itu mencoba menjawab satu pertanyaan: apakah perilaku mereka menunjukkan sifat-sifat gelap yang dikenal dalam psikologi, atau apakah orang biasa pun bisa sampai ke sana?
 
 Tujuan buku ini bukan untuk ditiru, dan bukan juga sekadar untuk dibenci. Kalau kita paham cara mereka berpikir dan cara mereka menang, kita jadi lebih sulit dikalahkan dengan cara yang sama, dan lebih cepat sadar kalau kita sendiri mulai bergeser ke arah mereka.
 
@@ -108,189 +108,11 @@ Analisa dalam buku ini tidak dimaksudkan sebagai diagnosis. Tidak ada satu pun t
 
 <div style="page-break-after: always;"></div>
 
-## 1. Raden Wijaya
-
-*Jawa Timur, 1293. Kekuasaan: meminjam tentara terkuat di dunia, lalu mengusirnya.*
-
-Kisah ini berbeda dari kisah lain di buku ini. Tidak ada kontrak, tidak ada bursa saham, dan tidak ada undang-undang modern. Yang ada hanyalah kerajaan, perang, dan sebuah strategi yang begitu licin sehingga sampai sekarang masih membuat orang berdecak kagum. Sebagian besar yang kita tahu tentangnya berasal dari kronik Tiongkok *Yuan Shi* dan dari kitab-kitab Jawa seperti *Pararaton*, *Nagarakretagama*, dan *Kidung Panji Wijayakrama*, yang ditulis puluhan sampai ratusan tahun kemudian dan tidak selalu sepakat soal detailnya.
-
-### Kisahnya
-
-Pada akhir abad ke-13, Kertanagara, raja Singhasari di Jawa Timur, sedang berada di puncak ambisinya. Ia mengirim pasukan besar ke Sumatra dalam ekspedisi yang dikenal sebagai Pamalayu, untuk menanamkan pengaruh Singhasari di Selat Malaka.
-
-Di saat yang sama, kekuatan terbesar di dunia sedang menoleh ke selatan. Kubilai Khan, cucu Jenghis Khan dan penguasa Dinasti Yuan di Tiongkok, menuntut kerajaan-kerajaan di Asia Tenggara tunduk dan mengirim upeti. Pada 1289, utusannya, Meng Qi, tiba di istana Singhasari. Kertanagara menolak tunduk. Menurut kronik Yuan, ia bahkan merajah wajah sang utusan, hukuman yang biasa dijatuhkan kepada penjahat, lalu memulangkannya ke Tiongkok. Bagi Kubilai Khan, itu penghinaan yang harus dibalas.
-
-Tetapi sebelum balasan itu datang, Kertanagara jatuh oleh musuh dari dalam. Pada 1292, ketika sebagian besar pasukannya berada jauh di Sumatra, Jayakatwang, penguasa Gelang-Gelang dan keturunan raja-raja Kediri yang dulu ditaklukkan Singhasari, memberontak. Pasukannya menyerbu ibu kota. Kertanagara terbunuh.
-
-Salah satu yang selamat adalah Raden Wijaya, menantu Kertanagara. Ia memimpin perlawanan, kalah, dan melarikan diri dengan segelintir pengikut. Menurut *Pararaton*, ia menyeberang ke Madura dan meminta perlindungan Arya Wiraraja, bupati Sumenep. Wiraraja adalah tokoh yang licin. Ia pernah diturunkan jabatannya oleh Kertanagara, dan menurut *Pararaton*, dialah yang diam-diam menyarankan Jayakatwang untuk memberontak. Kini ia menerima menantu raja yang baru saja ia bantu jatuhkan.
-
-Nasihat Wiraraja kepada Wijaya terdengar seperti pengkhianatan: menyerahlah kepada Jayakatwang. Wijaya menurut. Ia datang ke Kediri, menyatakan tunduk, dan diterima dengan baik. Lalu, atas saran Wiraraja, ia meminta satu hal kecil: izin membuka hutan Tarik di tepi Sungai Brantas, konon untuk tempat berburu bagi sang raja. Jayakatwang mengizinkan. Menurut *Pararaton*, dalam kesepakatan rahasia mereka, Wijaya berjanji kepada Wiraraja: kalau berhasil merebut kembali kekuasaan, tanah Jawa akan dibagi dua di antara mereka.
-
-Orang-orang Madura kiriman Wiraraja membabat hutan itu. Konon, salah seorang dari mereka memakan buah maja yang ditemukan di sana dan mendapati rasanya pahit. Dari situlah desa baru itu dinamai Majapahit. Desa itu pelan-pelan menjadi tempat berkumpulnya para pengikut lama Singhasari. Di depan Jayakatwang, Wijaya tetap bawahan yang setia.
-
-Lalu, pada awal 1293, datanglah balasan Kubilai Khan. Armada Yuan, menurut kronik mereka sekitar seribu kapal dan dua puluh ribu prajurit, di bawah pimpinan panglima Shi Bi, Ike Mese, dan Gao Xing, mendarat di pantai utara Jawa. Mereka datang untuk menghukum Kertanagara. Mereka tidak tahu bahwa Kertanagara sudah mati.
-
-Wijaya melihat peluang yang tidak dilihat orang lain. Ia mengirim utusan kepada para panglima Yuan, menyatakan tunduk kepada Kubilai Khan, dan menawarkan diri sebagai sekutu. Raja yang harus dihukum sudah mati, katanya, dan yang kini berkuasa adalah Jayakatwang, musuh bersama mereka. Ia meminta bantuan untuk menghancurkannya, dan menjanjikan upeti sebagai imbalannya. Menurut *Pararaton*, Wiraraja bahkan menjanjikan putri-putri Tumapel kepada raja "Tatar" sebagai hadiah, walaupun para sejarawan menganggap bagian ini lebih sebagai bumbu cerita.
-
-Para panglima Yuan setuju. Bersama pasukan Majapahit, mereka bergerak ke Daha, ibu kota Jayakatwang. Pertempurannya sengit, dan pasukan Kediri kalah. Jayakatwang menyerah dan ditawan oleh pasukan Yuan. Menurut *Yuan Shi*, ia dan putranya kemudian dihukum mati oleh pasukan Yuan sebelum mereka berlayar pulang.
-
-Kini tinggal satu urusan: upeti yang dijanjikan. Wijaya meminta izin kembali ke Majapahit untuk menyiapkannya, dan para panglima Yuan mengirim sekitar dua ratus prajurit untuk mengawalnya. Di tengah jalan, para pengawal itu dibunuh. Lalu pasukan Majapahit berbalik menyerang pasukan Yuan yang sedang lengah dan lelah setelah perang, dan mengejar mereka sampai ke pantai.
-
-Para panglima Yuan, jauh dari rumah, kehilangan banyak prajurit, dan menghadapi musim angin yang akan segera berganti, memutuskan pulang. Menurut *Yuan Shi*, lebih dari tiga ribu prajurit mereka tewas. Tentara dari kekaisaran yang telah menaklukkan Tiongkok, Persia, dan Rusia, terusir dari Jawa oleh sekutu yang mereka tolong sendiri.
-
-Pada akhir 1293, Raden Wijaya dinobatkan sebagai raja pertama Majapahit dengan gelar Kertarajasa Jayawardhana.
-
-### Konsekuensi
-
-Kubilai Khan murka. Menurut *Yuan Shi*, Shi Bi dihukum cambuk dan sepertiga hartanya disita, walaupun belakangan namanya dipulihkan. Tetapi Kubilai tidak pernah lagi mengirim armada ke Jawa, dan ia meninggal setahun kemudian. Hubungan dagang dan diplomatik antara Jawa dan Tiongkok berlanjut, dan Majapahit kemudian mengirim utusan ke istana Yuan.
-
-Di dalam negeri, cara Wijaya merebut kekuasaan meninggalkan masalah. Janji-janji yang ia buat dalam keadaan terdesak harus ditagih. Arya Wiraraja mendapat wilayah di ujung timur Jawa, dengan pusat di Lumajang, walaupun bukan separuh pulau seperti yang dijanjikan menurut *Pararaton*. Beberapa pengikut setianya merasa tidak mendapat bagian yang adil. Pada 1295, menurut *Pararaton*, Ranggalawe, putra Wiraraja yang ikut berjuang sejak awal, memberontak karena kecewa dengan pengangkatan Nambi sebagai patih, dan ia tewas. Beberapa tahun kemudian, sahabat lamanya, Lembu Sora, juga terbunuh dalam konflik di istana. Kerajaan yang dibangun dengan siasat dan janji ganda ternyata terus diganggu oleh orang-orang yang merasa ditipu.
-
-### Keuntungan
-
-Wijaya mendapatkan yang jauh lebih besar daripada kekayaan: sebuah kerajaan. Untuk memperkuat kedudukannya sebagai pewaris sah Singhasari, ia menikahi putri-putri Kertanagara. Dari salah satu istrinya, Gayatri, lahirlah garis keturunan yang kelak melahirkan Hayam Wuruk. Di bawah Hayam Wuruk dan patihnya, Gajah Mada, sekitar enam puluh tahun kemudian, Majapahit menjadi salah satu kerajaan terbesar dalam sejarah Nusantara, yang pengaruhnya, menurut *Nagarakretagama*, membentang dari Sumatra sampai pesisir barat Papua.
-
-Wijaya memerintah sampai wafatnya pada 1309. Namanya hari ini dipakai untuk jalan, universitas, dan kesatuan militer di seluruh Indonesia.
-
-### Analisa Dark Triad
-
-Menilai tokoh dari tujuh ratus tahun lalu, lewat kronik yang ditulis oleh pihak yang menang maupun yang kalah, adalah pekerjaan yang lebih spekulatif daripada bab-bab lain di buku ini. Ukuran moral zaman itu juga berbeda: dalam dunia kerajaan abad ke-13, siasat dan tipu muslihat dalam perang dianggap bagian dari kepemimpinan, bukan cacat moral.
-
-**Machiavellianisme: sangat kuat.** Kisah Wijaya hampir seperti ilustrasi buku *Il Principe*, yang ditulis dua ratus tahun kemudian di Italia. Ia pura-pura tunduk kepada musuh yang membunuh mertuanya. Ia membangun basis kekuatan dengan dalih tempat berburu. Ia memakai pasukan asing untuk menghancurkan musuhnya, lalu memakai sisa tenaga pasukannya sendiri untuk mengusir pasukan asing itu. Setiap langkah sabar, tersembunyi, dan memanfaatkan pihak lain sebagai alat. Machiavelli sendiri menasihati para penguasa untuk tidak bergantung pada tentara bantuan asing, karena tentara seperti itu berbahaya bagi siapa pun yang meminjamnya. Wijaya menemukan cara meminjamnya tanpa harus membayar.
-
-**Narsisisme: lemah sampai sedang.** Tidak banyak catatan tentang kepribadian Wijaya. Ia jelas peduli pada legitimasi, terlihat dari pernikahannya dengan putri-putri Kertanagara dan gelar agung yang ia pakai, tetapi itu adalah kebutuhan politik setiap raja baru, bukan tanda khusus narsisisme.
-
-**Psikopati: lemah.** Pembunuhan pengawal Yuan dan serangan mendadak adalah kekerasan, tetapi kekerasan yang terencana dalam perang, bukan tindakan impulsif. Wijaya justru menunjukkan kesabaran luar biasa: berbulan-bulan berpura-pura setia sebelum bergerak.
-
-**Kesimpulan:** Machiavellianisme dalam bentuk paling murni, dalam konteks di mana sifat itu dianggap kebajikan seorang pemimpin. Yang menarik, Wiraraja, penasihatnya, mungkin lebih Machiavellian lagi: ia bermain di kedua sisi, menyarankan pemberontakan kepada Jayakatwang lalu menyiapkan kejatuhannya lewat Wijaya.
-
-### Hikmah
-
-Kisah Raden Wijaya sering diceritakan sebagai kisah kecerdikan, dan memang begitu. Tetapi ada beberapa pelajaran yang lebih dingin di baliknya.
-
-Pertama, bagi pihak yang kuat: kalau kamu menolong seseorang dengan janji imbalan di kemudian hari, tagih imbalannya sebelum pekerjaanmu selesai. Pasukan Yuan menyelesaikan tugasnya dulu, lalu menunggu bayaran dari orang yang sudah tidak membutuhkan mereka lagi. Dalam bisnis, ini sama dengan konsultan, kontraktor, atau mitra yang bekerja tanpa uang muka, lalu ditinggalkan setelah proyek selesai.
-
-Kedua, bagi pihak yang lemah: musuh dari musuhmu bisa menjadi alat yang ampuh. Wijaya tidak punya pasukan untuk mengalahkan Jayakatwang. Ia meminjamnya dari pihak yang datang untuk alasan yang sama sekali berbeda.
-
-Ketiga, dan ini yang sering dilupakan: janji yang dibuat dalam keadaan terdesak akan ditagih dalam keadaan senang. Wijaya menjanjikan terlalu banyak kepada terlalu banyak orang, dan tahun-tahun pertama Majapahit diwarnai pemberontakan orang-orang yang merasa dicurangi. Cara kamu mendapatkan kekuasaan menentukan siapa yang akan mencoba merebutnya darimu.
-
-<div style="page-break-after: always;"></div>
-
-## 2. Jan Pieterszoon Coen
-
-*Kepulauan Banda, 1621. Rempah: memonopoli pala dengan senjata, atas izin negara.*
-
-### Kisahnya
-
-Selama berabad-abad, pala dan bunga pala hanya tumbuh di satu tempat di dunia: Kepulauan Banda, gugusan pulau kecil di Laut Banda, Maluku. Di Eropa, rempah ini konon pernah lebih mahal daripada emas jika dihitung per berat, dipakai sebagai bumbu, obat, dan lambang kemewahan. Para pedagang Banda, dipimpin para tetua yang disebut *orang kaya*, menjualnya kepada siapa saja yang datang: pedagang Jawa, Melayu, Arab, Tiongkok, lalu Portugis, Inggris, dan Belanda.
-
-Pada 1602, para pedagang Belanda menyatukan perusahaan-perusahaan mereka menjadi Vereenigde Oostindische Compagnie, atau VOC. Pemerintah Belanda memberinya hak istimewa yang luar biasa lewat sebuah piagam: VOC boleh membuat perjanjian dengan raja-raja di Asia, membangun benteng, merekrut tentara, dan berperang. Sebuah perusahaan dagang dengan hak sebuah negara. Semua yang dilakukannya di Asia berada di bawah izin resmi itu.
-
-VOC menginginkan satu hal di Banda: monopoli. Mereka memaksa para orang kaya menandatangani perjanjian yang mewajibkan mereka menjual pala hanya kepada VOC, dengan harga yang ditentukan VOC. Bagi orang Banda, perjanjian itu tidak masuk akal. Mereka sudah berdagang bebas selama ratusan tahun, dan pedagang lain membayar lebih mahal. Mereka terus menjual kepada Inggris, yang sudah berpijak di Pulau Run, salah satu pulau di gugusan itu. Bagi VOC, itu pelanggaran kontrak.
-
-Pada 1609, seorang laksamana VOC, Pieter Willemszoon Verhoeff, yang di Indonesia sering ditulis Verhoeven, dibunuh oleh orang Banda bersama puluhan anak buahnya dalam sebuah perundingan yang berubah menjadi penyergapan. Jan Pieterszoon Coen, pegawai muda VOC yang ikut dalam armada itu, menurut sejumlah sejarawan menyaksikan peristiwa tersebut, dan peristiwa itu membentuk pandangannya tentang Banda.
-
-Coen naik cepat. Ia dikenal cerdas, pekerja keras, saleh, dan sangat keras kepala. Dalam surat-suratnya kepada para direktur VOC di Belanda, ia menegaskan bahwa perdagangan di Asia tidak bisa dijalankan tanpa perang, dan perang tidak bisa dijalankan tanpa perdagangan. Pada 1619, sebagai Gubernur Jenderal, ia merebut Jayakarta di pantai utara Jawa, menghancurkan kotanya, dan membangun Batavia di atasnya sebagai pusat VOC di Asia.
-
-Pada 1621, Coen memimpin sendiri armada ke Banda, dengan sekitar dua ribu tentara, termasuk tentara bayaran dari Jepang. Pulau utama, Lonthor, direbut. Para orang kaya dituduh bersekongkol melawan VOC, disiksa untuk mendapatkan pengakuan, dan pada 8 Mei 1621, sekitar empat puluh empat di antaranya dieksekusi oleh tentara bayaran Jepang di dalam benteng VOC. Penduduk Banda yang tersisa dibunuh, mati kelaparan saat bersembunyi di pegunungan, dijual sebagai budak ke Batavia, atau melarikan diri ke pulau-pulau lain. Dari sekitar lima belas ribu penduduk, menurut perkiraan para sejarawan, hanya sekitar seribu yang tersisa di kepulauan itu.
-
-Tanah Banda kemudian dibagi menjadi puluhan kebun pala yang disebut *perken*, dan diserahkan kepada pemukim Belanda yang disebut *perkenier*. Kebun-kebun itu dikerjakan oleh budak yang didatangkan dari berbagai tempat di Asia. Mereka wajib menjual seluruh hasilnya kepada VOC, dengan harga tetap. VOC kini memegang monopoli pala dunia.
-
-### Konsekuensi
-
-Para direktur VOC, yang sebelumnya memerintahkan penaklukan Banda, menurut sejumlah sejarawan kemudian menyatakan keberatan atas caranya, tetapi tetap menerima hasilnya. Coen kembali ke Belanda, lalu diangkat lagi sebagai Gubernur Jenderal, dan meninggal di Batavia pada 1629, saat kota itu dikepung pasukan Mataram.
-
-Dalam Perjanjian Breda pada 1667, Inggris resmi melepaskan klaimnya atas Pulau Run, sementara Belanda merelakan koloni Nieuw-Nederland di Amerika Utara, yang sudah direbut Inggris pada 1664. Kota utamanya, Nieuw Amsterdam, sudah berganti nama menjadi New York.
-
-Di Belanda, Coen lama dihormati sebagai pahlawan, dan patungnya berdiri di kota kelahirannya, Hoorn. Sejak akhir abad ke-20, patung itu terus diperdebatkan, dan pembantaian Banda kini lebih sering disebut dengan namanya yang sebenarnya.
-
-### Keuntungan
-
-Monopoli pala dan cengkih membuat VOC menjadi salah satu perusahaan paling menguntungkan dalam sejarah. Selama hampir dua abad, VOC membagikan dividen yang tinggi kepada para pemegang sahamnya, dan kekayaan dari rempah ikut membiayai Zaman Keemasan Belanda: kanal-kanal Amsterdam, lukisan-lukisan besar, dan armada dagang yang menguasai lautan. Coen sendiri dikenang sebagai pendiri Batavia, kota yang kelak menjadi Jakarta.
-
-### Analisa Dark Triad
-
-**Machiavellianisme: sangat kuat.** Coen melihat perdagangan sebagai perang, dan perjanjian sebagai senjata. Ia memakai kontrak monopoli yang tidak pernah benar-benar disetujui orang Banda sebagai alasan hukum untuk menaklukkan mereka, dan memakai piagam VOC sebagai izin untuk melakukannya. Setiap langkahnya dirancang untuk satu tujuan: kendali penuh atas sumber pala.
-
-**Psikopati: kuat.** Penyiksaan, eksekusi massal, dan pengosongan sebuah kepulauan tanpa tanda-tanda penyesalan menunjukkan kekejaman yang ekstrem, bahkan menurut ukuran zamannya, sehingga, menurut sejumlah sejarawan, para atasannya sendiri merasa perlu menyatakan keberatan. Ia juga dikenal sangat keras terhadap anak buahnya sendiri.
-
-**Narsisisme: sedang.** Coen sangat yakin akan kebenaran pandangannya dan sulit menerima pendapat lain, termasuk dari para atasannya. Tetapi ia lebih digerakkan oleh tujuan VOC daripada oleh kebutuhan akan pujian pribadi.
-
-**Kesimpulan:** Machiavellianisme dan psikopati yang kuat, didukung oleh izin resmi sebuah negara. Kisah Coen menunjukkan sisi paling gelap dari "jahat tapi legal": ketika hukum ditulis oleh pihak yang kuat, pembantaian pun bisa dibungkus sebagai penegakan kontrak.
-
-### Hikmah
-
-"Legal" selalu berarti legal menurut aturan siapa. Piagam VOC sah di Belanda. Kontrak monopoli sah menurut VOC. Tidak satu pun dari aturan itu ditulis bersama orang Banda.
-
-Monopoli atas sumber daya yang langka, entah pala, minyak, nikel, atau data, selalu mengundang kekerasan, karena keuntungannya terlalu besar untuk dibagi. Ketika sebuah perusahaan diberi kekuasaan seperti negara, ia akan bertindak seperti negara, termasuk dalam berperang.
-
-Dan bagi kita yang hidup di negeri bekas jajahan, kisah ini juga mengingatkan bahwa sejarah yang kita warisi sering ditulis oleh pihak yang menang. Patung dan nama jalan bisa bertahan ratusan tahun lebih lama daripada ingatan tentang korbannya.
-
-<div style="page-break-after: always;"></div>
-
-## 3. Herman Willem Daendels
-
-*Jawa, 1808. Kekuasaan: membangun jalan seribu kilometer dengan tenaga rakyat yang dikerahkan lewat para bupati.*
-
-### Kisahnya
-
-Pada awal abad ke-19, Belanda bukan lagi negeri merdeka. Negeri itu berada di bawah bayang-bayang Prancis, dan sejak 1806 diperintah oleh Louis Bonaparte, adik Kaisar Napoleon, sebagai Kerajaan Holland. VOC sudah bubar pada akhir 1799, dan Jawa kini menjadi milik negara. Masalahnya, Inggris, musuh besar Napoleon, menguasai lautan. Jawa terancam direbut kapan saja.
-
-Louis Bonaparte mengirim orang yang ia anggap paling tepat untuk mempertahankannya: Herman Willem Daendels. Lahir di Hattem pada 1762, Daendels adalah pengacara yang menjadi tentara. Ia ikut gerakan kaum Patriot yang menentang penguasa lama Belanda, melarikan diri ke Prancis ketika gerakan itu kalah, lalu kembali sebagai jenderal dalam tentara revolusioner. Ia dikenal keras, cepat, dan tidak sabar dengan tradisi.
-
-Daendels tiba di Batavia pada 5 Januari 1808 dan segera bekerja. Ia membereskan birokrasi yang korup, membangun benteng, barak, rumah sakit, dan pabrik senjata, serta memindahkan pusat pemerintahan dari Batavia lama yang tidak sehat ke Weltevreden. Tetapi proyek yang membuat namanya dikenang sampai hari ini adalah sebuah jalan.
-
-Untuk mempertahankan Jawa, pasukan dan surat harus bisa bergerak cepat dari ujung barat ke ujung timur pulau. Jalan yang ada saat itu terputus-putus, dan perjalanan Batavia ke Surabaya bisa memakan waktu berminggu-minggu. Daendels memerintahkan pembangunan *Grote Postweg*, Jalan Raya Pos, sepanjang sekitar seribu kilometer dari Anyer di Banten sampai Panarukan di Jawa Timur. Sebagian ruasnya hanya melebarkan jalan desa yang sudah ada. Sebagian lagi harus dibuka menembus hutan, rawa, dan bukit batu.
-
-Daendels tidak punya cukup uang. Menurut sebagian sejarawan, upah untuk beberapa ruas memang sempat dianggarkan, tetapi tidak jelas berapa yang sampai ke tangan pekerja. Untuk sebagian besar jalan, beban pekerjaan diserahkan kepada para bupati di wilayah yang dilalui. Setiap bupati wajib menyelesaikan ruas di daerahnya dalam waktu yang ditentukan. Para bupati lalu mengerahkan rakyatnya sendiri sebagai tenaga wajib, kerja *rodi*, sesuai kebiasaan feodal yang memang sudah lama berlaku di Jawa. Siapa pun yang gagal memenuhi target menghadapi hukuman.
-
-Semua itu sah. Daendels adalah penguasa tertinggi Jawa, dengan mandat langsung dari raja, dan perintahnya adalah hukum. Kerja wajib untuk penguasa bukan hal baru. Yang baru adalah skala dan kecepatannya. Sebagian besar jalan itu selesai hanya dalam waktu sekitar satu tahun.
-
-Di Sumedang, jalan harus dipahat menembus tebing cadas. Menurut cerita yang hidup di masyarakat setempat, bupati Sumedang, Pangeran Kusumadinata, yang dikenal sebagai Pangeran Kornel, menyambut Daendels saat inspeksi dengan berjabat tangan memakai tangan kiri, sementara tangan kanannya memegang keris, sebagai protes atas penderitaan rakyatnya. Konon Daendels kemudian mengerahkan tentara zeni untuk menyelesaikan ruas itu. Sejumlah sejarawan meragukan detail kisah ini, tetapi tempat itu sampai sekarang bernama Cadas Pangeran.
-
-Daendels juga punya cara lain untuk mengisi kas. Ia menjual tanah-tanah negara kepada pembeli swasta, kebanyakan orang Eropa dan Tionghoa kaya. Yang paling terkenal adalah penjualan wilayah Probolinggo kepada Han Tik Ko, kapitan Tionghoa dari Pasuruan, sekitar 1810–1811, seharga sekitar satu juta ringgit yang dibayar bertahap. Tanah-tanah itu dijual lengkap dengan penduduknya. Pemilik baru berhak menarik pajak dan kerja dari orang-orang yang tinggal di atasnya. Menurut sejarawan Belanda Bernard Vlekke, Daendels juga konon meraup keuntungan pribadi dari menjual aset pemerintah di Bogor kepada penggantinya.
-
-Terhadap keraton-keraton Jawa, Daendels bersikap lebih keras daripada pendahulunya. Menurut sejarawan Peter Carey, ia mengubah tata upacara sehingga wakil Belanda di keraton tidak lagi diperlakukan sebagai tamu yang menghormati raja, tetapi sebagai pejabat yang setara dengan raja. Ketika seorang bangsawan Yogyakarta, Raden Ronggo Prawirodirjo, memberontak dan tewas pada akhir 1810, Daendels menuduh Sultan Hamengkubuwono II ikut terlibat. Ia berangkat ke Yogyakarta dengan sekitar tiga ribu tentara, memaksa sultan turun takhta dan menyerahkan pemerintahan kepada putra mahkota, serta memaksa keraton-keraton menyerahkan sebagian wilayahnya.
-
-### Konsekuensi
-
-Berapa orang yang meninggal saat membangun Jalan Raya Pos tidak pernah tercatat dengan pasti. Angka yang paling sering dikutip adalah sekitar dua belas ribu orang, sebuah perkiraan yang dibuat belakangan. Sejarawan Jan Breman menyebut lebih dari sepuluh ribu pekerja paksa tewas. Pramoedya Ananta Toer, dalam bukunya *Jalan Raya Pos, Jalan Daendels*, menyebut puluhan ribu. Sebaliknya, sejarawan Asvi Warman Adam mengingatkan bahwa banyak cerita tentang kekejaman Daendels berasal dari lawan-lawan politiknya di Belanda. Yang tidak diperdebatkan adalah bahwa ribuan orang meninggal karena kelelahan, kelaparan, dan penyakit seperti malaria, di jalan yang tidak pernah mereka minta.
-
-Tanah-tanah yang dijual kepada swasta menjadi *tanah partikelir*, wilayah tempat tuan tanah berkuasa hampir seperti raja kecil. Penduduknya tidak bisa pergi begitu saja, dan beban mereka sering lebih berat daripada di bawah pemerintah. Di Probolinggo, penduduk memberontak terhadap pemilik tanahnya pada 1813, dan Han Tik Ko tewas dalam pemberontakan itu. Sebagian tanah partikelir di Jawa baru dibeli kembali oleh negara lebih dari seabad kemudian.
-
-Bagi Daendels sendiri, akhirnya datang dari Eropa. Pada 1810, Napoleon menghapus Kerajaan Holland dan menggabungkannya ke Prancis. Daendels dipanggil pulang dan digantikan oleh Jan Willem Janssens pada Mei 1811. Beberapa bulan kemudian, Inggris mendarat di Jawa dan merebutnya dalam waktu singkat. Jalan yang dibangun untuk mempertahankan Jawa ternyata tidak cukup.
-
-Daendels kemudian memimpin satu divisi dalam serbuan Napoleon ke Rusia pada 1812 dan mempertahankan benteng Modlin di Polandia. Setelah Napoleon jatuh, raja Belanda yang baru mengangkatnya menjadi gubernur di Pantai Emas, Afrika Barat, jabatan yang secara efektif menjauhkannya dari negeri asalnya. Ia meninggal di Elmina, Ghana sekarang, pada 1818, karena malaria.
-
-### Keuntungan
-
-Daendels tidak menjadi orang terkaya di zamannya, dan keuntungan pribadinya dari tanah, kalau benar ada, kecil dibandingkan dengan proyeknya. Yang ia peroleh adalah kekuasaan penuh selama tiga tahun dan sebuah warisan yang namanya tetap melekat. Sampai hari ini, orang Indonesia menyebut jalur pantai utara Jawa sebagai Jalan Daendels. Jalan itu memangkas perjalanan Batavia ke Surabaya dari berminggu-minggu menjadi sekitar satu minggu, dan kelak menjadi tulang punggung jalur Pantura. Negara kolonial memperoleh jalan, dan para tuan tanah memperoleh tanah dan penduduknya.
-
-### Analisa Dark Triad
-
-**Machiavellianisme: kuat.** Daendels tidak memerintahkan rakyat Jawa secara langsung. Ia memberi target kepada para bupati dan membiarkan mereka memakai kekuasaan tradisional mereka untuk mengerahkan rakyat. Dengan begitu, kerja paksa berjalan memakai wibawa penguasa lokal, sementara biayanya hampir nol bagi pemerintah. Penjualan tanah lengkap dengan penduduknya juga menunjukkan cara berpikir yang sama: manusia dihitung sebagai bagian dari aset.
-
-**Narsisisme: sedang.** Daendels sangat yakin dirinya pembaharu yang membawa ketertiban modern ke negeri yang menurutnya kacau. Ia mengubah upacara keraton agar wakil Belanda setara dengan raja Jawa, dan memamerkan kekuasaan lewat istana dan proyek besar. Tetapi ia juga digerakkan oleh tugas militer yang nyata, bukan hanya oleh kebutuhan akan pujian.
-
-**Psikopati: sedang.** Catatan tentang ancaman hukuman bagi bupati yang gagal, ketidakpedulian terhadap korban, dan caranya menurunkan seorang sultan dengan pasukan menunjukkan kekerasan hati yang menonjol. Namun banyak kisah tentang kekejamannya berasal dari lawan politik, sehingga sulit memisahkan watak pribadi dari reputasi yang dibentuk musuhnya.
-
-**Kesimpulan:** Machiavellianisme yang dijalankan dengan tergesa-gesa. Daendels menunjukkan bagaimana proyek yang benar-benar berguna bisa dibangun dengan cara yang menghancurkan, ketika satu orang memegang seluruh hukum dan tenggat waktunya.
-
-### Hikmah
-
-Jalan yang bermanfaat tidak menghapus cara pembuatannya. Jalan Daendels masih dipakai dua abad kemudian, tetapi para pekerjanya tidak pernah tercatat namanya. Ketika sebuah proyek besar dipuji karena manfaatnya, tanyakan juga siapa yang membayar biayanya, dan apakah mereka pernah ditanya.
-
-Perhatikan juga rantai perintahnya. Daendels memberi target, bupati menjalankan, dan rakyat menanggung. Dalam organisasi mana pun, target yang tidak realistis dengan tenggat yang mustahil hampir selalu dibayar oleh orang di lapisan paling bawah.
-
-Dan ketika tanah dijual bersama orang-orang yang tinggal di atasnya, hukum sedang memperlakukan manusia sebagai barang. Bentuknya hari ini bisa berbeda, dari penggusuran sampai sengketa lahan, tetapi pertanyaannya tetap sama: hak siapa yang ikut terjual ketika sebuah tanah berpindah tangan?
-
-<div style="page-break-after: always;"></div>
-
-## 4. Rockefeller
+## 1. Rockefeller
 
 *Cleveland, Amerika Serikat, 1872. Minyak: diskon rahasia dari rel kereta.*
 
-### Kisahnya
+### Kisah
 
 John Davison Rockefeller lahir pada 1839 di sebuah desa kecil di negara bagian New York. Ayahnya, William, adalah pedagang keliling yang menjual obat-obatan ajaib dan sering menghilang berbulan-bulan. Menurut kisah yang sering diceritakan, sang ayah sengaja menipu anak-anaknya sendiri dalam tawar-menawar, supaya mereka "jadi tajam". Ibunya, Eliza, adalah kebalikannya: saleh, hemat, dan disiplin. Rockefeller mewarisi keduanya, ketelitian sang ibu dan kecerdikan sang ayah.
 
@@ -308,7 +130,7 @@ Dengan senjata itu, Rockefeller mendatangi pemilik kilang di Cleveland satu per 
 
 Saat itu Amerika belum punya undang-undang antimonopoli tingkat federal. Kesepakatan harga antara dua perusahaan swasta umumnya dianggap urusan mereka sendiri, dan praktik seperti ini berada di wilayah abu-abu hukum.
 
-### Konsekuensi
+### Harga
 
 Kesepakatan South Improvement Company bocor ke publik. Para produsen minyak di Pennsylvania mengamuk. Mereka memboikot penjualan minyak mentah ke anggota perkumpulan, dan dalam beberapa minggu, pemerintah negara bagian Pennsylvania mencabut izin perkumpulan itu. Di atas kertas, para pengusaha kecil menang.
 
@@ -318,11 +140,19 @@ Kemarahan publik tumbuh pelan-pelan. Pada 1890, Kongres mengesahkan Sherman Anti
 
 Pada 1911, Mahkamah Agung Amerika memutuskan Standard Oil melanggar undang-undang antimonopoli dan memerintahkan perusahaan itu dipecah menjadi 34 perusahaan terpisah. Nama Rockefeller menjadi lambang keserakahan selama satu generasi.
 
-### Keuntungan
+### Hasil
 
 Ironisnya, pemecahan itu membuat Rockefeller makin kaya. Ia memegang saham di semua pecahan perusahaan, dan setelah dipisah, nilai saham-saham itu justru naik. Banyak di antaranya tumbuh menjadi raksasa minyak dunia yang masih ada sampai sekarang. Konon, saat mendengar putusan pengadilan, Rockefeller sedang bermain golf dan menyarankan temannya membeli saham Standard Oil.
 
 Pada puncaknya, kekayaannya diperkirakan setara dengan sekitar 1,5 sampai 3 persen dari seluruh ekonomi Amerika saat itu, menjadikannya salah satu orang terkaya dalam sejarah modern. Di sisa hidupnya, ia menyumbangkan ratusan juta dolar: mendirikan University of Chicago, lembaga riset kedokteran yang kini bernama Rockefeller University, dan Rockefeller Foundation, yang membiayai pemberantasan penyakit cacing tambang dan demam kuning. Ia meninggal pada 1937, dalam usia 97 tahun.
+
+### Pelajaran
+
+Kalau aturannya belum ada, orang yang paling cepat membaca celah akan menang besar. Tetapi aturan selalu menyusul, dan sering kali ditulis karena orang seperti dia. Saat itu tiba, ia sudah lama kaya.
+
+Pelajaran kedua lebih praktis. Monopoli jarang dibangun dengan mengalahkan pesaing di depan pelanggan. Ia dibangun dengan menguasai jalur yang harus dilewati semua orang. Dulu jalurnya rel kereta. Hari ini jalurnya bisa berupa sistem pembayaran, toko aplikasi, mesin pencari, atau platform tempat jutaan pedagang berjualan. Kalau bisnismu bergantung pada jalur milik orang lain, tanyakan apakah pemilik jalur itu juga pesaingmu.
+
+Dan bagi siapa pun yang tergoda meniru: pertanyaannya bukan "apakah ini dilarang?", melainkan "kalau semua orang tahu cara saya menang, apakah mereka masih mau berbisnis dengan saya?" Rockefeller menjawab pertanyaan itu dengan kerahasiaan. Begitu rahasianya terbongkar, butuh puluhan tahun dan ratusan juta dolar sumbangan untuk membersihkan namanya.
 
 ### Analisa Dark Triad
 
@@ -334,21 +164,219 @@ Pada puncaknya, kekayaannya diperkirakan setara dengan sekitar 1,5 sampai 3 pers
 
 **Kesimpulan:** Rockefeller adalah contoh hampir murni dari Machiavellianisme yang berhasil. Ia tidak butuh pujian dan tidak butuh sensasi. Ia hanya butuh kendali.
 
-### Hikmah
+### Profil
 
-Kalau aturannya belum ada, orang yang paling cepat membaca celah akan menang besar. Tetapi aturan selalu menyusul, dan sering kali ditulis karena orang seperti dia. Saat itu tiba, ia sudah lama kaya.
+**Nama:** John Davison Rockefeller
+**Lahir:** 8 Juli 1839, Richford, New York
+**Wafat:** 23 Mei 1937, Ormond Beach, Florida
+**Jenis kelamin:** Laki-laki
+**Negara:** Amerika Serikat
 
-Pelajaran kedua lebih praktis. Monopoli jarang dibangun dengan mengalahkan pesaing di depan pelanggan. Ia dibangun dengan menguasai jalur yang harus dilewati semua orang. Dulu jalurnya rel kereta. Hari ini jalurnya bisa berupa sistem pembayaran, toko aplikasi, mesin pencari, atau platform tempat jutaan pedagang berjualan. Kalau bisnismu bergantung pada jalur milik orang lain, tanyakan apakah pemilik jalur itu juga pesaingmu.
+> “Sudah terlambat untuk memperdebatkan untung-ruginya korporasi industri. Korporasi itu sebuah keharusan.”
+> — Kesaksian tertulis kepada U.S. Industrial Commission, 1899
 
-Dan bagi siapa pun yang tergoda meniru: pertanyaannya bukan "apakah ini dilarang?", melainkan "kalau semua orang tahu cara saya menang, apakah mereka masih mau berbisnis dengan saya?" Rockefeller menjawab pertanyaan itu dengan kerahasiaan. Begitu rahasianya terbongkar, butuh puluhan tahun dan ratusan juta dolar sumbangan untuk membersihkan namanya.
+<div style="page-break-after: always;"></div>
+
+## 2. Raden Wijaya
+
+*Jawa Timur, 1293. Kekuasaan: meminjam tentara terkuat di dunia, lalu mengusirnya.*
+
+Kisah ini tidak punya kontrak, bursa saham, atau undang-undang modern. Yang ada hanyalah kerajaan, perang, dan strategi yang sampai sekarang masih membuat orang berdecak kagum. Sebagian besar yang kita tahu tentangnya berasal dari kronik Tiongkok *Yuan Shi* dan dari kitab-kitab Jawa seperti *Pararaton* dan *Nagarakretagama*, yang ditulis puluhan sampai ratusan tahun kemudian dan tidak selalu sepakat soal detailnya.
+
+### Kisah
+
+Pada 1292, ketika sebagian besar pasukan Singhasari sedang berada jauh di Sumatra, Jayakatwang, penguasa Gelang-Gelang dan keturunan raja-raja Kediri, memberontak. Pasukannya menyerbu ibu kota, dan Kertanagara, raja Singhasari, terbunuh.
+
+Menantu Kertanagara, Raden Wijaya, memimpin perlawanan, kalah, dan melarikan diri dengan segelintir pengikut. Menurut *Pararaton*, ia menyeberang ke Madura dan meminta perlindungan Arya Wiraraja, bupati Sumenep. Wiraraja adalah tokoh yang licin. Ia pernah diturunkan jabatannya oleh Kertanagara, dan menurut *Pararaton*, dialah yang diam-diam menyarankan Jayakatwang untuk memberontak. Kini ia menerima menantu raja yang baru saja ia bantu jatuhkan.
+
+Nasihat Wiraraja kepada Wijaya terdengar seperti pengkhianatan: menyerahlah kepada Jayakatwang. Wijaya menurut. Ia datang ke Kediri, menyatakan tunduk, dan diterima dengan baik. Lalu ia meminta satu hal kecil: izin membuka hutan Tarik di tepi Sungai Brantas, konon untuk tempat berburu bagi sang raja. Jayakatwang mengizinkan. Menurut *Pararaton*, dalam kesepakatan rahasia mereka, Wijaya berjanji kepada Wiraraja: kalau berhasil merebut kembali kekuasaan, tanah Jawa akan dibagi dua di antara mereka.
+
+Orang-orang Madura kiriman Wiraraja membabat hutan itu, dan desa barunya, Majapahit, pelan-pelan menjadi tempat berkumpulnya para pengikut lama Singhasari. Di depan Jayakatwang, Wijaya tetap bawahan yang setia.
+
+Pada awal 1293, datanglah kesempatan yang ia tunggu. Armada Kubilai Khan, menurut kronik Yuan sekitar seribu kapal dan dua puluh ribu prajurit, mendarat di pantai utara Jawa. Mereka datang untuk menghukum Kertanagara, yang beberapa tahun sebelumnya menolak tunduk dan, menurut kronik itu, merajah wajah utusan Kubilai. Mereka tidak tahu bahwa Kertanagara sudah mati.
+
+Wijaya mengirim utusan kepada para panglima Yuan, menyatakan tunduk kepada Kubilai Khan, dan menawarkan diri sebagai sekutu. Raja yang harus dihukum sudah mati, katanya, dan yang kini berkuasa adalah Jayakatwang, musuh bersama mereka. Ia meminta bantuan untuk menghancurkannya, dan menjanjikan upeti sebagai imbalannya.
+
+Para panglima Yuan setuju. Bersama pasukan Majapahit, mereka menyerbu Daha, ibu kota Jayakatwang. Jayakatwang kalah dan ditawan, dan menurut *Yuan Shi*, ia dan putranya kemudian dihukum mati oleh pasukan Yuan.
+
+Kini tinggal satu urusan: upeti yang dijanjikan. Wijaya meminta izin kembali ke Majapahit untuk menyiapkannya, dan para panglima Yuan mengirim sekitar dua ratus prajurit untuk mengawalnya. Di tengah jalan, para pengawal itu dibunuh. Lalu pasukan Majapahit berbalik menyerang pasukan Yuan yang sedang lengah dan lelah setelah perang, dan mengejar mereka sampai ke pantai.
+
+Jauh dari rumah dan menghadapi musim angin yang akan segera berganti, pasukan Yuan memutuskan pulang. Menurut *Yuan Shi*, lebih dari tiga ribu prajurit mereka tewas. Tentara dari kekaisaran yang telah menaklukkan Tiongkok, Persia, dan Rusia terusir dari Jawa oleh sekutu yang mereka tolong sendiri. Pada akhir 1293, Raden Wijaya dinobatkan sebagai raja pertama Majapahit dengan gelar Kertarajasa Jayawardhana.
+
+### Harga
+
+Kubilai Khan tidak pernah lagi mengirim armada ke Jawa. Harga yang sebenarnya justru datang dari dalam: janji-janji yang Wijaya buat dalam keadaan terdesak mulai ditagih.
+
+Arya Wiraraja mendapat wilayah di ujung timur Jawa, dengan pusat di Lumajang, tetapi bukan separuh pulau seperti yang dijanjikan menurut *Pararaton*. Pada 1295, menurut *Pararaton*, Ranggalawe, putra Wiraraja yang ikut berjuang sejak awal, memberontak karena kecewa dengan pengangkatan Nambi sebagai patih, dan ia tewas. Beberapa tahun kemudian, sahabat lamanya, Lembu Sora, juga terbunuh dalam konflik di istana. Kerajaan yang dibangun dengan siasat dan janji ganda terus diganggu oleh orang-orang yang merasa ditipu.
+
+### Hasil
+
+Wijaya mendapatkan yang jauh lebih besar daripada kekayaan: sebuah kerajaan. Untuk memperkuat kedudukannya sebagai pewaris sah Singhasari, ia menikahi putri-putri Kertanagara. Ia memerintah sampai wafatnya pada 1309, dan kerajaan yang ia dirikan, menurut *Nagarakretagama*, kelak berpengaruh dari Sumatra sampai pesisir barat Papua.
+
+### Pelajaran
+
+Pertama, bagi pihak yang kuat: kalau kamu menolong seseorang dengan janji imbalan di kemudian hari, tagih imbalannya sebelum pekerjaanmu selesai. Pasukan Yuan menyelesaikan tugasnya dulu, lalu menunggu bayaran dari orang yang sudah tidak membutuhkan mereka lagi.
+
+Kedua, bagi pihak yang lemah: musuh dari musuhmu bisa menjadi alat yang ampuh. Wijaya tidak punya pasukan untuk mengalahkan Jayakatwang. Ia meminjamnya dari pihak yang datang untuk alasan yang sama sekali berbeda.
+
+Ketiga: janji yang dibuat dalam keadaan terdesak akan ditagih dalam keadaan senang. Cara kamu mendapatkan kekuasaan menentukan siapa yang akan mencoba merebutnya darimu.
+
+### Analisa Dark Triad
+
+Menilai tokoh dari tujuh ratus tahun lalu lewat kronik jauh lebih spekulatif, dan di zaman itu tipu muslihat dalam perang dianggap bagian dari kepemimpinan.
+
+**Machiavellianisme: sangat kuat.** Ia pura-pura tunduk kepada musuh yang membunuh mertuanya. Ia membangun basis kekuatan dengan dalih tempat berburu. Ia memakai pasukan asing untuk menghancurkan musuhnya, lalu memakai sisa tenaga pasukannya sendiri untuk mengusir pasukan asing itu. Dua ratus tahun kemudian, Machiavelli menasihati para penguasa agar tidak bergantung pada tentara asing. Wijaya meminjamnya tanpa membayar.
+
+**Narsisisme: lemah sampai sedang.** Tidak banyak catatan tentang kepribadiannya. Pernikahan dengan putri-putri Kertanagara dan gelar agungnya adalah kebutuhan politik setiap raja baru, bukan tanda khusus narsisisme.
+
+**Psikopati: lemah.** Pembunuhan pengawal Yuan dan serangan mendadak adalah kekerasan yang terencana dalam perang, bukan tindakan impulsif. Wijaya justru sangat sabar: berbulan-bulan berpura-pura setia sebelum bergerak.
+
+**Kesimpulan:** Machiavellianisme dalam bentuk paling murni, di zaman yang menganggapnya kebajikan seorang pemimpin. Wiraraja, penasihatnya, mungkin lebih Machiavellian lagi: ia bermain di kedua sisi.
+
+### Profil
+
+**Nama:** Raden Wijaya (Kertarajasa Jayawardhana)
+**Lahir:** Tidak diketahui (abad ke-13)
+**Wafat:** 1309, Majapahit
+**Jenis kelamin:** Laki-laki
+**Negara:** Majapahit, Jawa
+
+<div style="page-break-after: always;"></div>
+
+## 3. Jan Pieterszoon Coen
+
+*Kepulauan Banda, 1621. Rempah: memonopoli pala dengan senjata, atas izin negara.*
+
+### Kisah
+
+Selama berabad-abad, pala dan bunga pala hanya tumbuh di satu tempat di dunia: Kepulauan Banda, gugusan pulau kecil di Laut Banda, Maluku. Di Eropa, rempah ini konon pernah lebih mahal daripada emas jika dihitung per berat, dipakai sebagai bumbu, obat, dan lambang kemewahan. Para pedagang Banda, dipimpin para tetua yang disebut *orang kaya*, menjualnya kepada siapa saja yang datang: pedagang Jawa, Melayu, Arab, Tiongkok, lalu Portugis, Inggris, dan Belanda.
+
+Pada 1602, para pedagang Belanda menyatukan perusahaan-perusahaan mereka menjadi Vereenigde Oostindische Compagnie, atau VOC. Pemerintah Belanda memberinya hak istimewa yang luar biasa lewat sebuah piagam: VOC boleh membuat perjanjian dengan raja-raja di Asia, membangun benteng, merekrut tentara, dan berperang. Sebuah perusahaan dagang dengan hak sebuah negara. Semua yang dilakukannya di Asia berada di bawah izin resmi itu.
+
+VOC menginginkan satu hal di Banda: monopoli. Mereka memaksa para orang kaya menandatangani perjanjian yang mewajibkan mereka menjual pala hanya kepada VOC, dengan harga yang ditentukan VOC. Bagi orang Banda, perjanjian itu tidak masuk akal. Mereka sudah berdagang bebas selama ratusan tahun, dan pedagang lain membayar lebih mahal. Mereka terus menjual kepada Inggris, yang sudah berpijak di Pulau Run, salah satu pulau di gugusan itu. Bagi VOC, itu pelanggaran kontrak.
+
+Pada 1609, seorang laksamana VOC, Pieter Willemszoon Verhoeff, yang di Indonesia sering ditulis Verhoeven, dibunuh oleh orang Banda bersama puluhan anak buahnya dalam sebuah perundingan yang berubah menjadi penyergapan. Jan Pieterszoon Coen, pegawai muda VOC yang ikut dalam armada itu, menurut sejumlah sejarawan menyaksikan peristiwa tersebut, dan peristiwa itu membentuk pandangannya tentang Banda.
+
+Coen naik cepat. Ia dikenal cerdas, pekerja keras, saleh, dan sangat keras kepala. Dalam surat-suratnya kepada para direktur VOC di Belanda, ia menegaskan bahwa perdagangan di Asia tidak bisa dijalankan tanpa perang, dan perang tidak bisa dijalankan tanpa perdagangan. Pada 1619, sebagai Gubernur Jenderal, ia merebut Jayakarta di pantai utara Jawa, menghancurkan kotanya, dan membangun Batavia di atasnya sebagai pusat VOC di Asia.
+
+Pada 1621, Coen memimpin sendiri armada ke Banda, dengan sekitar dua ribu tentara, termasuk tentara bayaran dari Jepang. Pulau utama, Lonthor, direbut. Para orang kaya dituduh bersekongkol melawan VOC, disiksa untuk mendapatkan pengakuan, dan pada 8 Mei 1621, sekitar empat puluh empat di antaranya dieksekusi oleh tentara bayaran Jepang di dalam benteng VOC. Penduduk Banda yang tersisa dibunuh, mati kelaparan saat bersembunyi di pegunungan, dijual sebagai budak ke Batavia, atau melarikan diri ke pulau-pulau lain. Dari sekitar lima belas ribu penduduk, menurut perkiraan para sejarawan, hanya sekitar seribu yang tersisa di kepulauan itu.
+
+Tanah Banda kemudian dibagi menjadi puluhan kebun pala yang disebut *perken*, dan diserahkan kepada pemukim Belanda yang disebut *perkenier*. Kebun-kebun itu dikerjakan oleh budak yang didatangkan dari berbagai tempat di Asia. Mereka wajib menjual seluruh hasilnya kepada VOC, dengan harga tetap. VOC kini memegang monopoli pala dunia.
+
+### Harga
+
+Para direktur VOC, yang sebelumnya memerintahkan penaklukan Banda, menurut sejumlah sejarawan kemudian menyatakan keberatan atas caranya, tetapi tetap menerima hasilnya. Coen kembali ke Belanda, lalu diangkat lagi sebagai Gubernur Jenderal, dan meninggal di Batavia pada 1629, saat kota itu dikepung pasukan Mataram.
+
+Dalam Perjanjian Breda pada 1667, Inggris resmi melepaskan klaimnya atas Pulau Run, sementara Belanda merelakan koloni Nieuw-Nederland di Amerika Utara, yang sudah direbut Inggris pada 1664. Kota utamanya, Nieuw Amsterdam, sudah berganti nama menjadi New York.
+
+Di Belanda, Coen lama dihormati sebagai pahlawan, dan patungnya berdiri di kota kelahirannya, Hoorn. Sejak akhir abad ke-20, patung itu terus diperdebatkan, dan pembantaian Banda kini lebih sering disebut dengan namanya yang sebenarnya.
+
+### Hasil
+
+Monopoli pala dan cengkih membuat VOC menjadi salah satu perusahaan paling menguntungkan dalam sejarah. Selama hampir dua abad, VOC membagikan dividen yang tinggi kepada para pemegang sahamnya, dan kekayaan dari rempah ikut membiayai Zaman Keemasan Belanda: kanal-kanal Amsterdam, lukisan-lukisan besar, dan armada dagang yang menguasai lautan. Coen sendiri dikenang sebagai pendiri Batavia, kota yang kelak menjadi Jakarta.
+
+### Pelajaran
+
+"Legal" selalu berarti legal menurut aturan siapa. Piagam VOC sah di Belanda. Kontrak monopoli sah menurut VOC. Tidak satu pun dari aturan itu ditulis bersama orang Banda.
+
+Monopoli atas sumber daya yang langka, entah pala, minyak, nikel, atau data, selalu mengundang kekerasan, karena keuntungannya terlalu besar untuk dibagi. Ketika sebuah perusahaan diberi kekuasaan seperti negara, ia akan bertindak seperti negara, termasuk dalam berperang.
+
+Dan bagi kita yang hidup di negeri bekas jajahan, kisah ini juga mengingatkan bahwa sejarah yang kita warisi sering ditulis oleh pihak yang menang. Patung dan nama jalan bisa bertahan ratusan tahun lebih lama daripada ingatan tentang korbannya.
+
+### Analisa Dark Triad
+
+**Machiavellianisme: sangat kuat.** Coen melihat perdagangan sebagai perang, dan perjanjian sebagai senjata. Ia memakai kontrak monopoli yang tidak pernah benar-benar disetujui orang Banda sebagai alasan hukum untuk menaklukkan mereka, dan memakai piagam VOC sebagai izin untuk melakukannya. Setiap langkahnya dirancang untuk satu tujuan: kendali penuh atas sumber pala.
+
+**Psikopati: kuat.** Penyiksaan, eksekusi massal, dan pengosongan sebuah kepulauan tanpa tanda-tanda penyesalan menunjukkan kekejaman yang ekstrem, bahkan menurut ukuran zamannya, sehingga, menurut sejumlah sejarawan, para atasannya sendiri merasa perlu menyatakan keberatan. Ia juga dikenal sangat keras terhadap anak buahnya sendiri.
+
+**Narsisisme: sedang.** Coen sangat yakin akan kebenaran pandangannya dan sulit menerima pendapat lain, termasuk dari para atasannya. Tetapi ia lebih digerakkan oleh tujuan VOC daripada oleh kebutuhan akan pujian pribadi.
+
+**Kesimpulan:** Machiavellianisme dan psikopati yang kuat, didukung oleh izin resmi sebuah negara. Kisah Coen menunjukkan sisi paling gelap dari "jahat tapi legal": ketika hukum ditulis oleh pihak yang kuat, pembantaian pun bisa dibungkus sebagai penegakan kontrak.
+
+### Profil
+
+**Nama:** Jan Pieterszoon Coen
+**Lahir:** 8 Januari 1587, Hoorn, Belanda
+**Wafat:** 21 September 1629, Batavia
+**Jenis kelamin:** Laki-laki
+**Negara:** Belanda
+
+> “Jangan putus asa, jangan segan terhadap musuh-musuh Tuan, tidak ada apa pun di dunia ini yang dapat menghalangi atau mencelakakan kita, sebab Tuhan menyertai kita.”
+> — Surat kepada Heeren XVII, 1618
+
+<div style="page-break-after: always;"></div>
+
+## 4. Herman Willem Daendels
+
+*Jawa, 1808. Kekuasaan: membangun jalan seribu kilometer dengan tenaga rakyat yang dikerahkan lewat para bupati.*
+
+### Kisah
+
+Pada awal abad ke-19, Belanda bukan lagi negeri merdeka. Negeri itu berada di bawah bayang-bayang Prancis, dan sejak 1806 diperintah oleh Louis Bonaparte, adik Kaisar Napoleon, sebagai Kerajaan Holland. VOC sudah bubar pada akhir 1799, dan Jawa kini menjadi milik negara. Masalahnya, Inggris, musuh besar Napoleon, menguasai lautan. Jawa terancam direbut kapan saja.
+
+Louis Bonaparte mengirim orang yang ia anggap paling tepat untuk mempertahankannya: Herman Willem Daendels. Lahir di Hattem pada 1762, Daendels adalah pengacara yang menjadi tentara. Ia ikut gerakan kaum Patriot yang menentang penguasa lama Belanda, melarikan diri ke Prancis ketika gerakan itu kalah, lalu kembali sebagai jenderal dalam tentara revolusioner. Ia dikenal keras, cepat, dan tidak sabar dengan tradisi.
+
+Daendels tiba di Batavia pada 5 Januari 1808 dan segera bekerja. Ia membereskan birokrasi yang korup, membangun benteng, barak, rumah sakit, dan pabrik senjata, serta memindahkan pusat pemerintahan dari Batavia lama yang tidak sehat ke Weltevreden. Tetapi proyek yang membuat namanya dikenang sampai hari ini adalah sebuah jalan.
+
+Untuk mempertahankan Jawa, pasukan dan surat harus bisa bergerak cepat dari ujung barat ke ujung timur pulau. Jalan yang ada saat itu terputus-putus, dan perjalanan Batavia ke Surabaya bisa memakan waktu berminggu-minggu. Daendels memerintahkan pembangunan *Grote Postweg*, Jalan Raya Pos, sepanjang sekitar seribu kilometer dari Anyer di Banten sampai Panarukan di Jawa Timur. Sebagian ruasnya hanya melebarkan jalan desa yang sudah ada. Sebagian lagi harus dibuka menembus hutan, rawa, dan bukit batu.
+
+Daendels tidak punya cukup uang. Menurut sebagian sejarawan, upah untuk beberapa ruas memang sempat dianggarkan, tetapi tidak jelas berapa yang sampai ke tangan pekerja. Untuk sebagian besar jalan, beban pekerjaan diserahkan kepada para bupati di wilayah yang dilalui. Setiap bupati wajib menyelesaikan ruas di daerahnya dalam waktu yang ditentukan. Para bupati lalu mengerahkan rakyatnya sendiri sebagai tenaga wajib, kerja *rodi*, sesuai kebiasaan feodal yang memang sudah lama berlaku di Jawa. Siapa pun yang gagal memenuhi target menghadapi hukuman.
+
+Semua itu sah. Daendels adalah penguasa tertinggi Jawa, dengan mandat langsung dari raja, dan perintahnya adalah hukum. Kerja wajib untuk penguasa bukan hal baru. Yang baru adalah skala dan kecepatannya. Sebagian besar jalan itu selesai hanya dalam waktu sekitar satu tahun.
+
+Di Sumedang, jalan harus dipahat menembus tebing cadas. Menurut cerita yang hidup di masyarakat setempat, bupati Sumedang, Pangeran Kusumadinata, yang dikenal sebagai Pangeran Kornel, menyambut Daendels saat inspeksi dengan berjabat tangan memakai tangan kiri, sementara tangan kanannya memegang keris, sebagai protes atas penderitaan rakyatnya. Konon Daendels kemudian mengerahkan tentara zeni untuk menyelesaikan ruas itu. Sejumlah sejarawan meragukan detail kisah ini, tetapi tempat itu sampai sekarang bernama Cadas Pangeran.
+
+Daendels juga punya cara lain untuk mengisi kas. Ia menjual tanah-tanah negara kepada pembeli swasta, kebanyakan orang Eropa dan Tionghoa kaya. Yang paling terkenal adalah penjualan wilayah Probolinggo pada 1810 kepada Han Kik Ko, mantan kapitan Tionghoa Pasuruan, seharga sekitar satu juta ringgit yang dibayar bertahap. Daendels kemudian mengangkatnya menjadi mayor Tionghoa dan bupati Probolinggo. Tanah-tanah itu dijual lengkap dengan penduduknya. Pemilik baru berhak menarik pajak dan kerja dari orang-orang yang tinggal di atasnya. Menurut sejarawan Belanda Bernard Vlekke, Daendels menjual rumah peristirahatannya di Buitenzorg (Bogor), yang sebelumnya ia beli sendiri, kepada penggantinya, Janssens, dengan keuntungan sekitar 900.000 gulden.
+
+Terhadap keraton-keraton Jawa, Daendels bersikap lebih keras daripada pendahulunya. Menurut sejarawan Peter Carey, ia mengubah tata upacara sehingga wakil Belanda di keraton tidak lagi diperlakukan sebagai tamu yang menghormati raja, tetapi sebagai pejabat yang setara dengan raja. Ketika seorang bangsawan Yogyakarta, Raden Ronggo Prawirodirjo, memberontak dan tewas pada akhir 1810, Daendels menuduh Sultan Hamengkubuwono II ikut terlibat. Ia berangkat ke Yogyakarta dengan sekitar tiga ribu tentara, memaksa sultan turun takhta dan menyerahkan pemerintahan kepada putra mahkota, serta memaksa keraton-keraton menyerahkan sebagian wilayahnya.
+
+### Harga
+
+Berapa orang yang meninggal saat membangun Jalan Raya Pos tidak pernah tercatat dengan pasti. Angka yang paling sering dikutip, sekitar dua belas ribu orang, berasal dari catatan perwira Inggris William Thorn pada 1815, yang menulis bahwa jumlah itu konon tewas, dan kemudian dikutip sejarawan seperti Peter Carey. Sejarawan Jan Breman menyebut belasan ribu korban jiwa. Pramoedya Ananta Toer, dalam bukunya *Jalan Raya Pos, Jalan Daendels*, mengutip angka 5.000 dan 12.000 dari sumber Inggris, menduga jumlah sebenarnya lebih besar, dan menyebut kerja paksa itu genosida. Sebaliknya, sejarawan Asvi Warman Adam mengingatkan bahwa banyak cerita tentang kekejaman Daendels berasal dari lawan-lawan politiknya di Belanda. Yang tidak diperdebatkan adalah bahwa ribuan orang meninggal karena kelelahan, kelaparan, dan penyakit seperti malaria, di jalan yang tidak pernah mereka minta.
+
+Tanah-tanah yang dijual kepada swasta menjadi *tanah partikelir*, wilayah tempat tuan tanah berkuasa hampir seperti raja kecil. Penduduknya tidak bisa pergi begitu saja, dan beban mereka sering lebih berat daripada di bawah pemerintah. Di Probolinggo, penduduk memberontak terhadap pemilik tanahnya pada 1813, dan Han Kik Ko tewas dalam pemberontakan itu. Sebagian tanah partikelir di Jawa baru dibeli kembali oleh negara lebih dari seabad kemudian.
+
+Bagi Daendels sendiri, akhirnya datang dari Eropa. Pada 1810, Napoleon menghapus Kerajaan Holland dan menggabungkannya ke Prancis. Daendels dipanggil pulang dan digantikan oleh Jan Willem Janssens pada Mei 1811. Beberapa bulan kemudian, Inggris mendarat di Jawa dan merebutnya dalam waktu singkat. Jalan yang dibangun untuk mempertahankan Jawa ternyata tidak cukup.
+
+Daendels kemudian memimpin satu divisi dalam serbuan Napoleon ke Rusia pada 1812 dan mempertahankan benteng Modlin di Polandia. Setelah Napoleon jatuh, raja Belanda yang baru mengangkatnya menjadi gubernur di Pantai Emas, Afrika Barat, jabatan yang secara efektif menjauhkannya dari negeri asalnya. Ia meninggal di Elmina, Ghana sekarang, pada 1818, karena malaria.
+
+### Hasil
+
+Daendels tidak menjadi orang terkaya di zamannya, dan keuntungan pribadinya, menurut Vlekke sekitar 900.000 gulden dari penjualan rumah di Bogor, tetap kecil dibandingkan dengan proyeknya. Yang ia peroleh adalah kekuasaan penuh selama tiga tahun dan sebuah warisan yang namanya tetap melekat. Sampai hari ini, orang Indonesia menyebut jalur pantai utara Jawa sebagai Jalan Daendels. Jalan itu memangkas perjalanan Batavia ke Surabaya dari berminggu-minggu menjadi sekitar satu minggu, dan kelak menjadi tulang punggung jalur Pantura. Negara kolonial memperoleh jalan, dan para tuan tanah memperoleh tanah dan penduduknya.
+
+### Pelajaran
+
+Jalan yang bermanfaat tidak menghapus cara pembuatannya. Jalan Daendels masih dipakai dua abad kemudian, tetapi para pekerjanya tidak pernah tercatat namanya. Ketika sebuah proyek besar dipuji karena manfaatnya, tanyakan juga siapa yang membayar biayanya, dan apakah mereka pernah ditanya.
+
+Perhatikan juga rantai perintahnya. Daendels memberi target, bupati menjalankan, dan rakyat menanggung. Dalam organisasi mana pun, target yang tidak realistis dengan tenggat yang mustahil hampir selalu dibayar oleh orang di lapisan paling bawah.
+
+Dan ketika tanah dijual bersama orang-orang yang tinggal di atasnya, hukum sedang memperlakukan manusia sebagai barang. Bentuknya hari ini bisa berbeda, dari penggusuran sampai sengketa lahan, tetapi pertanyaannya tetap sama: hak siapa yang ikut terjual ketika sebuah tanah berpindah tangan?
+
+### Analisa Dark Triad
+
+**Machiavellianisme: kuat.** Daendels tidak memerintahkan rakyat Jawa secara langsung. Ia memberi target kepada para bupati dan membiarkan mereka memakai kekuasaan tradisional mereka untuk mengerahkan rakyat. Dengan begitu, kerja paksa berjalan memakai wibawa penguasa lokal, sementara biayanya hampir nol bagi pemerintah. Penjualan tanah lengkap dengan penduduknya juga menunjukkan cara berpikir yang sama: manusia dihitung sebagai bagian dari aset.
+
+**Narsisisme: sedang.** Daendels sangat yakin dirinya pembaharu yang membawa ketertiban modern ke negeri yang menurutnya kacau. Ia mengubah upacara keraton agar wakil Belanda setara dengan raja Jawa, dan memamerkan kekuasaan lewat istana dan proyek besar. Tetapi ia juga digerakkan oleh tugas militer yang nyata, bukan hanya oleh kebutuhan akan pujian.
+
+**Psikopati: sedang.** Catatan tentang ancaman hukuman bagi bupati yang gagal, ketidakpedulian terhadap korban, dan caranya menurunkan seorang sultan dengan pasukan menunjukkan kekerasan hati yang menonjol. Namun banyak kisah tentang kekejamannya berasal dari lawan politik, sehingga sulit memisahkan watak pribadi dari reputasi yang dibentuk musuhnya.
+
+**Kesimpulan:** Machiavellianisme yang dijalankan dengan tergesa-gesa. Daendels menunjukkan bagaimana proyek yang benar-benar berguna bisa dibangun dengan cara yang menghancurkan, ketika satu orang memegang seluruh hukum dan tenggat waktunya.
+
+### Profil
+
+**Nama:** Herman Willem Daendels
+**Lahir:** 21 Oktober 1762, Hattem, Belanda
+**Wafat:** 2 Mei 1818, Elmina (kini Ghana)
+**Jenis kelamin:** Laki-laki
+**Negara:** Belanda
 
 <div style="page-break-after: always;"></div>
 
 ## 5. Cecil Rhodes
 
-*Kimberley dan Matabeleland (kini Zimbabwe), 1888. Berlian dan tanah: satu tanda tangan raja, satu negeri berpindah tangan.*
+*Kimberley (Afrika Selatan) dan Matabeleland (kini Zimbabwe), 1888. Berlian dan tanah: satu tanda tangan raja, satu negeri berpindah tangan.*
 
-### Kisahnya
+### Kisah
 
 Cecil John Rhodes lahir pada 1853 di Bishop's Stortford, Inggris, anak seorang pendeta. Ia anak yang sakit-sakitan, dan pada usia tujuh belas tahun ia dikirim ke Afrika Selatan, ke perkebunan kapas milik kakaknya di Natal, dengan harapan udaranya menyehatkan. Setahun kemudian, kakak-beradik itu pindah ke tempat yang sedang membuat seluruh dunia bermimpi: ladang berlian di Kimberley.
 
@@ -366,19 +394,25 @@ Lobengula tidak bisa membaca bahasa Inggris. Isi dokumen diterjemahkan dan dijel
 
 Rhodes membawa kertas itu ke London. Pada 29 Oktober 1889, Ratu Victoria memberikan piagam kerajaan kepada perusahaan barunya, British South Africa Company. Piagam itu jauh melampaui hak menambang. Perusahaan boleh membentuk polisi, membuat perjanjian, membangun jalan dan rel, dan memerintah wilayah. Sebuah perusahaan swasta mendapat wewenang seperti negara, dan semuanya sah di bawah hukum Inggris.
 
-### Konsekuensi
+### Harga
 
 Lobengula segera sadar apa yang telah ia tanda tangani. Ia mengumumkan penangguhan konsesi di sebuah surat kabar, mengirim dua utusannya ke London untuk menghadap Ratu Victoria, dan menulis surat yang menolak dokumen itu. Penolakannya tiba terlambat. Di dalam negeri, ia menghukum mati induna Lotshe, penasihat yang mendukung konsesi, bersama keluarga dan pengikutnya, menurut catatan lebih dari tiga ratus orang.
 
-Pada 1890, rombongan pemukim bersenjata yang disebut Pioneer Column masuk ke Mashonaland dan mendirikan Fort Salisbury, kini Harare. Emas yang diharapkan ternyata tidak sebanyak bayangan, sehingga perusahaan beralih ke tanah dan ternak. Pada 1893, pasukan perusahaan menyerbu kerajaan Ndebele dengan senapan mesin Maxim. Lobengula melarikan diri dan meninggal tak lama kemudian, konon karena cacar. Pada 1895, wilayah itu resmi diberi nama Rhodesia, nama yang diambil dari nama Rhodes sendiri. Setahun kemudian, orang Ndebele dan Shona bangkit melawan, dan pemberontakan itu dipadamkan dengan keras.
+Pada 1890, rombongan pemukim bersenjata yang disebut Pioneer Column masuk ke Mashonaland dan mendirikan Fort Salisbury, kini Harare. Emas yang diharapkan ternyata tidak sebanyak bayangan, sehingga perusahaan beralih ke tanah dan ternak. Pada 1893, pasukan perusahaan menyerbu kerajaan Ndebele dengan senapan mesin Maxim. Lobengula melarikan diri dan meninggal tak lama kemudian, konon karena cacar. Pada 1895, British South Africa Company secara resmi menamai wilayah itu Rhodesia, dari nama Rhodes sendiri; pemerintah Inggris memakai nama itu secara resmi sejak 1898. Setahun kemudian, orang Ndebele dan Shona bangkit melawan, dan pemberontakan itu dipadamkan dengan keras.
 
 Rhodes sendiri tersandung oleh ambisinya. Saat menjabat perdana menteri Koloni Tanjung, ia ikut merencanakan Jameson Raid, serbuan bersenjata pada akhir 1895 yang bertujuan menggulingkan pemerintah Republik Transvaal. Serbuan itu gagal total, dan pada awal 1896 ia mengundurkan diri. Ia meninggal pada 1902, dalam usia 48 tahun.
 
 Sistem yang ia bangun bertahan jauh lebih lama. Rhodesia baru menjadi Zimbabwe yang merdeka pada 1980, setelah perang panjang. Pada 2015, mahasiswa di Universitas Cape Town menuntut patung Rhodes diturunkan, dan gerakan Rhodes Must Fall menyebar sampai ke Oxford.
 
-### Keuntungan
+### Hasil
 
 Rhodes menjadi salah satu orang terkaya di dunia pada zamannya, dengan kekayaan dari berlian, ladang emas di Transvaal, dan saham perusahaan bersertifikat kerajaan. De Beers mengendalikan pasar berlian dunia selama hampir satu abad. Ia mendapat sesuatu yang hampir tidak pernah didapat pengusaha: sebuah negara yang diberi nama sesuai namanya. Lewat wasiatnya, ia mendirikan beasiswa Rhodes di Oxford, yang masih berjalan sampai sekarang.
+
+### Pelajaran
+
+Selembar dokumen bisa lebih kuat daripada seribu senapan. Lobengula kalah bukan di medan perang pertama, melainkan di meja perundingan, ketika janji penting diucapkan secara lisan sementara hak yang diserahkan ditulis dengan rinci. Bagi siapa pun yang menandatangani kontrak, termasuk pemilik tanah adat atau warga desa yang didatangi perusahaan tambang dan perkebunan di Indonesia, aturannya sederhana: yang tidak tertulis tidak dijamin. Minta semua janji ditulis, dan baca dokumennya dengan penerjemah atau pengacara pilihan sendiri, bukan pilihan pihak lawan.
+
+Bagi pihak yang lebih kuat, kisah Rhodes adalah pengingat bahwa keabsahan hukum hanya bertahan selama orang menerima hukumnya. Konsesinya sah di London, tetapi tidak pernah dianggap adil di Bulawayo. Hampir seratus tahun kemudian negaranya berganti nama, dan beberapa dekade setelah itu patungnya diturunkan.
 
 ### Analisa Dark Triad
 
@@ -390,11 +424,16 @@ Rhodes menjadi salah satu orang terkaya di dunia pada zamannya, dengan kekayaan 
 
 **Kesimpulan:** Rhodes menggabungkan perhitungan Machiavellian dengan ambisi narsistik yang sangat besar. Ia tidak sekadar ingin kaya. Ia ingin namanya tertulis di peta, dan ia berhasil.
 
-### Hikmah
+### Profil
 
-Selembar dokumen bisa lebih kuat daripada seribu senapan. Lobengula kalah bukan di medan perang pertama, melainkan di meja perundingan, ketika janji penting diucapkan secara lisan sementara hak yang diserahkan ditulis dengan rinci. Bagi siapa pun yang menandatangani kontrak, termasuk pemilik tanah adat atau warga desa yang didatangi perusahaan tambang dan perkebunan di Indonesia, aturannya sederhana: yang tidak tertulis tidak dijamin. Minta semua janji ditulis, dan baca dokumennya dengan penerjemah atau pengacara pilihan sendiri, bukan pilihan pihak lawan.
+**Nama:** Cecil John Rhodes
+**Lahir:** 5 Juli 1853, Bishop's Stortford, Inggris
+**Wafat:** 26 Maret 1902, Muizenberg, Koloni Tanjung
+**Jenis kelamin:** Laki-laki
+**Negara:** Inggris
 
-Bagi pihak yang lebih kuat, kisah Rhodes adalah pengingat bahwa keabsahan hukum hanya bertahan selama orang menerima hukumnya. Konsesinya sah di London, tetapi tidak pernah dianggap adil di Bulawayo. Seratus tahun kemudian, negaranya berganti nama dan patungnya diturunkan.
+> “Saya berpendapat bahwa kita adalah ras terbaik di dunia, dan semakin luas bagian dunia yang kita huni, semakin baik bagi umat manusia.”
+> — "Confession of Faith", 1877
 
 <div style="page-break-after: always;"></div>
 
@@ -402,7 +441,7 @@ Bagi pihak yang lebih kuat, kisah Rhodes adalah pengingat bahwa keabsahan hukum 
 
 *California, 1961. Restoran: membeli nama, lalu mengubur pemiliknya.*
 
-### Kisahnya
+### Kisah
 
 Pada 1954, Ray Kroc berumur sekitar 52 tahun dan belum pernah benar-benar sukses. Ia pernah menjadi pianis, penjual gelas kertas, dan sekarang penjual keliling mesin Multimixer, alat yang bisa membuat lima milkshake sekaligus. Penjualannya sedang turun. Lalu ia melihat pesanan yang aneh: sebuah restoran kecil di San Bernardino, California, memesan delapan mesin. Restoran mana yang butuh empat puluh milkshake sekaligus?
 
@@ -420,7 +459,7 @@ Menurut keluarga McDonald, dalam negosiasi itu ada satu janji lagi: royalti tamb
 
 Ada satu hal lagi yang tidak termasuk dalam penjualan: restoran pertama di San Bernardino. Kedua bersaudara menyerahkannya kepada para karyawan lama mereka. Tetapi nama McDonald's sudah menjadi milik Kroc, sehingga restoran yang melahirkan nama itu harus berganti papan menjadi The Big M. Tak lama kemudian, Kroc membuka sebuah McDonald's tidak jauh dari situ.
 
-### Konsekuensi
+### Harga
 
 Pelanggan datang ke tempat yang bernama McDonald's. Beberapa tahun kemudian, The Big M tutup. Dua orang yang menciptakan sistem itu tidak lagi boleh memakai nama keluarga mereka sendiri untuk berjualan burger.
 
@@ -428,11 +467,19 @@ Sejarah resmi perusahaan pun ikut ditulis ulang. Selama puluhan tahun, McDonald'
 
 Kroc tidak pernah dituntut. Kontraknya sah, perusahaan propertinya sah, dan janji lisan yang tidak tercatat sangat sulit dibuktikan. Kisah ini baru dikenal luas jauh setelah ia meninggal, terutama lewat film *The Founder* (2016), yang membuat banyak penonton keluar bioskop dengan rasa tidak nyaman terhadap restoran favorit mereka.
 
-### Keuntungan
+### Hasil
 
 McDonald's menjadi jaringan restoran cepat saji dengan pendapatan terbesar di dunia, dengan puluhan ribu gerai di lebih dari seratus negara. Kroc meninggal pada 1984 dengan kekayaan sekitar 600 juta dolar, sebagai pemilik tim bisbol San Diego Padres. Istrinya, Joan Kroc, kemudian menyumbangkan sebagian besar warisan itu, termasuk wasiat sekitar 1,5 miliar dolar untuk Bala Keselamatan saat ia sendiri meninggal pada 2003.
 
 Bisnis tanah yang dibangun bersama Sonneborn tetap menjadi tulang punggung perusahaan. Royalti setengah persen yang menurut keluarga McDonald dijanjikan itu, kalau dibayar, akan bernilai ratusan juta dolar setiap tahun.
+
+### Pelajaran
+
+Jabat tangan tidak punya nilai di depan hakim. Kalau ada janji, apalagi janji bernilai ratusan juta, tulis dan tanda tangani. Orang yang menolak menulis janjinya sedang memberi tahu kamu sesuatu.
+
+Pelajaran kedua lebih tajam: kendali atas sebuah bisnis sering tidak ada di produknya, tetapi di asetnya. McDonald bersaudara memegang resep, sistem, dan nama. Kroc memegang tanah tempat semuanya berdiri. Saat terjadi konflik, yang memegang aset hampir selalu menang. Dalam kemitraan apa pun, tanyakan siapa yang memegang aset paling penting, dan di wilayah mana kontrakmu tidak berlaku.
+
+Dan yang paling pahit: nama yang kamu jual bisa dipakai untuk melawanmu. Saat menjual merek, usaha, atau nama keluarga, bayangkan pembelinya membuka toko di sebelah rumahmu besok pagi, lalu tanyakan apakah kamu masih mau menjualnya dengan harga itu.
 
 ### Analisa Dark Triad
 
@@ -444,13 +491,16 @@ Bisnis tanah yang dibangun bersama Sonneborn tetap menjadi tulang punggung perus
 
 **Kesimpulan:** Tiga sifat terlihat, dengan Machiavellianisme paling kuat. Kroc adalah contoh bagaimana ketiganya bisa bekerja sama: strategi untuk mengambil kendali, kebutuhan akan pengakuan untuk menulis ulang sejarah, dan kedinginan untuk menghabisi yang tersisa.
 
-### Hikmah
+### Profil
 
-Jabat tangan tidak punya nilai di depan hakim. Kalau ada janji, apalagi janji bernilai ratusan juta, tulis dan tanda tangani. Orang yang menolak menulis janjinya sedang memberi tahu kamu sesuatu.
+**Nama:** Raymond Albert Kroc
+**Lahir:** 5 Oktober 1902, Oak Park, Illinois
+**Wafat:** 14 Januari 1984, San Diego, California
+**Jenis kelamin:** Laki-laki
+**Negara:** Amerika Serikat
 
-Pelajaran kedua lebih tajam: kendali atas sebuah bisnis sering tidak ada di produknya, tetapi di asetnya. McDonald bersaudara memegang resep, sistem, dan nama. Kroc memegang tanah tempat semuanya berdiri. Saat terjadi konflik, yang memegang aset hampir selalu menang. Dalam kemitraan apa pun, tanyakan siapa yang memegang aset paling penting, dan di wilayah mana kontrakmu tidak berlaku.
-
-Dan yang paling pahit: nama yang kamu jual bisa dipakai untuk melawanmu. Saat menjual merek, usaha, atau nama keluarga, bayangkan pembelinya membuka toko di sebelah rumahmu besok pagi, lalu tanyakan apakah kamu masih mau menjualnya dengan harga itu.
+> “Soal persaingan, yah, kalau mereka sedang tenggelam, saya akan memasukkan selang ke mulut mereka. [...] Pesaing adalah orang yang harus kita pelajari untuk dibenci.”
+> — Wawancara dengan Los Angeles Times, 1974
 
 <div style="page-break-after: always;"></div>
 
@@ -458,41 +508,49 @@ Dan yang paling pahit: nama yang kamu jual bisa dipakai untuk melawanmu. Saat me
 
 *Jakarta, 1969. Bisnis: membangun kerajaan usaha dari izin-izin eksklusif yang diberikan negara.*
 
-### Kisahnya
+### Kisah
 
 Liem Sioe Liong lahir pada 1916 di Fuqing, Provinsi Fujian, Tiongkok, dari keluarga petani. Pada akhir 1930-an, seperti ribuan pemuda Fujian lain, ia merantau ke Jawa dengan bekal yang sangat sedikit. Ia menetap di Kudus, Jawa Tengah, tempat paman dan kakaknya sudah lebih dulu tinggal. Kudus adalah kota kretek, dan Liem mulai berdagang kecil-kecilan, termasuk cengkeh untuk pabrik-pabrik rokok di sana.
 
-Masa revolusi dan tahun-tahun sesudahnya memberinya jalan. Menurut peneliti Takashi Shiraishi, Liem memasok kebutuhan pasukan setempat, termasuk Divisi Diponegoro yang bermarkas di Semarang. Ada pula versi yang menyebut ia memasok senjata untuk pasukan Republik, tetapi Liem membantahnya. Pada 1956–1959, Divisi Diponegoro dipimpin oleh seorang kolonel muda bernama Soeharto. Dari masa inilah, menurut banyak penulis, hubungan keduanya terjalin.
+Masa revolusi dan tahun-tahun sesudahnya memberinya jalan. Menurut Richard Borsuk dan Nancy Chng, penulis biografi Liem, Liem memasok kebutuhan pasukan setempat, termasuk Divisi Diponegoro yang bermarkas di Semarang. Ada pula versi yang menyebut ia memasok senjata untuk pasukan Republik, tetapi Liem membantahnya. Pada 1956–1959, Divisi Diponegoro dipimpin oleh seorang kolonel muda bernama Soeharto. Dari masa inilah, menurut banyak penulis, hubungan keduanya terjalin.
 
 Liem pindah ke Jakarta pada awal 1950-an dan mulai membangun usaha di berbagai bidang, termasuk sebuah bank kecil yang kelak menjadi Bank Central Asia. Tetapi kekayaan besarnya baru datang setelah 1966, ketika Soeharto naik menjadi presiden.
 
 Orde Baru membutuhkan pangan murah dan stabil. Badan Urusan Logistik, Bulog, ditugaskan mengendalikan bahan pokok, termasuk gandum, yang harus diimpor karena tidak tumbuh di Indonesia. Pada 1968, Liem bersama Probosutedjo, adik tiri Soeharto, mendapat hak eksklusif mengimpor cengkeh. Setahun kemudian datang izin yang jauh lebih besar.
 
-Pada Mei 1969, Soeharto menghadiri peletakan batu pertama pabrik tepung terigu PT Bogasari Flour Mills di Tanjung Priok. Pabrik itu diresmikan pada November 1971. Sistemnya sederhana. Bulog menjadi satu-satunya importir gandum dan satu-satunya penjual besar tepung. Bogasari mendapat hak menggiling gandum untuk pasar Jawa dan Sumatra, wilayah yang dihuni sekitar 80 persen penduduk Indonesia, dan menerima ongkos giling untuk setiap ton dari Bulog. Pihak lain dilarang mengimpor gandum. Satu-satunya pesaing, PT Prima di Ujung Pandang, hanya boleh melayani Indonesia timur, terus kesulitan mendapat jatah gandum, dan pada awal 1980-an dijual seluruhnya kepada perusahaan dagang negara yang dikendalikan Bulog.
+PT Bogasari Flour Mills didirikan pada 19 Mei 1969, dan pabrik tepung terigunya di Tanjung Priok mulai beroperasi pada 29 November 1971. Pabrik itu diresmikan pada November 1971. Sistemnya sederhana. Bulog menjadi satu-satunya importir gandum dan satu-satunya penjual besar tepung. Bogasari mendapat hak menggiling gandum untuk pasar Jawa dan Sumatra, wilayah yang dihuni sekitar 80 persen penduduk Indonesia, dan menerima ongkos giling untuk setiap ton dari Bulog. Pihak lain dilarang mengimpor gandum. Satu-satunya pesaing, PT Prima di Ujung Pandang, hanya boleh melayani Indonesia timur, terus kesulitan mendapat jatah gandum, dan pada awal 1980-an beralih ke tangan perusahaan negara Berdikari.
 
-Pada 1995, ketika sistem ini dikritik, Soeharto membela bahwa secara teknis Bogasari bukan monopoli. Ia mengibaratkannya seperti penjahit yang menerima kain dari pelanggan dan dibayar untuk menjahitnya menjadi baju. Secara hukum, gambaran itu benar: semua dijalankan berdasarkan penunjukan resmi pemerintah. Para peneliti mencatat sisi lain. Menurut peneliti Marleen Dieleman, sebagian keuntungan Bogasari, sekitar 26 persen, disalurkan kepada dua yayasan yang terkait dengan keluarga Soeharto. Menurut sejumlah ekonom, ongkos giling yang ditetapkan Bulog jauh lebih tinggi daripada yang akan terbentuk di pasar bebas.
+Pada 1995, ketika sistem ini dikritik, Soeharto membela bahwa secara teknis Bogasari bukan monopoli. Ia mengibaratkannya seperti penjahit yang menerima kain dari pelanggan dan dibayar untuk menjahitnya menjadi baju. Secara hukum, gambaran itu benar: semua dijalankan berdasarkan penunjukan resmi pemerintah. Para peneliti mencatat sisi lain. Menurut anggaran dasar Bogasari tahun 1970, seperti dicatat peneliti Richard Robison, 26 persen keuntungannya disalurkan kepada Yayasan Harapan Kita yang dipimpin Ibu Tien Soeharto dan Yayasan Dharma Putra Kostrad. Menurut sejumlah ekonom, ongkos giling yang ditetapkan Bulog jauh lebih tinggi daripada yang akan terbentuk di pasar bebas.
 
-Dari tepung, kelompok usaha ini menjalar ke mana-mana. Tepung Bogasari menjadi bahan baku mi instan, dan kelompok Salim, yang kemudian dikenal lewat Indofood, menguasai sebagian besar pasar mi instan di Indonesia. Liem masuk ke semen lewat perusahaan yang kelak menjadi Indocement, produsen semen terbesar di negeri ini. Ketika usaha semen itu kesulitan pada 1985, pemerintah ikut menyuntikkan modal dan memegang sekitar 35 persen sahamnya. Bank Central Asia tumbuh menjadi bank swasta terbesar, dan menurut berbagai laporan, dua anak Soeharto pernah memegang sekitar 30 persen sahamnya. Kelompok Salim juga merambah otomotif, properti, kimia, dan perkebunan.
+Dari tepung, kelompok usaha ini menjalar ke mana-mana. Tepung Bogasari menjadi bahan baku mi instan, dan kelompok Salim, yang kemudian dikenal lewat Indofood, menguasai sebagian besar pasar mi instan di Indonesia. Liem masuk ke semen lewat perusahaan yang kelak menjadi Indocement, yang kemudian menjadi produsen semen terbesar di Indonesia pada masanya. Ketika usaha semen itu kesulitan pada 1985, pemerintah ikut menyuntikkan modal dan memegang sekitar 35 persen sahamnya. Bank Central Asia tumbuh menjadi bank swasta terbesar, dan menurut berbagai laporan, dua anak Soeharto pernah memegang sekitar 30 persen sahamnya. Kelompok Salim juga merambah otomotif, properti, kimia, dan perkebunan.
 
 Liem sendiri jarang tampil di depan umum. Ia dikenal dengan nama Indonesianya, Sudono Salim, dan disapa Om Liem. Ia membantah bahwa perluasan usahanya bergantung pada kedekatannya dengan Soeharto. Ia menggambarkan dirinya sebagai pekerja keras yang memanfaatkan peluang yang terbuka.
 
-### Konsekuensi
+### Harga
 
 Selama hampir tiga dekade, sistem ini berjalan mulus. Lalu datang krisis moneter 1997–1998. Rupiah ambruk, dan bank-bank yang dimiliki konglomerat diserbu nasabah. BCA, yang dikenal dekat dengan keluarga presiden, termasuk yang paling parah. Bank Indonesia menyalurkan Bantuan Likuiditas Bank Indonesia, BLBI, untuk menyelamatkannya.
 
-Pada pertengahan Mei 1998, Jakarta dilanda kerusuhan besar yang banyak menyasar warga keturunan Tionghoa. Rumah keluarga Liem di Gunung Sahari, Jakarta Pusat, diserbu dan dibakar massa. Liem dan istrinya saat itu berada di Amerika Serikat untuk berobat, sementara putranya, Anthoni Salim, memilih membiarkan massa masuk daripada terjadi pertumpahan darah. Lebih dari seratus kantor cabang BCA dirusak, dijarah, atau dibakar. Seminggu setelah Soeharto mundur pada 21 Mei 1998, pemerintah mengambil alih BCA lewat Badan Penyehatan Perbankan Nasional, BPPN.
+Pada pertengahan Mei 1998, Jakarta dilanda kerusuhan besar yang banyak menyasar warga keturunan Tionghoa. Pada 14 Mei 1998, rumah keluarga Liem di Jakarta Pusat diserbu dan dijarah massa, dan sebagian bangunannya dibakar. Liem dan istrinya saat itu berada di Amerika Serikat untuk berobat, sementara putranya, Anthoni Salim, memilih membiarkan massa masuk daripada terjadi pertumpahan darah. Lebih dari seratus kantor cabang BCA dirusak, dijarah, atau dibakar. Seminggu setelah Soeharto mundur pada 21 Mei 1998, pemerintah mengambil alih BCA lewat Badan Penyehatan Perbankan Nasional, BPPN.
 
 Untuk melunasi kewajibannya kepada negara, yang menurut laporan mencapai sekitar Rp 52 triliun, kelompok Salim menandatangani perjanjian penyelesaian dengan BPPN, *Master Settlement and Acquisition Agreement*, dan menyerahkan lebih dari seratus perusahaan. Ketika aset-aset itu dijual, negara menurut laporan hanya memperoleh kembali sekitar Rp 19 triliun, sekitar 37 persen. Pada 2004, BPPN menerbitkan surat keterangan lunas untuk kelompok Salim. Pihak Salim berpegang pada surat itu sebagai bukti bahwa seluruh kewajibannya telah dipenuhi. Sejumlah anggota parlemen dan pengamat terus mempersoalkan selisih nilainya, dan perdebatan itu sesekali muncul kembali sampai hari ini. Tidak ada pengadilan yang menyatakan Liem bersalah atas pidana apa pun.
 
 Liem tidak pernah lagi tinggal di Indonesia. Ia menghabiskan sisa hidupnya di Singapura dan meninggal di sana pada 10 Juni 2012, dalam usia 95 tahun.
 
-### Keuntungan
+### Hasil
 
 Pada puncaknya, kelompok Salim adalah konglomerat terbesar di Indonesia dan salah satu yang terbesar di Asia, dengan ratusan perusahaan dan ratusan ribu karyawan. Krisis 1998 merampas sebagian besar asetnya di dalam negeri, termasuk BCA. Tetapi kelompok itu tidak hilang. Indofood tetap di tangan keluarga, usaha-usaha di luar negeri bertahan, dan di bawah Anthoni Salim kelompok ini kembali menjadi salah satu yang terkaya di Indonesia. Pondasinya diletakkan oleh izin-izin yang diberikan pada akhir 1960-an.
 
+### Pelajaran
+
+Monopoli yang diberi negara tetap monopoli, walaupun namanya penunjukan, lisensi, atau kemitraan. Ketika hanya satu pihak yang boleh menggiling, mengimpor, atau menjual, harga tidak lagi ditentukan pasar, dan konsumen membayar selisihnya tanpa pernah tahu.
+
+Kekayaan yang dibangun di atas kedekatan dengan penguasa juga rapuh. Ketika kekuasaan itu runtuh, kemarahan publik tidak membedakan antara pemilik izin, karyawannya, dan warga biasa yang kebetulan berasal dari kelompok yang sama. Kerusuhan Mei 1998 adalah harga yang ikut dibayar oleh orang-orang yang tidak pernah menikmati izin apa pun.
+
+Bagi pengusaha, pelajarannya sederhana: bangun bisnis yang tetap bisa hidup kalau izin istimewanya dicabut. Bagi warga, pelajarannya adalah selalu bertanya siapa yang mendapat izin, dengan syarat apa, dan siapa yang mengawasinya.
+
 ### Analisa Dark Triad
 
-**Machiavellianisme: kuat.** Liem membaca sejak awal bahwa di negara yang ekonominya diatur penguasa, kekayaan terbesar datang dari kedekatan dengan pengambil keputusan, bukan dari persaingan. Ia membangun hubungan itu dengan sabar sejak 1950-an, lalu memakai setiap izin sebagai batu loncatan ke izin berikutnya: dari cengkeh ke tepung, dari tepung ke mi, dari situ ke semen dan bank. Ia juga cermat membagi manfaatnya kepada orang-orang di sekitar kekuasaan.
+**Machiavellianisme: kuat.** Liem membaca sejak awal bahwa di negara yang ekonominya diatur penguasa, kekayaan terbesar datang dari kedekatan dengan pengambil keputusan, bukan dari persaingan. Ia membangun hubungan itu dengan sabar sejak 1950-an, lalu memakai setiap izin sebagai batu loncatan ke izin berikutnya: dari cengkeh ke tepung, dari tepung ke mi, dari situ ke semen dan bank. Ia juga cermat membagi manfaatnya kepada orang-orang di sekitar kekuasaan, seperti terlihat dari pasal 26 persen dalam anggaran dasar Bogasari dan saham BCA yang dipegang anak-anak Soeharto.
 
 **Narsisisme: lemah.** Liem dikenal tertutup, jarang memberi wawancara, dan tidak memamerkan kekayaannya seperti banyak konglomerat lain. Ia lebih suka tampil sebagai pedagang sederhana daripada sebagai raja bisnis.
 
@@ -500,13 +558,13 @@ Pada puncaknya, kelompok Salim adalah konglomerat terbesar di Indonesia dan sala
 
 **Kesimpulan:** Machiavellianisme yang tenang dan sabar. Kisah Liem menunjukkan bahwa dalam ekonomi yang dikendalikan lewat izin, penguasa dan pengusaha tumbuh bersama, dan yang menanggung biayanya adalah konsumen, pesaing, dan pada akhirnya pembayar pajak.
 
-### Hikmah
+### Profil
 
-Monopoli yang diberi negara tetap monopoli, walaupun namanya penunjukan, lisensi, atau kemitraan. Ketika hanya satu pihak yang boleh menggiling, mengimpor, atau menjual, harga tidak lagi ditentukan pasar, dan konsumen membayar selisihnya tanpa pernah tahu.
-
-Kekayaan yang dibangun di atas kedekatan dengan penguasa juga rapuh. Ketika kekuasaan itu runtuh, kemarahan publik tidak membedakan antara pemilik izin, karyawannya, dan warga biasa yang kebetulan berasal dari kelompok yang sama. Kerusuhan Mei 1998 adalah harga yang ikut dibayar oleh orang-orang yang tidak pernah menikmati izin apa pun.
-
-Bagi pengusaha, pelajarannya sederhana: bangun bisnis yang tetap bisa hidup kalau izin istimewanya dicabut. Bagi warga, pelajarannya adalah selalu bertanya siapa yang mendapat izin, dengan syarat apa, dan siapa yang mengawasinya.
+**Nama:** Liem Sioe Liong (Sudono Salim)
+**Lahir:** 16 Juli 1916, Fuqing, Fujian, Tiongkok
+**Wafat:** 10 Juni 2012, Singapura
+**Jenis kelamin:** Laki-laki
+**Negara:** Indonesia (lahir di Tiongkok)
 
 <div style="page-break-after: always;"></div>
 
@@ -518,7 +576,7 @@ Bagi pengusaha, pelajarannya sederhana: bangun bisnis yang tetap bisa hidup kala
 
 *Philadelphia, 1994. Restrukturisasi: memotong sepertiga perusahaan, lalu menjualnya.*
 
-### Kisahnya
+### Kisah
 
 Albert John Dunlap lahir pada 1937 di New Jersey, anak seorang buruh galangan kapal. Ia lulus dari akademi militer West Point dan bertugas di angkatan darat sebelum masuk dunia bisnis. Dari militer, ia membawa satu keyakinan: organisasi yang baik adalah organisasi yang ramping, disiplin, dan tidak punya ruang untuk yang lemah.
 
@@ -534,7 +592,7 @@ Setahun kemudian, Dunlap menulis buku tentang caranya, dengan judul yang menggam
 
 Semua itu sah. Memecat karyawan, memotong anggaran, menghentikan sumbangan, dan menjual perusahaan adalah hak manajemen.
 
-### Konsekuensi
+### Harga
 
 Para pengamat kemudian bertanya apakah Scott Paper benar-benar diperbaiki, atau hanya dikosongkan supaya terlihat cantik dan cepat laku. Tanpa riset dan tenaga yang cukup, banyak keuntungan jangka pendek itu tidak bisa diulang. Tetapi pertanyaan itu menjadi masalah Kimberly-Clark, bukan masalah Dunlap.
 
@@ -544,9 +602,17 @@ Kali ini, memotong biaya saja tidak cukup untuk menghasilkan angka yang ia janji
 
 Pada Juni 1998, sebuah artikel di majalah keuangan Barron's mempertanyakan angka-angka Sunbeam. Kurang dari seminggu kemudian, dewan direksi memecat Dunlap. Laporan keuangan diperbaiki, dan laba yang dulu dibanggakan menguap. Pada 2001, Sunbeam bangkrut. Pada 2002, Dunlap berdamai dengan SEC: membayar denda 500.000 dolar dan dilarang seumur hidup menjadi direktur atau pejabat perusahaan publik, tanpa mengakui atau membantah tuduhan. Ia juga membayar sekitar 15 juta dolar untuk menyelesaikan gugatan para pemegang saham.
 
-### Keuntungan
+### Hasil
 
 Dari Scott Paper saja, Dunlap pribadi meraup sekitar 100 juta dolar, dari gaji, bonus, dan sahamnya. Bagian itu, cara ia menjadi kaya di Scott Paper, tidak pernah dipermasalahkan secara hukum. Bahkan setelah kehancuran Sunbeam dan denda yang ia bayar, ia tetap seorang yang sangat kaya. Ia meninggal pada 2019 di Florida.
+
+### Pelajaran
+
+Memotong biaya adalah cara tercepat membuat angka terlihat bagus, dan juga cara yang paling mudah ditiru dengan curang. Begitu tidak ada lagi yang bisa dipotong, godaan berikutnya adalah memotong kejujuran.
+
+Perhatikan juga perbedaan antara Scott Paper dan Sunbeam. Di yang pertama, Dunlap menjual perusahaan sebelum kelemahannya terlihat, dan ia menjadi pahlawan. Di yang kedua, ia tidak sempat menjual, dan ia menjadi terdakwa. Caranya sama. Yang berbeda hanyalah waktu.
+
+Kalau kamu bekerja di bawah pemimpin yang hanya bisa memotong, tanyakan apa rencananya setelah semuanya habis terpotong. Kalau kamu investor yang bersorak saat ribuan orang dipecat dan harga saham naik, tanyakan apakah yang naik itu nilai perusahaan, atau hanya harapan bahwa seseorang akan segera membelinya.
 
 ### Analisa Dark Triad
 
@@ -558,13 +624,16 @@ Dari Scott Paper saja, Dunlap pribadi meraup sekitar 100 juta dolar, dari gaji, 
 
 **Kesimpulan:** Ketiga sifat terlihat, dengan psikopati dan narsisisme paling menonjol. Dunlap adalah contoh bagaimana kombinasi ini bisa menghasilkan kekayaan cepat, dan bagaimana kombinasi yang sama mendorong seseorang melewati garis hukum ketika keberuntungannya habis.
 
-### Hikmah
+### Profil
 
-Memotong biaya adalah cara tercepat membuat angka terlihat bagus, dan juga cara yang paling mudah ditiru dengan curang. Begitu tidak ada lagi yang bisa dipotong, godaan berikutnya adalah memotong kejujuran.
+**Nama:** Albert John Dunlap
+**Lahir:** 26 Juli 1937, Hoboken, New Jersey
+**Wafat:** 25 Januari 2019, Ocala, Florida
+**Jenis kelamin:** Laki-laki
+**Negara:** Amerika Serikat
 
-Perhatikan juga perbedaan antara Scott Paper dan Sunbeam. Di yang pertama, Dunlap menjual perusahaan sebelum kelemahannya terlihat, dan ia menjadi pahlawan. Di yang kedua, ia tidak sempat menjual, dan ia menjadi terdakwa. Caranya sama. Yang berbeda hanyalah waktu.
-
-Kalau kamu bekerja di bawah pemimpin yang hanya bisa memotong, tanyakan apa rencananya setelah semuanya habis terpotong. Kalau kamu investor yang bersorak saat ribuan orang dipecat dan harga saham naik, tanyakan apakah yang naik itu nilai perusahaan, atau hanya harapan bahwa seseorang akan segera membelinya.
+> “Anda berbisnis bukan untuk disukai. Kita di sini untuk berhasil. Kalau mau teman, peliharalah anjing.”
+> — *Mean Business*, 1996
 
 <div style="page-break-after: always;"></div>
 
@@ -572,7 +641,7 @@ Kalau kamu bekerja di bawah pemimpin yang hanya bisa memotong, tanyakan apa renc
 
 *New York, 2001–2016. Utang negara: membeli surat utang murah, lalu menyita kapal perang.*
 
-### Kisahnya
+### Kisah
 
 Paul Singer lahir pada 1944 di New Jersey, anak seorang apoteker. Ia lulus dari sekolah hukum Harvard dan sempat bekerja sebagai pengacara di sebuah bank investasi. Pada 1977, dengan modal sekitar 1,3 juta dolar dari keluarga dan teman-temannya, ia mendirikan dana investasinya sendiri, Elliott Associates, dinamai dari nama tengahnya.
 
@@ -590,7 +659,7 @@ Sambil menunggu, Elliott memburu aset Argentina di seluruh dunia. Pada Oktober 2
 
 Pada akhir 2011 dan awal 2012, hakim di New York menerima tafsiran Elliott, dan pengadilan banding menguatkannya. Argentina dilarang membayar pemegang surat utang baru kecuali juga membayar Elliott dan pemegang lain yang menolak restrukturisasi. Argentina naik banding sampai ke Mahkamah Agung Amerika, yang pada 2014 menolak mengambil perkara itu. Argentina tidak mau membayar, dan karena tidak boleh membayar yang lain, pada 2014 negara itu kembali gagal bayar.
 
-### Konsekuensi
+### Harga
 
 Pemerintah Argentina menyebut Elliott sebagai "dana burung bangkai" dan memasang iklan besar di koran-koran Amerika untuk menyerangnya. Banyak ekonom dan lembaga internasional khawatir putusan itu akan membuat restrukturisasi utang negara mana pun menjadi hampir mustahil.
 
@@ -598,9 +667,17 @@ Kekhawatiran itu mengubah sistem. Dalam tahun-tahun berikutnya, banyak negara mu
 
 Sementara itu, rakyat Argentina, yang tidak pernah membeli satu pun surat utang itu, menanggung bertahun-tahun ekonomi yang terkunci dari pasar keuangan dunia, dengan bunga pinjaman lebih tinggi dan investasi asing yang menjauh.
 
-### Keuntungan
+### Hasil
 
 Pada 2016, pemerintah Argentina yang baru memilih berdamai supaya bisa kembali meminjam di pasar internasional. Elliott sendiri menerima sekitar 2,3 miliar dolar, dan bersama tiga dana lain yang juga menolak restrukturisasi, sekitar 4,65 miliar dolar, berlipat-lipat dari harga yang dibayar untuk surat utang itu. Elliott tumbuh menjadi salah satu dana investasi aktivis terbesar dan paling ditakuti di dunia, yang membeli saham perusahaan besar lalu menekan manajemennya untuk berubah. Singer menjadi miliarder dan salah satu penyumbang politik terbesar di Amerika.
+
+### Pelajaran
+
+Kontrak adalah senjata bagi siapa pun yang punya kesabaran dan pengacara. Pemegang utang yang paling keras kepala bisa mengalahkan sebuah negara, asalkan ia benar menurut kertasnya. Satu pasal pendek yang dianggap formalitas oleh semua orang bisa bernilai miliaran dolar bagi orang yang membacanya dengan teliti.
+
+Bagi siapa pun yang meminjam, entah negara, perusahaan, atau perorangan, baca baik-baik di bawah hukum mana utangmu ditulis, dan siapa yang bisa membelinya kelak. Utangmu bisa berpindah ke tangan orang yang jauh lebih keras daripada pemberi pinjaman pertamamu. Hal yang sama terjadi pada skala kecil, ketika tagihan kartu kredit atau pinjaman online dijual ke penagih utang.
+
+Dan bagi siapa pun yang memimpin restrukturisasi, pelajarannya adalah selalu ada satu pihak yang menolak. Rencana yang tidak memperhitungkan pihak itu bukan rencana, hanya harapan.
 
 ### Analisa Dark Triad
 
@@ -612,13 +689,16 @@ Pada 2016, pemerintah Argentina yang baru memilih berdamai supaya bisa kembali m
 
 **Kesimpulan:** Machiavellianisme yang hampir murni. Kisah Singer juga menunjukkan bahwa "jahat" tidak selalu soal kepribadian. Sebagian adalah soal posisi: di dalam sistem yang dibangun di atas kontrak, orang yang paling setia pada kontrak bisa menjadi yang paling kejam.
 
-### Hikmah
+### Profil
 
-Kontrak adalah senjata bagi siapa pun yang punya kesabaran dan pengacara. Pemegang utang yang paling keras kepala bisa mengalahkan sebuah negara, asalkan ia benar menurut kertasnya. Satu pasal pendek yang dianggap formalitas oleh semua orang bisa bernilai miliaran dolar bagi orang yang membacanya dengan teliti.
+**Nama:** Paul Elliott Singer
+**Lahir:** 22 Agustus 1944, Teaneck, New Jersey
+**Wafat:** Masih hidup
+**Jenis kelamin:** Laki-laki
+**Negara:** Amerika Serikat
 
-Bagi siapa pun yang meminjam, entah negara, perusahaan, atau perorangan, baca baik-baik di bawah hukum mana utangmu ditulis, dan siapa yang bisa membelinya kelak. Utangmu bisa berpindah ke tangan orang yang jauh lebih keras daripada pemberi pinjaman pertamamu. Hal yang sama terjadi pada skala kecil, ketika tagihan kartu kredit atau pinjaman online dijual ke penagih utang.
-
-Dan bagi siapa pun yang memimpin restrukturisasi, pelajarannya adalah selalu ada satu pihak yang menolak. Rencana yang tidak memperhitungkan pihak itu bukan rencana, hanya harapan.
+> “Pelajaran dari kisah ini jelas: supremasi hukum bukanlah beban bagi sebuah negara. Ia adalah aset.”
+> — Opini di The Wall Street Journal tentang sengketa utang Argentina, 2016
 
 <div style="page-break-after: always;"></div>
 
@@ -626,7 +706,7 @@ Dan bagi siapa pun yang memimpin restrukturisasi, pelajarannya adalah selalu ada
 
 *New York, 2007. Krisis: bertaruh rumah orang akan disita, dan ikut memilih rumahnya.*
 
-### Kisahnya
+### Kisah
 
 John Alfred Paulson lahir pada 1955 di New York, anak seorang imigran dari Ekuador. Ia lulus dari New York University dan sekolah bisnis Harvard, lalu bekerja di sebuah firma konsultan dan beberapa perusahaan investasi, termasuk Bear Stearns. Pada 1994, ia mendirikan dana investasinya sendiri, Paulson & Co., dengan modal yang kecil untuk ukuran Wall Street. Selama sepuluh tahun pertama, ia dikenal sebagai pengelola dana yang tekun tetapi biasa-biasa saja, spesialis taruhan pada merger perusahaan.
 
@@ -644,7 +724,7 @@ Materi pemasaran Abacus menyebut bahwa surat berharga di dalamnya dipilih oleh A
 
 Sejak pertengahan 2006, harga rumah di Amerika mulai turun, dan pada 2007 penurunannya makin tajam. Peminjam *subprime* gagal bayar dalam jumlah yang belum pernah terjadi. Surat berharga perumahan runtuh, dan pada 2008, krisis itu menjalar menjadi krisis keuangan global. Bank-bank besar bangkrut atau diselamatkan pemerintah. Jutaan keluarga Amerika kehilangan rumahnya karena disita.
 
-### Konsekuensi
+### Harga
 
 Dalam beberapa bulan setelah diterbitkan, hampir seluruh surat berharga di dalam Abacus turun peringkatnya. Para pembelinya kehilangan lebih dari satu miliar dolar.
 
@@ -654,9 +734,17 @@ Paulson tidak didakwa. Ia tidak menjual apa pun kepada para investor itu, dan ti
 
 Setelah itu, keberuntungannya tidak terulang. Beberapa taruhan besar Paulson berikutnya gagal, terutama taruhan pada emas dan pada sebuah perusahaan farmasi yang kemudian runtuh. Investor menarik dananya. Pada 2020, Paulson berhenti mengelola uang orang lain dan mengubah perusahaannya menjadi kantor yang hanya mengelola kekayaan pribadinya.
 
-### Keuntungan
+### Hasil
 
 Pada 2007, dana-dana Paulson meraup sekitar 15 miliar dolar dari runtuhnya pasar perumahan. Paulson pribadi mendapat sekitar 3,7 miliar dolar dalam satu tahun, salah satu penghasilan tahunan terbesar dalam sejarah keuangan. Seorang wartawan menulis buku tentangnya dengan judul *The Greatest Trade Ever*, perdagangan terbaik sepanjang masa. Ia kemudian menyumbangkan ratusan juta dolar, antara lain untuk sekolah teknik di Harvard dan untuk Central Park di New York.
+
+### Pelajaran
+
+Melihat sebuah krisis sebelum orang lain bukanlah kejahatan, dan sering kali justru membutuhkan keberanian melawan pendapat semua orang. Yang dipersoalkan dari kisah ini bukan taruhannya, tetapi ikut menyusun barang yang dijual kepada orang lain, sambil diam-diam bertaruh barang itu rusak.
+
+Saat membeli produk investasi apa pun, dari reksa dana sampai asuransi yang dikaitkan dengan investasi, tanyakan tiga hal: siapa yang menyusunnya, siapa yang menjualnya, dan siapa yang untung kalau kamu rugi. Kalau penjualnya tidak bisa menjawab, atau menjawab dengan istilah yang tidak kamu pahami, kamu sudah tahu jawabannya.
+
+Dan ingat bahwa peringkat AAA, label "aman", atau logo lembaga besar bukan jaminan. Pada 2007, produk dengan peringkat tertinggi termasuk yang paling cepat runtuh.
 
 ### Analisa Dark Triad
 
@@ -668,13 +756,16 @@ Pada 2007, dana-dana Paulson meraup sekitar 15 miliar dolar dari runtuhnya pasar
 
 **Kesimpulan:** Kisah Paulson adalah pengingat bahwa tidak semua kerugian yang menimpa orang lain lahir dari kepribadian yang gelap. Sebagian lahir dari sistem yang memisahkan pembuat produk dari penjualnya, dan penjualnya dari pembelinya, sehingga tidak ada yang merasa bertanggung jawab. Dalam sistem seperti itu, Machiavellianisme yang sedang pun sudah cukup untuk menghasilkan miliaran dolar.
 
-### Hikmah
+### Profil
 
-Melihat sebuah krisis sebelum orang lain bukanlah kejahatan, dan sering kali justru membutuhkan keberanian melawan pendapat semua orang. Yang dipersoalkan dari kisah ini bukan taruhannya, tetapi ikut menyusun barang yang dijual kepada orang lain, sambil diam-diam bertaruh barang itu rusak.
+**Nama:** John Alfred Paulson
+**Lahir:** 14 Desember 1955, Queens, New York
+**Wafat:** Masih hidup
+**Jenis kelamin:** Laki-laki
+**Negara:** Amerika Serikat
 
-Saat membeli produk investasi apa pun, dari reksa dana sampai asuransi yang dikaitkan dengan investasi, tanyakan tiga hal: siapa yang menyusunnya, siapa yang menjualnya, dan siapa yang untung kalau kamu rugi. Kalau penjualnya tidak bisa menjawab, atau menjawab dengan istilah yang tidak kamu pahami, kamu sudah tahu jawabannya.
-
-Dan ingat bahwa peringkat AAA, label "aman", atau logo lembaga besar bukan jaminan. Pada 2007, produk dengan peringkat tertinggi termasuk yang paling cepat runtuh.
+> “Ketika selisih bunga kredit melebar dan nilai surat-surat utang ini jatuh, kami meraup keuntungan besar bagi investor kami.”
+> — Kesaksian di DPR Amerika Serikat, 2008
 
 <div style="page-break-after: always;"></div>
 
@@ -682,7 +773,7 @@ Dan ingat bahwa peringkat AAA, label "aman", atau logo lembaga besar bukan jamin
 
 *New York, 2015. Obat: menaikkan harga lebih dari 4.000 persen dalam semalam.*
 
-### Kisahnya
+### Kisah
 
 Martin Shkreli lahir pada 1983 di Brooklyn, New York, anak pasangan imigran dari Albania dan Kroasia yang bekerja sebagai petugas kebersihan. Ia cerdas, cepat bosan, dan tidak sabar dengan sekolah. Pada usia tujuh belas tahun, ia magang di sebuah dana investasi terkenal di Wall Street, dan dengan cepat belajar satu hal: di pasar saham, orang bisa menghasilkan uang dengan bertaruh perusahaan akan gagal.
 
@@ -698,7 +789,7 @@ Pesaing tidak bisa segera masuk. Untuk menjual versi generik di Amerika, perusah
 
 Tidak ada hukum Amerika yang melarang perusahaan obat menentukan harganya sendiri.
 
-### Konsekuensi
+### Harga
 
 Kemarahan publik meledak. Dokter, organisasi pasien HIV, dan para calon presiden mengecam kenaikan harga itu. Shkreli dijuluki "orang paling dibenci di Amerika". Ia tidak mundur. Ia menanggapi kritik dengan ejekan di media sosial, siaran langsung berjam-jam dari kantornya, dan dalam sebuah konferensi kesehatan ia mengatakan bahwa seharusnya ia menaikkan harga lebih tinggi lagi. Saat dipanggil Kongres pada Februari 2016, ia menolak menjawab pertanyaan, tersenyum mengejek di depan kamera, lalu menulis di media sosial bahwa para anggota Kongres itu bodoh.
 
@@ -708,9 +799,17 @@ Pada 2016, sekelompok siswa SMA di Sydney, Australia, dengan bimbingan guru dan 
 
 Pada 2022, dalam gugatan lembaga persaingan usaha Amerika dan beberapa negara bagian, pengadilan memutuskan bahwa cara Turing menghalangi pesaing melanggar hukum antimonopoli. Shkreli dilarang seumur hidup bekerja di industri obat dan diperintahkan membayar 64,6 juta dolar. Ia keluar dari penjara pada tahun yang sama.
 
-### Keuntungan
+### Hasil
 
 Untuk sementara, kenaikan harga itu sangat menguntungkan. Rumah sakit dan perusahaan asuransi tidak punya pilihan selain membayar, sementara pasien yang tidak mampu terpaksa mencari program bantuan atau beralih ke pengobatan lain yang kurang efektif. Turing meraup puluhan juta dolar. Shkreli sempat hidup mewah, terkenal, dan punya ratusan ribu pengikut di media sosial. Tetapi hampir semua yang ia dapatkan akhirnya hilang di pengadilan.
+
+### Pelajaran
+
+Kenaikan harga Daraprim itu sendiri legal. Tetapi cara menahan pesaing tidak. Itulah titik di mana "jahat tapi legal" berubah menjadi "jahat dan ilegal", dan titik itu sering tidak terlihat oleh orang yang sedang menikmati keuntungannya.
+
+Pelajaran yang lebih besar: kalau keuntunganmu datang dari orang yang tidak punya pilihan, seluruh dunia akan memeriksa setiap sudut hidupmu yang lain. Dan sikap sombong bisa membuat mereka memeriksa lebih teliti. Banyak orang melakukan hal yang mirip dengan Shkreli, dan jarang yang dihukum seberat dia, karena mereka tidak menantang semua orang untuk memeriksa.
+
+Bagi kita sebagai konsumen dan warga, kisah ini menunjukkan celah dalam sistem kesehatan mana pun: obat yang murah dibuat tetapi tidak ada yang mau menjualnya, atau hanya satu pihak yang boleh menjualnya. Pertanyaan tentang siapa yang menentukan harga obat, dan atas dasar apa, adalah pertanyaan yang layak diajukan juga di negara kita.
 
 ### Analisa Dark Triad
 
@@ -722,13 +821,16 @@ Untuk sementara, kenaikan harga itu sangat menguntungkan. Rumah sakit dan perusa
 
 **Kesimpulan:** Dari semua tokoh di buku ini, Shkreli menunjukkan ketiga sifat dengan paling terang, dengan narsisisme dan psikopati yang menonjol. Kisahnya juga menunjukkan kelemahan kombinasi ini: Machiavellian yang sabar bisa bertahan di celah hukum selama puluhan tahun, tetapi narsisis yang impulsif akan menarik terlalu banyak perhatian, dan perhatian itulah yang akhirnya menjatuhkannya.
 
-### Hikmah
+### Profil
 
-Kenaikan harga Daraprim itu sendiri legal. Tetapi cara menahan pesaing tidak. Itulah titik di mana "jahat tapi legal" berubah menjadi "jahat dan ilegal", dan titik itu sering tidak terlihat oleh orang yang sedang menikmati keuntungannya.
+**Nama:** Martin Shkreli
+**Lahir:** 17 Maret 1983, Brooklyn, New York
+**Wafat:** Masih hidup
+**Jenis kelamin:** Laki-laki
+**Negara:** Amerika Serikat
 
-Pelajaran yang lebih besar: kalau keuntunganmu datang dari orang yang tidak punya pilihan, seluruh dunia akan memeriksa setiap sudut hidupmu yang lain. Dan sikap sombong bisa membuat mereka memeriksa lebih teliti. Banyak orang melakukan hal yang mirip dengan Shkreli, dan jarang yang dihukum seberat dia, karena mereka tidak menantang semua orang untuk memeriksa.
-
-Bagi kita sebagai konsumen dan warga, kisah ini menunjukkan celah dalam sistem kesehatan mana pun: obat yang murah dibuat tetapi tidak ada yang mau menjualnya, atau hanya satu pihak yang boleh menjualnya. Pertanyaan tentang siapa yang menentukan harga obat, dan atas dasar apa, adalah pertanyaan yang layak diajukan juga di negara kita.
+> “Saya mungkin akan menaikkan harganya lebih tinggi lagi.”
+> — Forbes Healthcare Summit, Desember 2015
 
 <div style="page-break-after: always;"></div>
 
@@ -736,9 +838,9 @@ Bagi kita sebagai konsumen dan warga, kisah ini menunjukkan celah dalam sistem k
 
 *Amerika Serikat, 2007–2016. Media: diam-diam membiayai gugatan orang lain sampai sebuah media tutup.*
 
-### Kisahnya
+### Kisah
 
-Peter Thiel lahir pada 1967 di Jerman dan besar di Amerika Serikat. Ia belajar filsafat dan hukum di Stanford, lalu ikut mendirikan PayPal. Pada 2004, ia menjadi investor luar pertama Facebook dengan sekitar setengah juta dolar, investasi yang kelak bernilai lebih dari satu miliar dolar. Pada pertengahan 2000-an, ia sudah menjadi salah satu pemodal paling berpengaruh di Silicon Valley.
+Peter Thiel lahir pada 1967 di Jerman dan besar di Afrika bagian selatan dan Amerika Serikat. Ia belajar filsafat dan hukum di Stanford, lalu ikut mendirikan PayPal. Pada 2004, ia menjadi investor luar pertama Facebook dengan sekitar setengah juta dolar, investasi yang kelak bernilai lebih dari satu miliar dolar. Pada pertengahan 2000-an, ia sudah menjadi salah satu pemodal paling berpengaruh di Silicon Valley.
 
 Di New York, Nick Denton menjalankan Gawker Media, kelompok situs berita dan gosip yang terkenal tajam, sinis, dan tidak takut pada orang kuat. Salah satu situsnya, Valleywag, khusus menggosipkan para pengusaha teknologi. Pada Desember 2007, Valleywag menerbitkan tulisan berjudul "Peter Thiel is totally gay, people." Thiel saat itu belum pernah membicarakan orientasi seksualnya di depan publik. Penulisnya, Owen Thomas, yang juga seorang gay, kemudian berargumen bahwa Thiel tidak benar-benar menyembunyikannya dari lingkaran pergaulannya, dan bahwa tulisan itu justru merayakan hal tersebut. Thiel memandangnya berbeda. Dalam sebuah wawancara pada 2009, ia dilaporkan menyamakan Valleywag dengan organisasi teroris.
 
@@ -752,21 +854,27 @@ Dua bulan kemudian, majalah Forbes mengungkap bahwa Thiel diam-diam membiayai gu
 
 Semua langkah ini sah. Di Amerika, membiayai gugatan orang lain diperbolehkan, dan pemodal tidak wajib mengungkap namanya.
 
-### Konsekuensi
+### Harga
 
 Pada Juni 2016, Gawker Media mengajukan perlindungan kebangkrutan. Pada Agustus, sebagian besar asetnya dibeli oleh perusahaan media Univision seharga sekitar 135 juta dolar, dan situs Gawker.com ditutup. Denton sendiri mengajukan kebangkrutan pribadi. Pada November 2016, Gawker berdamai dengan Hogan dengan pembayaran sekitar 31 juta dolar, sekaligus menyelesaikan dua gugatan lain yang ditangani pengacara yang sama dengan pembayaran ratusan ribu dolar, sehingga banding atas putusan Florida tidak pernah diputus.
 
 Thiel menjelaskan alasannya secara terbuka. Kepada The New York Times, ia mengatakan bahwa langkahnya "less about revenge and more about specific deterrence", lebih soal mencegah perilaku tertentu daripada balas dendam. Menurutnya, Gawker telah merintis cara mencari perhatian dengan merundung orang tanpa kaitan dengan kepentingan publik, dan ia menyebut dukungannya sebagai salah satu sumbangan amal terbesarnya. Ia juga berargumen bahwa dirinya mampu membela diri, sementara kebanyakan korban Gawker tidak. Pada Agustus 2016, ia menulis opini di The New York Times dengan judul "The Online Privacy Debate Won't End With Gawker", menyatakan bangga telah membantu Hogan dan menegaskan bahwa tidak ada orang yang pantas dipermalukan dengan video seks yang disebarkan tanpa izin.
 
-Para pengkritiknya melihat bahaya yang lebih luas. Banyak wartawan dan pembela kebebasan pers mengakui bahwa Gawker sering melewati batas, tetapi mereka khawatir dengan presedennya: seorang miliarder bisa diam-diam membiayai gugatan demi gugatan terhadap media yang tidak ia sukai, sampai media itu bangkrut, tanpa publik tahu siapa yang berada di belakangnya. Denton menulis bahwa biaya seluruh operasi itu kurang dari satu persen kekayaan Thiel. Perdebatan itu mendorong diskusi tentang aturan keterbukaan pembiayaan perkara di Amerika, yang sampai sekarang belum seragam.
+Para pengkritiknya melihat bahaya yang lebih luas. Banyak wartawan dan pembela kebebasan pers mengakui bahwa Gawker sering melewati batas, tetapi mereka khawatir dengan presedennya: seorang miliarder bisa diam-diam membiayai gugatan demi gugatan terhadap media yang tidak ia sukai, sampai media itu bangkrut, tanpa publik tahu siapa yang berada di belakangnya. Para pengkritik menghitung bahwa sekitar 10 juta dolar itu kurang dari satu persen kekayaan Thiel. Perdebatan itu mendorong diskusi tentang aturan keterbukaan pembiayaan perkara di Amerika, yang sampai sekarang belum seragam.
 
-### Keuntungan
+### Hasil
 
 Thiel tidak mendapat uang dari kasus ini. Ia justru mengeluarkan sekitar 10 juta dolar. Yang ia dapat adalah hasil yang ia inginkan: media yang dulu mempermalukannya tutup, pendirinya bangkrut, dan ia sendiri tidak pernah harus berdiri di ruang sidang. Ia juga memperoleh reputasi baru di Silicon Valley, dipuji sebagian orang sebagai pembela privasi dan ditakuti sebagian lain sebagai orang yang tidak sebaiknya dijadikan musuh.
 
+### Pelajaran
+
+Bagi media dan siapa pun yang menulis di internet, kisah Gawker mengingatkan bahwa kebebasan pers paling kuat dibela ketika pers sendiri menghormati batas privasi. Gawker kalah bukan karena memberitakan orang kuat, tetapi karena menyebarkan video intim yang tidak punya kepentingan publik. Di Indonesia, dengan undang-undang tentang informasi elektronik dan pelindungan data pribadi, risikonya bahkan lebih besar: satu unggahan bisa berujung pidana, bukan hanya gugatan.
+
+Bagi pembaca dan pembuat kebijakan, pertanyaannya terbalik: siapa yang membiayai sebuah gugatan? Ketika orang kaya bisa diam-diam mendanai perkara terhadap pengkritiknya, keterbukaan sumber dana menjadi sama pentingnya dengan isi perkara. Dan bagi siapa pun yang punya kekuasaan untuk mempermalukan orang lain: ingat bahwa sebagian orang tidak melupakan, dan beberapa di antaranya punya waktu, uang, dan kesabaran.
+
 ### Analisa Dark Triad
 
-**Machiavellianisme: kuat.** Kesabaran dan kerahasiaannya adalah inti kisah ini. Hampir sembilan tahun berlalu antara tulisan Valleywag dan putusan juri. Thiel tidak menyerang secara langsung, tetapi mencari penggugat lain, membiayai beberapa perkara sekaligus, dan menyembunyikan perannya sampai hasilnya hampir pasti. Itu strategi jangka panjang yang dingin dan sangat terencana.
+**Machiavellianisme: kuat.** Kesabaran dan kerahasiaannya adalah inti kisah ini. Lebih dari delapan tahun berlalu antara tulisan Valleywag dan putusan juri. Thiel tidak menyerang secara langsung, tetapi mencari penggugat lain, membiayai beberapa perkara sekaligus, dan menyembunyikan perannya sampai hasilnya hampir pasti. Itu strategi jangka panjang yang dingin dan sangat terencana.
 
 **Narsisisme: tidak jelas.** Thiel memang membingkai langkahnya sebagai amal dan perjuangan prinsip, dan sebagian pengkritik membaca ini sebagai cara memoles balas dendam pribadi. Tetapi ia tidak memamerkan kemenangannya, dan selama bertahun-tahun ia memilih untuk tidak dikenal sebagai pemodal di balik gugatan itu. Bukti perilaku narsistik yang jelas tidak cukup.
 
@@ -774,11 +882,16 @@ Thiel tidak mendapat uang dari kasus ini. Ia justru mengeluarkan sekitar 10 juta
 
 **Kesimpulan:** Thiel adalah contoh Machiavellianisme yang sangat disiplin. Ia menemukan bahwa dalam sistem hukum yang mahal, uang tidak hanya bisa membeli pembelaan, tetapi juga serangan, dan ia memakainya dengan sabar sampai tujuannya tercapai.
 
-### Hikmah
+### Profil
 
-Bagi media dan siapa pun yang menulis di internet, kisah Gawker mengingatkan bahwa kebebasan pers paling kuat dibela ketika pers sendiri menghormati batas privasi. Gawker kalah bukan karena memberitakan orang kuat, tetapi karena menyebarkan video intim yang tidak punya kepentingan publik. Di Indonesia, dengan undang-undang tentang informasi elektronik dan pelindungan data pribadi, risikonya bahkan lebih besar: satu unggahan bisa berujung pidana, bukan hanya gugatan.
+**Nama:** Peter Andreas Thiel
+**Lahir:** 11 Oktober 1967, Frankfurt am Main, Jerman Barat
+**Wafat:** Masih hidup
+**Jenis kelamin:** Laki-laki
+**Negara:** Amerika Serikat (lahir di Jerman)
 
-Bagi pembaca dan pembuat kebijakan, pertanyaannya terbalik: siapa yang membiayai sebuah gugatan? Ketika orang kaya bisa diam-diam mendanai perkara terhadap pengkritiknya, keterbukaan sumber dana menjadi sama pentingnya dengan isi perkara. Dan bagi siapa pun yang punya kekuasaan untuk mempermalukan orang lain: ingat bahwa sebagian orang tidak melupakan, dan beberapa di antaranya punya waktu, uang, dan kesabaran.
+> “Ini bukan soal balas dendam, melainkan lebih soal efek jera yang spesifik.”
+> — Wawancara dengan The New York Times, Mei 2016
 
 <div style="page-break-after: always;"></div>
 
@@ -790,7 +903,7 @@ Bagi pembaca dan pembuat kebijakan, pertanyaannya terbalik: siapa yang membiayai
 
 *Boston, 1920. Investasi: kupon perangko dan janji untung 50 persen dalam 45 hari.*
 
-### Kisahnya
+### Kisah
 
 Hampir semua orang pernah mendengar istilah "skema Ponzi". Tidak banyak yang tahu bahwa Ponzi adalah nama orang sungguhan, seorang imigran Italia bertubuh kecil, berpakaian necis, dan pandai bicara, yang selama beberapa bulan pada 1920 membuat kota Boston tergila-gila.
 
@@ -808,11 +921,11 @@ Kecurigaan mulai datang dari koran Boston Post. Pada akhir Juli 1920, koran itu 
 
 Pada awal Agustus, Boston Post memuat tulisan William McMasters, mantan humas Ponzi, yang menyebut Ponzi sebenarnya sudah bangkrut. Investor berbondong-bondong menarik uang. Ponzi membayar sebanyak yang ia bisa, dan konon sempat membagikan kopi dan donat kepada orang yang mengantre, untuk menunjukkan bahwa uangnya ada. Lalu auditor pemerintah menemukan bahwa utangnya sekitar tujuh juta dolar lebih besar dari asetnya. Pada pertengahan Agustus 1920, Ponzi menyerahkan diri kepada aparat federal.
 
-### Konsekuensi
+### Harga
 
 Kerugian investor diperkirakan sekitar 20 juta dolar pada nilai 1920, walaupun sumber lain menyebut angka antara 10 dan 15 juta dolar. Hanover Trust ditutup oleh regulator bank negara bagian, dan menurut laporan lima bank lain ikut runtuh. Para investor rata-rata hanya mendapat kembali kurang dari 30 sen untuk setiap dolar yang mereka setorkan, setelah proses yang berlangsung bertahun-tahun.
 
-Pada November 1920, Ponzi mengaku bersalah atas satu dakwaan penipuan lewat pos di pengadilan federal dan dihukum lima tahun penjara. Ia menjalani sekitar tiga setengah tahun. Ketika keluar, negara bagian Massachusetts menuntutnya lagi atas puluhan dakwaan pencurian. Ponzi berargumen bahwa ia tidak boleh dihukum dua kali untuk perbuatan yang sama, tetapi Mahkamah Agung Amerika pada 1922 memutuskan bahwa tuntutan negara bagian tetap sah. Setelah dua persidangan yang tidak menghasilkan putusan bersalah, persidangan ketiga menghukumnya tujuh sampai sembilan tahun penjara.
+Pada November 1920, Ponzi mengaku bersalah atas satu dakwaan penipuan lewat pos di pengadilan federal dan dihukum lima tahun penjara. Ia menjalani sekitar tiga setengah tahun. Negara bagian Massachusetts juga mendakwanya atas 22 tuduhan pencurian. Ponzi menolak dibawa dari penjara federal untuk diadili negara bagian, tetapi pada 1922 Mahkamah Agung Amerika memutuskan bahwa hal itu sah. Persidangan pertama, pada 1922, membebaskannya. Persidangan kedua, pada 1924, berakhir tanpa putusan. Persidangan ketiga, pada Februari 1925, menghukumnya tujuh sampai sembilan tahun penjara.
 
 Saat bebas dengan jaminan, ia pergi ke Florida dan menjual kavling tanah, sebagian berupa rawa, dengan janji keuntungan berlipat. Ia kembali dihukum, kabur, dan tertangkap di New Orleans, lalu dikirim kembali ke Massachusetts untuk menjalani hukumannya.
 
@@ -820,9 +933,17 @@ Ponzi tidak pernah menjadi warga negara Amerika. Begitu dibebaskan pada 1934, ia
 
 Boston Post dianugerahi Pulitzer pada 1921 atas liputannya yang membongkar skema itu. Nama Ponzi sendiri menjadi istilah resmi dalam dunia hukum dan keuangan untuk penipuan yang membayar investor lama dengan uang investor baru, dipakai sampai sekarang, termasuk dalam kasus Madoff di bab sebelumnya.
 
-### Keuntungan
+### Hasil
 
 Selama sekitar delapan bulan, Ponzi hidup seperti jutawan. Ia punya rumah mewah, mobil, pakaian mahal, saham pengendali di sebuah bank, dan ketenaran. Kerumunan orang menyambutnya di jalan sebagai jenius keuangan. Semua itu dibayar dengan uang para penanam modal kecil, dan semuanya lenyap ketika skemanya runtuh.
+
+### Pelajaran
+
+Hitung dulu, baru percaya. Untung 50 persen dalam 45 hari berarti lebih dari 300 persen setahun. Tidak ada bisnis wajar yang bisa membayar itu secara terus-menerus. Pola yang sama muncul lagi dan lagi di Indonesia, dari investasi bodong berkedok koperasi, arisan berantai, sampai robot trading yang menjanjikan profit harian.
+
+Dibayar di awal bukan bukti. Skema seperti ini justru sengaja membayar investor pertama tepat waktu supaya mereka bercerita kepada orang lain. Testimoni teman yang sudah untung adalah bahan bakar utamanya.
+
+Tanyakan dari mana keuntungannya, dan apakah ceritanya masuk akal dalam skala besar. Ide kupon perangko Ponzi benar di atas kertas, tetapi tidak mungkin dijalankan untuk ribuan orang. Bagi yang tergoda menjadi perekrut atau "leader", ingat juga: nama Ponzi abadi, tetapi ia meninggal miskin di negeri orang.
 
 ### Analisa Dark Triad
 
@@ -834,13 +955,16 @@ Selama sekitar delapan bulan, Ponzi hidup seperti jutawan. Ia punya rumah mewah,
 
 **Kesimpulan:** Narsisisme dan psikopati yang menonjol, dengan Machiavellianisme yang lebih dangkal. Ponzi bukan perencana jangka panjang seperti Madoff. Ia penjudi berbakat yang percaya pada pesonanya sendiri, dan terus berjudi sampai kehabisan meja.
 
-### Hikmah
+### Profil
 
-Hitung dulu, baru percaya. Untung 50 persen dalam 45 hari berarti lebih dari 300 persen setahun. Tidak ada bisnis wajar yang bisa membayar itu secara terus-menerus. Pola yang sama muncul lagi dan lagi di Indonesia, dari investasi bodong berkedok koperasi, arisan berantai, sampai robot trading yang menjanjikan profit harian.
+**Nama:** Charles Ponzi
+**Lahir:** 3 Maret 1882, Lugo, Italia
+**Wafat:** 18 Januari 1949, Rio de Janeiro, Brasil
+**Jenis kelamin:** Laki-laki
+**Negara:** Italia, lalu Amerika Serikat
 
-Dibayar di awal bukan bukti. Skema seperti ini justru sengaja membayar investor pertama tepat waktu supaya mereka bercerita kepada orang lain. Testimoni teman yang sudah untung adalah bahan bakar utamanya.
-
-Tanyakan dari mana keuntungannya, dan apakah ceritanya masuk akal dalam skala besar. Ide kupon perangko Ponzi benar di atas kertas, tetapi tidak mungkin dijalankan untuk ribuan orang. Bagi yang tergoda menjadi perekrut atau "leader", ingat juga: nama Ponzi abadi, tetapi ia meninggal miskin di negeri orang.
+> “Saya mendarat di negeri ini dengan uang tunai 2,50 dolar dan harapan senilai 1 juta dolar, dan harapan itu tidak pernah meninggalkan saya.”
+> — Kepada wartawan The New York Times
 
 <div style="page-break-after: always;"></div>
 
@@ -848,7 +972,7 @@ Tanyakan dari mana keuntungannya, dan apakah ceritanya masuk akal dalam skala be
 
 *Singapura, 1995. Perbankan: satu rekening rahasia meruntuhkan bank berumur 233 tahun.*
 
-### Kisahnya
+### Kisah
 
 Nick Leeson lahir pada 1967 di Watford, pinggiran London, anak seorang tukang plester. Ia tidak kuliah. Setelah lulus sekolah, ia bekerja sebagai juru tulis di bank, mengurus dokumen dan penyelesaian transaksi yang membosankan di bagian belakang kantor. Pada 1989, ia pindah ke Barings.
 
@@ -866,7 +990,7 @@ Pada 17 Januari 1995, gempa bumi besar mengguncang Kobe, Jepang. Ribuan orang te
 
 Pada 23 Februari 1995, Leeson dan istrinya meninggalkan Singapura. Di mejanya ia meninggalkan sebuah catatan berisi permintaan maaf. Ketika Barings akhirnya menghitung isi rekening 88888, kerugiannya mencapai sekitar 827 juta poundsterling, sekitar 1,3 miliar dolar, lebih besar daripada seluruh modal bank itu.
 
-### Konsekuensi
+### Harga
 
 Barings bangkrut dalam beberapa hari. Bank berumur 233 tahun itu dijual kepada bank Belanda ING seharga satu poundsterling, dengan ING menanggung utang-utangnya. Sebagian besar karyawan dipertahankan ING, tetapi para pemegang saham dan pemegang obligasi Barings kehilangan uangnya, dan sejumlah manajer yang membawahi Leeson diberhentikan.
 
@@ -874,9 +998,17 @@ Leeson ditangkap di Bandara Frankfurt, Jerman, pada 2 Maret 1995, lalu diekstrad
 
 Penyelidikan resmi di Inggris menyimpulkan bahwa kegagalan Barings bukan hanya kesalahan Leeson, tetapi juga kegagalan manajemen yang membiarkan satu orang memegang perdagangan dan pengawasannya sekaligus, dan tidak pernah bertanya dari mana keuntungan sebesar itu datang. Beberapa petinggi Barings kemudian dilarang menjabat di dunia keuangan.
 
-### Keuntungan
+### Hasil
 
 Selama dua tahun, Leeson hidup seperti bintang: gaji besar, bonus besar, apartemen mewah di Singapura, dan reputasi sebagai pedagang terbaik di Barings. Saat masih ditahan di Jerman, ia menulis buku *Rogue Trader*, yang terbit pada 1996 dan difilmkan pada 1999. Setelah bebas, ia menjadi pembicara tentang manajemen risiko, dibayar untuk menceritakan kesalahan yang meruntuhkan banknya.
+
+### Pelajaran
+
+Jangan pernah membiarkan satu orang memegang uang sekaligus mencatat dan memeriksanya sendiri. Prinsip pemisahan tugas ini terdengar membosankan, tetapi kisah Barings menunjukkan bahwa satu pelanggaran kecil terhadapnya bisa meruntuhkan institusi berumur dua abad.
+
+Bagi atasan: keuntungan yang terlalu besar dan terlalu konsisten patut dicurigai sama seriusnya dengan kerugian. Atasan Leeson di London tidak bertanya karena mereka senang dengan angkanya, dan bonus mereka sendiri bergantung pada angka itu.
+
+Dan bagi siapa pun yang pernah tergoda menyembunyikan satu kesalahan kecil di tempat kerja: kesalahan kecil yang diakui hari ini hampir selalu lebih murah daripada kesalahan yang disembunyikan sampai besok. Leeson memulai semua ini untuk menyembunyikan kerugian 20.000 poundsterling.
 
 ### Analisa Dark Triad
 
@@ -886,15 +1018,18 @@ Selama dua tahun, Leeson hidup seperti bintang: gaji besar, bonus besar, apartem
 
 **Machiavellianisme: lemah sampai sedang.** Ia memang menipu atasannya dengan sistematis, tetapi tidak ada strategi jangka panjang. Yang ada hanyalah upaya menutup lubang hari demi hari, berharap pasar akan menyelamatkannya.
 
-**Kesimpulan:** Leeson lebih mirip penjudi yang terjebak daripada penipu yang merencanakan. Kisahnya sangat mirip dengan kisah eFishery di akhir buku ini: satu kesalahan kecil yang disembunyikan, lalu kebohongan yang harus terus dibesarkan untuk menutupi yang sebelumnya. Bedanya, Leeson tidak berbohong untuk menarik investor. Ia berbohong supaya tidak terlihat gagal.
+**Kesimpulan:** Leeson lebih mirip penjudi yang terjebak daripada penipu yang merencanakan. Kisahnya sangat mirip dengan kisah Gibran Huzaifah dan eFishery di akhir buku ini: satu kesalahan kecil yang disembunyikan, lalu kebohongan yang harus terus dibesarkan untuk menutupi yang sebelumnya. Bedanya, Leeson tidak berbohong untuk menarik investor. Ia berbohong supaya tidak terlihat gagal.
 
-### Hikmah
+### Profil
 
-Jangan pernah membiarkan satu orang memegang uang sekaligus mencatat dan memeriksanya sendiri. Prinsip pemisahan tugas ini terdengar membosankan, tetapi kisah Barings menunjukkan bahwa satu pelanggaran kecil terhadapnya bisa meruntuhkan institusi berumur dua abad.
+**Nama:** Nicholas William Leeson
+**Lahir:** 25 Februari 1967, Watford, Inggris
+**Wafat:** Masih hidup
+**Jenis kelamin:** Laki-laki
+**Negara:** Inggris
 
-Bagi atasan: keuntungan yang terlalu besar dan terlalu konsisten patut dicurigai sama seriusnya dengan kerugian. Atasan Leeson di London tidak bertanya karena mereka senang dengan angkanya, dan bonus mereka sendiri bergantung pada angka itu.
-
-Dan bagi siapa pun yang pernah tergoda menyembunyikan satu kesalahan kecil di tempat kerja: kesalahan kecil yang diakui hari ini hampir selalu lebih murah daripada kesalahan yang disembunyikan sampai besok. Leeson memulai semua ini untuk menyembunyikan kerugian 20.000 poundsterling.
+> “Kita tahu kita sedang melewati batas, tetapi karena sudah begitu sering melihatnya terjadi, hal itu jadi mudah, nyaris bisa diterima.”
+> — Wawancara dengan The Telegraph, 2023
 
 <div style="page-break-after: always;"></div>
 
@@ -902,7 +1037,7 @@ Dan bagi siapa pun yang pernah tergoda menyembunyikan satu kesalahan kecil di te
 
 *New York, 2008. Investasi: imbal hasil yang terlalu mulus selama puluhan tahun.*
 
-### Kisahnya
+### Kisah
 
 Bernard Lawrence Madoff lahir pada 1938 di New York, dari keluarga kelas pekerja. Pada 1960, dengan modal sekitar 5.000 dolar dari tabungannya bekerja sebagai penjaga pantai dan pemasang alat penyiram taman, ia mendirikan perusahaan pialang sahamnya sendiri.
 
@@ -918,7 +1053,7 @@ Ada yang curiga. Seorang analis keuangan bernama Harry Markopolos mencoba meniru
 
 Skema Ponzi hanya bisa bertahan selama uang baru terus masuk lebih banyak daripada uang yang keluar. Pada 2008, krisis keuangan global membuat banyak investor menarik dananya sekaligus. Madoff tidak punya uang untuk membayar. Pada 10 Desember 2008, ia mengaku kepada kedua putranya bahwa bisnis investasinya adalah "satu kebohongan besar". Malam itu juga, lewat pengacara, kedua putranya melaporkannya ke pihak berwenang. Keesokan paginya, 11 Desember 2008, Madoff ditangkap.
 
-### Konsekuensi
+### Harga
 
 Laporan rekening para nasabah menunjukkan saldo total sekitar 65 miliar dolar, sebagian besar keuntungan khayalan. Uang pokok yang benar-benar disetor dan hilang diperkirakan sekitar 17 sampai 20 miliar dolar. Korbannya ribuan orang dan lembaga di seluruh dunia: pensiunan, yayasan amal, universitas, bank, dan selebritas. Beberapa yayasan amal harus tutup.
 
@@ -928,9 +1063,17 @@ Tragedi juga menimpa keluarganya. Putra sulungnya, Mark, meninggal bunuh diri pa
 
 Seorang kurator kebangkrutan, Irving Picard, menghabiskan lebih dari satu dekade melacak uang yang hilang, termasuk menggugat investor yang sempat menarik "keuntungan" palsu dari Madoff. Sampai akhir 2025, ia berhasil memulihkan lebih dari 15 miliar dolar untuk para korban, jauh lebih banyak dari yang semula diperkirakan, di luar sekitar 4,3 miliar dolar dari dana korban milik Departemen Kehakiman Amerika.
 
-### Keuntungan
+### Hasil
 
 Selama puluhan tahun, Madoff hidup sebagai salah satu orang paling terhormat di Wall Street. Ia punya penthouse di Manhattan, rumah di Long Island, Palm Beach, dan Riviera Prancis, serta kapal pesiar. Ia membiayai gaya hidup keluarganya dan bisnis pialangnya sebagian dengan uang para korban.
+
+### Pelajaran
+
+Imbal hasil yang terlalu mulus sama mencurigakannya dengan imbal hasil yang terlalu tinggi. Pasar yang sungguhan naik turun. Investasi yang tidak pernah rugi, dalam keadaan apa pun, hampir pasti bukan investasi.
+
+Kepercayaan pada orang yang kita kenal, satu komunitas, satu agama, satu kampung, atau satu grup WhatsApp, justru membuat kita berhenti memeriksa. Penipuan yang memanfaatkan kedekatan seperti ini sering disebut *affinity fraud*, dan bentuknya sangat akrab di Indonesia, dari arisan bodong sampai investasi berkedok komunitas.
+
+Dan kalau seseorang menolak menjelaskan cara ia menghasilkan uangmu, dengan alasan rahasia, rumit, atau "kamu tidak akan mengerti", itu bukan tanda kecerdasan. Itu alasan untuk menarik uangmu.
 
 ### Analisa Dark Triad
 
@@ -942,13 +1085,16 @@ Selama puluhan tahun, Madoff hidup sebagai salah satu orang paling terhormat di 
 
 **Kesimpulan:** Kombinasi psikopati dan Machiavellianisme yang sangat kuat. Madoff adalah contoh paling ekstrem di buku ini dari orang yang bisa berbohong kepada orang-orang terdekatnya selama puluhan tahun tanpa terlihat goyah.
 
-### Hikmah
+### Profil
 
-Imbal hasil yang terlalu mulus sama mencurigakannya dengan imbal hasil yang terlalu tinggi. Pasar yang sungguhan naik turun. Investasi yang tidak pernah rugi, dalam keadaan apa pun, hampir pasti bukan investasi.
+**Nama:** Bernard Lawrence Madoff
+**Lahir:** 29 April 1938, Queens, New York
+**Wafat:** 14 April 2021, Butner, North Carolina
+**Jenis kelamin:** Laki-laki
+**Negara:** Amerika Serikat
 
-Kepercayaan pada orang yang kita kenal, satu komunitas, satu agama, satu kampung, atau satu grup WhatsApp, justru membuat kita berhenti memeriksa. Penipuan yang memanfaatkan kedekatan seperti ini sering disebut *affinity fraud*, dan bentuknya sangat akrab di Indonesia, dari arisan bodong sampai investasi berkedok komunitas.
-
-Dan kalau seseorang menolak menjelaskan cara ia menghasilkan uangmu, dengan alasan rahasia, rumit, atau "kamu tidak akan mengerti", itu bukan tanda kecerdasan. Itu alasan untuk menarik uangmu.
+> “Ketika saya memulai skema Ponzi itu, saya yakin semuanya akan segera berakhir dan saya akan bisa melepaskan diri saya dan klien-klien saya dari skema tersebut.”
+> — Pengakuan bersalah di pengadilan, Maret 2009
 
 <div style="page-break-after: always;"></div>
 
@@ -956,7 +1102,7 @@ Dan kalau seseorang menolak menjelaskan cara ia menghasilkan uangmu, dengan alas
 
 *Silicon Valley, 2015. Kesehatan: tes darah dari setetes darah yang tidak pernah berhasil.*
 
-### Kisahnya
+### Kisah
 
 Elizabeth Holmes lahir pada 1984 di Washington, D.C. Sejak kecil ia bercita-cita menjadi miliarder. Ia diterima di Universitas Stanford untuk belajar teknik kimia, tetapi pada usia 19 tahun ia berhenti kuliah untuk mendirikan perusahaan dengan ide besar: tes darah tanpa jarum suntik besar.
 
@@ -970,15 +1116,23 @@ Kenyataannya, alat Theranos tidak bekerja seperti yang dijanjikan. Alat itu hany
 
 Beberapa mantan karyawan akhirnya berbicara, termasuk dua karyawan muda. Salah satunya, Tyler Shultz, adalah cucu George Shultz, anggota dewan Theranos sendiri. Mereka melapor kepada regulator dan kepada wartawan Wall Street Journal, John Carreyrou. Pada Oktober 2015, Carreyrou menerbitkan laporan pertama yang mengungkap bahwa Theranos tidak memakai teknologinya sendiri untuk sebagian besar tes. Theranos membantah keras dan mengancam akan menggugat.
 
-### Konsekuensi
+### Harga
 
 Regulator kesehatan Amerika memeriksa laboratorium Theranos dan menemukan masalah serius. Theranos membatalkan dua tahun hasil tes dari alatnya, puluhan ribu hasil tes yang sudah diterima pasien. Walgreens memutus kemitraan. Pada 2018, SEC menggugat Holmes atas penipuan investor, dan ia berdamai dengan membayar denda dan dilarang menjadi direktur perusahaan publik selama sepuluh tahun. Theranos dibubarkan pada tahun yang sama. Investor kehilangan ratusan juta dolar.
 
 Pada Januari 2022, juri di California menyatakan Holmes bersalah atas empat dakwaan menipu investor. Ia dibebaskan dari dakwaan menipu pasien. Pada November 2022, ia dihukum sekitar 11 tahun penjara. Pada Mei 2023, ia dan mantan kekasih sekaligus presiden Theranos, Ramesh "Sunny" Balwani, diwajibkan membayar ganti rugi sekitar 452 juta dolar kepada para investor. Balwani sendiri dinyatakan bersalah atas seluruh dua belas dakwaan dan dihukum hampir 13 tahun. Holmes mulai menjalani hukumannya pada Mei 2023 di penjara federal di Texas. Pada Maret 2026, hakim memangkas hukumannya menjadi sekitar sepuluh tahun, dan menurut laporan ia dijadwalkan bebas sekitar 2030. Permohonan grasinya kepada Presiden Trump belum dikabulkan.
 
-### Keuntungan
+### Hasil
 
 Selama beberapa tahun, Holmes menjadi bintang. Ia tampil di sampul majalah bisnis, berbicara di panggung bersama presiden dan tokoh dunia, dan dianggap sebagai Steve Jobs berikutnya. Di atas kertas, kekayaannya pernah mencapai sekitar 4,5 miliar dolar. Kekayaan itu hilang hampir seluruhnya ketika saham Theranos menjadi tidak bernilai.
+
+### Pelajaran
+
+Karisma bukan bukti. Turtleneck hitam, suara yang dalam, dan dewan berisi mantan menteri tidak menjawab satu pertanyaan sederhana: apakah alatnya bekerja? Banyak investor Theranos tidak pernah meminta bukti ilmiah yang independen.
+
+Perhatikan susunan dewan dan penasihat sebuah perusahaan. Nama besar yang tidak memahami bisnisnya bukan pengawas. Mereka hanya hiasan.
+
+Dan kisah ini menunjukkan sekali lagi kekuatan satu orang yang berani bicara. Theranos runtuh terutama karena segelintir mantan karyawan, termasuk dua karyawan muda, dan satu wartawan yang tidak mau diam walaupun diancam dengan gugatan. Baru setelah itu regulator bertindak.
 
 ### Analisa Dark Triad
 
@@ -990,23 +1144,26 @@ Selama beberapa tahun, Holmes menjadi bintang. Ia tampil di sampul majalah bisni
 
 **Kesimpulan:** Narsisisme dan Machiavellianisme yang kuat, dalam budaya Silicon Valley yang memuja pendiri karismatik dan sering memaafkan janji yang belum terbukti dengan semboyan *fake it till you make it*, pura-pura dulu sampai berhasil. Bedanya, di bidang kesehatan, pura-pura bisa membahayakan nyawa orang.
 
-### Hikmah
+### Profil
 
-Karisma bukan bukti. Turtleneck hitam, suara yang dalam, dan dewan berisi mantan menteri tidak menjawab satu pertanyaan sederhana: apakah alatnya bekerja? Banyak investor Theranos tidak pernah meminta bukti ilmiah yang independen.
+**Nama:** Elizabeth Anne Holmes
+**Lahir:** 3 Februari 1984, Washington, D.C.
+**Wafat:** Masih hidup
+**Jenis kelamin:** Perempuan
+**Negara:** Amerika Serikat
 
-Perhatikan susunan dewan dan penasihat sebuah perusahaan. Nama besar yang tidak memahami bisnisnya bukan pengawas. Mereka hanya hiasan.
-
-Dan kisah ini menunjukkan sekali lagi kekuatan satu orang yang berani bicara. Theranos runtuh terutama karena segelintir mantan karyawan, termasuk dua karyawan muda, dan satu wartawan yang tidak mau diam walaupun diancam dengan gugatan. Baru setelah itu regulator bertindak.
+> “Saya hancur oleh kegagalan-kegagalan saya. [...] Saya merasakan kepedihan yang dalam atas apa yang dialami orang-orang, karena saya telah mengecewakan mereka.”
+> — Sidang vonis, November 2022
 
 <div style="page-break-after: always;"></div>
 
-## 17. eFishery
+## 17. Gibran Huzaifah
 
-*Bandung, 2018–2024. Startup: ketika "jahat tapi legal" tidak lagi cukup.*
+*Bandung, 2018–2024. Startup eFishery: ketika "jahat tapi legal" tidak lagi cukup.*
 
 Kisah terakhir buku ini datang dari dekat rumah. Seperti Ponzi, Leeson, Madoff, dan Holmes di bagian ini, tokohnya melewati garis hukum jauh, selama bertahun-tahun. Yang membuatnya penting bagi kita adalah alasan yang membuatnya merasa harus melakukannya.
 
-### Kisahnya
+### Kisah
 
 Gibran Huzaifah kuliah biologi di Institut Teknologi Bandung. Untuk membiayai hidupnya sebagai mahasiswa, ia beternak lele. Dari kolam-kolam itu ia belajar masalah terbesar pembudidaya ikan: pakan. Pakan adalah biaya terbesar, bisa lebih dari separuh ongkos produksi. Pembudidaya memberi pakan dengan tangan, sering terlalu banyak atau pada waktu yang salah. Sisa pakan membusuk di dasar kolam, mencemari air, dan membuang uang.
 
@@ -1024,7 +1181,7 @@ Pada akhir 2024, seorang mantan pegawai senior yang punya akses ke sistem keuang
 
 Dalam wawancara dengan Bloomberg setelah kasus terbongkar, Gibran mengakui telah memanipulasi angka selama bertahun-tahun. Menurut pengakuannya, ia merasa perusahaannya tidak akan mendapat dana, dan tidak akan bertahan, tanpa angka yang lebih bagus. Dalam berbagai kesempatan, ia juga menyatakan tidak mengambil uang perusahaan untuk dirinya sendiri.
 
-### Konsekuensi
+### Harga
 
 Pada Desember 2024, dewan perusahaan menonaktifkan Gibran dan salah satu pendiri lainnya, lalu keduanya lengser dari jabatannya. Manajemen sementara menemukan perusahaan dalam keadaan yang jauh lebih buruk dari yang dibayangkan. Kerugian investor diperkirakan sekitar 300 juta dolar. Perusahaan menyusut drastis, sebagian besar karyawan kehilangan pekerjaan, dan pembudidaya yang bergantung pada alat, pakan, dan pembiayaannya ikut terdampak.
 
@@ -1034,9 +1191,19 @@ Pada Juli 2025, Gibran dan dua mantan petinggi eFishery ditahan polisi. Pada Apr
 
 Pada Juli 2026, di tingkat banding, Pengadilan Tinggi Bandung menguatkan putusan bersalah itu, tetapi memangkas hukuman Gibran menjadi enam tahun penjara, menaikkan dendanya menjadi dua miliar rupiah, dan memerintahkan asetnya, termasuk rumahnya di Bandung, dirampas untuk mengganti kerugian para korban.
 
-### Keuntungan
+### Hasil
 
 Selama sekitar enam tahun, kebohongan itu bekerja. eFishery mendapat ratusan juta dolar dari investor, membangun kantor, merekrut ribuan karyawan, mendapat liputan media dan penghargaan, dan meraih gelar unicorn. Gibran menjadi wajah startup Indonesia di panggung dunia. Semua itu dibangun di atas angka yang tidak pernah ada, dan hilang dalam beberapa bulan.
+
+### Pelajaran
+
+Kenapa orang secerdas itu memilih jalan jahat? Menurut pengakuannya sendiri, bukan karena ia ingin menjadi penjahat. Ia merasa terdesak: investor menuntut pertumbuhan, pesaing terlihat tumbuh lebih cepat, dan satu angka yang dibulatkan ke atas terasa seperti hal kecil yang akan diperbaiki nanti, setelah bisnisnya benar-benar besar. Nanti itu tidak pernah datang.
+
+Tokoh-tokoh di bagian awal buku ini menang karena mereka berhenti tepat di garis hukum. eFishery mengajarkan apa yang terjadi kalau seseorang mengira garis itu bisa digeser sedikit demi sedikit. Setiap kebohongan berikutnya harus lebih besar untuk menutupi yang sebelumnya, sampai tidak bisa ditutupi lagi.
+
+Jadi, apakah kita harus jahat supaya bisa bertahan? Kisah ini menjawab sebaliknya. Kalau angka yang jujur tidak cukup untuk meyakinkan investor, yang harus diubah adalah bisnisnya, rencananya, atau investornya, bukan angkanya. Perusahaan yang tumbuh lebih lambat dengan angka yang benar masih bisa diperbaiki. Perusahaan yang tumbuh cepat dengan angka palsu hanya menunggu waktu.
+
+Bagi investor, karyawan, dan siapa pun yang bekerja di startup, pelajarannya juga jelas: pertumbuhan yang terlalu indah untuk dipercaya patut diperiksa, terutama ketika hanya sedikit orang yang boleh melihat angka aslinya. Dan bagi karyawan yang melihat ada yang salah, kisah ini juga menunjukkan bahwa satu orang pelapor bisa menghentikan kebohongan yang bertahan selama bertahun-tahun.
 
 ### Analisa Dark Triad
 
@@ -1050,15 +1217,16 @@ Menilai orang yang masih hidup, dan sedang menjalani proses hukum, harus dilakuk
 
 **Kesimpulan:** Kisah eFishery mungkin lebih tepat dijelaskan dengan konsep lain dari dunia audit, yaitu *segitiga kecurangan*, yang berangkat dari teori kriminolog Donald Cressey pada 1950-an. Menurutnya, kecurangan terjadi ketika tiga hal bertemu: tekanan (investor menuntut pertumbuhan), kesempatan (pengawasan yang lemah dan kepercayaan yang terlalu besar), dan rasionalisasi ("kalau tidak begini, perusahaan akan mati, dan semua karyawan kehilangan pekerjaan"). Orang tidak perlu memiliki Dark Triad yang kuat untuk melakukan kecurangan besar. Ia hanya perlu merasa tidak punya pilihan, lalu menemukan alasan yang terdengar mulia.
 
-### Hikmah
+### Profil
 
-Kenapa orang secerdas itu memilih jalan jahat? Menurut pengakuannya sendiri, bukan karena ia ingin menjadi penjahat. Ia merasa terdesak: investor menuntut pertumbuhan, pesaing terlihat tumbuh lebih cepat, dan satu angka yang dibulatkan ke atas terasa seperti hal kecil yang akan diperbaiki nanti, setelah bisnisnya benar-benar besar. Nanti itu tidak pernah datang.
+**Nama:** Gibran Huzaifah Amsi El Farizy
+**Lahir:** Sekitar 1989, Jakarta
+**Wafat:** Masih hidup
+**Jenis kelamin:** Laki-laki
+**Negara:** Indonesia
 
-Tokoh-tokoh di bagian awal buku ini menang karena mereka berhenti tepat di garis hukum. eFishery mengajarkan apa yang terjadi kalau seseorang mengira garis itu bisa digeser sedikit demi sedikit. Setiap kebohongan berikutnya harus lebih besar untuk menutupi yang sebelumnya, sampai tidak bisa ditutupi lagi.
-
-Jadi, apakah kita harus jahat supaya bisa bertahan? Kisah ini menjawab sebaliknya. Kalau angka yang jujur tidak cukup untuk meyakinkan investor, yang harus diubah adalah bisnisnya, rencananya, atau investornya, bukan angkanya. Perusahaan yang tumbuh lebih lambat dengan angka yang benar masih bisa diperbaiki. Perusahaan yang tumbuh cepat dengan angka palsu hanya menunggu waktu.
-
-Bagi investor, karyawan, dan siapa pun yang bekerja di startup, pelajarannya juga jelas: pertumbuhan yang terlalu indah untuk dipercaya patut diperiksa, terutama ketika hanya sedikit orang yang boleh melihat angka aslinya. Dan bagi karyawan yang melihat ada yang salah, kisah ini juga menunjukkan bahwa satu orang pelapor bisa menghentikan kebohongan yang bertahan selama bertahun-tahun.
+> “Saya pikir saya hanya melakukannya untuk bertahan hidup.”
+> — Wawancara dengan Bloomberg, April 2025
 
 <div style="page-break-after: always;"></div>
 
@@ -1068,11 +1236,11 @@ Tujuh belas kisah, tujuh belas cara menjadi kaya, berkuasa, atau sekadar menang.
 
 Hukum selalu tertinggal satu langkah. Ia ditulis setelah ada korban, dan dibuat untuk menutup celah yang sudah dipakai. Rockefeller melahirkan undang-undang antimonopoli. Ponzi memberi nama pada jenis penipuan yang masih memakan korban sampai hari ini. Setiap kali, orang yang memakai celah itu sudah kaya sebelum celahnya ditutup. Dan di Nusantara, dari Banda sampai Batavia, "hukum" sering kali hanyalah izin yang ditulis oleh pihak yang memegang senjata.
 
-Analisa Dark Triad di buku ini juga menunjukkan sebuah pola. Sifat yang paling sering muncul adalah Machiavellianisme: kesabaran, kerahasiaan, dan kemampuan membaca aturan lebih teliti daripada orang lain. Sifat inilah yang paling cocok untuk menjadi "jahat tapi legal", karena orang Machiavellian tahu persis di mana garisnya dan berhenti tepat sebelum itu. Sebaliknya, mereka yang menunjukkan psikopati dan narsisisme yang kuat, seperti Al Dunlap dan Martin Shkreli, cenderung tidak bisa berhenti, dan akhirnya melewati garis itu. Dan kisah Nick Leeson serta eFishery mengingatkan bahwa orang tanpa sifat gelap yang menonjol pun bisa sampai ke tempat yang sama, kalau tekanan, kesempatan, dan alasannya cukup kuat.
+Analisa Dark Triad di buku ini juga menunjukkan sebuah pola. Sifat yang paling sering muncul adalah Machiavellianisme: kesabaran, kerahasiaan, dan kemampuan membaca aturan lebih teliti daripada orang lain. Sifat inilah yang paling cocok untuk menjadi "jahat tapi legal", karena orang Machiavellian tahu persis di mana garisnya dan berhenti tepat sebelum itu. Sebaliknya, mereka yang menunjukkan psikopati dan narsisisme yang kuat, seperti Al Dunlap dan Martin Shkreli, cenderung tidak bisa berhenti, dan akhirnya melewati garis itu. Dan kisah Nick Leeson serta Gibran Huzaifah di eFishery mengingatkan bahwa orang tanpa sifat gelap yang menonjol pun bisa sampai ke tempat yang sama, kalau tekanan, kesempatan, dan alasannya cukup kuat.
 
 Karena itu, "legal" bukan ukuran yang cukup. Pertanyaan yang lebih jujur adalah apakah kita masih nyaman kalau cara kita menang diketahui semua orang, terutama oleh orang yang kita kalahkan.
 
-Dan untuk kita yang lebih sering berada di sisi lain meja, hikmahnya praktis: tulis setiap janji, baca setiap kontrak, tanyakan siapa yang untung kalau kita rugi, dan jangan pernah merasa aman hanya karena lawan kita "tidak melanggar apa-apa".
+Dan untuk kita yang lebih sering berada di sisi lain meja, pelajarannya praktis: tulis setiap janji, baca setiap kontrak, tanyakan siapa yang untung kalau kita rugi, dan jangan pernah merasa aman hanya karena lawan kita "tidak melanggar apa-apa".
 
 <div style="page-break-after: always;"></div>
 

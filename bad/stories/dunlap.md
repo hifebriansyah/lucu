@@ -2,7 +2,7 @@
 
 *Philadelphia, 1994. Restrukturisasi: memotong sepertiga perusahaan, lalu menjualnya.*
 
-### Kisahnya
+### Kisah
 
 Albert John Dunlap lahir pada 1937 di New Jersey, anak seorang buruh galangan kapal. Ia lulus dari akademi militer West Point dan bertugas di angkatan darat sebelum masuk dunia bisnis. Dari militer, ia membawa satu keyakinan: organisasi yang baik adalah organisasi yang ramping, disiplin, dan tidak punya ruang untuk yang lemah.
 
@@ -18,7 +18,7 @@ Setahun kemudian, Dunlap menulis buku tentang caranya, dengan judul yang menggam
 
 Semua itu sah. Memecat karyawan, memotong anggaran, menghentikan sumbangan, dan menjual perusahaan adalah hak manajemen.
 
-### Konsekuensi
+### Harga
 
 Para pengamat kemudian bertanya apakah Scott Paper benar-benar diperbaiki, atau hanya dikosongkan supaya terlihat cantik dan cepat laku. Tanpa riset dan tenaga yang cukup, banyak keuntungan jangka pendek itu tidak bisa diulang. Tetapi pertanyaan itu menjadi masalah Kimberly-Clark, bukan masalah Dunlap.
 
@@ -28,9 +28,17 @@ Kali ini, memotong biaya saja tidak cukup untuk menghasilkan angka yang ia janji
 
 Pada Juni 1998, sebuah artikel di majalah keuangan Barron's mempertanyakan angka-angka Sunbeam. Kurang dari seminggu kemudian, dewan direksi memecat Dunlap. Laporan keuangan diperbaiki, dan laba yang dulu dibanggakan menguap. Pada 2001, Sunbeam bangkrut. Pada 2002, Dunlap berdamai dengan SEC: membayar denda 500.000 dolar dan dilarang seumur hidup menjadi direktur atau pejabat perusahaan publik, tanpa mengakui atau membantah tuduhan. Ia juga membayar sekitar 15 juta dolar untuk menyelesaikan gugatan para pemegang saham.
 
-### Keuntungan
+### Hasil
 
 Dari Scott Paper saja, Dunlap pribadi meraup sekitar 100 juta dolar, dari gaji, bonus, dan sahamnya. Bagian itu, cara ia menjadi kaya di Scott Paper, tidak pernah dipermasalahkan secara hukum. Bahkan setelah kehancuran Sunbeam dan denda yang ia bayar, ia tetap seorang yang sangat kaya. Ia meninggal pada 2019 di Florida.
+
+### Pelajaran
+
+Memotong biaya adalah cara tercepat membuat angka terlihat bagus, dan juga cara yang paling mudah ditiru dengan curang. Begitu tidak ada lagi yang bisa dipotong, godaan berikutnya adalah memotong kejujuran.
+
+Perhatikan juga perbedaan antara Scott Paper dan Sunbeam. Di yang pertama, Dunlap menjual perusahaan sebelum kelemahannya terlihat, dan ia menjadi pahlawan. Di yang kedua, ia tidak sempat menjual, dan ia menjadi terdakwa. Caranya sama. Yang berbeda hanyalah waktu.
+
+Kalau kamu bekerja di bawah pemimpin yang hanya bisa memotong, tanyakan apa rencananya setelah semuanya habis terpotong. Kalau kamu investor yang bersorak saat ribuan orang dipecat dan harga saham naik, tanyakan apakah yang naik itu nilai perusahaan, atau hanya harapan bahwa seseorang akan segera membelinya.
 
 ### Analisa Dark Triad
 
@@ -42,10 +50,13 @@ Dari Scott Paper saja, Dunlap pribadi meraup sekitar 100 juta dolar, dari gaji, 
 
 **Kesimpulan:** Ketiga sifat terlihat, dengan psikopati dan narsisisme paling menonjol. Dunlap adalah contoh bagaimana kombinasi ini bisa menghasilkan kekayaan cepat, dan bagaimana kombinasi yang sama mendorong seseorang melewati garis hukum ketika keberuntungannya habis.
 
-### Hikmah
+### Profil
 
-Memotong biaya adalah cara tercepat membuat angka terlihat bagus, dan juga cara yang paling mudah ditiru dengan curang. Begitu tidak ada lagi yang bisa dipotong, godaan berikutnya adalah memotong kejujuran.
+**Nama:** Albert John Dunlap
+**Lahir:** 26 Juli 1937, Hoboken, New Jersey
+**Wafat:** 25 Januari 2019, Ocala, Florida
+**Jenis kelamin:** Laki-laki
+**Negara:** Amerika Serikat
 
-Perhatikan juga perbedaan antara Scott Paper dan Sunbeam. Di yang pertama, Dunlap menjual perusahaan sebelum kelemahannya terlihat, dan ia menjadi pahlawan. Di yang kedua, ia tidak sempat menjual, dan ia menjadi terdakwa. Caranya sama. Yang berbeda hanyalah waktu.
-
-Kalau kamu bekerja di bawah pemimpin yang hanya bisa memotong, tanyakan apa rencananya setelah semuanya habis terpotong. Kalau kamu investor yang bersorak saat ribuan orang dipecat dan harga saham naik, tanyakan apakah yang naik itu nilai perusahaan, atau hanya harapan bahwa seseorang akan segera membelinya.
+> “Anda berbisnis bukan untuk disukai. Kita di sini untuk berhasil. Kalau mau teman, peliharalah anjing.”
+> — *Mean Business*, 1996

@@ -77,11 +77,16 @@ export async function paginate(sections, measure, { bookTitle = "" } = {}) {
     measure.replaceChildren(page);
     let body = page.querySelector(".body");
 
-    const flush = () => {
+    // A heading never ends a page: one left at the bottom moves to the next page with its text.
+    const flush = (last = false) => {
+      const tail = body.lastElementChild;
+      const carry = !last && tail && /^H[1-6]$/.test(tail.tagName) && body.childElementCount > 1 ? tail : null;
+      if (carry) carry.remove();
       if (body.childElementCount) push(kind, body.innerHTML, story);
       page = blankPage(kind);
       measure.replaceChildren(page);
       body = page.querySelector(".body");
+      if (carry) body.append(carry);
     };
 
     for (const block of blocks) {
@@ -121,7 +126,7 @@ export async function paginate(sections, measure, { bookTitle = "" } = {}) {
       // drop a leading line break left at the top of a continued block
       while (shell.firstChild && shell.firstChild.nodeName === "BR") shell.firstChild.remove();
     }
-    flush();
+    flush(true);
   }
 
   for (const s of sections) {
@@ -135,6 +140,19 @@ export async function paginate(sections, measure, { bookTitle = "" } = {}) {
     else if (s.type === "dedication" || s.type === "copyright") { s.page = pages.length + 1; push(s.type, s.html); }
     // Coloring pages sit on a right-hand page with a blank back, so colors don't bleed through.
     else if (s.type === "image") { startOnRight(); s.page = pages.length + 1; push("image", s.html, s.title); push("blank", ""); }
+    else if (s.type === "story" && (s.profile || (s.art && s.artEnd))) {
+      // Book 3: every story takes an even number of pages, from a left-hand page to a right-hand
+      // one. It starts on a left-hand page and, after its last page, ends with one spread: its
+      // profile page on the left (a blank page first when the text ends on a left-hand page) and
+      // the character's picture on the right (a blank page when it has no picture yet).
+      startOnLeft();
+      s.page = pages.length + 1;
+      flow("story", s.html, s.title);
+      pages[s.page - 1].first = true;
+      if (s.profile) { startOnLeft(); push("profile", s.profile, s.title); }
+      if (s.art) push("art", `<img src="${s.art}" alt="">`, s.title);
+      else if (s.profile) push("blank", "");
+    }
     else if ((s.type === "story" || s.type === "front") && s.art) {
       // Illustrated story (or front-matter page): text starts on a left-hand page, its picture
       // fills the right-hand page facing it. A longer story continues on the next left-hand page.

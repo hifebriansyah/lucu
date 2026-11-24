@@ -1,6 +1,8 @@
 // Shared loader: reads books.json and turns a book's naskah.md into typed sections.
 // A section is the text between two page-break markers in naskah.md.
 
+import { triadLevels, triadSvg } from "./triad.js";
+
 const PAGE_BREAK = /<div style="page-break-after: always;"><\/div>/g;
 
 export async function loadCatalog() {
@@ -32,7 +34,9 @@ export async function loadBook(id) {
     const [lead, main] = book.coverTitle;
     titlePage.html = titlePage.html.replace(/<h1[^>]*>[\s\S]*?<\/h1>/, `<h1 class="poster-title"><span class="lead">${lead}</span><span class="main">${main}</span></h1>`);
   }
-  if (book.storyArt) addStoryArt(sections, await versioned(book.storyArt));
+  // Book 3: each story's profile page (name, Dark Triad chart, biodata, quote) facing its picture.
+  if (book.triadChart) for (const s of sections) if (s.type === "story") addProfile(s);
+  if (book.storyArt) addStoryArt(sections, await versioned(book.storyArt), book);
   if (book.partArt) addPartArt(sections, await versioned(book.partArt));
   if (book.contentsArt) {
     const art = await versioned(book.contentsArt);
@@ -54,11 +58,14 @@ async function versioned(pattern) {
   const dir = pattern.slice(0, pattern.lastIndexOf("/") + 1);
   let index = {};
   try { index = await (await fetch(`${dir}index.json`, { cache: "no-store" })).json(); } catch {}
-  return (n) => {
+  const art = (n) => {
     const src = pattern.replace("{n}", n);
     const v = index[src.slice(dir.length)]?.src;
     return v ? `${src}?v=${v}` : src;
   };
+  // Whether the copy exists: index.json lists every copy; without one, assume it does.
+  art.has = (n) => !Object.keys(index).length || !!index[pattern.replace("{n}", n).slice(dir.length)];
+  return art;
 }
 
 // A picture on each part page, numbered by the part's order (s1 = Bagian Satu, ..., the last = Epilog).
@@ -79,10 +86,42 @@ function addPartArt(sections, pattern) {
 // frontArt (books.json) gives a front-matter section, by its heading, a picture page facing it,
 // laid out like a story's.
 
-// A picture for each story. paginate.js puts it on the right-hand page facing the story.
-function addStoryArt(sections, pattern) {
+// Book 3: a story's closing "### Profil" section (**Nama:**, **Lahir:**, **Wafat:**,
+// **Jenis kelamin:**, **Negara:** lines, then a > quote) becomes its own page, s.profile: the name,
+// the triangle chart of the Dark Triad levels from the analysis, the biodata card and the quote.
+// paginate.js puts it on a left-hand page, facing the story's picture. A story with no Profil
+// section keeps the chart at its end.
+function addProfile(s) {
+  const levels = triadLevels(s.text);
+  const chart = levels ? `<figure class="triad">${triadSvg(levels)}</figure>` : "";
+  const m = s.html.match(/<h3[^>]*>Profil<\/h3>/);
+  if (!m) { s.html += chart; return; }
+  const holder = document.createElement("div");
+  holder.innerHTML = profileCards(s.html.slice(m.index + m[0].length));
+  let name = s.title.replace(/^\d+\.\s*/, "");
+  const dl = holder.querySelector("dl.profile");
+  const nama = dl && [...dl.querySelectorAll("dt")].find((dt) => dt.textContent.trim() === "Nama");
+  if (nama) { name = nama.nextElementSibling.innerHTML; nama.nextElementSibling.remove(); nama.remove(); }
+  // The quote's "— source" line becomes its own small line under the quote.
+  for (const p of holder.querySelectorAll("blockquote p")) {
+    const [quote, ...cite] = p.innerHTML.split(/<br\s*\/?>\s*(?=—)/);
+    if (cite.length) p.outerHTML = `<p>${quote}</p><p class="cite">${cite.join("")}</p>`;
+  }
+  s.html = s.html.slice(0, m.index);
+  s.profile = `<h2 class="profile-name">${name}</h2>${chart}${holder.innerHTML}`;
+}
+
+// A picture for each story. paginate.js puts it on the right-hand page facing the story, or,
+// with storyArtAt "end", on the page after the story's last one. storyArtOffset continues the
+// numbering of a shared picture folder in a later volume. A story with no picture gets none.
+function addStoryArt(sections, pattern, book = {}) {
+  const offset = book.storyArtOffset || 0;
   for (const s of sections) {
-    if (s.type === "story") s.art = pattern(s.title.match(/^\d+/)[0]);
+    if (s.type !== "story") continue;
+    const n = Number(s.title.match(/^\d+/)[0]) + offset;
+    if (!pattern.has(n)) continue;
+    s.art = pattern(n);
+    if (book.storyArtAt === "end") s.artEnd = true;
   }
 }
 

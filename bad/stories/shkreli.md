@@ -2,7 +2,7 @@
 
 *New York, 2015. Obat: menaikkan harga lebih dari 4.000 persen dalam semalam.*
 
-### Kisahnya
+### Kisah
 
 Martin Shkreli lahir pada 1983 di Brooklyn, New York, anak pasangan imigran dari Albania dan Kroasia yang bekerja sebagai petugas kebersihan. Ia cerdas, cepat bosan, dan tidak sabar dengan sekolah. Pada usia tujuh belas tahun, ia magang di sebuah dana investasi terkenal di Wall Street, dan dengan cepat belajar satu hal: di pasar saham, orang bisa menghasilkan uang dengan bertaruh perusahaan akan gagal.
 
@@ -18,7 +18,7 @@ Pesaing tidak bisa segera masuk. Untuk menjual versi generik di Amerika, perusah
 
 Tidak ada hukum Amerika yang melarang perusahaan obat menentukan harganya sendiri.
 
-### Konsekuensi
+### Harga
 
 Kemarahan publik meledak. Dokter, organisasi pasien HIV, dan para calon presiden mengecam kenaikan harga itu. Shkreli dijuluki "orang paling dibenci di Amerika". Ia tidak mundur. Ia menanggapi kritik dengan ejekan di media sosial, siaran langsung berjam-jam dari kantornya, dan dalam sebuah konferensi kesehatan ia mengatakan bahwa seharusnya ia menaikkan harga lebih tinggi lagi. Saat dipanggil Kongres pada Februari 2016, ia menolak menjawab pertanyaan, tersenyum mengejek di depan kamera, lalu menulis di media sosial bahwa para anggota Kongres itu bodoh.
 
@@ -28,9 +28,17 @@ Pada 2016, sekelompok siswa SMA di Sydney, Australia, dengan bimbingan guru dan 
 
 Pada 2022, dalam gugatan lembaga persaingan usaha Amerika dan beberapa negara bagian, pengadilan memutuskan bahwa cara Turing menghalangi pesaing melanggar hukum antimonopoli. Shkreli dilarang seumur hidup bekerja di industri obat dan diperintahkan membayar 64,6 juta dolar. Ia keluar dari penjara pada tahun yang sama.
 
-### Keuntungan
+### Hasil
 
 Untuk sementara, kenaikan harga itu sangat menguntungkan. Rumah sakit dan perusahaan asuransi tidak punya pilihan selain membayar, sementara pasien yang tidak mampu terpaksa mencari program bantuan atau beralih ke pengobatan lain yang kurang efektif. Turing meraup puluhan juta dolar. Shkreli sempat hidup mewah, terkenal, dan punya ratusan ribu pengikut di media sosial. Tetapi hampir semua yang ia dapatkan akhirnya hilang di pengadilan.
+
+### Pelajaran
+
+Kenaikan harga Daraprim itu sendiri legal. Tetapi cara menahan pesaing tidak. Itulah titik di mana "jahat tapi legal" berubah menjadi "jahat dan ilegal", dan titik itu sering tidak terlihat oleh orang yang sedang menikmati keuntungannya.
+
+Pelajaran yang lebih besar: kalau keuntunganmu datang dari orang yang tidak punya pilihan, seluruh dunia akan memeriksa setiap sudut hidupmu yang lain. Dan sikap sombong bisa membuat mereka memeriksa lebih teliti. Banyak orang melakukan hal yang mirip dengan Shkreli, dan jarang yang dihukum seberat dia, karena mereka tidak menantang semua orang untuk memeriksa.
+
+Bagi kita sebagai konsumen dan warga, kisah ini menunjukkan celah dalam sistem kesehatan mana pun: obat yang murah dibuat tetapi tidak ada yang mau menjualnya, atau hanya satu pihak yang boleh menjualnya. Pertanyaan tentang siapa yang menentukan harga obat, dan atas dasar apa, adalah pertanyaan yang layak diajukan juga di negara kita.
 
 ### Analisa Dark Triad
 
@@ -42,10 +50,13 @@ Untuk sementara, kenaikan harga itu sangat menguntungkan. Rumah sakit dan perusa
 
 **Kesimpulan:** Dari semua tokoh di buku ini, Shkreli menunjukkan ketiga sifat dengan paling terang, dengan narsisisme dan psikopati yang menonjol. Kisahnya juga menunjukkan kelemahan kombinasi ini: Machiavellian yang sabar bisa bertahan di celah hukum selama puluhan tahun, tetapi narsisis yang impulsif akan menarik terlalu banyak perhatian, dan perhatian itulah yang akhirnya menjatuhkannya.
 
-### Hikmah
+### Profil
 
-Kenaikan harga Daraprim itu sendiri legal. Tetapi cara menahan pesaing tidak. Itulah titik di mana "jahat tapi legal" berubah menjadi "jahat dan ilegal", dan titik itu sering tidak terlihat oleh orang yang sedang menikmati keuntungannya.
+**Nama:** Martin Shkreli
+**Lahir:** 17 Maret 1983, Brooklyn, New York
+**Wafat:** Masih hidup
+**Jenis kelamin:** Laki-laki
+**Negara:** Amerika Serikat
 
-Pelajaran yang lebih besar: kalau keuntunganmu datang dari orang yang tidak punya pilihan, seluruh dunia akan memeriksa setiap sudut hidupmu yang lain. Dan sikap sombong bisa membuat mereka memeriksa lebih teliti. Banyak orang melakukan hal yang mirip dengan Shkreli, dan jarang yang dihukum seberat dia, karena mereka tidak menantang semua orang untuk memeriksa.
-
-Bagi kita sebagai konsumen dan warga, kisah ini menunjukkan celah dalam sistem kesehatan mana pun: obat yang murah dibuat tetapi tidak ada yang mau menjualnya, atau hanya satu pihak yang boleh menjualnya. Pertanyaan tentang siapa yang menentukan harga obat, dan atas dasar apa, adalah pertanyaan yang layak diajukan juga di negara kita.
+> “Saya mungkin akan menaikkan harganya lebih tinggi lagi.”
+> — Forbes Healthcare Summit, Desember 2015

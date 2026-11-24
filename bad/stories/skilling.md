@@ -2,7 +2,7 @@
 
 *Houston, 2001. Energi: perusahaan paling inovatif di Amerika yang labanya tidak pernah ada.*
 
-### Kisahnya
+### Kisah
 
 Jeffrey Skilling lahir pada 1953 dan tumbuh di Illinois. Ia lulus dari sekolah bisnis Harvard sebagai salah satu lulusan terbaik. Menurut cerita yang sering dikutip, ketika ditanya dalam wawancara masuk apakah ia pintar, ia menjawab: "Saya sangat pintar." Ia kemudian menjadi konsultan di McKinsey, dan salah satu kliennya adalah Enron, perusahaan pipa gas alam di Houston yang dipimpin Kenneth Lay.
 
@@ -22,15 +22,23 @@ Pada Februari 2001, Skilling menjadi CEO. Dua bulan kemudian, dalam sebuah konfe
 
 Tak lama setelah ia pergi, seorang wakil presiden Enron, Sherron Watkins, menulis memo kepada Kenneth Lay yang memperingatkan bahwa perusahaan bisa runtuh karena skandal akuntansi. Pada Oktober 2001, Enron mengumumkan kerugian besar, dan pada November mengoreksi laporan keuangannya sejak 1997. Harga saham runtuh. Pada 2 Desember 2001, Enron mengajukan kebangkrutan, yang terbesar dalam sejarah Amerika saat itu.
 
-### Konsekuensi
+### Harga
 
 Sekitar 20.000 karyawan Enron kehilangan pekerjaan. Banyak dari mereka juga kehilangan tabungan pensiun, karena dana pensiun mereka diinvestasikan dalam saham Enron, dan mereka sempat dilarang menjualnya ketika harga sedang jatuh. Arthur Andersen, salah satu dari lima kantor akuntan terbesar dunia, dinyatakan bersalah karena menghancurkan dokumen Enron, dan runtuh, walaupun putusannya kemudian dibatalkan Mahkamah Agung. Kongres mengesahkan Sarbanes-Oxley Act pada 2002, undang-undang yang mewajibkan para CEO dan direktur keuangan menjamin secara pribadi kebenaran laporan keuangan perusahaannya.
 
 Fastow mengaku bersalah dan dihukum enam tahun penjara. Pada 2006, juri menyatakan Skilling bersalah atas belasan dakwaan, termasuk penipuan dan perdagangan orang dalam. Ia dihukum 24 tahun penjara. Pada 2013, hukumannya dikurangi menjadi 14 tahun, sebagian lewat kesepakatan yang menyerahkan sekitar 42 juta dolar kepada para korban. Ia dibebaskan pada 2019. Kenneth Lay juga dinyatakan bersalah, tetapi meninggal karena serangan jantung sebelum dijatuhi hukuman pada Juli 2006, sehingga putusan bersalahnya dibatalkan secara hukum.
 
-### Keuntungan
+### Hasil
 
 Selama satu dekade, Skilling adalah salah satu eksekutif paling dikagumi di Amerika. Ia menerima gaji, bonus, dan saham bernilai puluhan juta dolar, dan menjual sebagian besar sahamnya sebelum harga runtuh. Sebagian kekayaannya habis untuk biaya pengacara dan ganti rugi.
+
+### Pelajaran
+
+Laba di atas kertas berbeda dengan uang di rekening. Perusahaan yang labanya terus naik tetapi uang tunainya tidak ikut naik sedang menceritakan sesuatu yang tidak sesuai kenyataan. Tanyakan selalu: kapan keuntungan ini benar-benar menjadi uang?
+
+Kalau pemimpin perusahaan memaki orang yang bertanya tentang angkanya, pertanyaan itu kemungkinan besar tepat sasaran.
+
+Dan bagi karyawan: jangan menaruh seluruh tabungan masa depanmu di saham perusahaan tempatmu bekerja. Kalau perusahaan itu runtuh, kamu kehilangan pekerjaan dan tabungan pada hari yang sama.
 
 ### Analisa Dark Triad
 
@@ -42,10 +50,13 @@ Selama satu dekade, Skilling adalah salah satu eksekutif paling dikagumi di Amer
 
 **Kesimpulan:** Narsisisme dan Machiavellianisme yang kuat, dalam organisasi yang memberi hadiah kepada keduanya. Enron menunjukkan bagaimana garis antara "jahat tapi legal" dan "jahat dan ilegal" bisa dilewati pelan-pelan: dimulai dari aturan akuntansi yang sah, lalu ditutupi dengan struktur yang tidak sah.
 
-### Hikmah
+### Profil
 
-Laba di atas kertas berbeda dengan uang di rekening. Perusahaan yang labanya terus naik tetapi uang tunainya tidak ikut naik sedang menceritakan sesuatu yang tidak sesuai kenyataan. Tanyakan selalu: kapan keuntungan ini benar-benar menjadi uang?
+**Nama:** Jeffrey Keith Skilling
+**Lahir:** 25 November 1953, Pittsburgh, Pennsylvania
+**Wafat:** Masih hidup
+**Jenis kelamin:** Laki-laki
+**Negara:** Amerika Serikat
 
-Kalau pemimpin perusahaan memaki orang yang bertanya tentang angkanya, pertanyaan itu kemungkinan besar tepat sasaran.
-
-Dan bagi karyawan: jangan menaruh seluruh tabungan masa depanmu di saham perusahaan tempatmu bekerja. Kalau perusahaan itu runtuh, kamu kehilangan pekerjaan dan tabungan pada hari yang sama.
+> “Wah, terima kasih banyak, kami menghargainya... bajingan.”
+> — Kepada seorang analis dalam telekonferensi laba Enron, April 2001

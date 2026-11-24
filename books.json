@@ -52,6 +52,9 @@
     "author": "Febriansyah, S.Kom., PSM, PSPO",
     "manuscript": "bad/naskah.md",
     "cover": "bad/cover.jpg",
+    "storyArt": "bad/characters/web/bad-{n}.jpg",
+    "storyArtAt": "end",
+    "triadChart": true,
     "color": "#2a2a2e"
   },
   {
@@ -61,6 +64,10 @@
     "author": "Febriansyah, S.Kom., PSM, PSPO",
     "manuscript": "bad/naskah-2.md",
     "cover": "bad/cover-2.jpg",
+    "storyArt": "bad/characters/web/bad-{n}.jpg",
+    "storyArtAt": "end",
+    "triadChart": true,
+    "storyArtOffset": 17,
     "color": "#3a2a2e"
   }
 ]

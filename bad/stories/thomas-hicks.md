@@ -4,7 +4,7 @@
 
 Tokoh kisah ini tidak menjadi kaya. Ia hanya menjadi juara. Tetapi caranya menang adalah contoh paling murni dari "jahat tapi legal": melakukan sesuatu yang kini dianggap curang, pada saat belum ada satu pun aturan yang melarangnya.
 
-### Kisahnya
+### Kisah
 
 Olimpiade 1904 di St. Louis, Amerika Serikat, adalah salah satu Olimpiade paling kacau dalam sejarah. Pertandingannya digelar sebagai bagian dari pameran dunia, berlangsung berbulan-bulan, dan sebagian besar pesertanya orang Amerika. Tetapi tidak ada nomor yang lebih kacau daripada maratonnya.
 
@@ -22,15 +22,23 @@ Hicks masih berjuang di jalan. Ia ingin berhenti dan berbaring, dan para pelatih
 
 Satu pelatihnya, Charles Lucas, kemudian menulis laporan tentang lomba itu. Kesimpulannya: lomba itu membuktikan bahwa obat-obatan sangat bermanfaat bagi atlet dalam lomba jarak jauh.
 
-### Konsekuensi
+### Harga
 
 Hicks dinyatakan sebagai juara Olimpiade dan menerima medali emas. Tidak ada yang mempersoalkan strychnine itu, karena belum ada aturan yang melarang zat apa pun, walaupun sebagian sejarawan kini berpendapat bantuan fisik dari para pelatihnya sebenarnya melanggar aturan lomba. Yang dihukum justru Fred Lorz, yang naik mobil.
 
 Lomba itu begitu buruk sehingga maraton sempat dipertanyakan untuk dipertahankan di Olimpiade. Federasi atletik internasional baru melarang doping pada 1928, itu pun tanpa tes. Komite Olimpiade Internasional baru membentuk komisi medis dan mulai menjalankan tes doping pada akhir 1960-an, lebih dari enam puluh tahun setelah lomba Hicks, setelah kematian beberapa atlet yang dikaitkan dengan obat perangsang.
 
-### Keuntungan
+### Hasil
 
 Hicks mendapatkan medali emas dan namanya tercatat sebagai juara Olimpiade selamanya. Ia tidak menjadi kaya. Pada zaman itu, atlet Olimpiade harus amatir, dan tidak boleh dibayar.
+
+### Pelajaran
+
+Setiap aturan pernah tidak ada. Larangan doping, keselamatan kerja, perlindungan konsumen, semuanya ditulis setelah ada orang yang celaka. Ketika seseorang berkata "tidak ada aturan yang melarang", tanyakan apakah itu karena tindakannya tidak berbahaya, atau karena belum ada yang menjadi korbannya.
+
+Perhatikan juga ironi lomba ini. Lorz, yang curang dengan cara yang mudah dipahami semua orang, dihukum. Hicks dan pelatihnya, yang menempuh cara yang jauh lebih berbahaya, dielu-elukan, karena cara mereka belum punya nama.
+
+Dan bagi siapa pun yang bekerja di bawah tekanan target, dari atlet sampai karyawan: hati-hati dengan orang yang mendorongmu terus maju dengan cara apa pun. Medalinya mungkin untukmu, tetapi yang dipertaruhkan juga tubuhmu sendiri.
 
 ### Analisa Dark Triad
 
@@ -42,10 +50,10 @@ Hicks mendapatkan medali emas dan namanya tercatat sebagai juara Olimpiade selam
 
 **Kesimpulan:** Kisah ini menunjukkan bahwa "jahat tapi legal" tidak selalu soal uang. Ia bisa berupa keinginan menang dengan cara apa pun, selama belum ada aturan yang melarangnya. Dan sering kali, yang paling berani mengambil risiko bukan orang yang menanggungnya, melainkan orang di sekitarnya yang ikut menikmati kemenangannya.
 
-### Hikmah
+### Profil
 
-Setiap aturan pernah tidak ada. Larangan doping, keselamatan kerja, perlindungan konsumen, semuanya ditulis setelah ada orang yang celaka. Ketika seseorang berkata "tidak ada aturan yang melarang", tanyakan apakah itu karena tindakannya tidak berbahaya, atau karena belum ada yang menjadi korbannya.
-
-Perhatikan juga ironi lomba ini. Lorz, yang curang dengan cara yang mudah dipahami semua orang, dihukum. Hicks dan pelatihnya, yang menempuh cara yang jauh lebih berbahaya, dielu-elukan, karena cara mereka belum punya nama.
-
-Dan bagi siapa pun yang bekerja di bawah tekanan target, dari atlet sampai karyawan: hati-hati dengan orang yang mendorongmu terus maju dengan cara apa pun. Medalinya mungkin untukmu, tetapi yang dipertaruhkan juga tubuhmu sendiri.
+**Nama:** Thomas John Hicks
+**Lahir:** 11 Januari 1876, Birmingham, Inggris (sumber lama: 7 Januari 1875)
+**Wafat:** 28 Januari 1952, Winnipeg, Kanada
+**Jenis kelamin:** Laki-laki
+**Negara:** Amerika Serikat (lahir di Inggris)

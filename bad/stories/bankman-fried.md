@@ -2,7 +2,7 @@
 
 *Bahama, 2022. Kripto: memakai uang nasabah, atas nama berbuat baik.*
 
-### Kisahnya
+### Kisah
 
 Sam Bankman-Fried, yang dikenal dengan inisial SBF, lahir pada 1992 di California, anak dari dua profesor hukum di Universitas Stanford. Ia kuliah fisika di MIT, dan di sana ia tertarik pada gerakan *effective altruism*, aliran pemikiran yang mengajak orang memakai akal dan data untuk berbuat baik sebanyak mungkin. Salah satu gagasan di dalamnya adalah *earn to give*: bekerja di bidang yang sangat menguntungkan, lalu menyumbangkan sebagian besar penghasilan untuk tujuan yang baik. SBF memutuskan itulah jalannya.
 
@@ -16,7 +16,7 @@ Pada 2 November 2022, media kripto CoinDesk menerbitkan laporan bahwa sebagian b
 
 Pada 11 November 2022, FTX mengajukan kebangkrutan. Sekitar delapan miliar dolar uang nasabah dinyatakan hilang.
 
-### Konsekuensi
+### Harga
 
 SBF ditangkap di Bahama pada Desember 2022 dan diekstradisi ke Amerika. Tiga rekan terdekatnya, termasuk Caroline Ellison, pemimpin Alameda dan mantan kekasihnya, mengaku bersalah dan bersaksi melawannya. Pada November 2023, juri di New York menyatakannya bersalah atas seluruh tujuh dakwaan penipuan dan persekongkolan. Pada Maret 2024, ia dihukum 25 tahun penjara dan diperintahkan menyerahkan sekitar 11 miliar dolar. Pada Juni 2026, pengadilan banding menolak bandingnya dan menguatkan vonis itu. Ia lalu meminta grasi kepada Presiden Trump, yang sebelumnya menyatakan tidak berniat memberikannya.
 
@@ -24,9 +24,17 @@ Ada akhir yang ironis. Para pengurus kebangkrutan FTX berhasil mengumpulkan kemb
 
 Kasus FTX juga merusak citra gerakan *effective altruism*, yang selama ini menjadikan SBF sebagai contoh suksesnya.
 
-### Keuntungan
+### Hasil
 
 Pada puncaknya, kekayaan SBF di atas kertas diperkirakan sekitar 26 miliar dolar, menjadikannya salah satu miliarder termuda di dunia. Ia tinggal di penthouse mewah di Bahama bersama rekan-rekannya, terbang dengan jet pribadi, dan bertemu presiden, menteri, dan bintang olahraga. Hampir semuanya hilang dalam satu minggu.
+
+### Pelajaran
+
+Uang yang kamu simpan di bursa, aplikasi, atau platform apa pun bukan lagi sepenuhnya di tanganmu. Tanyakan siapa yang menyimpannya, apakah dipisahkan dari uang perusahaan, dan siapa yang mengawasinya. Di dunia kripto, ada semboyan: *not your keys, not your coins*. Kalau bukan kamu yang memegang kuncinya, itu bukan uangmu.
+
+Waspadai pemimpin yang tujuannya terdengar terlalu mulia. Niat menyelamatkan dunia tidak memberi siapa pun hak untuk memakai uang orang lain tanpa izin.
+
+Dan perhatikan hubungan antar-perusahaan milik orang yang sama. Ketika bursa dan pedagang terbesar di bursa itu dimiliki orang yang sama, konflik kepentingannya bukan risiko. Itu sudah pasti.
 
 ### Analisa Dark Triad
 
@@ -38,10 +46,13 @@ Pada puncaknya, kekayaan SBF di atas kertas diperkirakan sekitar 26 miliar dolar
 
 **Kesimpulan:** Machiavellianisme yang dibungkus idealisme. Kisah SBF menunjukkan bahwa niat baik, atau cerita tentang niat baik, bisa menjadi rasionalisasi paling kuat untuk melewati batas: kalau tujuannya menyelamatkan dunia, mengapa tidak meminjam sedikit uang nasabah?
 
-### Hikmah
+### Profil
 
-Uang yang kamu simpan di bursa, aplikasi, atau platform apa pun bukan lagi sepenuhnya di tanganmu. Tanyakan siapa yang menyimpannya, apakah dipisahkan dari uang perusahaan, dan siapa yang mengawasinya. Di dunia kripto, ada semboyan: *not your keys, not your coins*. Kalau bukan kamu yang memegang kuncinya, itu bukan uangmu.
+**Nama:** Samuel Benjamin Bankman-Fried
+**Lahir:** 6 Maret 1992, Stanford, California
+**Wafat:** Masih hidup
+**Jenis kelamin:** Laki-laki
+**Negara:** Amerika Serikat
 
-Waspadai pemimpin yang tujuannya terdengar terlalu mulia. Niat menyelamatkan dunia tidak memberi siapa pun hak untuk memakai uang orang lain tanpa izin.
-
-Dan perhatikan hubungan antar-perusahaan milik orang yang sama. Ketika bursa dan pedagang terbesar di bursa itu dimiliki orang yang sama, konflik kepentingannya bukan risiko. Itu sudah pasti.
+> “Ya. Hehe. Saya harus begitu. Dari situlah reputasi dibangun, sampai batas tertentu.”
+> — Pesan langsung kepada wartawan Vox yang menyebutnya pandai berbicara soal etika, November 2022

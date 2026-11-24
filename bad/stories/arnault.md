@@ -2,7 +2,7 @@
 
 *Paris, 1984. Mode: berjanji menyelamatkan, lalu menjual sisanya.*
 
-### Kisahnya
+### Kisah
 
 Bernard Arnault lahir pada 1949 di Roubaix, kota industri tekstil di utara Prancis. Keluarganya memiliki perusahaan konstruksi yang cukup sukses. Ia lulus dari École Polytechnique, salah satu sekolah teknik paling bergengsi di Prancis, lalu bergabung dengan perusahaan keluarga dan dengan cepat mengambil alih kendalinya, mengalihkan fokusnya dari konstruksi ke properti.
 
@@ -20,7 +20,7 @@ Racamier mencari sekutu dan mengundang Arnault masuk untuk membantunya melawan C
 
 Gaya itu tidak berubah setelah ia berkuasa. Pada 2019, LVMH sepakat membeli perusahaan perhiasan Amerika Tiffany & Co. seharga sekitar 16,2 miliar dolar. Ketika pandemi datang dan penjualan barang mewah anjlok, LVMH tiba-tiba menyatakan tidak bisa menyelesaikan pembelian, dengan alasan sebuah surat dari Kementerian Luar Negeri Prancis yang meminta penundaan karena ketegangan dagang dengan Amerika. Menurut Bloomberg, surat itu justru diminta oleh Arnault sendiri. Tiffany menggugat. Beberapa bulan kemudian, kedua pihak berdamai, dan LVMH membeli Tiffany dengan harga sekitar 425 juta dolar lebih murah dari kesepakatan awal.
 
-### Konsekuensi
+### Harga
 
 Di Prancis, Arnault dijuluki "serigala berbaju kasmir", sopan dan elegan di luar, buas di dalam. Serikat pekerja dan politisi menganggapnya mengkhianati janji Boussac. Bagi sebagian orang Prancis, ia adalah lambang kapitalisme gaya Amerika yang merusak tradisi industri mereka.
 
@@ -28,9 +28,17 @@ Pada 2012, kabar bahwa ia mengajukan kewarganegaraan Belgia memicu kemarahan pub
 
 Sejauh yang diketahui publik, tidak ada tuntutan hukum yang berhasil dari kisah Boussac. Janji menjaga pekerjaan, kalau memang diucapkan, lebih mirip niat daripada kewajiban yang mengikat dengan sanksi yang jelas.
 
-### Keuntungan
+### Hasil
 
 LVMH tumbuh menjadi kerajaan barang mewah terbesar di dunia, membawahi puluhan merek terkenal, dari Louis Vuitton, Dior, dan Fendi sampai sampanye Moët dan perhiasan Tiffany. Arnault beberapa kali tercatat sebagai orang terkaya di dunia, dan anak-anaknya kini memimpin berbagai merek di dalam grup itu.
+
+### Pelajaran
+
+Dalam pengambilalihan, yang penting bukan apa yang dijanjikan pembeli, tetapi apa yang tertulis dan bisa ditagih. Pemerintah, karyawan, dan mitra yang menyerahkan sesuatu berdasarkan niat baik harus meminta janji itu ditulis dengan sanksi yang jelas, angka yang jelas, dan jangka waktu yang jelas.
+
+Pelajaran kedua: orang yang kamu undang masuk untuk membantumu dalam pertengkaran bisa keluar sebagai pemenangnya. Sebelum mengundang pihak ketiga ke dalam konflik, entah investor, pengacara, atau orang berpengaruh, tanyakan apa yang ia inginkan dari konflik itu, bukan hanya apa yang ia tawarkan.
+
+Dan ketiga, kesepakatan yang belum selesai belum menjadi milikmu. Bahkan perusahaan sebesar LVMH bisa menemukan alasan untuk menawar ulang ketika keadaan berubah. Semakin besar nilai sebuah kesepakatan, semakin penting pasal yang mengatur apa yang terjadi kalau salah satu pihak berubah pikiran.
 
 ### Analisa Dark Triad
 
@@ -42,10 +50,13 @@ LVMH tumbuh menjadi kerajaan barang mewah terbesar di dunia, membawahi puluhan m
 
 **Kesimpulan:** Salah satu contoh paling jelas dari Machiavellianisme yang dipadukan dengan selera dan kesabaran. Serigala yang tahu persis kapan harus memakai kasmirnya.
 
-### Hikmah
+### Profil
 
-Dalam pengambilalihan, yang penting bukan apa yang dijanjikan pembeli, tetapi apa yang tertulis dan bisa ditagih. Pemerintah, karyawan, dan mitra yang menyerahkan sesuatu berdasarkan niat baik harus meminta janji itu ditulis dengan sanksi yang jelas, angka yang jelas, dan jangka waktu yang jelas.
+**Nama:** Bernard Arnault
+**Lahir:** 5 Maret 1949, Roubaix, Prancis
+**Wafat:** Masih hidup
+**Jenis kelamin:** Laki-laki
+**Negara:** Prancis
 
-Pelajaran kedua: orang yang kamu undang masuk untuk membantumu dalam pertengkaran bisa keluar sebagai pemenangnya. Sebelum mengundang pihak ketiga ke dalam konflik, entah investor, pengacara, atau orang berpengaruh, tanyakan apa yang ia inginkan dari konflik itu, bukan hanya apa yang ia tawarkan.
-
-Dan ketiga, kesepakatan yang belum selesai belum menjadi milikmu. Bahkan perusahaan sebesar LVMH bisa menemukan alasan untuk menawar ulang ketika keadaan berubah. Semakin besar nilai sebuah kesepakatan, semakin penting pasal yang mengatur apa yang terjadi kalau salah satu pihak berubah pikiran.
+> “Saya selalu suka menjadi nomor satu.”
+> — Wawancara dengan Financial Times, 2019

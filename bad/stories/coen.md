@@ -2,7 +2,7 @@
 
 *Kepulauan Banda, 1621. Rempah: memonopoli pala dengan senjata, atas izin negara.*
 
-### Kisahnya
+### Kisah
 
 Selama berabad-abad, pala dan bunga pala hanya tumbuh di satu tempat di dunia: Kepulauan Banda, gugusan pulau kecil di Laut Banda, Maluku. Di Eropa, rempah ini konon pernah lebih mahal daripada emas jika dihitung per berat, dipakai sebagai bumbu, obat, dan lambang kemewahan. Para pedagang Banda, dipimpin para tetua yang disebut *orang kaya*, menjualnya kepada siapa saja yang datang: pedagang Jawa, Melayu, Arab, Tiongkok, lalu Portugis, Inggris, dan Belanda.
 
@@ -18,7 +18,7 @@ Pada 1621, Coen memimpin sendiri armada ke Banda, dengan sekitar dua ribu tentar
 
 Tanah Banda kemudian dibagi menjadi puluhan kebun pala yang disebut *perken*, dan diserahkan kepada pemukim Belanda yang disebut *perkenier*. Kebun-kebun itu dikerjakan oleh budak yang didatangkan dari berbagai tempat di Asia. Mereka wajib menjual seluruh hasilnya kepada VOC, dengan harga tetap. VOC kini memegang monopoli pala dunia.
 
-### Konsekuensi
+### Harga
 
 Para direktur VOC, yang sebelumnya memerintahkan penaklukan Banda, menurut sejumlah sejarawan kemudian menyatakan keberatan atas caranya, tetapi tetap menerima hasilnya. Coen kembali ke Belanda, lalu diangkat lagi sebagai Gubernur Jenderal, dan meninggal di Batavia pada 1629, saat kota itu dikepung pasukan Mataram.
 
@@ -26,9 +26,17 @@ Dalam Perjanjian Breda pada 1667, Inggris resmi melepaskan klaimnya atas Pulau R
 
 Di Belanda, Coen lama dihormati sebagai pahlawan, dan patungnya berdiri di kota kelahirannya, Hoorn. Sejak akhir abad ke-20, patung itu terus diperdebatkan, dan pembantaian Banda kini lebih sering disebut dengan namanya yang sebenarnya.
 
-### Keuntungan
+### Hasil
 
 Monopoli pala dan cengkih membuat VOC menjadi salah satu perusahaan paling menguntungkan dalam sejarah. Selama hampir dua abad, VOC membagikan dividen yang tinggi kepada para pemegang sahamnya, dan kekayaan dari rempah ikut membiayai Zaman Keemasan Belanda: kanal-kanal Amsterdam, lukisan-lukisan besar, dan armada dagang yang menguasai lautan. Coen sendiri dikenang sebagai pendiri Batavia, kota yang kelak menjadi Jakarta.
+
+### Pelajaran
+
+"Legal" selalu berarti legal menurut aturan siapa. Piagam VOC sah di Belanda. Kontrak monopoli sah menurut VOC. Tidak satu pun dari aturan itu ditulis bersama orang Banda.
+
+Monopoli atas sumber daya yang langka, entah pala, minyak, nikel, atau data, selalu mengundang kekerasan, karena keuntungannya terlalu besar untuk dibagi. Ketika sebuah perusahaan diberi kekuasaan seperti negara, ia akan bertindak seperti negara, termasuk dalam berperang.
+
+Dan bagi kita yang hidup di negeri bekas jajahan, kisah ini juga mengingatkan bahwa sejarah yang kita warisi sering ditulis oleh pihak yang menang. Patung dan nama jalan bisa bertahan ratusan tahun lebih lama daripada ingatan tentang korbannya.
 
 ### Analisa Dark Triad
 
@@ -40,10 +48,13 @@ Monopoli pala dan cengkih membuat VOC menjadi salah satu perusahaan paling mengu
 
 **Kesimpulan:** Machiavellianisme dan psikopati yang kuat, didukung oleh izin resmi sebuah negara. Kisah Coen menunjukkan sisi paling gelap dari "jahat tapi legal": ketika hukum ditulis oleh pihak yang kuat, pembantaian pun bisa dibungkus sebagai penegakan kontrak.
 
-### Hikmah
+### Profil
 
-"Legal" selalu berarti legal menurut aturan siapa. Piagam VOC sah di Belanda. Kontrak monopoli sah menurut VOC. Tidak satu pun dari aturan itu ditulis bersama orang Banda.
+**Nama:** Jan Pieterszoon Coen
+**Lahir:** 8 Januari 1587, Hoorn, Belanda
+**Wafat:** 21 September 1629, Batavia
+**Jenis kelamin:** Laki-laki
+**Negara:** Belanda
 
-Monopoli atas sumber daya yang langka, entah pala, minyak, nikel, atau data, selalu mengundang kekerasan, karena keuntungannya terlalu besar untuk dibagi. Ketika sebuah perusahaan diberi kekuasaan seperti negara, ia akan bertindak seperti negara, termasuk dalam berperang.
-
-Dan bagi kita yang hidup di negeri bekas jajahan, kisah ini juga mengingatkan bahwa sejarah yang kita warisi sering ditulis oleh pihak yang menang. Patung dan nama jalan bisa bertahan ratusan tahun lebih lama daripada ingatan tentang korbannya.
+> “Jangan putus asa, jangan segan terhadap musuh-musuh Tuan, tidak ada apa pun di dunia ini yang dapat menghalangi atau mencelakakan kita, sebab Tuhan menyertai kita.”
+> — Surat kepada Heeren XVII, 1618

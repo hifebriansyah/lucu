@@ -1,3 +1,4 @@
+import { triadLevels, triadPng } from "./triad.js";
 // Word export, run in the browser from the print page: turns a book's naskah.md into an A5
 // .docx that follows the book layout in pages.css: 11 pt Literata on 16 pt leading, mirrored
 // margins (2 cm top/bottom/spine, 1.6 cm outside), parts on right-hand pages, running heads,
@@ -252,7 +253,8 @@ export async function exportDocx(book, loaded = []) {
       const [poster, side] = await Promise.all([picture(src, { fill: A5, shade: true }), picture(l.contentsArt)]);
       return { poster, side, trivia: l.contentsTrivia };
     }
-    return { facing: await picture(l.art) };
+    const levels = l.profile || l.html.includes('class="triad"') ? triadLevels(s.text) : null;
+    return { facing: await picture(l.art), end: !!l.artEnd, triad: levels ? await triadPng(levels, { grey }) : null };
   }));
 
   const pictureSection = (children, type = SectionType.NEXT_PAGE) => ({
@@ -276,7 +278,9 @@ export async function exportDocx(book, loaded = []) {
       ], SectionType.EVEN_PAGE));
     }
     const onRight = s.type === "title" || s.type === "part";
-    const onLeft = !!a.facing; // illustrated: text on the left, picture facing it
+    // Illustrated: text on the left, picture facing it. Book 3 (picture at the end, or a profile
+    // page): every story starts on the left too, so each takes an even number of pages.
+    const onLeft = !!a.facing || (s.type === "story" && /^###\s+Profil\s*$/m.test(s.text));
     const props = { page, type: i === 0 ? SectionType.NEXT_PAGE : onRight ? SectionType.ODD_PAGE : onLeft ? SectionType.EVEN_PAGE : SectionType.NEXT_PAGE };
     let headers, footers;
     if (s.type === "story") {
@@ -290,7 +294,23 @@ export async function exportDocx(book, loaded = []) {
       headers = { default: header(""), even: header("") };
       footers = { default: emptyFooter(), even: emptyFooter() };
     }
-    let children = s.type === "toc" ? renderToc(s) : renderBlocks(blocks(s.text), s);
+    // Book 3: a closing "### Profil" section becomes its own page (below), not story text.
+    const [storyText, profileText] = s.type === "story" ? s.text.split(/^###\s+Profil\s*$/m) : [s.text];
+    let children = s.type === "toc" ? renderToc(s) : renderBlocks(blocks(storyText), s);
+    const chart = a.triad && (() => {
+      const w = 80 * PX, h = w * a.triad.h / a.triad.w;
+      return new Paragraph({ alignment: AlignmentType.CENTER, spacing: { before: pt(8), after: pt(8), line: 240, lineRule: LineRuleType.AUTO }, keepLines: true,
+        children: [new ImageRun({ type: "png", data: a.triad.data, transformation: { width: Math.round(w), height: Math.round(h) } })] });
+    })();
+    let profile = null;
+    if (profileText) {
+      const name = (profileText.match(/^\*\*Nama:\*\*\s*(.+)$/m) || [])[1] || s.title.replace(/^\d+\.\s*/, "");
+      profile = [
+        new Paragraph({ alignment: AlignmentType.CENTER, spacing: { before: pt(30), after: pt(4) }, keepNext: true, children: runs(name, { size: 34, bold: true }) }),
+        ...(chart ? [chart] : []),
+        ...renderBlocks(blocks(profileText.replace(/^\*\*Nama:\*\*.*\n?/m, "")), s, { marked: true }),
+      ];
+    } else if (chart) children.push(chart); // no profile: the chart ends the story
     // Part: its picture fills the whole page behind a white poster title.
     if (s.type === "part" && a.poster) {
       const [main, sub = ""] = s.title.split(/:\s*/);
@@ -305,6 +325,8 @@ export async function exportDocx(book, loaded = []) {
       ];
     }
     out.push({ properties: props, headers, footers, children });
+    // Book 3: the profile on a left-hand page, facing the picture.
+    if (profile) out.push(pictureSection(profile, SectionType.EVEN_PAGE));
     // Illustrated story or front page: its picture on the next page.
     if (a.facing) out.push(pictureSection([new Paragraph({ alignment: AlignmentType.CENTER, spacing: { before: pt(6), ...AUTO_LINE }, children: [fitted(a.facing, TEXT_W, TEXT_H - 12 * PX)] })]));
     return out;

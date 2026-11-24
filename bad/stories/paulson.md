@@ -2,7 +2,7 @@
 
 *New York, 2007. Krisis: bertaruh rumah orang akan disita, dan ikut memilih rumahnya.*
 
-### Kisahnya
+### Kisah
 
 John Alfred Paulson lahir pada 1955 di New York, anak seorang imigran dari Ekuador. Ia lulus dari New York University dan sekolah bisnis Harvard, lalu bekerja di sebuah firma konsultan dan beberapa perusahaan investasi, termasuk Bear Stearns. Pada 1994, ia mendirikan dana investasinya sendiri, Paulson & Co., dengan modal yang kecil untuk ukuran Wall Street. Selama sepuluh tahun pertama, ia dikenal sebagai pengelola dana yang tekun tetapi biasa-biasa saja, spesialis taruhan pada merger perusahaan.
 
@@ -20,7 +20,7 @@ Materi pemasaran Abacus menyebut bahwa surat berharga di dalamnya dipilih oleh A
 
 Sejak pertengahan 2006, harga rumah di Amerika mulai turun, dan pada 2007 penurunannya makin tajam. Peminjam *subprime* gagal bayar dalam jumlah yang belum pernah terjadi. Surat berharga perumahan runtuh, dan pada 2008, krisis itu menjalar menjadi krisis keuangan global. Bank-bank besar bangkrut atau diselamatkan pemerintah. Jutaan keluarga Amerika kehilangan rumahnya karena disita.
 
-### Konsekuensi
+### Harga
 
 Dalam beberapa bulan setelah diterbitkan, hampir seluruh surat berharga di dalam Abacus turun peringkatnya. Para pembelinya kehilangan lebih dari satu miliar dolar.
 
@@ -30,9 +30,17 @@ Paulson tidak didakwa. Ia tidak menjual apa pun kepada para investor itu, dan ti
 
 Setelah itu, keberuntungannya tidak terulang. Beberapa taruhan besar Paulson berikutnya gagal, terutama taruhan pada emas dan pada sebuah perusahaan farmasi yang kemudian runtuh. Investor menarik dananya. Pada 2020, Paulson berhenti mengelola uang orang lain dan mengubah perusahaannya menjadi kantor yang hanya mengelola kekayaan pribadinya.
 
-### Keuntungan
+### Hasil
 
 Pada 2007, dana-dana Paulson meraup sekitar 15 miliar dolar dari runtuhnya pasar perumahan. Paulson pribadi mendapat sekitar 3,7 miliar dolar dalam satu tahun, salah satu penghasilan tahunan terbesar dalam sejarah keuangan. Seorang wartawan menulis buku tentangnya dengan judul *The Greatest Trade Ever*, perdagangan terbaik sepanjang masa. Ia kemudian menyumbangkan ratusan juta dolar, antara lain untuk sekolah teknik di Harvard dan untuk Central Park di New York.
+
+### Pelajaran
+
+Melihat sebuah krisis sebelum orang lain bukanlah kejahatan, dan sering kali justru membutuhkan keberanian melawan pendapat semua orang. Yang dipersoalkan dari kisah ini bukan taruhannya, tetapi ikut menyusun barang yang dijual kepada orang lain, sambil diam-diam bertaruh barang itu rusak.
+
+Saat membeli produk investasi apa pun, dari reksa dana sampai asuransi yang dikaitkan dengan investasi, tanyakan tiga hal: siapa yang menyusunnya, siapa yang menjualnya, dan siapa yang untung kalau kamu rugi. Kalau penjualnya tidak bisa menjawab, atau menjawab dengan istilah yang tidak kamu pahami, kamu sudah tahu jawabannya.
+
+Dan ingat bahwa peringkat AAA, label "aman", atau logo lembaga besar bukan jaminan. Pada 2007, produk dengan peringkat tertinggi termasuk yang paling cepat runtuh.
 
 ### Analisa Dark Triad
 
@@ -44,10 +52,13 @@ Pada 2007, dana-dana Paulson meraup sekitar 15 miliar dolar dari runtuhnya pasar
 
 **Kesimpulan:** Kisah Paulson adalah pengingat bahwa tidak semua kerugian yang menimpa orang lain lahir dari kepribadian yang gelap. Sebagian lahir dari sistem yang memisahkan pembuat produk dari penjualnya, dan penjualnya dari pembelinya, sehingga tidak ada yang merasa bertanggung jawab. Dalam sistem seperti itu, Machiavellianisme yang sedang pun sudah cukup untuk menghasilkan miliaran dolar.
 
-### Hikmah
+### Profil
 
-Melihat sebuah krisis sebelum orang lain bukanlah kejahatan, dan sering kali justru membutuhkan keberanian melawan pendapat semua orang. Yang dipersoalkan dari kisah ini bukan taruhannya, tetapi ikut menyusun barang yang dijual kepada orang lain, sambil diam-diam bertaruh barang itu rusak.
+**Nama:** John Alfred Paulson
+**Lahir:** 14 Desember 1955, Queens, New York
+**Wafat:** Masih hidup
+**Jenis kelamin:** Laki-laki
+**Negara:** Amerika Serikat
 
-Saat membeli produk investasi apa pun, dari reksa dana sampai asuransi yang dikaitkan dengan investasi, tanyakan tiga hal: siapa yang menyusunnya, siapa yang menjualnya, dan siapa yang untung kalau kamu rugi. Kalau penjualnya tidak bisa menjawab, atau menjawab dengan istilah yang tidak kamu pahami, kamu sudah tahu jawabannya.
-
-Dan ingat bahwa peringkat AAA, label "aman", atau logo lembaga besar bukan jaminan. Pada 2007, produk dengan peringkat tertinggi termasuk yang paling cepat runtuh.
+> “Ketika selisih bunga kredit melebar dan nilai surat-surat utang ini jatuh, kami meraup keuntungan besar bagi investor kami.”
+> — Kesaksian di DPR Amerika Serikat, 2008

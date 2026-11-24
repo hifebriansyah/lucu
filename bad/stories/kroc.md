@@ -2,7 +2,7 @@
 
 *California, 1961. Restoran: membeli nama, lalu mengubur pemiliknya.*
 
-### Kisahnya
+### Kisah
 
 Pada 1954, Ray Kroc berumur sekitar 52 tahun dan belum pernah benar-benar sukses. Ia pernah menjadi pianis, penjual gelas kertas, dan sekarang penjual keliling mesin Multimixer, alat yang bisa membuat lima milkshake sekaligus. Penjualannya sedang turun. Lalu ia melihat pesanan yang aneh: sebuah restoran kecil di San Bernardino, California, memesan delapan mesin. Restoran mana yang butuh empat puluh milkshake sekaligus?
 
@@ -20,7 +20,7 @@ Menurut keluarga McDonald, dalam negosiasi itu ada satu janji lagi: royalti tamb
 
 Ada satu hal lagi yang tidak termasuk dalam penjualan: restoran pertama di San Bernardino. Kedua bersaudara menyerahkannya kepada para karyawan lama mereka. Tetapi nama McDonald's sudah menjadi milik Kroc, sehingga restoran yang melahirkan nama itu harus berganti papan menjadi The Big M. Tak lama kemudian, Kroc membuka sebuah McDonald's tidak jauh dari situ.
 
-### Konsekuensi
+### Harga
 
 Pelanggan datang ke tempat yang bernama McDonald's. Beberapa tahun kemudian, The Big M tutup. Dua orang yang menciptakan sistem itu tidak lagi boleh memakai nama keluarga mereka sendiri untuk berjualan burger.
 
@@ -28,11 +28,19 @@ Sejarah resmi perusahaan pun ikut ditulis ulang. Selama puluhan tahun, McDonald'
 
 Kroc tidak pernah dituntut. Kontraknya sah, perusahaan propertinya sah, dan janji lisan yang tidak tercatat sangat sulit dibuktikan. Kisah ini baru dikenal luas jauh setelah ia meninggal, terutama lewat film *The Founder* (2016), yang membuat banyak penonton keluar bioskop dengan rasa tidak nyaman terhadap restoran favorit mereka.
 
-### Keuntungan
+### Hasil
 
 McDonald's menjadi jaringan restoran cepat saji dengan pendapatan terbesar di dunia, dengan puluhan ribu gerai di lebih dari seratus negara. Kroc meninggal pada 1984 dengan kekayaan sekitar 600 juta dolar, sebagai pemilik tim bisbol San Diego Padres. Istrinya, Joan Kroc, kemudian menyumbangkan sebagian besar warisan itu, termasuk wasiat sekitar 1,5 miliar dolar untuk Bala Keselamatan saat ia sendiri meninggal pada 2003.
 
 Bisnis tanah yang dibangun bersama Sonneborn tetap menjadi tulang punggung perusahaan. Royalti setengah persen yang menurut keluarga McDonald dijanjikan itu, kalau dibayar, akan bernilai ratusan juta dolar setiap tahun.
+
+### Pelajaran
+
+Jabat tangan tidak punya nilai di depan hakim. Kalau ada janji, apalagi janji bernilai ratusan juta, tulis dan tanda tangani. Orang yang menolak menulis janjinya sedang memberi tahu kamu sesuatu.
+
+Pelajaran kedua lebih tajam: kendali atas sebuah bisnis sering tidak ada di produknya, tetapi di asetnya. McDonald bersaudara memegang resep, sistem, dan nama. Kroc memegang tanah tempat semuanya berdiri. Saat terjadi konflik, yang memegang aset hampir selalu menang. Dalam kemitraan apa pun, tanyakan siapa yang memegang aset paling penting, dan di wilayah mana kontrakmu tidak berlaku.
+
+Dan yang paling pahit: nama yang kamu jual bisa dipakai untuk melawanmu. Saat menjual merek, usaha, atau nama keluarga, bayangkan pembelinya membuka toko di sebelah rumahmu besok pagi, lalu tanyakan apakah kamu masih mau menjualnya dengan harga itu.
 
 ### Analisa Dark Triad
 
@@ -44,10 +52,13 @@ Bisnis tanah yang dibangun bersama Sonneborn tetap menjadi tulang punggung perus
 
 **Kesimpulan:** Tiga sifat terlihat, dengan Machiavellianisme paling kuat. Kroc adalah contoh bagaimana ketiganya bisa bekerja sama: strategi untuk mengambil kendali, kebutuhan akan pengakuan untuk menulis ulang sejarah, dan kedinginan untuk menghabisi yang tersisa.
 
-### Hikmah
+### Profil
 
-Jabat tangan tidak punya nilai di depan hakim. Kalau ada janji, apalagi janji bernilai ratusan juta, tulis dan tanda tangani. Orang yang menolak menulis janjinya sedang memberi tahu kamu sesuatu.
+**Nama:** Raymond Albert Kroc
+**Lahir:** 5 Oktober 1902, Oak Park, Illinois
+**Wafat:** 14 Januari 1984, San Diego, California
+**Jenis kelamin:** Laki-laki
+**Negara:** Amerika Serikat
 
-Pelajaran kedua lebih tajam: kendali atas sebuah bisnis sering tidak ada di produknya, tetapi di asetnya. McDonald bersaudara memegang resep, sistem, dan nama. Kroc memegang tanah tempat semuanya berdiri. Saat terjadi konflik, yang memegang aset hampir selalu menang. Dalam kemitraan apa pun, tanyakan siapa yang memegang aset paling penting, dan di wilayah mana kontrakmu tidak berlaku.
-
-Dan yang paling pahit: nama yang kamu jual bisa dipakai untuk melawanmu. Saat menjual merek, usaha, atau nama keluarga, bayangkan pembelinya membuka toko di sebelah rumahmu besok pagi, lalu tanyakan apakah kamu masih mau menjualnya dengan harga itu.
+> “Soal persaingan, yah, kalau mereka sedang tenggelam, saya akan memasukkan selang ke mulut mereka. [...] Pesaing adalah orang yang harus kita pelajari untuk dibenci.”
+> — Wawancara dengan Los Angeles Times, 1974

@@ -44,6 +44,19 @@
 /* Story picture: on the right-hand page facing the story. It keeps the normal page margins, so
    it lines up with the text block on the facing page and leaves room for the page number;
    rounded corners are 41px, for "AI", with a white gap and then a toska border. */
+/* Book 3: the Dark Triad triangle chart (assets/triad.js), on the profile page that faces the
+   story's picture: the name, the chart, the biodata card and the quote, set in the middle. */
+.page .body figure.triad { margin: 10pt auto 0; width: 78mm; break-inside: avoid; }
+.page.profile .body { display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; }
+.page.profile h2.profile-name { font-size: 17pt; margin: 0 0 4pt; text-wrap: balance; }
+.page.profile figure.triad { margin: 0 auto 10pt; width: 92mm; }
+.page.profile dl.profile { display: grid; grid-template-columns: max-content 1fr; gap: 5pt 10pt; align-items: baseline; width: 100%; box-sizing: border-box; margin: 0 0 12pt; padding: 10pt 13pt; border: 1.2pt solid var(--siti); border-radius: 14pt; text-align: left; font-size: 9.5pt; line-height: 1.35; }
+.page.profile dl.profile dt { font: 600 7pt/1.5 var(--font-ui); letter-spacing: .12em; text-transform: uppercase; color: var(--siti); }
+.page.profile dl.profile dd { margin: 0; }
+.page.profile blockquote { margin: 0 3mm; padding: 0; border: 0; font-style: italic; font-size: 11pt; line-height: 1.5; text-wrap: balance; }
+.page.profile blockquote p { margin: 0 0 5pt; }
+.page.profile blockquote p.cite { font-style: normal; font-size: 8pt; line-height: 1.4; color: #6b665e; }
+.page .body figure.triad svg { display: block; width: 100%; height: auto; }
 .page.art .body { display: flex; flex-direction: column; gap: 7mm; } /* between the spill text and the picture */
 .page.art .body img { box-sizing: border-box; width: 100%; flex: 1 1 0; min-height: 0; object-fit: cover; display: block; border-radius: 41px; border: 1.5pt solid var(--siti); padding: 3pt; background: #fff; }
 /* A story only a few lines too long ends at the top of its picture page; the picture takes
@@ -147,4 +160,5 @@
    The paper keeps its color and the cover stays in color. */
 .bw .page:not(.cover-page) { --siti: var(--siti-grey, rgb(157, 157, 157)); }
 .bw .page:not(.cover-page) img { filter: grayscale(1); }
+.bw .page figure.triad svg { filter: grayscale(1); }
 .bw .page.part h1.poster { -webkit-text-stroke-color: #161616; filter: drop-shadow(0 0 3pt rgba(206, 206, 206, .85)) drop-shadow(0 2pt 2pt rgba(0, 0, 0, .6)); }

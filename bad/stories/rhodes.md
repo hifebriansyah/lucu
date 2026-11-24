@@ -1,8 +1,8 @@
 # Cecil Rhodes
 
-*Kimberley dan Matabeleland (kini Zimbabwe), 1888. Berlian dan tanah: satu tanda tangan raja, satu negeri berpindah tangan.*
+*Kimberley (Afrika Selatan) dan Matabeleland (kini Zimbabwe), 1888. Berlian dan tanah: satu tanda tangan raja, satu negeri berpindah tangan.*
 
-### Kisahnya
+### Kisah
 
 Cecil John Rhodes lahir pada 1853 di Bishop's Stortford, Inggris, anak seorang pendeta. Ia anak yang sakit-sakitan, dan pada usia tujuh belas tahun ia dikirim ke Afrika Selatan, ke perkebunan kapas milik kakaknya di Natal, dengan harapan udaranya menyehatkan. Setahun kemudian, kakak-beradik itu pindah ke tempat yang sedang membuat seluruh dunia bermimpi: ladang berlian di Kimberley.
 
@@ -20,19 +20,25 @@ Lobengula tidak bisa membaca bahasa Inggris. Isi dokumen diterjemahkan dan dijel
 
 Rhodes membawa kertas itu ke London. Pada 29 Oktober 1889, Ratu Victoria memberikan piagam kerajaan kepada perusahaan barunya, British South Africa Company. Piagam itu jauh melampaui hak menambang. Perusahaan boleh membentuk polisi, membuat perjanjian, membangun jalan dan rel, dan memerintah wilayah. Sebuah perusahaan swasta mendapat wewenang seperti negara, dan semuanya sah di bawah hukum Inggris.
 
-### Konsekuensi
+### Harga
 
 Lobengula segera sadar apa yang telah ia tanda tangani. Ia mengumumkan penangguhan konsesi di sebuah surat kabar, mengirim dua utusannya ke London untuk menghadap Ratu Victoria, dan menulis surat yang menolak dokumen itu. Penolakannya tiba terlambat. Di dalam negeri, ia menghukum mati induna Lotshe, penasihat yang mendukung konsesi, bersama keluarga dan pengikutnya, menurut catatan lebih dari tiga ratus orang.
 
-Pada 1890, rombongan pemukim bersenjata yang disebut Pioneer Column masuk ke Mashonaland dan mendirikan Fort Salisbury, kini Harare. Emas yang diharapkan ternyata tidak sebanyak bayangan, sehingga perusahaan beralih ke tanah dan ternak. Pada 1893, pasukan perusahaan menyerbu kerajaan Ndebele dengan senapan mesin Maxim. Lobengula melarikan diri dan meninggal tak lama kemudian, konon karena cacar. Pada 1895, wilayah itu resmi diberi nama Rhodesia, nama yang diambil dari nama Rhodes sendiri. Setahun kemudian, orang Ndebele dan Shona bangkit melawan, dan pemberontakan itu dipadamkan dengan keras.
+Pada 1890, rombongan pemukim bersenjata yang disebut Pioneer Column masuk ke Mashonaland dan mendirikan Fort Salisbury, kini Harare. Emas yang diharapkan ternyata tidak sebanyak bayangan, sehingga perusahaan beralih ke tanah dan ternak. Pada 1893, pasukan perusahaan menyerbu kerajaan Ndebele dengan senapan mesin Maxim. Lobengula melarikan diri dan meninggal tak lama kemudian, konon karena cacar. Pada 1895, British South Africa Company secara resmi menamai wilayah itu Rhodesia, dari nama Rhodes sendiri; pemerintah Inggris memakai nama itu secara resmi sejak 1898. Setahun kemudian, orang Ndebele dan Shona bangkit melawan, dan pemberontakan itu dipadamkan dengan keras.
 
 Rhodes sendiri tersandung oleh ambisinya. Saat menjabat perdana menteri Koloni Tanjung, ia ikut merencanakan Jameson Raid, serbuan bersenjata pada akhir 1895 yang bertujuan menggulingkan pemerintah Republik Transvaal. Serbuan itu gagal total, dan pada awal 1896 ia mengundurkan diri. Ia meninggal pada 1902, dalam usia 48 tahun.
 
 Sistem yang ia bangun bertahan jauh lebih lama. Rhodesia baru menjadi Zimbabwe yang merdeka pada 1980, setelah perang panjang. Pada 2015, mahasiswa di Universitas Cape Town menuntut patung Rhodes diturunkan, dan gerakan Rhodes Must Fall menyebar sampai ke Oxford.
 
-### Keuntungan
+### Hasil
 
 Rhodes menjadi salah satu orang terkaya di dunia pada zamannya, dengan kekayaan dari berlian, ladang emas di Transvaal, dan saham perusahaan bersertifikat kerajaan. De Beers mengendalikan pasar berlian dunia selama hampir satu abad. Ia mendapat sesuatu yang hampir tidak pernah didapat pengusaha: sebuah negara yang diberi nama sesuai namanya. Lewat wasiatnya, ia mendirikan beasiswa Rhodes di Oxford, yang masih berjalan sampai sekarang.
+
+### Pelajaran
+
+Selembar dokumen bisa lebih kuat daripada seribu senapan. Lobengula kalah bukan di medan perang pertama, melainkan di meja perundingan, ketika janji penting diucapkan secara lisan sementara hak yang diserahkan ditulis dengan rinci. Bagi siapa pun yang menandatangani kontrak, termasuk pemilik tanah adat atau warga desa yang didatangi perusahaan tambang dan perkebunan di Indonesia, aturannya sederhana: yang tidak tertulis tidak dijamin. Minta semua janji ditulis, dan baca dokumennya dengan penerjemah atau pengacara pilihan sendiri, bukan pilihan pihak lawan.
+
+Bagi pihak yang lebih kuat, kisah Rhodes adalah pengingat bahwa keabsahan hukum hanya bertahan selama orang menerima hukumnya. Konsesinya sah di London, tetapi tidak pernah dianggap adil di Bulawayo. Hampir seratus tahun kemudian negaranya berganti nama, dan beberapa dekade setelah itu patungnya diturunkan.
 
 ### Analisa Dark Triad
 
@@ -44,8 +50,13 @@ Rhodes menjadi salah satu orang terkaya di dunia pada zamannya, dengan kekayaan 
 
 **Kesimpulan:** Rhodes menggabungkan perhitungan Machiavellian dengan ambisi narsistik yang sangat besar. Ia tidak sekadar ingin kaya. Ia ingin namanya tertulis di peta, dan ia berhasil.
 
-### Hikmah
+### Profil
 
-Selembar dokumen bisa lebih kuat daripada seribu senapan. Lobengula kalah bukan di medan perang pertama, melainkan di meja perundingan, ketika janji penting diucapkan secara lisan sementara hak yang diserahkan ditulis dengan rinci. Bagi siapa pun yang menandatangani kontrak, termasuk pemilik tanah adat atau warga desa yang didatangi perusahaan tambang dan perkebunan di Indonesia, aturannya sederhana: yang tidak tertulis tidak dijamin. Minta semua janji ditulis, dan baca dokumennya dengan penerjemah atau pengacara pilihan sendiri, bukan pilihan pihak lawan.
+**Nama:** Cecil John Rhodes
+**Lahir:** 5 Juli 1853, Bishop's Stortford, Inggris
+**Wafat:** 26 Maret 1902, Muizenberg, Koloni Tanjung
+**Jenis kelamin:** Laki-laki
+**Negara:** Inggris
 
-Bagi pihak yang lebih kuat, kisah Rhodes adalah pengingat bahwa keabsahan hukum hanya bertahan selama orang menerima hukumnya. Konsesinya sah di London, tetapi tidak pernah dianggap adil di Bulawayo. Seratus tahun kemudian, negaranya berganti nama dan patungnya diturunkan.
+> “Saya berpendapat bahwa kita adalah ras terbaik di dunia, dan semakin luas bagian dunia yang kita huni, semakin baik bagi umat manusia.”
+> — "Confession of Faith", 1877

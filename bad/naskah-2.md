@@ -77,7 +77,7 @@ Jilid pertama buku ini berisi tujuh belas kisah tentang orang-orang yang menjadi
 
 *Zaman Dulu* berisi kisah dari masa ketika aturannya ditulis oleh pihak yang kuat: penjarahan keraton Yogyakarta, Tanam Paksa, candu yang dijual secara resmi, pemogokan yang dipatahkan dengan senjata, juara maraton Olimpiade yang menang dengan racun tikus, dan para eksekutif yang memecat ribuan orang di hari harga saham naik. *Zaman Sekarang* berisi kisah tentang monopoli cengkih, obat penghilang rasa sakit yang membuat kecanduan, klub sepak bola yang dibeli dengan utangnya sendiri, dan harga obat yang naik pelan-pelan sampai enam kali lipat. Dan *Melewati Batas Legal* berisi kisah orang-orang yang tidak berhenti di garis hukum, termasuk satu kisah dari Indonesia, dan apa yang menunggu mereka di sana.
 
-Setiap kisah disusun dengan urutan yang sama: kisahnya, konsekuensinya, keuntungannya, analisa Dark Triad, dan hikmah yang bisa kita ambil. Analisa itu mencoba menjawab satu pertanyaan: apakah perilaku mereka menunjukkan sifat-sifat gelap yang dikenal dalam psikologi, atau apakah orang biasa pun bisa sampai ke sana?
+Setiap kisah disusun dengan urutan yang sama: kisahnya, harga yang harus dibayar, hasil yang didapat, pelajaran yang bisa kita ambil, lalu analisa Dark Triad. Analisa itu mencoba menjawab satu pertanyaan: apakah perilaku mereka menunjukkan sifat-sifat gelap yang dikenal dalam psikologi, atau apakah orang biasa pun bisa sampai ke sana?
 
 Tujuan buku ini bukan untuk ditiru, dan bukan juga sekadar untuk dibenci. Kalau kita paham cara mereka berpikir dan cara mereka menang, kita jadi lebih sulit dikalahkan dengan cara yang sama, dan lebih cepat sadar kalau kita sendiri mulai bergeser ke arah mereka.
 
@@ -109,7 +109,7 @@ Analisa dalam buku ini tidak dimaksudkan sebagai diagnosis. Tidak ada satu pun t
 
 *Yogyakarta, 1812. Penaklukan: menyerbu keraton, membawa pulang hartanya, lalu menulis sejarah dari naskah-naskahnya.*
 
-### Kisahnya
+### Kisah
 
 Pada Agustus 1811, armada Inggris mendarat di dekat Batavia. Dalam waktu sekitar enam minggu, pasukan Belanda-Prancis di Jawa menyerah. Pulau itu kini berada di bawah Inggris, lebih tepatnya di bawah Kongsi Dagang Inggris di India, East India Company. Untuk memerintahnya, Gubernur Jenderal India, Lord Minto, menunjuk seorang pegawai muda yang ambisius: Thomas Stamford Raffles.
 
@@ -127,7 +127,7 @@ Sultan Hamengkubuwono II ditangkap. Menurut Carey, penangkapannya dilakukan deng
 
 Semua itu sah menurut aturan zamannya. Penaklukan adalah hak pemenang perang, dan rampasan perang dibagi menurut aturan resmi angkatan bersenjata Inggris. Tidak ada hukum internasional yang melarang sebuah kongsi dagang menyerbu keraton yang menolak tunduk.
 
-### Konsekuensi
+### Harga
 
 Setelah menundukkan keraton, Raffles memperkenalkan sistem baru: sewa tanah, atau *landrent*. Teorinya, semua tanah adalah milik negara sebagai pewaris para raja, sehingga petani wajib membayar sewa untuk tanah yang mereka garap. Besarnya ditentukan menurut kesuburan tanah, dan sering disebut sekitar dua perlima hasil panen. Mula-mula sewa ditarik per desa, lalu mulai 1814 diubah menjadi per orang. Di atas kertas, petani menjadi lebih bebas. Dalam praktiknya, mereka harus membayar dengan uang yang jarang mereka punya, dan penarikannya tetap bergantung pada kepala desa dan pejabat setempat. Untuk menutup kas yang terus kurang, pemerintahan Raffles juga menjual tanah-tanah negara kepada pembeli swasta, dan menurut penulis riwayat hidupnya, Raffles sendiri ikut membeli tanah di Sukabumi bersama beberapa rekan.
 
@@ -135,23 +135,13 @@ Pemerintahan Raffles di Jawa tidak menguntungkan bagi East India Company. Gilles
 
 Raffles pulang ke Inggris dan pada 1817 menerbitkan *The History of Java*, dua jilid tebal tentang sejarah, bahasa, sastra, dan alam Jawa. Buku itu dipuji luas dan menjadikannya tokoh terpandang. Sebagian bahannya berasal dari naskah-naskah Jawa yang dikumpulkan oleh dirinya dan para pembantunya, termasuk dari koleksi yang diambil dari keraton. Ia lalu ditugaskan di Bengkulu, mendirikan Singapura sebagai pos dagang Inggris pada 1819, dan meninggal di Inggris pada 1826, sehari sebelum ulang tahunnya yang ke-45.
 
-Hamengkubuwono II baru kembali ke Jawa bertahun-tahun kemudian. Naskah-naskah keraton tidak pernah kembali. Sebagian besar kini tersimpan di British Library dan lembaga lain di Inggris. Pada 2018, British Library dan Keraton Yogyakarta memulai proyek digitalisasi, dan pada Maret 2019 salinan digital 75 naskah diserahkan kepada Sultan Hamengkubuwono X. Pada 2023, salinan digital sekitar 120 naskah lagi diserahkan lewat kerja sama dengan Perpustakaan Nasional. Naskah aslinya masih di London.
+Hamengkubuwono II baru kembali ke Jawa bertahun-tahun kemudian. Naskah-naskah keraton tidak pernah kembali. Sebagian besar kini tersimpan di British Library dan lembaga lain di Inggris. Pada 2018, British Library dan Keraton Yogyakarta memulai proyek digitalisasi, dan pada Maret 2019 salinan digital 75 naskah diserahkan kepada Sultan Hamengkubuwono X. Pada 2023, British Library bersama Perpustakaan Nasional menyelesaikan digitalisasi 120 naskah Jawa lain dari koleksinya, dan salinannya diserahkan kepada Sultan pada November 2023. Naskah aslinya masih di London.
 
-### Keuntungan
+### Hasil
 
-Raffles mendapat gelar kebangsawanan dari raja Inggris pada 1817, nama besar sebagai ilmuwan, dan tempat dalam sejarah sebagai pendiri Singapura. Namanya diabadikan pada hotel, sekolah, rumah sakit, bahkan bunga raksasa *Rafflesia arnoldii*. Para perwira yang menyerbu keraton mendapat bagian rampasan. Dan Inggris memperoleh koleksi naskah Jawa yang menjadi bahan penelitian para sarjana selama dua abad.
+Raffles dianugerahi gelar ksatria (Sir) oleh Pangeran Regent Inggris pada 1817, nama besar sebagai ilmuwan, dan tempat dalam sejarah sebagai pendiri Singapura. Namanya diabadikan pada hotel, sekolah, rumah sakit, bahkan bunga raksasa *Rafflesia arnoldii*. Para perwira yang menyerbu keraton mendapat bagian rampasan. Dan Inggris memperoleh koleksi naskah Jawa yang menjadi bahan penelitian para sarjana selama dua abad.
 
-### Analisa Dark Triad
-
-**Narsisisme: kuat.** Raffles sangat peduli pada nama dan warisannya. Ia menulis buku besar, menamai temuan-temuan dengan namanya, dan menampilkan dirinya sebagai pembaharu yang tercerahkan, yang membebaskan orang Jawa dari raja-raja mereka sendiri. Citra itu bertahan lama. Baru sejak akhir abad ke-20, dan terutama menjelang peringatan dua ratus tahun Singapura pada 2019, sisi gelapnya lebih sering dibicarakan.
-
-**Machiavellianisme: kuat.** Ia memakai cita-cita yang terdengar mulia, seperti menghapus kerja paksa dan perbudakan, sambil menyingkirkan penguasa Jawa yang menghalangi kendali Inggris. Penyerbuan keraton dibingkai sebagai penertiban seorang raja yang membangkang. Hasilnya, ia mendapat kekuasaan, wilayah, dan bahan ilmu sekaligus.
-
-**Psikopati: lemah.** Tidak ada catatan bahwa Raffles menikmati kekerasan. Ia tampak tulus mencintai ilmu dan alam. Tetapi ia juga tidak tampak terganggu oleh penjarahan yang terjadi di bawah perintahnya, atau oleh kenyataan bahwa karya ilmiahnya ikut bersandar pada rampasan.
-
-**Kesimpulan:** Narsisisme dan Machiavellianisme yang bekerja bersama. Raffles menunjukkan bahwa penjarahan bisa dikenang sebagai ilmu pengetahuan, selama yang menulis sejarahnya adalah pihak yang menjarah.
-
-### Hikmah
+### Pelajaran
 
 Pengetahuan yang dikumpulkan dari barang rampasan tetap berutang kepada pemiliknya. Banyak museum dan perpustakaan besar dunia menyimpan benda dari Nusantara yang dibawa lewat perang. Digitalisasi adalah langkah baik, tetapi bukan pengganti pengembalian, dan tidak menghapus pertanyaan tentang bagaimana benda itu berpindah tangan.
 
@@ -159,13 +149,34 @@ Hati-hati juga dengan pembaharu yang datang membawa kebebasan sambil membawa pas
 
 Dan bagi pembaca Indonesia, ini pengingat bahwa arsip adalah kekuasaan. Siapa yang menyimpan naskah, dialah yang menulis sejarah. Menjaga, menyalin, dan membuka arsip kita sendiri adalah cara agar cerita tentang kita tidak hanya ditulis oleh orang lain.
 
+### Analisa Dark Triad
+
+**Narsisisme: kuat.** Raffles sangat peduli pada nama dan warisannya. Ia menulis buku besar, membiarkan namanya diabadikan pada temuan-temuan ilmiah, dan menampilkan dirinya sebagai pembaharu yang tercerahkan, yang membebaskan orang Jawa dari raja-raja mereka sendiri. Citra itu bertahan lama. Baru sejak akhir abad ke-20, dan terutama menjelang peringatan dua ratus tahun Singapura pada 2019, sisi gelapnya lebih sering dibicarakan.
+
+**Machiavellianisme: kuat.** Ia memakai cita-cita yang terdengar mulia, seperti menghapus kerja paksa dan perbudakan, sambil menyingkirkan penguasa Jawa yang menghalangi kendali Inggris. Penyerbuan keraton dibingkai sebagai penertiban seorang raja yang membangkang. Hasilnya, ia mendapat kekuasaan, wilayah, dan bahan ilmu sekaligus.
+
+**Psikopati: lemah.** Tidak ada catatan bahwa Raffles menikmati kekerasan. Ia tampak tulus mencintai ilmu dan alam. Tetapi ia juga tidak tampak terganggu oleh penjarahan yang terjadi di bawah perintahnya, atau oleh kenyataan bahwa karya ilmiahnya ikut bersandar pada rampasan.
+
+**Kesimpulan:** Narsisisme dan Machiavellianisme yang bekerja bersama. Raffles menunjukkan bahwa penjarahan bisa dikenang sebagai ilmu pengetahuan, selama yang menulis sejarahnya adalah pihak yang menjarah.
+
+### Profil
+
+**Nama:** Thomas Stamford Raffles
+**Lahir:** 5 Juli 1781, di atas kapal lepas pantai Jamaika
+**Wafat:** 5 Juli 1826, Mill Hill, London
+**Jenis kelamin:** Laki-laki
+**Negara:** Inggris
+
+> “Untuk pertama kalinya kekuasaan Eropa berdiri paling tinggi di Jawa. Kini kami dapat mendikte syarat-syarat hubungan di masa depan antara pemerintah Inggris dan pemerintahan pribumi.”
+> — Surat kepada Lord Minto setelah penyerbuan keraton, 1812
+
 <div style="page-break-after: always;"></div>
 
 ## 2. Van den Bosch
 
 *Jawa, 1830. Kebijakan: memaksa petani menanam untuk mengisi kas negeri lain.*
 
-### Kisahnya
+### Kisah
 
 Pada 1830, keuangan kerajaan Belanda berada di ambang kebangkrutan. Perang Jawa, perlawanan Pangeran Diponegoro yang berlangsung dari 1825 sampai 1830, telah menghabiskan biaya yang sangat besar. Utang Belanda menumpuk. Dan tak lama setelah Tanam Paksa dimulai, Belgia memberontak dan memisahkan diri, sehingga biaya mempertahankan tentara siaga perang sampai 1839 makin menguras kas negara.
 
@@ -179,7 +190,7 @@ Dalam praktiknya, aturan di atas kertas jarang dipatuhi. Banyak desa harus menye
 
 Penyebabnya ada pada satu rancangan yang cerdik. Para pejabat Belanda dan para bupati serta kepala desa pribumi yang menjalankan sistem itu diberi *cultuurprocenten*, bonus berupa persentase dari hasil panen yang dikumpulkan di wilayah mereka. Semakin banyak yang diperas dari petani, semakin besar bonus para pejabat. Sistem itu tidak perlu memerintahkan kekejaman. Ia cukup memberi hadiah kepada orang yang paling keras memeras.
 
-### Konsekuensi
+### Harga
 
 Bagi Belanda, Tanam Paksa sukses besar. Uang mengalir dari Jawa ke kas negara Belanda dalam jumlah yang belum pernah terjadi. Antara 1831 dan 1877, keuntungan bersih yang dikirim ke Belanda, yang disebut *batig slot*, mencapai lebih dari delapan ratus juta gulden, rata-rata sekitar sepertiga dari seluruh pendapatan negara Belanda, dan pada puncaknya di tahun 1850-an lebih dari separuhnya. Uang itu dipakai untuk melunasi utang, menurunkan pajak di Belanda, dan membangun jalur kereta api di sana.
 
@@ -187,9 +198,17 @@ Bagi Jawa, akibatnya bencana. Ketika sawah ditinggalkan demi tanaman ekspor, per
 
 Pada 1860, seorang mantan pejabat Belanda yang pernah bertugas di Lebak, Banten, Eduard Douwes Dekker, menerbitkan novel *Max Havelaar* dengan nama samaran Multatuli. Novel itu menggambarkan pemerasan petani Jawa oleh pejabat pribumi dengan restu pejabat Belanda, dan mengguncang pembaca di Belanda. Bersama tekanan kaum liberal yang ingin membuka Jawa bagi perusahaan swasta, kritik itu mendorong pemerintah Belanda menghapus Tanam Paksa secara bertahap, terutama setelah Undang-Undang Agraria 1870, walaupun tanam paksa kopi baru benar-benar berakhir pada awal abad ke-20.
 
-### Keuntungan
+### Hasil
 
 Van den Bosch menjabat sebagai Gubernur Jenderal hanya sekitar tiga tahun, lalu kembali ke Belanda dan menjadi Menteri Urusan Koloni. Raja Belanda mengangkatnya menjadi baron pada 1835 dan graaf pada 1839, dan ia dikenang di negerinya sebagai penyelamat keuangan negara. Belanda sendiri memperoleh kekayaan yang ikut membiayai pembangunan negerinya pada abad ke-19.
+
+### Pelajaran
+
+Bacalah sebuah kebijakan dari insentifnya, bukan dari tujuannya. Aturan Tanam Paksa di atas kertas terdengar adil. Yang menentukan nasib jutaan petani adalah bonus persentase yang diberikan kepada para pejabat. Hal yang sama berlaku pada target penjualan, komisi, dan bonus di perusahaan mana pun: orang akan melakukan apa yang dibayar, bukan apa yang ditulis.
+
+Ketika pelaksanaan diserahkan kepada perantara yang dibayar dari hasil perasan, tidak ada yang merasa bertanggung jawab. Pemerintah menunjuk pejabat lokal, pejabat lokal menunjuk aturan, dan petani yang kelaparan tidak punya siapa pun untuk disalahkan.
+
+Dan kadang, satu buku bisa mengubah sejarah. *Max Havelaar* tidak menghapus Tanam Paksa sendirian, tetapi ia membuat orang di negeri penjajah tidak bisa lagi berpura-pura tidak tahu.
 
 ### Analisa Dark Triad
 
@@ -201,13 +220,13 @@ Van den Bosch menjabat sebagai Gubernur Jenderal hanya sekitar tiga tahun, lalu 
 
 **Kesimpulan:** Tanam Paksa adalah contoh paling besar di buku ini tentang bagaimana Machiavellianisme bisa dibangun menjadi sebuah sistem. Seperti kisah EpiPen di bagian Zaman Sekarang, kekejamannya tidak membutuhkan satu orang yang jahat, cukup aturan yang memberi hadiah kepada orang yang paling tega.
 
-### Hikmah
+### Profil
 
-Bacalah sebuah kebijakan dari insentifnya, bukan dari tujuannya. Aturan Tanam Paksa di atas kertas terdengar adil. Yang menentukan nasib jutaan petani adalah bonus persentase yang diberikan kepada para pejabat. Hal yang sama berlaku pada target penjualan, komisi, dan bonus di perusahaan mana pun: orang akan melakukan apa yang dibayar, bukan apa yang ditulis.
-
-Ketika pelaksanaan diserahkan kepada perantara yang dibayar dari hasil perasan, tidak ada yang merasa bertanggung jawab. Pemerintah menunjuk pejabat lokal, pejabat lokal menunjuk aturan, dan petani yang kelaparan tidak punya siapa pun untuk disalahkan.
-
-Dan kadang, satu buku bisa mengubah sejarah. *Max Havelaar* tidak menghapus Tanam Paksa sendirian, tetapi ia membuat orang di negeri penjajah tidak bisa lagi berpura-pura tidak tahu.
+**Nama:** Johannes van den Bosch
+**Lahir:** 2 Februari 1780, Herwijnen, Belanda
+**Wafat:** 28 Januari 1844, Den Haag, Belanda
+**Jenis kelamin:** Laki-laki
+**Negara:** Belanda
 
 <div style="page-break-after: always;"></div>
 
@@ -215,7 +234,7 @@ Dan kadang, satu buku bisa mengubah sejarah. *Max Havelaar* tidak menghapus Tana
 
 *Semarang, 1890-an. Candu dan gula: menjadi salah satu orang terkaya di Asia Tenggara dari izin resmi.*
 
-### Kisahnya
+### Kisah
 
 Oei Tiong Ham lahir pada 1866 di Semarang, Jawa Tengah. Ayahnya, Oei Tjie Sien, adalah perantau dari Fujian, Tiongkok, yang konon melarikan diri ke Jawa sekitar 1858 karena terlibat Pemberontakan Taiping, lalu pada 1863 mendirikan sebuah perusahaan dagang bernama Kian Gwan. Perusahaan itu berdagang barang dari Tiongkok dan hasil bumi seperti beras, gula, tembakau, dan gambir.
 
@@ -231,7 +250,7 @@ Bisnis itu adalah gula. Jawa saat itu salah satu penghasil gula tebu terbesar di
 
 Ia juga pandai bergaul dengan kekuasaan. Ia menjabat *Luitenant der Chinezen*, salah satu pemimpin masyarakat Tionghoa di Semarang, lalu diberi pangkat kehormatan *Majoor* tituler. Pada 1889, lewat pengacara Belandanya, ia mendapat izin berpakaian ala Eropa, dan disebut sebagai orang Tionghoa pertama di Semarang yang memotong kuncirnya. Ia membangun rumah-rumah besar di Semarang dengan taman yang sangat luas. Menurut berbagai catatan, ia memiliki banyak istri dan puluhan anak.
 
-### Konsekuensi
+### Harga
 
 Sekitar 1920, Oei Tiong Ham pindah ke Singapura, yang saat itu jajahan Inggris. Menurut banyak penulis sejarah, alasannya adalah untuk menghindari pajak Hindia Belanda dan hukum warisnya, yang mewajibkan harta dibagi rata di antara para ahli waris. Ia meninggal di Singapura pada 1924. Kekayaannya, menurut perkiraan yang sering dikutip, sekitar dua ratus juta gulden, menjadikannya salah satu orang terkaya di Asia Tenggara pada masanya.
 
@@ -239,9 +258,17 @@ Kerajaan bisnisnya, yang kemudian dikenal sebagai Oei Tiong Ham Concern, bertaha
 
 Tidak pernah ada yang menuntut Oei Tiong Ham atas bisnis candunya. Bisnis itu sah, dan negara yang mengizinkannya adalah penerima keuntungan terbesar.
 
-### Keuntungan
+### Hasil
 
 Oei Tiong Ham membangun apa yang sering disebut konglomerat modern pertama di Asia Tenggara, jauh sebelum istilah itu dikenal di Indonesia. Anak-anaknya bersekolah di Eropa, dan salah satu putrinya, Oei Hui-lan, menikah dengan diplomat terkenal Tiongkok, Wellington Koo, dan dikenal sebagai salah satu perempuan paling modis di dunia diplomatik.
+
+### Pelajaran
+
+Bisnis yang sah belum tentu bisnis yang baik, terutama ketika keuntungannya datang dari kecanduan orang lain. Hari ini bentuknya bisa berbeda, dari rokok sampai judi online dan pinjaman berbunga tinggi, tetapi pertanyaannya sama: apakah bisnis ini untung karena pelanggannya terbantu, atau karena mereka tidak bisa berhenti?
+
+Ketika negara menjadi penerima keuntungan dari sebuah bisnis yang merusak, jangan berharap negara akan cepat melarangnya. Pemerintah kolonial butuh puluhan tahun untuk berhenti menyewakan candu, dan setelah itu justru menjualnya sendiri.
+
+Dan perhatikan cara Oei Tiong Ham bertahan: ia tidak menunggu aturan berubah untuk ikut berubah. Bagi pebisnis yang jujur pun, pelajaran ini berlaku. Kalau bisnismu bergantung pada sebuah izin atau celah, siapkan jalan keluarnya sebelum izin itu dicabut.
 
 ### Analisa Dark Triad
 
@@ -253,13 +280,13 @@ Oei Tiong Ham membangun apa yang sering disebut konglomerat modern pertama di As
 
 **Kesimpulan:** Machiavellianisme yang sangat terampil. Kisah Oei Tiong Ham juga menunjukkan siapa sebenarnya pemain terbesar dalam bisnis candu: bukan pengusaha yang menyewa haknya, melainkan negara yang melelangnya.
 
-### Hikmah
+### Profil
 
-Bisnis yang sah belum tentu bisnis yang baik, terutama ketika keuntungannya datang dari kecanduan orang lain. Hari ini bentuknya bisa berbeda, dari rokok sampai judi online dan pinjaman berbunga tinggi, tetapi pertanyaannya sama: apakah bisnis ini untung karena pelanggannya terbantu, atau karena mereka tidak bisa berhenti?
-
-Ketika negara menjadi penerima keuntungan dari sebuah bisnis yang merusak, jangan berharap negara akan cepat melarangnya. Pemerintah kolonial butuh puluhan tahun untuk berhenti menyewakan candu, dan setelah itu justru menjualnya sendiri.
-
-Dan perhatikan cara Oei Tiong Ham bertahan: ia tidak menunggu aturan berubah untuk ikut berubah. Bagi pebisnis yang jujur pun, pelajaran ini berlaku. Kalau bisnismu bergantung pada sebuah izin atau celah, siapkan jalan keluarnya sebelum izin itu dicabut.
+**Nama:** Oei Tiong Ham
+**Lahir:** 19 November 1866, Semarang
+**Wafat:** 6 Juni 1924, Singapura
+**Jenis kelamin:** Laki-laki
+**Negara:** Hindia Belanda (kini Indonesia)
 
 <div style="page-break-after: always;"></div>
 
@@ -267,7 +294,7 @@ Dan perhatikan cara Oei Tiong Ham bertahan: ia tidak menunggu aturan berubah unt
 
 *Homestead, Pennsylvania, 1892. Baja: pagar kawat, detektif bayaran, dan serikat buruh yang dipatahkan.*
 
-### Kisahnya
+### Kisah
 
 Henry Clay Frick lahir pada 1849 di sebuah desa pertanian di Pennsylvania barat. Ia mulai sebagai juru tulis dan pemegang buku, lalu meminjam uang untuk membangun tungku pembakar batu bara menjadi kokas, bahan bakar yang dibutuhkan pabrik-pabrik baja di sekitar Pittsburgh. Ia membeli tambang dan tungku saat harga jatuh, lalu menunggu harga naik kembali. Menurut kisah yang sering diceritakan, ia sudah menjadi jutawan sebelum usia tiga puluh. Dalam urusan buruh, reputasinya keras: ketika pekerja tambangnya mogok, ia mendatangkan pekerja pengganti dan penjaga bersenjata.
 
@@ -283,21 +310,27 @@ Frick sudah menyiapkan jawabannya. Ia menyewa sekitar tiga ratus detektif bersen
 
 Menyewa tentara swasta untuk menjaga milik perusahaan dan mengunci pabrik saat kontrak habis tidak melanggar hukum saat itu.
 
-### Konsekuensi
+### Harga
 
-Atas permintaan Frick, gubernur Pennsylvania mengirim sekitar 8.500 tentara milisi negara bagian. Pabrik diambil alih tentara, dan dalam beberapa minggu mesin kembali berjalan dengan pekerja pengganti yang didatangkan dari luar.
+Atas desakan Frick dan sheriff setempat, gubernur Pennsylvania mengirim sekitar 8.500 tentara milisi negara bagian. Pabrik diambil alih tentara, dan dalam beberapa minggu mesin kembali berjalan dengan pekerja pengganti yang didatangkan dari luar.
 
-Pada 23 Juli, seorang anarkis muda bernama Alexander Berkman, yang tidak punya hubungan dengan serikat, masuk ke kantor Frick di Pittsburgh, menembaknya dua kali, dan menusuknya. Frick selamat. Menurut para penulis biografinya, ia bersikeras menyelesaikan pekerjaannya hari itu, dan dalam waktu sekitar seminggu ia sudah kembali bekerja. Berkman dihukum 22 tahun penjara dan menjalani sekitar 14 tahun. Serangan itu justru menghancurkan simpati publik terhadap para pemogok, yang tidak ada hubungannya dengan Berkman.
+Pada 23 Juli, seorang anarkis muda bernama Alexander Berkman, yang tidak punya hubungan dengan serikat, masuk ke kantor Frick di Pittsburgh, menembaknya dua kali, dan menusuknya. Frick selamat. Menurut para penulis biografinya, ia bersikeras menyelesaikan pekerjaannya hari itu, dan dalam waktu sekitar satu sampai beberapa minggu ia sudah kembali bekerja. Berkman dihukum 22 tahun penjara dan menjalani sekitar 14 tahun. Serangan itu justru menghancurkan simpati publik terhadap para pemogok, yang tidak ada hubungannya dengan Berkman.
 
 Pada 20 November 1892, serikat mengakui kekalahan. Para pemimpin mogok didakwa dengan tuduhan berat, termasuk pembunuhan, tetapi juri yang bersimpati tidak menghukum seorang pun. Meski begitu, banyak dari mereka masuk daftar hitam dan tidak pernah diterima kembali. Menurut PBS, setelah itu perusahaan memotong upah, memberlakukan hari kerja dua belas jam, dan menghapus ratusan pekerjaan. Serikat buruh baja nyaris lenyap dari pabrik-pabrik baja besar di wilayah Pittsburgh selama sekitar empat puluh tahun berikutnya.
 
 Carnegie, yang tidak berada di sana, menanggung reputasi yang rusak. Surat kabar mengejeknya sebagai orang yang berkhotbah tentang pekerja sambil bersembunyi di kastil Skotlandia. Ia kemudian berusaha menjaga jarak dari peristiwa itu. Dalam surat kepada politisi Inggris William Gladstone, ia menulis bahwa pabrik-pabrik itu "not worth one drop of human blood", tidak sebanding dengan setetes darah manusia. Dalam otobiografinya, ia menyebut Homestead sebagai luka yang paling dalam dalam hidupnya. Tetapi surat-suratnya sebelum dan selama mogok menunjukkan bahwa ia mengetahui dan menyetujui garis keras Frick.
 
-### Keuntungan
+### Hasil
 
-Tanpa serikat, perusahaan bebas menentukan upah dan jam kerja, dan laba Carnegie Steel melonjak pada tahun-tahun berikutnya. Frick menjadi salah satu orang terkaya di Amerika. Hubungannya dengan Carnegie pecah pada 1899 dan berakhir di pengadilan, tetapi ia keluar dengan saham bernilai besar. Pada 1901, Carnegie menjual perusahaannya kepada bankir J.P. Morgan seharga sekitar 480 juta dolar, dan perusahaan itu menjadi bagian dari U.S. Steel.
+Tanpa serikat, perusahaan bebas menentukan upah dan jam kerja, dan laba Carnegie Steel melonjak pada tahun-tahun berikutnya. Frick menjadi salah satu orang terkaya di Amerika. Hubungannya dengan Carnegie pecah pada 1899. Frick menggugat pada awal 1900, lalu keduanya berdamai di luar pengadilan, dan ia keluar dengan saham bernilai besar. Pada 1901, Carnegie menjual perusahaannya kepada bankir J.P. Morgan seharga sekitar 480 juta dolar, dan perusahaan itu menjadi bagian dari U.S. Steel.
 
 Carnegie kemudian menyumbangkan sebagian besar hartanya, sekitar 350 juta dolar, untuk ribuan perpustakaan umum, universitas, dan yayasan. Frick mengumpulkan lukisan-lukisan terbaik Eropa, dan rumahnya di New York kini menjadi museum The Frick Collection. Konon, ketika Carnegie yang sudah tua meminta bertemu untuk berdamai, Frick menolak dengan kasar, tetapi cerita itu tidak bisa dipastikan. Frick meninggal pada 1919, tahun yang sama dengan Carnegie.
+
+### Pelajaran
+
+Bagi pekerja, Homestead menunjukkan bahwa kekuatan tawar bukan hanya soal jumlah orang, tetapi juga dukungan publik. Satu peluru dari orang luar bisa menghapus simpati yang dibangun berbulan-bulan. Gerakan buruh, termasuk di Indonesia, hanya kuat selama tetap terlihat sah di mata masyarakat.
+
+Bagi pemilik dan pemimpin perusahaan, pelajarannya ada pada Carnegie. Menyerahkan keputusan keras kepada wakil tidak menghapus tanggung jawab pemiliknya. Kalau kamu menyetujui rencananya, kamu ikut memilikinya, sejauh apa pun kamu berlibur. Dan sumbangan sebesar apa pun di kemudian hari tidak sepenuhnya menghapus pertanyaan bagaimana uang itu dihasilkan.
 
 ### Analisa Dark Triad
 
@@ -309,11 +342,16 @@ Carnegie kemudian menyumbangkan sebagian besar hartanya, sekitar 350 juta dolar,
 
 **Kesimpulan:** Frick adalah contoh Machiavellianisme yang dingin dan disiplin. Carnegie memberikan pelajaran lain: orang yang membagi peran, memegang cita-cita di depan umum sambil menyerahkan pekerjaan kotor kepada orang lain, tetap ikut memikul tanggung jawab.
 
-### Hikmah
+### Profil
 
-Bagi pekerja, Homestead menunjukkan bahwa kekuatan tawar bukan hanya soal jumlah orang, tetapi juga dukungan publik. Satu peluru dari orang luar bisa menghapus simpati yang dibangun berbulan-bulan. Gerakan buruh, termasuk di Indonesia, hanya kuat selama tetap terlihat sah di mata masyarakat.
+**Nama:** Henry Clay Frick
+**Lahir:** 19 Desember 1849, West Overton, Pennsylvania
+**Wafat:** 2 Desember 1919, New York
+**Jenis kelamin:** Laki-laki
+**Negara:** Amerika Serikat
 
-Bagi pemilik dan pemimpin perusahaan, pelajarannya ada pada Carnegie. Menyerahkan keputusan keras kepada wakil tidak menghapus tanggung jawab pemiliknya. Kalau kamu menyetujui rencananya, kamu ikut memilikinya, sejauh apa pun kamu berlibur. Dan sumbangan sebesar apa pun di kemudian hari tidak sepenuhnya menghapus pertanyaan bagaimana uang itu dihasilkan.
+> “Saya kira saya tidak akan mati, tetapi entah saya mati atau tidak, Perusahaan akan menjalankan kebijakan yang sama, dan Perusahaan akan menang.”
+> — Sesaat setelah ditembak dan ditikam, Juli 1892
 
 <div style="page-break-after: always;"></div>
 
@@ -323,7 +361,7 @@ Bagi pemilik dan pemimpin perusahaan, pelajarannya ada pada Carnegie. Menyerahka
 
 Tokoh kisah ini tidak menjadi kaya. Ia hanya menjadi juara. Tetapi caranya menang adalah contoh paling murni dari "jahat tapi legal": melakukan sesuatu yang kini dianggap curang, pada saat belum ada satu pun aturan yang melarangnya.
 
-### Kisahnya
+### Kisah
 
 Olimpiade 1904 di St. Louis, Amerika Serikat, adalah salah satu Olimpiade paling kacau dalam sejarah. Pertandingannya digelar sebagai bagian dari pameran dunia, berlangsung berbulan-bulan, dan sebagian besar pesertanya orang Amerika. Tetapi tidak ada nomor yang lebih kacau daripada maratonnya.
 
@@ -341,15 +379,23 @@ Hicks masih berjuang di jalan. Ia ingin berhenti dan berbaring, dan para pelatih
 
 Satu pelatihnya, Charles Lucas, kemudian menulis laporan tentang lomba itu. Kesimpulannya: lomba itu membuktikan bahwa obat-obatan sangat bermanfaat bagi atlet dalam lomba jarak jauh.
 
-### Konsekuensi
+### Harga
 
 Hicks dinyatakan sebagai juara Olimpiade dan menerima medali emas. Tidak ada yang mempersoalkan strychnine itu, karena belum ada aturan yang melarang zat apa pun, walaupun sebagian sejarawan kini berpendapat bantuan fisik dari para pelatihnya sebenarnya melanggar aturan lomba. Yang dihukum justru Fred Lorz, yang naik mobil.
 
 Lomba itu begitu buruk sehingga maraton sempat dipertanyakan untuk dipertahankan di Olimpiade. Federasi atletik internasional baru melarang doping pada 1928, itu pun tanpa tes. Komite Olimpiade Internasional baru membentuk komisi medis dan mulai menjalankan tes doping pada akhir 1960-an, lebih dari enam puluh tahun setelah lomba Hicks, setelah kematian beberapa atlet yang dikaitkan dengan obat perangsang.
 
-### Keuntungan
+### Hasil
 
 Hicks mendapatkan medali emas dan namanya tercatat sebagai juara Olimpiade selamanya. Ia tidak menjadi kaya. Pada zaman itu, atlet Olimpiade harus amatir, dan tidak boleh dibayar.
+
+### Pelajaran
+
+Setiap aturan pernah tidak ada. Larangan doping, keselamatan kerja, perlindungan konsumen, semuanya ditulis setelah ada orang yang celaka. Ketika seseorang berkata "tidak ada aturan yang melarang", tanyakan apakah itu karena tindakannya tidak berbahaya, atau karena belum ada yang menjadi korbannya.
+
+Perhatikan juga ironi lomba ini. Lorz, yang curang dengan cara yang mudah dipahami semua orang, dihukum. Hicks dan pelatihnya, yang menempuh cara yang jauh lebih berbahaya, dielu-elukan, karena cara mereka belum punya nama.
+
+Dan bagi siapa pun yang bekerja di bawah tekanan target, dari atlet sampai karyawan: hati-hati dengan orang yang mendorongmu terus maju dengan cara apa pun. Medalinya mungkin untukmu, tetapi yang dipertaruhkan juga tubuhmu sendiri.
 
 ### Analisa Dark Triad
 
@@ -361,13 +407,13 @@ Hicks mendapatkan medali emas dan namanya tercatat sebagai juara Olimpiade selam
 
 **Kesimpulan:** Kisah ini menunjukkan bahwa "jahat tapi legal" tidak selalu soal uang. Ia bisa berupa keinginan menang dengan cara apa pun, selama belum ada aturan yang melarangnya. Dan sering kali, yang paling berani mengambil risiko bukan orang yang menanggungnya, melainkan orang di sekitarnya yang ikut menikmati kemenangannya.
 
-### Hikmah
+### Profil
 
-Setiap aturan pernah tidak ada. Larangan doping, keselamatan kerja, perlindungan konsumen, semuanya ditulis setelah ada orang yang celaka. Ketika seseorang berkata "tidak ada aturan yang melarang", tanyakan apakah itu karena tindakannya tidak berbahaya, atau karena belum ada yang menjadi korbannya.
-
-Perhatikan juga ironi lomba ini. Lorz, yang curang dengan cara yang mudah dipahami semua orang, dihukum. Hicks dan pelatihnya, yang menempuh cara yang jauh lebih berbahaya, dielu-elukan, karena cara mereka belum punya nama.
-
-Dan bagi siapa pun yang bekerja di bawah tekanan target, dari atlet sampai karyawan: hati-hati dengan orang yang mendorongmu terus maju dengan cara apa pun. Medalinya mungkin untukmu, tetapi yang dipertaruhkan juga tubuhmu sendiri.
+**Nama:** Thomas John Hicks
+**Lahir:** 11 Januari 1876, Birmingham, Inggris (sumber lama: 7 Januari 1875)
+**Wafat:** 28 Januari 1952, Winnipeg, Kanada
+**Jenis kelamin:** Laki-laki
+**Negara:** Amerika Serikat (lahir di Inggris)
 
 <div style="page-break-after: always;"></div>
 
@@ -375,7 +421,7 @@ Dan bagi siapa pun yang bekerja di bawah tekanan target, dari atlet sampai karya
 
 *New York, 1920-an. Saham: permainan orang dalam yang belum dilarang.*
 
-### Kisahnya
+### Kisah
 
 Joseph Patrick Kennedy lahir pada 1888 di Boston, cucu imigran Irlandia yang datang ke Amerika dengan tangan kosong. Ayahnya sudah naik kelas menjadi pemilik bar dan politikus lokal, tetapi keluarga Irlandia Katolik tetap dipandang rendah oleh kalangan elite Protestan Boston. Kennedy muda bersekolah di Harvard, tetapi tidak pernah diterima di klub-klub paling bergengsi di sana. Banyak penulis biografinya percaya, dari situlah tekadnya lahir: kalau tidak diterima, ia akan menjadi lebih kaya daripada mereka semua.
 
@@ -391,7 +437,7 @@ Selain saham, ia masuk ke industri film yang sedang tumbuh di Hollywood, membeli
 
 Yang paling terkenal dari Kennedy adalah waktunya. Menurut cerita yang terus diulang, pada 1929 seorang anak penyemir sepatu di Wall Street memberinya tip saham. Kennedy berpikir, kalau tukang semir sepatu pun sudah bermain saham, berarti pasar sudah terlalu panas. Ia pun menjual. Kebenaran kisah itu diperdebatkan, dan mungkin hanya bumbu. Tetapi hasilnya nyata. Ketika pasar saham runtuh pada Oktober 1929 dan jutaan orang Amerika kehilangan tabungannya, kekayaan Kennedy sebagian besar selamat, bahkan menurut sebagian penulis biografinya, bertambah karena ia juga bertaruh pada jatuhnya harga.
 
-### Konsekuensi
+### Harga
 
 Krisis 1929 menyeret Amerika ke Depresi Besar. Seperempat angkatan kerja menganggur. Publik mencari siapa yang bersalah, dan Kongres membuka penyelidikan panjang tentang apa yang terjadi di Wall Street. Praktik pool, manipulasi harga, dan wartawan bayaran diungkap satu per satu dalam sidang dengar pendapat yang menjadi berita utama.
 
@@ -399,11 +445,19 @@ Hasilnya adalah dua undang-undang yang mengubah pasar modal selamanya: Securitie
 
 Lalu datang kejutan. Presiden Franklin Roosevelt, yang kampanyenya didukung dana dan lobi Kennedy, menunjuk Joseph Kennedy sebagai ketua pertama SEC. Kalangan reformis protes keras. Bagaimana mungkin pemain lama diangkat menjadi wasit? Roosevelt konon menjawab dengan kalimat yang terkenal: untuk menangkap pencuri, pakailah pencuri.
 
-### Keuntungan
+### Hasil
 
 Kennedy ternyata menjadi ketua SEC yang efektif. Ia tahu semua trik karena pernah memakainya, dan ia membangun lembaga itu dengan cepat dan pragmatis, membujuk Wall Street untuk menerima aturan baru alih-alih melawannya. Setelah setahun lebih, ia mundur dengan reputasi yang membaik.
 
 Kekayaannya, dari saham, film, properti, dan bisnis impor minuman keras yang ia siapkan tepat ketika larangan alkohol di Amerika dicabut pada 1933, menjadi modal sebuah dinasti politik. Ia kemudian menjadi duta besar Amerika untuk Inggris. Anaknya, John F. Kennedy, menjadi Presiden Amerika Serikat pada 1961. Anak-anaknya yang lain menjadi jaksa agung dan senator.
+
+### Pelajaran
+
+Banyak aturan yang hari ini kita anggap wajar lahir dari praktik yang dulu legal. Larangan perdagangan orang dalam, kewajiban laporan keuangan, dan larangan menggoreng saham semuanya ditulis setelah ada jutaan korban. Yang hari ini "belum dilarang" belum tentu selamanya aman, dan biasanya justru sedang menunggu giliran untuk dilarang.
+
+Dari sisi lain, sebuah lembaga pengawas butuh orang yang benar-benar paham cara curang bekerja. Kadang yang paling efektif menutup celah adalah orang yang dulu memakainya.
+
+Bagi investor kecil, pelajarannya sederhana dan masih berlaku sampai hari ini. Kalau sebuah saham naik tanpa alasan yang jelas, volumenya tiba-tiba ramai, dan semua orang di sekitarmu, dari grup WhatsApp sampai tukang parkir, mulai membicarakannya, tanyakan siapa yang membeli paling awal dan siapa yang sedang bersiap menjual. Hampir selalu, orang itu bukan kamu.
 
 ### Analisa Dark Triad
 
@@ -415,13 +469,16 @@ Kekayaannya, dari saham, film, properti, dan bisnis impor minuman keras yang ia 
 
 **Kesimpulan:** Machiavellianisme yang kuat, ditambah ambisi status yang besar. Kennedy tidak butuh melanggar hukum. Ia cukup memahami hukum lebih baik daripada orang lain, sebelum dan sesudah hukum itu ditulis.
 
-### Hikmah
+### Profil
 
-Banyak aturan yang hari ini kita anggap wajar lahir dari praktik yang dulu legal. Larangan perdagangan orang dalam, kewajiban laporan keuangan, dan larangan menggoreng saham semuanya ditulis setelah ada jutaan korban. Yang hari ini "belum dilarang" belum tentu selamanya aman, dan biasanya justru sedang menunggu giliran untuk dilarang.
+**Nama:** Joseph Patrick Kennedy
+**Lahir:** 6 September 1888, East Boston, Massachusetts
+**Wafat:** 18 November 1969, Hyannis Port, Massachusetts
+**Jenis kelamin:** Laki-laki
+**Negara:** Amerika Serikat
 
-Dari sisi lain, sebuah lembaga pengawas butuh orang yang benar-benar paham cara curang bekerja. Kadang yang paling efektif menutup celah adalah orang yang dulu memakainya.
-
-Bagi investor kecil, pelajarannya sederhana dan masih berlaku sampai hari ini. Kalau sebuah saham naik tanpa alasan yang jelas, volumenya tiba-tiba ramai, dan semua orang di sekitarmu, dari grup WhatsApp sampai tukang parkir, mulai membicarakannya, tanyakan siapa yang membeli paling awal dan siapa yang sedang bersiap menjual. Hampir selalu, orang itu bukan kamu.
+> “Demokrasi sudah tamat di Inggris. Mungkin juga di sini.”
+> — Wawancara dengan Boston Globe, 1940
 
 <div style="page-break-after: always;"></div>
 
@@ -429,7 +486,7 @@ Bagi investor kecil, pelajarannya sederhana dan masih berlaku sampai hari ini. K
 
 *Connecticut, 1981. Korporasi: memecat ratusan ribu orang demi harga saham.*
 
-### Kisahnya
+### Kisah
 
 John Francis Welch Jr. lahir pada 1935 di Massachusetts, anak tunggal seorang kondektur kereta dan ibu yang sangat menuntut. Ia gagap sejak kecil. Ibunya mengatakan kepadanya bahwa itu bukan masalah, hanya karena otaknya bekerja lebih cepat daripada lidahnya. Welch tumbuh dengan keyakinan itu: ia lebih cepat daripada orang lain, dan orang lain harus mengejarnya.
 
@@ -443,7 +500,7 @@ Lalu ia membuat sistem penilaian yang paling terkenal dalam dunia manajemen. Set
 
 Di saat yang sama, ia mengubah GE Capital, unit pembiayaan yang awalnya kecil, menjadi mesin laba raksasa. GE Capital meminjamkan uang, menyewakan pesawat, memberi kredit kartu belanja, dan mengasuransikan berbagai hal. Menjelang akhir masa jabatannya, unit ini menyumbang sekitar empat puluh persen laba GE. Laporan keuangan GE menjadi sangat rapi: hampir setiap kuartal, labanya naik sedikit dan selalu sedikit di atas perkiraan para analis. Para pengamat kemudian bertanya-tanya bagaimana perusahaan sebesar itu bisa begitu konsisten. Sebagian jawabannya ada di GE Capital, yang punya banyak aset yang bisa dijual atau dinilai ulang pada saat dibutuhkan untuk merapikan angka. Semua itu dalam batas aturan akuntansi saat itu.
 
-### Konsekuensi
+### Harga
 
 Puluhan perusahaan besar di seluruh dunia meniru sistem urutan sepuluh persen terbawah itu, dan banyak yang kemudian meninggalkannya. Ketika rekan kerja adalah pesaing yang harus dikalahkan setiap tahun, orang berhenti saling membantu, menyembunyikan informasi, dan menghindari proyek berisiko yang bisa membuat mereka terlihat buruk.
 
@@ -451,9 +508,17 @@ Welch pensiun pada 2001 dengan paket pesangon dan pensiun yang disebut-sebut ter
 
 Lalu kelemahan yang dulu tertutup mulai terlihat. Pada 2009, SEC menghukum GE membayar denda 50 juta dolar karena praktik akuntansi yang menyesatkan pada awal 2000-an, setelah era Welch. Dalam krisis keuangan 2008, GE Capital hampir runtuh dan harus diselamatkan dengan jaminan pemerintah dan suntikan dana investor besar. Harga saham GE butuh sekitar 25 tahun, sampai 2025, untuk kembali ke puncaknya tahun 2000, dan saat itu perusahaannya sudah dipecah. Pada 2018, GE dikeluarkan dari indeks Dow Jones, tempat ia bertahan lebih dari seratus tahun. Beberapa tahun kemudian, perusahaan raksasa itu dipecah menjadi tiga perusahaan terpisah.
 
-### Keuntungan
+### Hasil
 
 Selama dua puluh tahun Welch memimpin, nilai pasar GE naik dari sekitar 14 miliar dolar menjadi lebih dari 400 miliar dolar, sempat menjadi perusahaan paling berharga di dunia. Majalah Fortune menobatkannya sebagai "Manajer Abad Ini". Bukunya laris, bayaran ceramahnya sangat tinggi, dan sekolah bisnis di seluruh dunia mengajarkan caranya sebagai standar emas. Ia meninggal pada 2020 sebagai salah satu eksekutif terkaya dan paling berpengaruh dalam sejarah.
+
+### Pelajaran
+
+Angka yang naik setiap kuartal belum tentu tanda perusahaan sehat. Kadang itu tanda ada sesuatu yang sedang ditunda atau dirapikan. Pertumbuhan yang terlalu mulus layak dicurigai, bukan dirayakan.
+
+Memangkas orang bisa membuat laporan keuangan cantik dengan cepat. Tetapi yang hilang, seperti kepercayaan, pengalaman, dan keberanian untuk bereksperimen, tidak muncul di laporan mana pun sampai bertahun-tahun kemudian, ketika pemimpinnya sudah pensiun dengan tenang.
+
+Bagi pemimpin, pelajarannya adalah mengukur juga apa yang kamu tinggalkan setelah pergi. Bagi karyawan, kenali sistem tempatmu bekerja. Kalau sistemnya membuat rekan kerjamu menjadi lawan, kamu tidak sedang berada di tim. Kamu sedang berada di arena.
 
 ### Analisa Dark Triad
 
@@ -465,13 +530,16 @@ Selama dua puluh tahun Welch memimpin, nilai pasar GE naik dari sekitar 14 milia
 
 **Kesimpulan:** Machiavellianisme dan narsisisme yang saling menguatkan. Welch adalah contoh bagaimana sifat-sifat ini bisa diubah menjadi sistem dan diwariskan ke ribuan perusahaan lain, sehingga kekejamannya terasa normal.
 
-### Hikmah
+### Profil
 
-Angka yang naik setiap kuartal belum tentu tanda perusahaan sehat. Kadang itu tanda ada sesuatu yang sedang ditunda atau dirapikan. Pertumbuhan yang terlalu mulus layak dicurigai, bukan dirayakan.
+**Nama:** John Francis Welch Jr.
+**Lahir:** 19 November 1935, Peabody, Massachusetts
+**Wafat:** 1 Maret 2020, New York
+**Jenis kelamin:** Laki-laki
+**Negara:** Amerika Serikat
 
-Memangkas orang bisa membuat laporan keuangan cantik dengan cepat. Tetapi yang hilang, seperti kepercayaan, pengalaman, dan keberanian untuk bereksperimen, tidak muncul di laporan mana pun sampai bertahun-tahun kemudian, ketika pemimpinnya sudah pensiun dengan tenang.
-
-Bagi pemimpin, pelajarannya adalah mengukur juga apa yang kamu tinggalkan setelah pergi. Bagi karyawan, kenali sistem tempatmu bekerja. Kalau sistemnya membuat rekan kerjamu menjadi lawan, kamu tidak sedang berada di tim. Kamu sedang berada di arena.
+> “Kalau dilihat sekilas, nilai pemegang saham adalah gagasan paling bodoh di dunia.”
+> — Wawancara dengan Financial Times, 2009
 
 <div style="page-break-after: always;"></div>
 
@@ -479,7 +547,7 @@ Bagi pemimpin, pelajarannya adalah mengukur juga apa yang kamu tinggalkan setela
 
 *Paris, 1984. Mode: berjanji menyelamatkan, lalu menjual sisanya.*
 
-### Kisahnya
+### Kisah
 
 Bernard Arnault lahir pada 1949 di Roubaix, kota industri tekstil di utara Prancis. Keluarganya memiliki perusahaan konstruksi yang cukup sukses. Ia lulus dari École Polytechnique, salah satu sekolah teknik paling bergengsi di Prancis, lalu bergabung dengan perusahaan keluarga dan dengan cepat mengambil alih kendalinya, mengalihkan fokusnya dari konstruksi ke properti.
 
@@ -497,7 +565,7 @@ Racamier mencari sekutu dan mengundang Arnault masuk untuk membantunya melawan C
 
 Gaya itu tidak berubah setelah ia berkuasa. Pada 2019, LVMH sepakat membeli perusahaan perhiasan Amerika Tiffany & Co. seharga sekitar 16,2 miliar dolar. Ketika pandemi datang dan penjualan barang mewah anjlok, LVMH tiba-tiba menyatakan tidak bisa menyelesaikan pembelian, dengan alasan sebuah surat dari Kementerian Luar Negeri Prancis yang meminta penundaan karena ketegangan dagang dengan Amerika. Menurut Bloomberg, surat itu justru diminta oleh Arnault sendiri. Tiffany menggugat. Beberapa bulan kemudian, kedua pihak berdamai, dan LVMH membeli Tiffany dengan harga sekitar 425 juta dolar lebih murah dari kesepakatan awal.
 
-### Konsekuensi
+### Harga
 
 Di Prancis, Arnault dijuluki "serigala berbaju kasmir", sopan dan elegan di luar, buas di dalam. Serikat pekerja dan politisi menganggapnya mengkhianati janji Boussac. Bagi sebagian orang Prancis, ia adalah lambang kapitalisme gaya Amerika yang merusak tradisi industri mereka.
 
@@ -505,9 +573,17 @@ Pada 2012, kabar bahwa ia mengajukan kewarganegaraan Belgia memicu kemarahan pub
 
 Sejauh yang diketahui publik, tidak ada tuntutan hukum yang berhasil dari kisah Boussac. Janji menjaga pekerjaan, kalau memang diucapkan, lebih mirip niat daripada kewajiban yang mengikat dengan sanksi yang jelas.
 
-### Keuntungan
+### Hasil
 
 LVMH tumbuh menjadi kerajaan barang mewah terbesar di dunia, membawahi puluhan merek terkenal, dari Louis Vuitton, Dior, dan Fendi sampai sampanye Moët dan perhiasan Tiffany. Arnault beberapa kali tercatat sebagai orang terkaya di dunia, dan anak-anaknya kini memimpin berbagai merek di dalam grup itu.
+
+### Pelajaran
+
+Dalam pengambilalihan, yang penting bukan apa yang dijanjikan pembeli, tetapi apa yang tertulis dan bisa ditagih. Pemerintah, karyawan, dan mitra yang menyerahkan sesuatu berdasarkan niat baik harus meminta janji itu ditulis dengan sanksi yang jelas, angka yang jelas, dan jangka waktu yang jelas.
+
+Pelajaran kedua: orang yang kamu undang masuk untuk membantumu dalam pertengkaran bisa keluar sebagai pemenangnya. Sebelum mengundang pihak ketiga ke dalam konflik, entah investor, pengacara, atau orang berpengaruh, tanyakan apa yang ia inginkan dari konflik itu, bukan hanya apa yang ia tawarkan.
+
+Dan ketiga, kesepakatan yang belum selesai belum menjadi milikmu. Bahkan perusahaan sebesar LVMH bisa menemukan alasan untuk menawar ulang ketika keadaan berubah. Semakin besar nilai sebuah kesepakatan, semakin penting pasal yang mengatur apa yang terjadi kalau salah satu pihak berubah pikiran.
 
 ### Analisa Dark Triad
 
@@ -519,13 +595,16 @@ LVMH tumbuh menjadi kerajaan barang mewah terbesar di dunia, membawahi puluhan m
 
 **Kesimpulan:** Salah satu contoh paling jelas dari Machiavellianisme yang dipadukan dengan selera dan kesabaran. Serigala yang tahu persis kapan harus memakai kasmirnya.
 
-### Hikmah
+### Profil
 
-Dalam pengambilalihan, yang penting bukan apa yang dijanjikan pembeli, tetapi apa yang tertulis dan bisa ditagih. Pemerintah, karyawan, dan mitra yang menyerahkan sesuatu berdasarkan niat baik harus meminta janji itu ditulis dengan sanksi yang jelas, angka yang jelas, dan jangka waktu yang jelas.
+**Nama:** Bernard Arnault
+**Lahir:** 5 Maret 1949, Roubaix, Prancis
+**Wafat:** Masih hidup
+**Jenis kelamin:** Laki-laki
+**Negara:** Prancis
 
-Pelajaran kedua: orang yang kamu undang masuk untuk membantumu dalam pertengkaran bisa keluar sebagai pemenangnya. Sebelum mengundang pihak ketiga ke dalam konflik, entah investor, pengacara, atau orang berpengaruh, tanyakan apa yang ia inginkan dari konflik itu, bukan hanya apa yang ia tawarkan.
-
-Dan ketiga, kesepakatan yang belum selesai belum menjadi milikmu. Bahkan perusahaan sebesar LVMH bisa menemukan alasan untuk menawar ulang ketika keadaan berubah. Semakin besar nilai sebuah kesepakatan, semakin penting pasal yang mengatur apa yang terjadi kalau salah satu pihak berubah pikiran.
+> “Saya selalu suka menjadi nomor satu.”
+> — Wawancara dengan Financial Times, 2019
 
 <div style="page-break-after: always;"></div>
 
@@ -537,7 +616,7 @@ Dan ketiga, kesepakatan yang belum selesai belum menjadi milikmu. Bahkan perusah
 
 *Indonesia, 1991. Tata niaga: satu badan menjadi satu-satunya pembeli cengkeh petani dan satu-satunya penjual ke pabrik kretek.*
 
-### Kisahnya
+### Kisah
 
 Cengkeh pernah menjadi alasan orang Eropa berlayar ke Maluku. Seperti pala di Banda, cengkeh di Maluku pernah dimonopoli VOC dengan kekerasan: pohon-pohon di pulau yang tidak dikuasai ditebang, dan penduduk hanya boleh menjual kepada kompeni. Tiga setengah abad kemudian, Indonesia merdeka mencoba sebuah monopoli cengkeh lagi. Kali ini, bukan dengan kapal perang, melainkan dengan surat keputusan.
 
@@ -545,27 +624,35 @@ Pada abad ke-20, cengkeh punya pembeli besar di dalam negeri: industri rokok kre
 
 Jawaban pemerintah adalah sebuah badan penyangga. Pada 28 Desember 1990, Menteri Perdagangan Arifin Siregar menunjuk Badan Penyangga dan Pemasaran Cengkeh, BPPC, sebagai pelaksana tata niaga cengkeh. Anggotanya adalah koperasi unit desa lewat induknya, Inkud, sebuah perusahaan dagang negara, PT Kerta Niaga, dan sebuah perusahaan swasta, PT Kembang Cengkeh Nasional, milik Hutomo Mandala Putra, putra bungsu Presiden Soeharto, yang dikenal sebagai Tommy Soeharto. Pada Januari 1991, Tommy menjadi ketua BPPC.
 
-Tujuan resminya terdengar baik. Sesuai namanya, BPPC akan menyangga harga di tingkat petani dengan menyerap kelebihan panen, menyimpan stok, dan menjamin pasokan yang stabil bagi industri kretek. Untuk membeli cengkeh, BPPC mendapat Kredit Likuiditas Bank Indonesia, KLBI, kredit murah dari bank sentral, yang menurut Kejaksaan Agung nilainya sekitar Rp 759 miliar.
+Tujuan resminya terdengar baik. Sesuai namanya, BPPC akan menyangga harga di tingkat petani dengan menyerap kelebihan panen, menyimpan stok, dan menjamin pasokan yang stabil bagi industri kretek. Untuk membeli cengkeh, BPPC mendapat Kredit Likuiditas Bank Indonesia, KLBI, kredit murah dari bank sentral, yang menurut Kejaksaan Agung totalnya sekitar Rp 759 miliar selama 1991–1998; dugaan penyalahgunaan yang kemudian diselidiki menyangkut Rp 175 miliar di antaranya.
 
-Aturannya kemudian dikukuhkan. Lewat Keputusan Presiden Nomor 20 Tahun 1992 dan Instruksi Presiden Nomor 1 Tahun 1992, petani wajib menjual cengkehnya kepada KUD, KUD menjualnya kepada BPPC, dan pabrik rokok hanya boleh membeli dari BPPC. Pemerintah menetapkan harga dasar di tingkat KUD, yang pada 1996 dinaikkan menjadi Rp 8.000 per kilogram. Semua itu sah. BPPC berdiri di atas keputusan menteri dan keputusan presiden, dan siapa pun yang berdagang cengkeh di luar jalurnya justru melanggar hukum.
+Aturannya kemudian dikukuhkan. Lewat Keputusan Presiden Nomor 20 Tahun 1992 dan Instruksi Presiden Nomor 1 Tahun 1992, petani wajib menjual cengkehnya kepada KUD, KUD menjualnya kepada BPPC, dan pabrik rokok hanya boleh membeli dari BPPC. Pemerintah menetapkan harga dasar di tingkat KUD, yang lewat Inpres 4/1996 ditetapkan Rp 8.000 per kilogram, tetapi hanya Rp 5.000 yang menjadi bagian petani; sisanya dipotong sebagai penyertaan modal dan dana konversi. Semua itu sah. BPPC berdiri di atas keputusan menteri dan keputusan presiden, dan siapa pun yang berdagang cengkeh di luar jalurnya justru melanggar hukum.
 
 Dalam praktiknya, harga yang diterima petani tidak sama dengan harga di atas kertas. Dari harga resmi, KUD memotong berbagai pungutan, antara lain simpanan wajib khusus petani dan dana penyertaan modal, yang dijanjikan akan dikembalikan kelak. Surat kabar *Los Angeles Times* pada Maret 1998 menggambarkan seorang petani yang menjual cengkehnya seharga Rp 5.000 per kilogram, tetapi hanya menerima Rp 3.000 tunai. Sisanya tertahan sebagai potongan. Di ujung lain rantai, pabrik rokok membayar sekitar Rp 12.000 per kilogram, menurut laporan yang sama tiga sampai empat kali lipat harga dunia sebelum krisis.
 
-Stok yang dibeli BPPC menumpuk di gudang, karena panen terus datang lebih cepat daripada kebutuhan pabrik. Pada 1996, menurut laporan media saat itu, Tommy menganjurkan petani membakar atau menebang sebagian pohon cengkeh mereka untuk mengurangi kelebihan pasokan.
+Stok yang dibeli BPPC menumpuk di gudang, karena panen terus datang lebih cepat daripada kebutuhan pabrik. Pada Februari 1992, dan lagi pada 1996, menurut laporan media saat itu, Tommy menganjurkan petani membakar atau menebang sebagian pohon cengkeh mereka untuk mengurangi kelebihan pasokan.
 
-### Konsekuensi
+### Harga
 
-Petani tidak perlu disuruh dua kali. Dengan harga yang tidak menutup ongkos panen, banyak yang membiarkan kebunnya terbengkalai, mengganti cengkeh dengan tanaman lain, atau menebang pohonnya. Menurut data yang sering dikutip, luas kebun cengkeh Indonesia menyusut dari sekitar 680 ribu hektare pada 1990 menjadi sekitar 430 ribu hektare pada akhir dekade itu. Bagi banyak keluarga di Sulawesi Utara, Maluku, dan daerah lain, cengkeh pernah berarti rumah, sekolah anak, dan ongkos naik haji. Pada masa BPPC, ia berubah menjadi beban.
+Petani tidak perlu disuruh dua kali. Dengan harga yang tidak menutup ongkos panen, banyak yang membiarkan kebunnya terbengkalai, mengganti cengkeh dengan tanaman lain, atau menebang pohonnya. Menurut data yang sering dikutip, luas kebun cengkeh Indonesia menyusut dari sekitar 690 ribu hektare pada awal 1990 menjadi sekitar 430 ribu hektare pada 2000. Bagi banyak keluarga di Sulawesi Utara, Maluku, dan daerah lain, cengkeh pernah berarti rumah, sekolah anak, dan ongkos naik haji. Pada masa BPPC, ia berubah menjadi beban.
 
 Akhir BPPC datang dari luar negeri. Ketika krisis moneter memaksa Indonesia meminta bantuan Dana Moneter Internasional, IMF menjadikan pembongkaran monopoli tata niaga sebagai syarat. Dalam Letter of Intent yang ditandatangani Soeharto pada 15 Januari 1998, pemerintah berjanji menghapus tata niaga cengkeh yang membatasi mulai 1 Februari 1998 dan membubarkan BPPC paling lambat Juni 1998. Lewat Keputusan Presiden Nomor 21 Tahun 1998, perdagangan cengkeh dikembalikan ke pasar.
 
 Setelah pasar dibuka, harga sempat melonjak. Pada awal 2002, menurut peneliti Kementerian Pertanian Pantjar Simatupang, harga di dalam negeri sempat mencapai sekitar Rp 80.000 per kilogram. Tetapi banyak pohon sudah terlanjur mati atau ditebang, dan petani yang masih bertahan kembali menghadapi harga yang naik turun.
 
-Urusan kredit BPPC sempat diselidiki. Pada November 2008, Kejaksaan Agung menghentikan penyidikan dugaan penyalahgunaan KLBI BPPC karena, menurut kejaksaan, kerugian negara tidak terbukti, dan kredit itu beserta bunganya telah dilunasi.
+Urusan kredit BPPC sempat diselidiki. Pada November 2008, Kejaksaan Agung menghentikan penyidikan dugaan penyalahgunaan KLBI BPPC karena, menurut kejaksaan, kerugian negara tidak terbukti, dan kredit itu beserta bunganya telah dilunasi. Tommy tidak pernah dihukum terkait BPPC, dan gugatan perdata Kejaksaan Agung terhadapnya pada 2008 juga kandas.
 
-### Keuntungan
+### Hasil
 
-Siapa yang paling diuntungkan sulit dihitung dengan pasti, karena keuangan BPPC tidak pernah dibuka sepenuhnya kepada publik. Yang jelas dari strukturnya, BPPC berdiri di satu-satunya titik yang harus dilewati seluruh cengkeh negeri ini: di antara jutaan petani yang tidak boleh menjual ke tempat lain dan segelintir pabrik kretek yang tidak boleh membeli dari tempat lain. Selisih antara harga yang dibayarkan kepada petani dan harga yang ditagih kepada pabrik, ditambah kredit murah dari bank sentral, mengalir lewat badan itu dan para anggotanya. Pabrik rokok sendiri membebankan sebagian biaya tambahan itu kepada perokok.
+Siapa yang paling diuntungkan sulit dihitung dengan pasti, karena keuangan BPPC tidak pernah dibuka sepenuhnya kepada publik. Yang jelas dari strukturnya, BPPC berdiri di satu-satunya titik yang harus dilewati seluruh cengkeh negeri ini: di antara jutaan petani yang tidak boleh menjual ke tempat lain dan segelintir pabrik kretek yang tidak boleh membeli dari tempat lain. Para pengkritik menilai selisih antara harga yang dibayarkan kepada petani dan harga yang ditagih kepada pabrik, ditambah kredit murah dari bank sentral, mengalir lewat badan itu dan para anggotanya. Pabrik rokok sendiri membebankan sebagian biaya tambahan itu kepada perokok.
+
+### Pelajaran
+
+Waspadai lembaga yang namanya melindungi, tetapi strukturnya mengunci. Kata "penyangga", "stabilisasi", atau "satu pintu" terdengar menenangkan. Pertanyaan yang lebih penting adalah: siapa yang boleh membeli, siapa yang boleh menjual, dan siapa yang tidak punya pilihan.
+
+Monopoli rempah adalah cerita lama di Nusantara. VOC melakukannya dengan senjata, BPPC dengan surat keputusan. Hasilnya bagi petani mirip: harga ditentukan pihak lain, dan pohon-pohon yang dulu menjadi kebanggaan ditebang.
+
+Bagi petani dan pelaku usaha, pelajarannya adalah jangan bergantung pada satu jalur penjualan yang ditentukan pihak lain. Bagi pembuat kebijakan, catatan BPPC menjadi peringatan yang masih sering dikutip setiap kali pemerintah merancang tata niaga satu pintu untuk komoditas apa pun.
 
 ### Analisa Dark Triad
 
@@ -577,13 +664,15 @@ Siapa yang paling diuntungkan sulit dihitung dengan pasti, karena keuangan BPPC 
 
 **Kesimpulan:** Seperti Tanam Paksa, BPPC adalah contoh Machiavellianisme yang dibangun menjadi aturan. Bedanya, kali ini pembuat aturannya adalah pemerintah negeri sendiri, dan yang menghentikannya bukan petani atau parlemen, melainkan krisis dan lembaga keuangan asing.
 
-### Hikmah
+### Profil
 
-Waspadai lembaga yang namanya melindungi, tetapi strukturnya mengunci. Kata "penyangga", "stabilisasi", atau "satu pintu" terdengar menenangkan. Pertanyaan yang lebih penting adalah: siapa yang boleh membeli, siapa yang boleh menjual, dan siapa yang tidak punya pilihan.
+**Nama:** Badan Penyangga dan Pemasaran Cengkeh
+**Berdiri:** Desember 1990
+**Bubar:** 1998
+**Negara:** Indonesia
 
-Monopoli rempah adalah cerita lama di Nusantara. VOC melakukannya dengan senjata, BPPC dengan surat keputusan. Hasilnya bagi petani mirip: harga ditentukan pihak lain, dan pohon-pohon yang dulu menjadi kebanggaan ditebang.
-
-Bagi petani dan pelaku usaha, pelajarannya adalah jangan bergantung pada satu jalur penjualan yang ditentukan pihak lain. Bagi pembuat kebijakan, catatan BPPC menjadi peringatan yang masih sering dikutip setiap kali pemerintah merancang tata niaga satu pintu untuk komoditas apa pun.
+> “Kami melakukannya demi kebaikan petani.”
+> — Tommy Soeharto, ketua BPPC, kepada Los Angeles Times, 1998
 
 <div style="page-break-after: always;"></div>
 
@@ -591,7 +680,7 @@ Bagi petani dan pelaku usaha, pelajarannya adalah jangan bergantung pada satu ja
 
 *Amerika Serikat, 1996. Obat: pil pereda nyeri yang dijual sebagai "kecil risiko kecanduan".*
 
-### Kisahnya
+### Kisah
 
 Nama Sackler dulu identik dengan kedermawanan. Selama puluhan tahun, nama itu terpahat di dinding museum-museum terbesar dunia: ada Sackler Wing di Metropolitan Museum of Art di New York, galeri Sackler di Louvre di Paris, di British Museum dan Tate di London, serta di banyak universitas ternama. Sedikit orang yang bertanya dari mana uangnya berasal.
 
@@ -605,11 +694,11 @@ Purdue membangun pasukan tenaga penjual yang besar, membayar bonus besar kepada 
 
 Di lapangan, cerita yang lain mulai terdengar. Pasien membutuhkan dosis yang terus naik. Orang menemukan bahwa pil itu bisa dihancurkan untuk melepas seluruh obatnya sekaligus. Kecanduan dan kematian karena overdosis mulai bermunculan, terutama di kota-kota kecil di wilayah Appalachia.
 
-Pada 2007, anak perusahaan Purdue dan tiga eksekutif puncaknya mengaku bersalah di pengadilan federal karena memasarkan OxyContin secara menyesatkan, termasuk mengklaim obat itu lebih kecil risiko kecanduan dan penyalahgunaannya. Mereka membayar lebih dari 600 juta dolar. Tidak satu pun anggota keluarga Sackler didakwa.
+Pada 2007, anak perusahaan Purdue, Purdue Frederick Company, mengaku bersalah atas dakwaan pidana berat karena memasarkan OxyContin secara menyesatkan, termasuk soal risiko kecanduan dan penyalahgunaannya, sementara tiga eksekutif puncaknya mengaku bersalah atas pelanggaran ringan sebagai pejabat yang bertanggung jawab. Total pembayarannya sekitar 634 juta dolar. Tidak satu pun anggota keluarga Sackler didakwa.
 
-Penjualan berjalan terus. Menurut audit yang diajukan Purdue sendiri ke pengadilan kepailitan pada 2019, antara 2008 dan 2017 keluarga Sackler menarik sekitar 10 miliar dolar dari perusahaan. Sekitar 4 miliar dolar di antaranya berupa uang tunai, sebagian lain untuk membayar pajak dan diinvestasikan di perusahaan lain. Para penggugat menuduh penarikan besar-besaran itu dilakukan karena keluarga sudah melihat gelombang gugatan akan datang. Keluarga membantahnya.
+Penjualan berjalan terus. Menurut audit yang diajukan Purdue sendiri ke pengadilan kepailitan pada 2019, antara 2008 dan 2017 keluarga Sackler menarik lebih dari 10 miliar dolar dari perusahaan. Sekitar 4 miliar dolar di antaranya berupa uang tunai untuk anggota keluarga, sekitar 4,6 miliar dolar untuk pajak, dan sisanya diinvestasikan di perusahaan lain milik keluarga. Para penggugat menuduh penarikan besar-besaran itu dilakukan karena keluarga sudah melihat gelombang gugatan akan datang. Keluarga membantahnya.
 
-### Konsekuensi
+### Harga
 
 Pada 2019, dihantam ribuan gugatan dari negara bagian, kota, rumah sakit, dan keluarga korban, Purdue mengajukan perlindungan kepailitan. Pada Oktober 2020, perusahaan itu setuju mengaku bersalah atas tiga dakwaan pidana federal, termasuk persekongkolan untuk menipu pemerintah Amerika dan pelanggaran aturan antisuap, dengan sanksi total sekitar 8 miliar dolar di atas kertas. Pengakuan itu diucapkan di pengadilan pada November 2020. Sekali lagi, yang mengaku bersalah adalah perusahaannya, bukan keluarganya.
 
@@ -619,15 +708,23 @@ Sikap resmi keluarga konsisten. Pada 2021, keluarga Mortimer Sackler menyatakan 
 
 Rencana kepailitan pertama menjanjikan keluarga Sackler perlindungan permanen dari gugatan perdata terkait opioid, sebagai imbalan kontribusi miliaran dolar, padahal mereka sendiri tidak dinyatakan pailit. Pada Juni 2024, Mahkamah Agung Amerika, dengan suara lima lawan empat, membatalkan rencana itu: undang-undang kepailitan tidak membolehkan pengadilan menghapus gugatan terhadap pihak yang tidak pailit tanpa persetujuan para penggugat.
 
-Negosiasi dimulai lagi. Pada 2025 tercapai kesepakatan baru sekitar 7,4 miliar dolar, dengan keluarga Sackler membayar hingga sekitar 7 miliar dolar secara bertahap selama 15 tahun. Bedanya, korban kini boleh memilih untuk tidak ikut dan tetap menggugat. Hakim kepailitan mengesahkannya pada November 2025, dan pada 2026 Purdue resmi dibubarkan. Asetnya dialihkan ke perusahaan baru milik yayasan nirlaba yang tidak lagi melibatkan keluarga Sackler.
+Negosiasi dimulai lagi. Pada 2025 tercapai kesepakatan baru sekitar 7,4 miliar dolar, dengan keluarga Sackler membayar hingga sekitar 7 miliar dolar secara bertahap selama 15 tahun. Bedanya, korban kini boleh memilih untuk tidak ikut dan tetap menggugat. Hakim kepailitan mengesahkannya pada 18 November 2025, dan rencana itu berlaku pada 1 Mei 2026: Purdue dibubarkan, dan asetnya dialihkan ke Knoa Pharma, perusahaan milik yayasan nirlaba Knoa Foundation yang tidak lagi melibatkan keluarga Sackler.
 
 Di dunia seni, perubahan datang lebih cepat. Fotografer Nan Goldin, yang pernah kecanduan OxyContin setelah operasi, memimpin kelompok protes P.A.I.N. yang menebar botol pil dan resep palsu di lantai museum. Louvre mencopot nama Sackler pada 2019, Metropolitan Museum pada 2021, British Museum dan Tate pada 2022, disusul banyak lembaga lain.
 
 Korban sesungguhnya tidak bisa dihitung dengan uang. Krisis opioid di Amerika, yang kemudian juga didorong heroin dan fentanil ilegal, menewaskan ratusan ribu orang. Sejauh mana tanggung jawab satu obat dan satu perusahaan dalam krisis sebesar itu masih diperdebatkan, tetapi OxyContin secara luas dianggap sebagai salah satu pemicu awalnya.
 
-### Keuntungan
+### Hasil
 
-OxyContin menghasilkan puluhan miliar dolar penjualan bagi Purdue. Pada 2015, majalah Forbes memperkirakan kekayaan keluarga Sackler sekitar 14 miliar dolar, menempatkannya di antara keluarga terkaya di Amerika. Meskipun harus membayar miliaran dolar dalam penyelesaian, sebagian besar dicicil bertahun-tahun, keluarga itu diperkirakan tetap sangat kaya. Purdue sudah tidak ada, tetapi tidak satu pun anggota keluarga yang pernah dipenjara.
+OxyContin menghasilkan puluhan miliar dolar penjualan bagi Purdue. Pada 2015, majalah Forbes memperkirakan kekayaan keluarga Sackler sekitar 14 miliar dolar, menempatkannya di antara keluarga terkaya di Amerika. Meskipun harus membayar miliaran dolar dalam penyelesaian, sebagian besar dicicil bertahun-tahun, keluarga itu diperkirakan tetap sangat kaya. Purdue sudah tidak ada, tetapi tidak satu pun anggota keluarga yang pernah didakwa secara pidana.
+
+### Pelajaran
+
+Kata "aman" dalam iklan obat, suplemen, atau produk kesehatan tidak sama dengan bukti. Tanyakan kepada dokter atau apoteker, bukan kepada penjualnya. Di Indonesia, cek izin edar di BPOM sebelum percaya klaim produk apa pun.
+
+Perhatikan siapa yang dihukum. Perusahaan bisa membayar denda, berganti nama, bahkan dibubarkan, sementara pemilik yang sudah menarik keuntungan tetap utuh. Ketika membaca berita kasus korporasi, tanyakan: siapa yang benar-benar menanggung akibatnya?
+
+Dan kedermawanan tidak menghapus asal-usul uang. Sumbangan besar ke museum, masjid, gereja, atau kampus patut disyukuri, tetapi tidak membuat pertanyaan tentang sumber kekayaan menjadi tidak sopan untuk diajukan.
 
 ### Analisa Dark Triad
 
@@ -639,13 +736,14 @@ OxyContin menghasilkan puluhan miliar dolar penjualan bagi Purdue. Pada 2015, ma
 
 **Kesimpulan:** Kisah Sackler adalah contoh paling jelas di bagian ini tentang bagaimana kekayaan, struktur perusahaan, dan hukum kepailitan bisa membuat pemilik terpisah dari akibat produknya. Perusahaannya dua kali mengaku bersalah. Keluarganya tetap di luar ruang sidang pidana.
 
-### Hikmah
+### Profil
 
-Kata "aman" dalam iklan obat, suplemen, atau produk kesehatan tidak sama dengan bukti. Tanyakan kepada dokter atau apoteker, bukan kepada penjualnya. Di Indonesia, cek izin edar di BPOM sebelum percaya klaim produk apa pun.
+**Nama:** Keluarga Sackler
+**Tiga bersaudara:** Arthur (1913–1987), Mortimer (1916–2010) dan Raymond (1920–2017)
+**Negara:** Amerika Serikat
 
-Perhatikan siapa yang dihukum. Perusahaan bisa membayar denda, berganti nama, bahkan dibubarkan, sementara pemilik yang sudah menarik keuntungan tetap utuh. Ketika membaca berita kasus korporasi, tanyakan: siapa yang benar-benar menanggung akibatnya?
-
-Dan kedermawanan tidak menghapus asal-usul uang. Sumbangan besar ke museum, masjid, gereja, atau kampus patut disyukuri, tetapi tidak membuat pertanyaan tentang sumber kekayaan menjadi tidak sopan untuk diajukan.
+> “Peluncuran tablet OxyContin akan diikuti badai salju resep yang akan mengubur para pesaing.”
+> — Richard Sackler, 1996, menurut gugatan Jaksa Agung Massachusetts
 
 <div style="page-break-after: always;"></div>
 
@@ -653,21 +751,21 @@ Dan kedermawanan tidak menghapus asal-usul uang. Sumbangan besar ke museum, masj
 
 *Liverpool, Inggris, 2007. Sepak bola: membeli klub legendaris dengan uang pinjaman.*
 
-### Kisahnya
+### Kisah
 
 Liverpool FC adalah salah satu klub sepak bola paling bersejarah di dunia. Pada awal 2000-an, klub itu masih dimiliki pengusaha lokal, David Moores, tetapi kebutuhannya sudah melampaui kemampuan satu keluarga. Stadion Anfield sudah tua dan terlalu kecil dibanding rival-rivalnya. Klub butuh investor yang mampu membangun stadion baru dan bersaing di bursa pemain.
 
 Pada awal 2007, dua pengusaha Amerika datang. Tom Hicks adalah pemodal asal Dallas yang kaya dari leveraged buyout, membeli perusahaan dengan uang pinjaman. Ia juga memiliki tim bisbol Texas Rangers dan tim hoki Dallas Stars. George Gillett pernah membangun dan kehilangan kerajaan bisnisnya pada awal 1990-an, lalu bangkit kembali dan memiliki tim hoki Montreal Canadiens. Pesaing mereka adalah Dubai International Capital, perusahaan investasi milik pemerintah Dubai. Dewan direksi Liverpool memilih kedua orang Amerika itu.
 
-Pada Februari 2007, kesepakatan diumumkan. Klub dinilai sekitar 219 juta pound, termasuk utang lama klub sekitar 45 juta pound, dan nilai paket keseluruhan disebut sekitar 435 juta pound jika dihitung dengan rencana stadion baru. Para pendukung disuguhi gambar stadion megah di taman Stanley Park, dekat Anfield. Gillett mengucapkan kalimat yang kelak paling sering dikutip: "The spade has to be in the ground within 60 days," sekop harus sudah masuk ke tanah dalam 60 hari. Menurut berbagai laporan saat itu, kedua pemilik baru juga memberi kesan bahwa pembelian mereka tidak akan membebani klub dengan utang, berbeda dengan pengambilalihan Manchester United oleh keluarga Glazer dua tahun sebelumnya.
+Pada Februari 2007, kesepakatan diumumkan. Klub dinilai sekitar 219 juta pound, termasuk utang lama klub sekitar 45 juta pound, dan nilai paket keseluruhan disebut sekitar 435 juta pound jika dihitung dengan rencana stadion baru. Para pendukung disuguhi gambar stadion megah di taman Stanley Park, dekat Anfield. Gillett mengucapkan kalimat yang kelak paling sering dikutip: "The spade has to be in the ground within 60 days," sekop harus sudah masuk ke tanah dalam 60 hari. Gillett bahkan berkata pada Februari 2007 bahwa mereka membeli klub "tanpa utang di atas klub", dan menyebut pembelian itu berbeda dengan pengambilalihan Manchester United oleh keluarga Glazer dua tahun sebelumnya.
 
-Kenyataannya, hampir seluruh harga pembelian dibayar dengan pinjaman bank, terutama dari Royal Bank of Scotland dan Wachovia. Pinjaman pertama hanya berjangka pendek, dan pada awal 2008 dibiayai ulang menjadi sekitar 350 juta pound. Sebagian utang itu ditempatkan di perusahaan induk mereka, Kop Holdings, dan sebagian lagi di tubuh klub. Bunganya, puluhan juta pound setiap tahun, dibayar dari pendapatan Liverpool: tiket, hak siar, dan sponsor. Dengan kata lain, para penggemar yang membeli tiket ikut mencicil harga yang dibayar untuk membeli klub mereka sendiri.
+Kenyataannya, hampir seluruh harga pembelian dibayar dengan pinjaman bank, terutama dari Royal Bank of Scotland dan Wachovia. Pinjaman pertama hanya berjangka pendek, dan pada awal 2008 dibiayai ulang menjadi sekitar 350 juta pound. Sebagian utang itu ditempatkan di perusahaan induk mereka, Kop Football (Holdings), dan sebagian lagi di tubuh klub. Bunganya, puluhan juta pound setiap tahun, dibayar dari pendapatan Liverpool: tiket, hak siar, dan sponsor. Dengan kata lain, para penggemar yang membeli tiket ikut mencicil harga yang dibayar untuk membeli klub mereka sendiri.
 
-Stadion baru tidak pernah dibangun. Rancangan awal diganti dengan rancangan baru yang lebih mahal, lalu krisis keuangan global 2008 membuat pinjaman konstruksi hampir mustahil. Tidak ada sekop yang masuk ke tanah dalam 60 hari, ataupun dalam tiga tahun. Pada 2009, Gillett membantah pernah menjanjikan pembangunan dimulai dalam 60 hari.
+Stadion baru tidak pernah dibangun. Rancangan awal diganti dengan rancangan baru yang lebih mahal, lalu krisis keuangan global 2008 membuat pinjaman konstruksi hampir mustahil. Tidak ada sekop yang masuk ke tanah dalam 60 hari, ataupun dalam tiga tahun. Pada 2009, Gillett membantah pernah mengucapkan janji 60 hari itu dan menyebut Hicks yang mengatakannya, meski laporan pers dari konferensi pers Februari 2007 mengutip kalimat itu dari mulut Gillett sendiri.
 
 Semua langkah ini sah. Membeli perusahaan dengan uang pinjaman dan menempatkan sebagian utangnya di perusahaan yang dibeli adalah praktik yang lazim dan legal di dunia keuangan. Klub sepak bola, di mata hukum, hanyalah perusahaan.
 
-### Konsekuensi
+### Harga
 
 Di dalam klub, suasana memburuk dengan cepat. Hicks dan Gillett berselisih secara terbuka, dan pada satu titik dilaporkan hampir tidak saling bicara. Pada awal 2008, Hicks mengakui pernah mendekati pelatih Jerman Jürgen Klinsmann sebagai cadangan, saat Rafael Benítez masih melatih tim. Pemain-pemain dijual, dan dana belanja dibatasi.
 
@@ -679,11 +777,17 @@ Kedua pemilik mencoba menghentikan penjualan. Mereka berusaha mengganti anggota 
 
 Perlawanan hukum mereka berlanjut, termasuk gugatan bernilai lebih dari satu miliar dolar terhadap bank dan para direktur. Pada Januari 2013, semua perkara diselesaikan di luar pengadilan dengan syarat yang dirahasiakan, dan semua tuduhan terhadap para direktur dicabut.
 
-### Keuntungan
+### Hasil
 
-Kali ini, kisahnya tidak berakhir dengan kemenangan. Menurut laporan, Hicks dan Gillett kehilangan sekitar 140 juta pound dari investasi mereka di Liverpool. Pada tahun yang sama, perusahaan pemilik Texas Rangers milik Hicks juga masuk proses kebangkrutan. Selama tiga tahun, mereka menikmati kendali atas salah satu merek olahraga terbesar di dunia, tetapi keuntungan besar yang mereka harapkan, menjual klub yang nilainya naik dengan harga tinggi, tidak pernah terjadi.
+Kali ini, kisahnya tidak berakhir dengan kemenangan. Menurut perkiraan saat itu, Hicks dan Gillett kehilangan sekitar 144 juta pound dari investasi mereka di Liverpool. Pada tahun yang sama, perusahaan pemilik Texas Rangers milik Hicks juga masuk proses kebangkrutan. Selama tiga tahun, mereka menikmati kendali atas salah satu merek olahraga terbesar di dunia, tetapi keuntungan besar yang mereka harapkan, menjual klub yang nilainya naik dengan harga tinggi, tidak pernah terjadi. Hicks meninggal pada Desember 2025 dalam usia 79 tahun, dan Gillett pada September 2026 dalam usia 87 tahun.
 
 Yang menanggung biaya selama tiga tahun itu adalah klub: puluhan juta pound bunga, uang yang habis untuk rancangan stadion yang tidak pernah dibangun, dan para penggemar yang hidup dalam ketidakpastian.
+
+### Pelajaran
+
+Bagi pendukung klub, karyawan, atau pemilik usaha keluarga yang hendak menjual perusahaannya, pertanyaan pertama bukan "berapa harganya?", melainkan "dari mana uangnya?". Jika pembeli membayar dengan pinjaman yang kelak dibebankan kepada perusahaan, yang sebenarnya membayar adalah perusahaan itu sendiri. Janji lisan tentang stadion, investasi, atau "tanpa utang" hanya berarti sesuatu jika tertulis di perjanjian.
+
+Bagi investor, Liverpool mengajarkan bahwa beberapa aset punya pemilik moral di luar daftar pemegang saham. Penggemar sepak bola di Indonesia, dari Persib sampai Persebaya, tahu rasanya: klub bisa dibeli dengan uang, tetapi tidak dengan kesetiaan pendukungnya.
 
 ### Analisa Dark Triad
 
@@ -695,11 +799,16 @@ Yang menanggung biaya selama tiga tahun itu adalah klub: puluhan juta pound bung
 
 **Kesimpulan:** Kisah ini lebih banyak berbicara tentang sistem daripada pribadi. Leveraged buyout membiarkan pembeli memakai uang orang lain dan aset yang dibeli untuk menanggung risikonya. Hicks dan Gillett hanya memakai sistem itu pada klub yang ternyata punya pendukung yang tidak mau diam.
 
-### Hikmah
+### Profil
 
-Bagi pendukung klub, karyawan, atau pemilik usaha keluarga yang hendak menjual perusahaannya, pertanyaan pertama bukan "berapa harganya?", melainkan "dari mana uangnya?". Jika pembeli membayar dengan pinjaman yang kelak dibebankan kepada perusahaan, yang sebenarnya membayar adalah perusahaan itu sendiri. Janji lisan tentang stadion, investasi, atau "tanpa utang" hanya berarti sesuatu jika tertulis di perjanjian.
+**Nama:** Tom Hicks & George Gillett
+**Lahir:** Hicks 7 Februari 1946, Texas; Gillett 22 Oktober 1938, Racine, Wisconsin
+**Wafat:** Hicks 6 Desember 2025, Dallas; Gillett 22 September 2026, Denver
+**Jenis kelamin:** Laki-laki
+**Negara:** Amerika Serikat
 
-Bagi investor, Liverpool mengajarkan bahwa beberapa aset punya pemilik moral di luar daftar pemegang saham. Penggemar sepak bola di Indonesia, dari Persib sampai Persebaya, tahu rasanya: klub bisa dibeli dengan uang, tetapi tidak dengan kesetiaan pendukungnya.
+> “Ini persekongkolan yang terorganisasi, dan sudah berlangsung berbulan-bulan.”
+> — Tom Hicks kepada Sky Sports News setelah Liverpool dijual, 2010
 
 <div style="page-break-after: always;"></div>
 
@@ -707,7 +816,7 @@ Bagi investor, Liverpool mengajarkan bahwa beberapa aset punya pemilik moral di 
 
 *Amerika Serikat, 2016. Obat: harga EpiPen naik enam kali lipat.*
 
-### Kisahnya
+### Kisah
 
 EpiPen adalah suntikan otomatis berbentuk pena, berisi epinefrin, atau adrenalin. Bagi orang dengan alergi berat, terhadap kacang, sengatan lebah, atau obat tertentu, reaksi alergi bisa membuat tenggorokan membengkak dan tekanan darah anjlok dalam hitungan menit. Satu suntikan epinefrin di paha bisa menyelamatkan nyawa sampai ambulans datang. Obatnya sendiri sangat murah, hanya bernilai beberapa dolar. Yang mahal adalah alat suntiknya, yang dirancang supaya bisa dipakai oleh siapa saja, termasuk anak-anak dan guru, dalam keadaan panik.
 
@@ -723,7 +832,7 @@ Di saat yang sama, Mylan gencar mendorong sekolah-sekolah menyediakan epinefrin 
 
 Pesaing memang hampir tidak ada. Satu produk saingan ditarik dari pasar pada 2015 karena masalah dosis, dan versi generik lain belum mendapat izin. Lagi-lagi, menaikkan harga obat tidak melanggar hukum di Amerika.
 
-### Konsekuensi
+### Harga
 
 Pada musim panas 2016, menjelang tahun ajaran baru, para orang tua yang terkejut melihat tagihan apotek mulai bercerita di media sosial. Banyak keluarga dengan asuransi kesehatan yang berbiaya sendiri tinggi harus membayar harga penuh, ratusan dolar untuk pena yang mungkin tidak akan dipakai dan harus dibeli lagi tahun depan. Cerita-cerita itu menyebar cepat, dan media besar mulai membandingkan kenaikan harga EpiPen dengan kenaikan gaji para eksekutif Mylan.
 
@@ -733,9 +842,17 @@ Mylan kemudian meluncurkan versi generik EpiPen yang identik, dengan harga sekit
 
 Kisah lama Bresch juga ikut diangkat kembali. Pada akhir 2007, sebuah koran di Pittsburgh melaporkan bahwa West Virginia University memberikan gelar MBA kepadanya padahal ia belum menyelesaikan syarat-syaratnya. Pada 2008, penyelidikan kampus menyimpulkan gelar itu diberikan secara keliru dan mencabutnya, dan rektor universitas tersebut, bersama beberapa pejabat lain, mengundurkan diri.
 
-### Keuntungan
+### Hasil
 
 EpiPen menjadi salah satu produk paling menguntungkan Mylan, menyumbang miliaran dolar penjualan. Kompensasi tahunan Bresch naik dari sekitar 2,5 juta dolar pada 2007 menjadi sekitar 19 juta dolar pada 2015, naik lebih dari enam ratus persen dalam periode yang hampir sama dengan kenaikan harga EpiPen. Ketika Mylan bergabung dengan Upjohn milik Pfizer pada 2020 membentuk Viatris, Bresch pergi dengan paket keluar sekitar 30 juta dolar.
+
+### Pelajaran
+
+Kenaikan kecil yang diulang terus terasa wajar, sampai seseorang menjumlahkannya. Banyak kenaikan harga, dari biaya langganan sampai biaya administrasi bank, bekerja dengan cara yang sama. Periksa sesekali berapa yang kamu bayar sekarang dibandingkan lima tahun lalu.
+
+Produk yang dibutuhkan orang karena takut, dan diwajibkan oleh aturan, adalah pasar yang sangat mudah diperas. Orang tua tidak akan menawar harga alat yang menyelamatkan nyawa anaknya. Ketika sebuah perusahaan ikut melobi aturan yang mewajibkan produknya sendiri, perhatikan baik-baik.
+
+Bagi konsumen, kekuatan terbesar ternyata bukan regulator, tetapi cerita yang disebarkan bersama-sama. Bagi pebisnis, pelajarannya sederhana: harga yang tidak bisa kamu jelaskan di depan seorang ibu yang anaknya alergi, kemungkinan besar memang tidak bisa dibela.
 
 ### Analisa Dark Triad
 
@@ -747,13 +864,16 @@ EpiPen menjadi salah satu produk paling menguntungkan Mylan, menyumbang miliaran
 
 **Kesimpulan:** Kisah EpiPen adalah pengingat penting. Tidak semua "jahat tapi legal" membutuhkan Dark Triad yang kuat. Kadang cukup sebuah perusahaan dengan insentif yang salah, eksekutif yang dibayar berdasarkan laba, dan pasar di mana pembelinya tidak punya pilihan. Sistemnya sendiri yang menghasilkan kekejaman, satu kenaikan harga kecil pada satu waktu.
 
-### Hikmah
+### Profil
 
-Kenaikan kecil yang diulang terus terasa wajar, sampai seseorang menjumlahkannya. Banyak kenaikan harga, dari biaya langganan sampai biaya administrasi bank, bekerja dengan cara yang sama. Periksa sesekali berapa yang kamu bayar sekarang dibandingkan lima tahun lalu.
+**Nama:** Heather Bresch
+**Lahir:** 27 Juni 1969, Morgantown, West Virginia
+**Wafat:** Masih hidup
+**Jenis kelamin:** Perempuan
+**Negara:** Amerika Serikat
 
-Produk yang dibutuhkan orang karena takut, dan diwajibkan oleh aturan, adalah pasar yang sangat mudah diperas. Orang tua tidak akan menawar harga alat yang menyelamatkan nyawa anaknya. Ketika sebuah perusahaan ikut melobi aturan yang mewajibkan produknya sendiri, perhatikan baik-baik.
-
-Bagi konsumen, kekuatan terbesar ternyata bukan regulator, tetapi cerita yang disebarkan bersama-sama. Bagi pebisnis, pelajarannya sederhana: harga yang tidak bisa kamu jelaskan di depan seorang ibu yang anaknya alergi, kemungkinan besar memang tidak bisa dibela.
+> “Tidak ada yang lebih frustrasi daripada saya. [...] Ada sistemnya.”
+> — Wawancara dengan CNBC, Agustus 2016
 
 <div style="page-break-after: always;"></div>
 
@@ -765,9 +885,9 @@ Bagi konsumen, kekuatan terbesar ternyata bukan regulator, tetapi cerita yang di
 
 *New York, 1990-an. Saham: telepon dingin, saham gorengan, dan uang ribuan investor kecil.*
 
-### Kisahnya
+### Kisah
 
-Jordan Belfort lahir pada 1962 di Queens, New York, dari keluarga kelas menengah. Sejak muda ia pandai menjual. Menurut ceritanya sendiri, ia pernah menjual es di pantai, lalu menjalankan usaha daging dan makanan laut dari pintu ke pintu di Long Island, yang akhirnya bangkrut ketika ia berumur sekitar 25 tahun. Ia kemudian masuk Wall Street sebagai pialang magang di firma L.F. Rothschild, tepat menjelang kejatuhan pasar saham Oktober 1987. Firma itu kemudian tutup, dan Belfort kehilangan pekerjaan.
+Jordan Belfort lahir pada 1962 di Bronx, New York, dan besar di Queens, dari keluarga kelas menengah. Sejak muda ia pandai menjual. Menurut ceritanya sendiri, ia pernah menjual es di pantai, lalu menjalankan usaha daging dan makanan laut dari pintu ke pintu di Long Island, yang akhirnya bangkrut ketika ia berumur sekitar 25 tahun. Ia kemudian masuk Wall Street sebagai pialang magang di firma L.F. Rothschild, tepat menjelang kejatuhan pasar saham Oktober 1987. Firma itu kemudian tutup, dan Belfort kehilangan pekerjaan.
 
 Ia pindah ke dunia saham murah, saham perusahaan kecil yang harganya beberapa sen atau beberapa dolar dan jarang diawasi analis. Sekitar 1989, bersama rekannya Danny Porush, ia mengambil alih sebuah firma pialang kecil dan menamainya Stratton Oakmont. Nama itu sengaja dipilih supaya terdengar tua dan terhormat, seperti bank investasi lama.
 
@@ -779,21 +899,29 @@ Uangnya mengalir deras, dan begitu pula pestanya. Belfort, menurut pengakuannya 
 
 Regulator sudah lama mengawasi. Komisi Sekuritas dan Bursa Amerika (SEC) menggugat Stratton pada awal 1990-an. Pada Desember 1996, asosiasi pialang Amerika, NASD, mengeluarkan Stratton dari keanggotaannya, sehingga firma itu tidak bisa beroperasi lagi.
 
-### Konsekuensi
+### Harga
 
-Pada 1999, Belfort mengaku bersalah atas penipuan sekuritas dan pencucian uang. Ia memilih bekerja sama dengan jaksa dan FBI, termasuk merekam pembicaraan dengan rekan-rekannya dan bersaksi melawan mereka. Karena kerja sama itu, ketika dijatuhi hukuman pada 2003, ia mendapat hukuman sekitar empat tahun penjara, jauh di bawah ancaman maksimum. Ia menjalani sekitar 22 bulan di penjara federal di Taft, California.
+Pada 1999, Belfort mengaku bersalah atas penipuan sekuritas dan pencucian uang. Ia memilih bekerja sama dengan jaksa dan FBI, termasuk merekam pembicaraan dengan rekan-rekannya dan bersaksi melawan mereka. Karena kerja sama itu, pada 2003 ia dijatuhi hukuman 42 bulan, atau tiga setengah tahun, penjara, jauh di bawah ancaman maksimum. Ia menjalani sekitar 22 bulan di penjara federal di Taft, California.
 
 Menurut jaksa, sekitar 1.500 investor dirugikan, dengan total kerugian sekitar 200 juta dolar. Pengadilan memerintahkan Belfort membayar ganti rugi sekitar 110 juta dolar. Awalnya ia wajib menyerahkan separuh penghasilannya kepada para korban.
 
-Pembayaran ganti rugi itulah yang lama menjadi sengketa. Pada 2013, jaksa menuduhnya tidak memenuhi kewajiban, lalu menarik tuduhan itu setelah pengacaranya menunjukkan bahwa kewajiban separuh penghasilan hanya berlaku sampai 2009. Ketika film tentang dirinya akan dirilis, Belfort menyatakan seluruh royalti buku dan filmnya akan diserahkan kepada korban. Pada 2014, jaksa menyebut klaim itu tidak sesuai fakta. Sampai akhir 2018, menurut laporan CNBC, ia baru membayar sekitar 12,8 juta dolar, dan pengadilan mengizinkan pemerintah menyita seluruh saham miliknya di sebuah perusahaan properti kesehatan, meski Belfort menolak.
+Pembayaran ganti rugi itulah yang lama menjadi sengketa. Pada 2013, jaksa menuduhnya tidak memenuhi kewajiban, lalu menarik tuduhan itu setelah pengacaranya menunjukkan bahwa kewajiban separuh penghasilan hanya berlaku sampai 2009. Ketika film tentang dirinya akan dirilis, Belfort menyatakan seluruh royalti buku dan filmnya akan diserahkan kepada korban. Pada 2014, jaksa menyebut klaim itu tidak sesuai fakta. Sampai akhir 2018, menurut laporan CNBC, ia baru membayar sekitar 12,8 juta dolar, dan pengadilan mengizinkan pemerintah menyita seluruh saham miliknya di Delos Living, sebuah perusahaan properti kesehatan, meski Belfort menolak.
 
-Pada 2026, menurut laporan media, masa kewajiban ganti rugi itu berakhir. Belfort menyatakan ia telah menuntaskan ganti rugi yang diperintahkan pengadilan dan merasa lega bisa menutup babak itu. Laporan yang sama menyebut jumlah yang dibagikan kepada para korban jauh lebih kecil dari angka semula. Artinya, sebagian besar kerugian investor tidak pernah kembali.
+Pada 28 April 2026, kewajiban itu gugur karena batas waktu penagihan 20 tahun sejak ia bebas sudah habis, bukan karena lunas. Belfort menyebut dirinya telah menuntaskan ganti rugi, padahal menurut perkiraan, para korban baru menerima sekitar 13 sampai 14 juta dolar dari sekitar 110 juta dolar yang diperintahkan, sebagian besar dari aset yang disita saat ia ditangkap. Artinya, sebagian besar kerugian investor tidak pernah kembali.
 
-### Keuntungan
+### Hasil
 
 Di masa jayanya, Belfort mengaku menghasilkan puluhan juta dolar setahun. Setelah keluar penjara, ia membangun karier kedua dari kisah kejahatannya sendiri. Memoarnya, *The Wolf of Wall Street*, terbit pada 2007 dan laris. Pada 2013, Martin Scorsese mengangkatnya ke layar lebar dengan Leonardo DiCaprio sebagai Belfort. Film itu sukses besar dan masuk nominasi Oscar untuk film terbaik.
 
 Belfort kini dikenal sebagai motivator dan pelatih penjualan. Ia menjual sistem penjualan yang ia namai *Straight Line*, dengan tarif ceramah menurut laporan puluhan ribu dolar per acara, dan menulis buku-buku lanjutan tentang menjual dan berinvestasi. Kejahatannya menjadi mereknya.
+
+### Pelajaran
+
+Tolak setiap ajakan investasi lewat telepon, pesan pribadi, atau grup yang mendesak kamu membeli sekarang juga. Rasa terdesak adalah alat jual, bukan analisis. Di Indonesia, pola menggoreng saham kecil dengan ajakan di grup Telegram atau media sosial persis seperti ini, hanya teleponnya yang berganti.
+
+Ganti rugi di atas kertas tidak sama dengan uang yang kembali. Putusan pengadilan bisa memerintahkan seratus juta dolar, tetapi korban sering hanya menerima sebagian kecil. Mencegah selalu jauh lebih murah daripada menagih.
+
+Dan berhati-hatilah dengan guru yang menjual kisah kejahatannya sebagai kunci sukses. Teknik menjual bisa dipelajari dari banyak orang. Pertanyaannya: siapa yang dulu membayar biaya pelajaran itu?
 
 ### Analisa Dark Triad
 
@@ -805,13 +933,16 @@ Belfort kini dikenal sebagai motivator dan pelatih penjualan. Ia menjual sistem 
 
 **Kesimpulan:** Narsisisme dan Machiavellianisme yang sama kuatnya, dengan psikopati yang menonjol pada masa jayanya. Yang paling mengganggu dari kisah Belfort bukan kejahatannya, melainkan betapa mudahnya kejahatan itu dijual ulang sebagai hiburan dan pelajaran sukses.
 
-### Hikmah
+### Profil
 
-Tolak setiap ajakan investasi lewat telepon, pesan pribadi, atau grup yang mendesak kamu membeli sekarang juga. Rasa terdesak adalah alat jual, bukan analisis. Di Indonesia, pola menggoreng saham kecil dengan ajakan di grup Telegram atau media sosial persis seperti ini, hanya teleponnya yang berganti.
+**Nama:** Jordan Ross Belfort
+**Lahir:** 9 Juli 1962, Bronx, New York
+**Wafat:** Masih hidup
+**Jenis kelamin:** Laki-laki
+**Negara:** Amerika Serikat
 
-Ganti rugi di atas kertas tidak sama dengan uang yang kembali. Putusan pengadilan bisa memerintahkan seratus juta dolar, tetapi korban sering hanya menerima sebagian kecil. Mencegah selalu jauh lebih murah daripada menagih.
-
-Dan berhati-hatilah dengan guru yang menjual kisah kejahatannya sebagai kunci sukses. Teknik menjual bisa dipelajari dari banyak orang. Pertanyaannya: siapa yang dulu membayar biaya pelajaran itu?
+> “Saya tidak kenal satu orang pun yang kehilangan seluruh tabungan hidupnya.”
+> — Wawancara dengan CNN, Januari 2014
 
 <div style="page-break-after: always;"></div>
 
@@ -819,33 +950,41 @@ Dan berhati-hatilah dengan guru yang menjual kisah kejahatannya sebagai kunci su
 
 *Jakarta, 1994. Perbankan: kredit raksasa dari bank negara, lalu keluar dari Cipinang tanpa kembali.*
 
-### Kisahnya
+### Kisah
 
-Eddy Tansil, yang lahir dengan nama Tan Tjoe Hong di Makassar pada 1953, adalah pengusaha yang tumbuh di masa Orde Baru, ketika kedekatan dengan pejabat bisa membuka pintu yang tertutup bagi orang lain. Kelompok usahanya bernama Golden Key Group. Ia bukan satu-satunya anggota keluarga yang kelak berurusan dengan hukum: kakaknya, Hendra Rahardja, bankir pemilik Bank Harapan Sentosa, dihukum dalam perkara kredit bank yang merugikan negara dan meninggal di Australia saat proses ekstradisi.
+Eddy Tansil, yang lahir dengan nama Tan Tjoe Hong di Makassar pada 1953, adalah pengusaha yang tumbuh di masa Orde Baru, ketika kedekatan dengan pejabat bisa membuka pintu yang tertutup bagi orang lain. Kelompok usahanya bernama Golden Key Group. Ia bukan satu-satunya anggota keluarga yang kelak berurusan dengan hukum: kakaknya, Hendra Rahardja, bankir pemilik Bank Harapan Sentosa, dijatuhi hukuman seumur hidup secara in absentia pada 2002 dalam perkara penyalahgunaan dana BLBI, dan meninggal di Australia pada Januari 2003 sebelum sempat diekstradisi.
 
-Pada akhir 1980-an dan awal 1990-an, Golden Key mengajukan kredit kepada Bank Pembangunan Indonesia, atau Bapindo, bank milik negara yang tugasnya membiayai proyek pembangunan jangka panjang. Proyeknya terdengar strategis: pabrik petrokimia, lewat anak perusahaan bernama PT Hamparan Rejeki. Kredit itu cair bertahap dan membengkak hingga sekitar 1,3 triliun rupiah, ketika itu setara sekitar 430 juta dolar Amerika. Sebagian sumber menyebut angka dalam dolar yang lebih besar, sampai sekitar 565 juta dolar.
+Pada akhir 1980-an dan awal 1990-an, Golden Key mengajukan kredit kepada Bank Pembangunan Indonesia, atau Bapindo, bank milik negara yang tugasnya membiayai proyek pembangunan jangka panjang. Proyeknya terdengar strategis: pabrik petrokimia, lewat anak perusahaan bernama PT Hamparan Rejeki. Kredit itu cair bertahap dan membengkak hingga sekitar 1,3 triliun rupiah. Dalam dolar, media menyebut angka yang berbeda-beda, dari sekitar 430 juta sampai 565 juta dolar Amerika.
 
-Menurut laporan media dan fakta yang terungkap di persidangan, kredit sebesar itu diberikan tanpa jaminan yang memadai dan tanpa pemeriksaan kelayakan proyek yang semestinya. Sebagian dana dicairkan, menurut sejumlah laporan, lewat fasilitas pembiayaan impor seperti *letter of credit* untuk pengadaan mesin pabrik. Pabriknya sendiri tidak pernah jadi. Pengadilan kemudian menyatakan dana itu dipakai untuk kepentingan di luar proyek, termasuk rumah, tanah, dan kendaraan.
+Menurut laporan media dan fakta yang terungkap di persidangan, kredit sebesar itu diberikan tanpa jaminan yang memadai dan tanpa pemeriksaan kelayakan proyek yang semestinya. Sebagian dana dicairkan, menurut sejumlah laporan, lewat fasilitas pembiayaan impor seperti *letter of credit* untuk pengadaan mesin pabrik. Pabriknya sendiri tidak pernah jadi. Pengadilan kemudian menyatakan kredit itu disalahgunakan untuk kepentingan pribadi.
 
 Kasus ini meledak antara akhir 1993 dan awal 1994, ketika anggota Komisi VII DPR, A.A. Baramuli, mempersoalkan kredit Bapindo kepada Golden Key dalam rapat dengar pendapat dengan Gubernur Bank Indonesia. Dalam sorotan publik muncul satu kata yang kemudian melekat pada skandal ini: katebelece. Sudomo, mantan Pangkopkamtib yang saat itu menjabat Ketua Dewan Pertimbangan Agung, mengakui pernah mengirim surat kepada direksi Bapindo tentang Eddy Tansil. Sudomo berkeras surat itu hanya referensi untuk memperkenalkan seorang pengusaha, bukan perintah untuk mencairkan kredit. Nama beberapa pejabat lain ikut disebut dalam pemberitaan, tetapi tidak ada bukti di pengadilan yang menyatakan mereka terlibat dalam kejahatan Eddy.
 
-Kejaksaan Agung menahan Eddy pada Februari 1994. Pada Agustus 1994, Pengadilan Negeri Jakarta Pusat menyatakannya bersalah melakukan korupsi. Sumber berbeda tentang angka vonis tingkat pertama: banyak laporan menyebut 17 tahun penjara, yang kemudian diperberat menjadi 20 tahun oleh Pengadilan Tinggi Jakarta dan dikuatkan Mahkamah Agung. Ia juga dihukum denda 30 juta rupiah, membayar uang pengganti 500 miliar rupiah, dan mengganti kerugian negara sekitar 1,3 triliun rupiah. Beberapa pejabat Bapindo juga dijatuhi hukuman penjara dalam perkara yang sama.
+Kejaksaan Agung menahan Eddy pada Februari 1994. Pada Agustus 1994, Pengadilan Negeri Jakarta Pusat menyatakannya bersalah melakukan korupsi. Pada 15 Agustus 1994, Pengadilan Negeri Jakarta Pusat menjatuhkan vonis 17 tahun penjara. Pengadilan Tinggi Jakarta memperberatnya menjadi 20 tahun, dan Mahkamah Agung menolak kasasinya pada 1995. Ia juga dihukum denda 30 juta rupiah, membayar uang pengganti 500 miliar rupiah, dan mengganti kerugian negara sekitar 1,3 triliun rupiah. Beberapa pejabat Bapindo juga dijatuhi hukuman penjara dalam perkara yang sama.
 
 Lalu terjadi sesuatu yang membuat namanya diingat sampai sekarang. Pada awal Mei 1996, Eddy Tansil keluar dari Lembaga Pemasyarakatan Cipinang, menurut laporan dengan alasan berobat jantung ke Rumah Sakit Harapan Kita, tanpa pengawalan semestinya. Ia tidak pernah kembali. Kepergiannya baru dilaporkan dua hari kemudian. Menteri Kehakiman saat itu, Oetojo Oesman, menyebut Eddy sempat mengubah penampilan dengan mengeriting rambut dan memelihara jambang. Penyelidikan menduga ada suap kepada petugas, dan kepala LP Cipinang dicopot dari jabatannya.
 
-### Konsekuensi
+### Harga
 
 Sejak itu Eddy Tansil menjadi buronan, dan kisah keberadaannya lebih banyak berupa laporan dan kabar daripada kepastian. Ia diduga lebih dulu lari ke Singapura, lalu ke China. Pada 1998, sebuah lembaga pemantau korupsi melaporkan bahwa ia menjalankan pabrik bir berlisensi merek Jerman di Putian, Provinsi Fujian. Belakangan, menurut laporan Tirto pada 2019, perusahaan yang terkait dengannya di Putian menunggak kredit Bank of China sekitar 390 juta yuan, dan bank itu memenangkan gugatan perdata di pengadilan setempat. Ada pula laporan yang menyebutnya pernah tinggal di Makau. Tidak satu pun kabar ini pernah dikonfirmasi lewat penangkapan.
 
 Pada 2013, Kejaksaan Agung menyatakan Eddy terlacak berada di China sejak 2011, dan permintaan ekstradisi sudah dikirim kepada pemerintah China. Kejaksaan saat itu optimistis ia bisa dipulangkan. Polri dan Interpol kembali menyatakan memburunya pada 2019. Sampai buku ini ditulis, ia belum pernah tertangkap, dan keberadaan serta keadaannya sekarang tidak diketahui pasti. Bila masih hidup, ia kini berusia lebih dari 70 tahun.
 
-Karena orangnya tidak bisa dihadirkan, negara beralih mengejar hartanya. Kejaksaan melelang rumah dan aset Eddy secara bertahap sejak sekitar 2021. Pada Juni 2026, Badan Pemulihan Aset Kejaksaan Agung menyerahkan kepada negara uang tunai sekitar 51,7 miliar rupiah atas nama Eddy Tansil yang tersimpan di bank, ditambah tanah dan vila di Megamendung, bekas pabrik bir di Kabupaten Bogor, serta belasan bidang tanah di Banten. Total aset yang diselamatkan sekitar 82,7 miliar rupiah. Menteri Keuangan menyebutnya prestasi luar biasa. Namun jumlah itu hanya sebagian kecil dari kerugian negara 1,3 triliun rupiah pada nilai tahun 1990-an.
+Karena orangnya tidak bisa dihadirkan, negara beralih mengejar hartanya. Kejaksaan melelang rumah dan aset Eddy secara bertahap sejak sekitar 2021. Pada Juni 2026, Badan Pemulihan Aset Kejaksaan Agung menyerahkan kepada negara uang tunai sekitar 51,7 miliar rupiah atas nama Eddy Tansil yang tersimpan di bank, ditambah tanah dan vila di Megamendung, bekas pabrik bir di Kabupaten Bogor, serta belasan bidang tanah di Banten. Total aset yang diselamatkan sekitar 82,7 miliar rupiah. Menteri Keuangan Purbaya Yudhi Sadewa menyebutnya "prestasi yang luar biasa". Namun jumlah itu hanya sebagian kecil dari kerugian negara 1,3 triliun rupiah pada nilai tahun 1990-an.
 
 Bapindo sendiri tidak bertahan lama. Setelah krisis 1998, bank itu bersama tiga bank negara lain digabung menjadi Bank Mandiri pada 1999.
 
-### Keuntungan
+### Hasil
 
-Eddy Tansil mendapatkan akses ke salah satu kredit terbesar dari bank negara di masanya, yang dipakai untuk kepentingan di luar proyek. Ia menjalani kurang dari dua tahun dari hukuman 20 tahunnya. Menurut berbagai laporan, ia kemudian membangun usaha baru di luar negeri. Tiga puluh tahun setelah kabur, negara baru berhasil menarik kembali sebagian kecil hartanya.
+Eddy Tansil mendapatkan akses ke salah satu kredit terbesar dari bank negara di masanya, yang dipakai untuk kepentingan di luar proyek. Ia hanya mendekam sekitar dua tahun, terhitung sejak ditahan pada Februari 1994, dari hukuman 20 tahunnya. Menurut berbagai laporan, ia kemudian membangun usaha baru di luar negeri. Tiga puluh tahun setelah kabur, negara baru berhasil menarik kembali sebagian kecil hartanya.
+
+### Pelajaran
+
+Kredit macet di bank negara bukan urusan orang lain. Uang bank negara adalah uang publik, dan kerugiannya pada akhirnya ditanggung pembayar pajak, termasuk lewat penyelamatan perbankan setelah krisis 1998. Skandal seperti BLBI, Jiwasraya, dan Asabri menunjukkan polanya bisa berulang.
+
+Surat sakti tetap surat sakti, apa pun namanya. Bagi pegawai bank atau pejabat yang menerima "titipan" dari orang berkuasa, sejarah Bapindo menunjukkan bahwa yang masuk penjara sering kali justru mereka yang menandatangani, bukan yang menitipkan.
+
+Dan vonis hanya berarti jika dijalankan. Hukuman 20 tahun tidak ada artinya bila terpidana bisa berjalan keluar dari gerbang penjara. Mengejar aset puluhan tahun kemudian memang penting, tetapi tidak menggantikan penegakan hukum yang bersih sejak awal.
 
 ### Analisa Dark Triad
 
@@ -857,13 +996,13 @@ Eddy Tansil mendapatkan akses ke salah satu kredit terbesar dari bank negara di 
 
 **Kesimpulan:** Machiavellianisme yang kuat, dengan psikopati yang tampak lewat tindakan, bukan kata-kata. Tetapi kisah ini juga, seperti EpiPen, adalah kisah sistem: bank negara yang tunduk pada katebelece, pengawasan yang lemah, dan penjara yang pintunya bisa dibuka dengan uang. Tanpa sistem seperti itu, kejahatan sebesar ini akan jauh lebih sulit.
 
-### Hikmah
+### Profil
 
-Kredit macet di bank negara bukan urusan orang lain. Uang bank negara adalah uang publik, dan kerugiannya pada akhirnya ditanggung pembayar pajak, termasuk lewat penyelamatan perbankan setelah krisis 1998. Skandal seperti BLBI, Jiwasraya, dan Asabri menunjukkan polanya bisa berulang.
-
-Surat sakti tetap surat sakti, apa pun namanya. Bagi pegawai bank atau pejabat yang menerima "titipan" dari orang berkuasa, sejarah Bapindo menunjukkan bahwa yang masuk penjara sering kali justru mereka yang menandatangani, bukan yang menitipkan.
-
-Dan vonis hanya berarti jika dijalankan. Hukuman 20 tahun tidak ada artinya bila terpidana bisa berjalan keluar dari gerbang penjara. Mengejar aset puluhan tahun kemudian memang penting, tetapi tidak menggantikan penegakan hukum yang bersih sejak awal.
+**Nama:** Eddy Tansil (Tan Tjoe Hong)
+**Lahir:** Tidak pasti; umumnya disebut 2 Februari 1953, Makassar
+**Wafat:** Tidak diketahui (buron sejak 1996)
+**Jenis kelamin:** Laki-laki
+**Negara:** Indonesia
 
 <div style="page-break-after: always;"></div>
 
@@ -871,7 +1010,7 @@ Dan vonis hanya berarti jika dijalankan. Hukuman 20 tahun tidak ada artinya bila
 
 *Houston, 2001. Energi: perusahaan paling inovatif di Amerika yang labanya tidak pernah ada.*
 
-### Kisahnya
+### Kisah
 
 Jeffrey Skilling lahir pada 1953 dan tumbuh di Illinois. Ia lulus dari sekolah bisnis Harvard sebagai salah satu lulusan terbaik. Menurut cerita yang sering dikutip, ketika ditanya dalam wawancara masuk apakah ia pintar, ia menjawab: "Saya sangat pintar." Ia kemudian menjadi konsultan di McKinsey, dan salah satu kliennya adalah Enron, perusahaan pipa gas alam di Houston yang dipimpin Kenneth Lay.
 
@@ -891,15 +1030,23 @@ Pada Februari 2001, Skilling menjadi CEO. Dua bulan kemudian, dalam sebuah konfe
 
 Tak lama setelah ia pergi, seorang wakil presiden Enron, Sherron Watkins, menulis memo kepada Kenneth Lay yang memperingatkan bahwa perusahaan bisa runtuh karena skandal akuntansi. Pada Oktober 2001, Enron mengumumkan kerugian besar, dan pada November mengoreksi laporan keuangannya sejak 1997. Harga saham runtuh. Pada 2 Desember 2001, Enron mengajukan kebangkrutan, yang terbesar dalam sejarah Amerika saat itu.
 
-### Konsekuensi
+### Harga
 
 Sekitar 20.000 karyawan Enron kehilangan pekerjaan. Banyak dari mereka juga kehilangan tabungan pensiun, karena dana pensiun mereka diinvestasikan dalam saham Enron, dan mereka sempat dilarang menjualnya ketika harga sedang jatuh. Arthur Andersen, salah satu dari lima kantor akuntan terbesar dunia, dinyatakan bersalah karena menghancurkan dokumen Enron, dan runtuh, walaupun putusannya kemudian dibatalkan Mahkamah Agung. Kongres mengesahkan Sarbanes-Oxley Act pada 2002, undang-undang yang mewajibkan para CEO dan direktur keuangan menjamin secara pribadi kebenaran laporan keuangan perusahaannya.
 
 Fastow mengaku bersalah dan dihukum enam tahun penjara. Pada 2006, juri menyatakan Skilling bersalah atas belasan dakwaan, termasuk penipuan dan perdagangan orang dalam. Ia dihukum 24 tahun penjara. Pada 2013, hukumannya dikurangi menjadi 14 tahun, sebagian lewat kesepakatan yang menyerahkan sekitar 42 juta dolar kepada para korban. Ia dibebaskan pada 2019. Kenneth Lay juga dinyatakan bersalah, tetapi meninggal karena serangan jantung sebelum dijatuhi hukuman pada Juli 2006, sehingga putusan bersalahnya dibatalkan secara hukum.
 
-### Keuntungan
+### Hasil
 
 Selama satu dekade, Skilling adalah salah satu eksekutif paling dikagumi di Amerika. Ia menerima gaji, bonus, dan saham bernilai puluhan juta dolar, dan menjual sebagian besar sahamnya sebelum harga runtuh. Sebagian kekayaannya habis untuk biaya pengacara dan ganti rugi.
+
+### Pelajaran
+
+Laba di atas kertas berbeda dengan uang di rekening. Perusahaan yang labanya terus naik tetapi uang tunainya tidak ikut naik sedang menceritakan sesuatu yang tidak sesuai kenyataan. Tanyakan selalu: kapan keuntungan ini benar-benar menjadi uang?
+
+Kalau pemimpin perusahaan memaki orang yang bertanya tentang angkanya, pertanyaan itu kemungkinan besar tepat sasaran.
+
+Dan bagi karyawan: jangan menaruh seluruh tabungan masa depanmu di saham perusahaan tempatmu bekerja. Kalau perusahaan itu runtuh, kamu kehilangan pekerjaan dan tabungan pada hari yang sama.
 
 ### Analisa Dark Triad
 
@@ -911,13 +1058,16 @@ Selama satu dekade, Skilling adalah salah satu eksekutif paling dikagumi di Amer
 
 **Kesimpulan:** Narsisisme dan Machiavellianisme yang kuat, dalam organisasi yang memberi hadiah kepada keduanya. Enron menunjukkan bagaimana garis antara "jahat tapi legal" dan "jahat dan ilegal" bisa dilewati pelan-pelan: dimulai dari aturan akuntansi yang sah, lalu ditutupi dengan struktur yang tidak sah.
 
-### Hikmah
+### Profil
 
-Laba di atas kertas berbeda dengan uang di rekening. Perusahaan yang labanya terus naik tetapi uang tunainya tidak ikut naik sedang menceritakan sesuatu yang tidak sesuai kenyataan. Tanyakan selalu: kapan keuntungan ini benar-benar menjadi uang?
+**Nama:** Jeffrey Keith Skilling
+**Lahir:** 25 November 1953, Pittsburgh, Pennsylvania
+**Wafat:** Masih hidup
+**Jenis kelamin:** Laki-laki
+**Negara:** Amerika Serikat
 
-Kalau pemimpin perusahaan memaki orang yang bertanya tentang angkanya, pertanyaan itu kemungkinan besar tepat sasaran.
-
-Dan bagi karyawan: jangan menaruh seluruh tabungan masa depanmu di saham perusahaan tempatmu bekerja. Kalau perusahaan itu runtuh, kamu kehilangan pekerjaan dan tabungan pada hari yang sama.
+> “Wah, terima kasih banyak, kami menghargainya... bajingan.”
+> — Kepada seorang analis dalam telekonferensi laba Enron, April 2001
 
 <div style="page-break-after: always;"></div>
 
@@ -925,7 +1075,7 @@ Dan bagi karyawan: jangan menaruh seluruh tabungan masa depanmu di saham perusah
 
 *Bahama, 2022. Kripto: memakai uang nasabah, atas nama berbuat baik.*
 
-### Kisahnya
+### Kisah
 
 Sam Bankman-Fried, yang dikenal dengan inisial SBF, lahir pada 1992 di California, anak dari dua profesor hukum di Universitas Stanford. Ia kuliah fisika di MIT, dan di sana ia tertarik pada gerakan *effective altruism*, aliran pemikiran yang mengajak orang memakai akal dan data untuk berbuat baik sebanyak mungkin. Salah satu gagasan di dalamnya adalah *earn to give*: bekerja di bidang yang sangat menguntungkan, lalu menyumbangkan sebagian besar penghasilan untuk tujuan yang baik. SBF memutuskan itulah jalannya.
 
@@ -939,7 +1089,7 @@ Pada 2 November 2022, media kripto CoinDesk menerbitkan laporan bahwa sebagian b
 
 Pada 11 November 2022, FTX mengajukan kebangkrutan. Sekitar delapan miliar dolar uang nasabah dinyatakan hilang.
 
-### Konsekuensi
+### Harga
 
 SBF ditangkap di Bahama pada Desember 2022 dan diekstradisi ke Amerika. Tiga rekan terdekatnya, termasuk Caroline Ellison, pemimpin Alameda dan mantan kekasihnya, mengaku bersalah dan bersaksi melawannya. Pada November 2023, juri di New York menyatakannya bersalah atas seluruh tujuh dakwaan penipuan dan persekongkolan. Pada Maret 2024, ia dihukum 25 tahun penjara dan diperintahkan menyerahkan sekitar 11 miliar dolar. Pada Juni 2026, pengadilan banding menolak bandingnya dan menguatkan vonis itu. Ia lalu meminta grasi kepada Presiden Trump, yang sebelumnya menyatakan tidak berniat memberikannya.
 
@@ -947,9 +1097,17 @@ Ada akhir yang ironis. Para pengurus kebangkrutan FTX berhasil mengumpulkan kemb
 
 Kasus FTX juga merusak citra gerakan *effective altruism*, yang selama ini menjadikan SBF sebagai contoh suksesnya.
 
-### Keuntungan
+### Hasil
 
 Pada puncaknya, kekayaan SBF di atas kertas diperkirakan sekitar 26 miliar dolar, menjadikannya salah satu miliarder termuda di dunia. Ia tinggal di penthouse mewah di Bahama bersama rekan-rekannya, terbang dengan jet pribadi, dan bertemu presiden, menteri, dan bintang olahraga. Hampir semuanya hilang dalam satu minggu.
+
+### Pelajaran
+
+Uang yang kamu simpan di bursa, aplikasi, atau platform apa pun bukan lagi sepenuhnya di tanganmu. Tanyakan siapa yang menyimpannya, apakah dipisahkan dari uang perusahaan, dan siapa yang mengawasinya. Di dunia kripto, ada semboyan: *not your keys, not your coins*. Kalau bukan kamu yang memegang kuncinya, itu bukan uangmu.
+
+Waspadai pemimpin yang tujuannya terdengar terlalu mulia. Niat menyelamatkan dunia tidak memberi siapa pun hak untuk memakai uang orang lain tanpa izin.
+
+Dan perhatikan hubungan antar-perusahaan milik orang yang sama. Ketika bursa dan pedagang terbesar di bursa itu dimiliki orang yang sama, konflik kepentingannya bukan risiko. Itu sudah pasti.
 
 ### Analisa Dark Triad
 
@@ -961,13 +1119,16 @@ Pada puncaknya, kekayaan SBF di atas kertas diperkirakan sekitar 26 miliar dolar
 
 **Kesimpulan:** Machiavellianisme yang dibungkus idealisme. Kisah SBF menunjukkan bahwa niat baik, atau cerita tentang niat baik, bisa menjadi rasionalisasi paling kuat untuk melewati batas: kalau tujuannya menyelamatkan dunia, mengapa tidak meminjam sedikit uang nasabah?
 
-### Hikmah
+### Profil
 
-Uang yang kamu simpan di bursa, aplikasi, atau platform apa pun bukan lagi sepenuhnya di tanganmu. Tanyakan siapa yang menyimpannya, apakah dipisahkan dari uang perusahaan, dan siapa yang mengawasinya. Di dunia kripto, ada semboyan: *not your keys, not your coins*. Kalau bukan kamu yang memegang kuncinya, itu bukan uangmu.
+**Nama:** Samuel Benjamin Bankman-Fried
+**Lahir:** 6 Maret 1992, Stanford, California
+**Wafat:** Masih hidup
+**Jenis kelamin:** Laki-laki
+**Negara:** Amerika Serikat
 
-Waspadai pemimpin yang tujuannya terdengar terlalu mulia. Niat menyelamatkan dunia tidak memberi siapa pun hak untuk memakai uang orang lain tanpa izin.
-
-Dan perhatikan hubungan antar-perusahaan milik orang yang sama. Ketika bursa dan pedagang terbesar di bursa itu dimiliki orang yang sama, konflik kepentingannya bukan risiko. Itu sudah pasti.
+> “Ya. Hehe. Saya harus begitu. Dari situlah reputasi dibangun, sampai batas tertentu.”
+> — Pesan langsung kepada wartawan Vox yang menyebutnya pandai berbicara soal etika, November 2022
 
 <div style="page-break-after: always;"></div>
 
@@ -979,7 +1140,7 @@ Jilid ini juga menunjukkan bahwa "jahat tapi legal" tidak selalu membutuhkan sat
 
 Karena itu, "legal" bukan ukuran yang cukup. Pertanyaan yang lebih jujur adalah apakah kita masih nyaman kalau cara kita menang diketahui semua orang, terutama oleh orang yang kita kalahkan.
 
-Dan untuk kita yang lebih sering berada di sisi lain meja, hikmahnya praktis: tulis setiap janji, baca setiap kontrak, tanyakan siapa yang untung kalau kita rugi, dan jangan pernah merasa aman hanya karena lawan kita "tidak melanggar apa-apa".
+Dan untuk kita yang lebih sering berada di sisi lain meja, pelajarannya praktis: tulis setiap janji, baca setiap kontrak, tanyakan siapa yang untung kalau kita rugi, dan jangan pernah merasa aman hanya karena lawan kita "tidak melanggar apa-apa".
 
 <div style="page-break-after: always;"></div>
 

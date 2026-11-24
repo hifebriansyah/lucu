@@ -2,21 +2,21 @@
 
 *Liverpool, Inggris, 2007. Sepak bola: membeli klub legendaris dengan uang pinjaman.*
 
-### Kisahnya
+### Kisah
 
 Liverpool FC adalah salah satu klub sepak bola paling bersejarah di dunia. Pada awal 2000-an, klub itu masih dimiliki pengusaha lokal, David Moores, tetapi kebutuhannya sudah melampaui kemampuan satu keluarga. Stadion Anfield sudah tua dan terlalu kecil dibanding rival-rivalnya. Klub butuh investor yang mampu membangun stadion baru dan bersaing di bursa pemain.
 
 Pada awal 2007, dua pengusaha Amerika datang. Tom Hicks adalah pemodal asal Dallas yang kaya dari leveraged buyout, membeli perusahaan dengan uang pinjaman. Ia juga memiliki tim bisbol Texas Rangers dan tim hoki Dallas Stars. George Gillett pernah membangun dan kehilangan kerajaan bisnisnya pada awal 1990-an, lalu bangkit kembali dan memiliki tim hoki Montreal Canadiens. Pesaing mereka adalah Dubai International Capital, perusahaan investasi milik pemerintah Dubai. Dewan direksi Liverpool memilih kedua orang Amerika itu.
 
-Pada Februari 2007, kesepakatan diumumkan. Klub dinilai sekitar 219 juta pound, termasuk utang lama klub sekitar 45 juta pound, dan nilai paket keseluruhan disebut sekitar 435 juta pound jika dihitung dengan rencana stadion baru. Para pendukung disuguhi gambar stadion megah di taman Stanley Park, dekat Anfield. Gillett mengucapkan kalimat yang kelak paling sering dikutip: "The spade has to be in the ground within 60 days," sekop harus sudah masuk ke tanah dalam 60 hari. Menurut berbagai laporan saat itu, kedua pemilik baru juga memberi kesan bahwa pembelian mereka tidak akan membebani klub dengan utang, berbeda dengan pengambilalihan Manchester United oleh keluarga Glazer dua tahun sebelumnya.
+Pada Februari 2007, kesepakatan diumumkan. Klub dinilai sekitar 219 juta pound, termasuk utang lama klub sekitar 45 juta pound, dan nilai paket keseluruhan disebut sekitar 435 juta pound jika dihitung dengan rencana stadion baru. Para pendukung disuguhi gambar stadion megah di taman Stanley Park, dekat Anfield. Gillett mengucapkan kalimat yang kelak paling sering dikutip: "The spade has to be in the ground within 60 days," sekop harus sudah masuk ke tanah dalam 60 hari. Gillett bahkan berkata pada Februari 2007 bahwa mereka membeli klub "tanpa utang di atas klub", dan menyebut pembelian itu berbeda dengan pengambilalihan Manchester United oleh keluarga Glazer dua tahun sebelumnya.
 
-Kenyataannya, hampir seluruh harga pembelian dibayar dengan pinjaman bank, terutama dari Royal Bank of Scotland dan Wachovia. Pinjaman pertama hanya berjangka pendek, dan pada awal 2008 dibiayai ulang menjadi sekitar 350 juta pound. Sebagian utang itu ditempatkan di perusahaan induk mereka, Kop Holdings, dan sebagian lagi di tubuh klub. Bunganya, puluhan juta pound setiap tahun, dibayar dari pendapatan Liverpool: tiket, hak siar, dan sponsor. Dengan kata lain, para penggemar yang membeli tiket ikut mencicil harga yang dibayar untuk membeli klub mereka sendiri.
+Kenyataannya, hampir seluruh harga pembelian dibayar dengan pinjaman bank, terutama dari Royal Bank of Scotland dan Wachovia. Pinjaman pertama hanya berjangka pendek, dan pada awal 2008 dibiayai ulang menjadi sekitar 350 juta pound. Sebagian utang itu ditempatkan di perusahaan induk mereka, Kop Football (Holdings), dan sebagian lagi di tubuh klub. Bunganya, puluhan juta pound setiap tahun, dibayar dari pendapatan Liverpool: tiket, hak siar, dan sponsor. Dengan kata lain, para penggemar yang membeli tiket ikut mencicil harga yang dibayar untuk membeli klub mereka sendiri.
 
-Stadion baru tidak pernah dibangun. Rancangan awal diganti dengan rancangan baru yang lebih mahal, lalu krisis keuangan global 2008 membuat pinjaman konstruksi hampir mustahil. Tidak ada sekop yang masuk ke tanah dalam 60 hari, ataupun dalam tiga tahun. Pada 2009, Gillett membantah pernah menjanjikan pembangunan dimulai dalam 60 hari.
+Stadion baru tidak pernah dibangun. Rancangan awal diganti dengan rancangan baru yang lebih mahal, lalu krisis keuangan global 2008 membuat pinjaman konstruksi hampir mustahil. Tidak ada sekop yang masuk ke tanah dalam 60 hari, ataupun dalam tiga tahun. Pada 2009, Gillett membantah pernah mengucapkan janji 60 hari itu dan menyebut Hicks yang mengatakannya, meski laporan pers dari konferensi pers Februari 2007 mengutip kalimat itu dari mulut Gillett sendiri.
 
 Semua langkah ini sah. Membeli perusahaan dengan uang pinjaman dan menempatkan sebagian utangnya di perusahaan yang dibeli adalah praktik yang lazim dan legal di dunia keuangan. Klub sepak bola, di mata hukum, hanyalah perusahaan.
 
-### Konsekuensi
+### Harga
 
 Di dalam klub, suasana memburuk dengan cepat. Hicks dan Gillett berselisih secara terbuka, dan pada satu titik dilaporkan hampir tidak saling bicara. Pada awal 2008, Hicks mengakui pernah mendekati pelatih Jerman Jürgen Klinsmann sebagai cadangan, saat Rafael Benítez masih melatih tim. Pemain-pemain dijual, dan dana belanja dibatasi.
 
@@ -28,11 +28,17 @@ Kedua pemilik mencoba menghentikan penjualan. Mereka berusaha mengganti anggota 
 
 Perlawanan hukum mereka berlanjut, termasuk gugatan bernilai lebih dari satu miliar dolar terhadap bank dan para direktur. Pada Januari 2013, semua perkara diselesaikan di luar pengadilan dengan syarat yang dirahasiakan, dan semua tuduhan terhadap para direktur dicabut.
 
-### Keuntungan
+### Hasil
 
-Kali ini, kisahnya tidak berakhir dengan kemenangan. Menurut laporan, Hicks dan Gillett kehilangan sekitar 140 juta pound dari investasi mereka di Liverpool. Pada tahun yang sama, perusahaan pemilik Texas Rangers milik Hicks juga masuk proses kebangkrutan. Selama tiga tahun, mereka menikmati kendali atas salah satu merek olahraga terbesar di dunia, tetapi keuntungan besar yang mereka harapkan, menjual klub yang nilainya naik dengan harga tinggi, tidak pernah terjadi.
+Kali ini, kisahnya tidak berakhir dengan kemenangan. Menurut perkiraan saat itu, Hicks dan Gillett kehilangan sekitar 144 juta pound dari investasi mereka di Liverpool. Pada tahun yang sama, perusahaan pemilik Texas Rangers milik Hicks juga masuk proses kebangkrutan. Selama tiga tahun, mereka menikmati kendali atas salah satu merek olahraga terbesar di dunia, tetapi keuntungan besar yang mereka harapkan, menjual klub yang nilainya naik dengan harga tinggi, tidak pernah terjadi. Hicks meninggal pada Desember 2025 dalam usia 79 tahun, dan Gillett pada September 2026 dalam usia 87 tahun.
 
 Yang menanggung biaya selama tiga tahun itu adalah klub: puluhan juta pound bunga, uang yang habis untuk rancangan stadion yang tidak pernah dibangun, dan para penggemar yang hidup dalam ketidakpastian.
+
+### Pelajaran
+
+Bagi pendukung klub, karyawan, atau pemilik usaha keluarga yang hendak menjual perusahaannya, pertanyaan pertama bukan "berapa harganya?", melainkan "dari mana uangnya?". Jika pembeli membayar dengan pinjaman yang kelak dibebankan kepada perusahaan, yang sebenarnya membayar adalah perusahaan itu sendiri. Janji lisan tentang stadion, investasi, atau "tanpa utang" hanya berarti sesuatu jika tertulis di perjanjian.
+
+Bagi investor, Liverpool mengajarkan bahwa beberapa aset punya pemilik moral di luar daftar pemegang saham. Penggemar sepak bola di Indonesia, dari Persib sampai Persebaya, tahu rasanya: klub bisa dibeli dengan uang, tetapi tidak dengan kesetiaan pendukungnya.
 
 ### Analisa Dark Triad
 
@@ -44,8 +50,13 @@ Yang menanggung biaya selama tiga tahun itu adalah klub: puluhan juta pound bung
 
 **Kesimpulan:** Kisah ini lebih banyak berbicara tentang sistem daripada pribadi. Leveraged buyout membiarkan pembeli memakai uang orang lain dan aset yang dibeli untuk menanggung risikonya. Hicks dan Gillett hanya memakai sistem itu pada klub yang ternyata punya pendukung yang tidak mau diam.
 
-### Hikmah
+### Profil
 
-Bagi pendukung klub, karyawan, atau pemilik usaha keluarga yang hendak menjual perusahaannya, pertanyaan pertama bukan "berapa harganya?", melainkan "dari mana uangnya?". Jika pembeli membayar dengan pinjaman yang kelak dibebankan kepada perusahaan, yang sebenarnya membayar adalah perusahaan itu sendiri. Janji lisan tentang stadion, investasi, atau "tanpa utang" hanya berarti sesuatu jika tertulis di perjanjian.
+**Nama:** Tom Hicks & George Gillett
+**Lahir:** Hicks 7 Februari 1946, Texas; Gillett 22 Oktober 1938, Racine, Wisconsin
+**Wafat:** Hicks 6 Desember 2025, Dallas; Gillett 22 September 2026, Denver
+**Jenis kelamin:** Laki-laki
+**Negara:** Amerika Serikat
 
-Bagi investor, Liverpool mengajarkan bahwa beberapa aset punya pemilik moral di luar daftar pemegang saham. Penggemar sepak bola di Indonesia, dari Persib sampai Persebaya, tahu rasanya: klub bisa dibeli dengan uang, tetapi tidak dengan kesetiaan pendukungnya.
+> “Ini persekongkolan yang terorganisasi, dan sudah berlangsung berbulan-bulan.”
+> — Tom Hicks kepada Sky Sports News setelah Liverpool dijual, 2010

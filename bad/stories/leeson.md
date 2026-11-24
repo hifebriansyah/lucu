@@ -2,7 +2,7 @@
 
 *Singapura, 1995. Perbankan: satu rekening rahasia meruntuhkan bank berumur 233 tahun.*
 
-### Kisahnya
+### Kisah
 
 Nick Leeson lahir pada 1967 di Watford, pinggiran London, anak seorang tukang plester. Ia tidak kuliah. Setelah lulus sekolah, ia bekerja sebagai juru tulis di bank, mengurus dokumen dan penyelesaian transaksi yang membosankan di bagian belakang kantor. Pada 1989, ia pindah ke Barings.
 
@@ -20,7 +20,7 @@ Pada 17 Januari 1995, gempa bumi besar mengguncang Kobe, Jepang. Ribuan orang te
 
 Pada 23 Februari 1995, Leeson dan istrinya meninggalkan Singapura. Di mejanya ia meninggalkan sebuah catatan berisi permintaan maaf. Ketika Barings akhirnya menghitung isi rekening 88888, kerugiannya mencapai sekitar 827 juta poundsterling, sekitar 1,3 miliar dolar, lebih besar daripada seluruh modal bank itu.
 
-### Konsekuensi
+### Harga
 
 Barings bangkrut dalam beberapa hari. Bank berumur 233 tahun itu dijual kepada bank Belanda ING seharga satu poundsterling, dengan ING menanggung utang-utangnya. Sebagian besar karyawan dipertahankan ING, tetapi para pemegang saham dan pemegang obligasi Barings kehilangan uangnya, dan sejumlah manajer yang membawahi Leeson diberhentikan.
 
@@ -28,9 +28,17 @@ Leeson ditangkap di Bandara Frankfurt, Jerman, pada 2 Maret 1995, lalu diekstrad
 
 Penyelidikan resmi di Inggris menyimpulkan bahwa kegagalan Barings bukan hanya kesalahan Leeson, tetapi juga kegagalan manajemen yang membiarkan satu orang memegang perdagangan dan pengawasannya sekaligus, dan tidak pernah bertanya dari mana keuntungan sebesar itu datang. Beberapa petinggi Barings kemudian dilarang menjabat di dunia keuangan.
 
-### Keuntungan
+### Hasil
 
 Selama dua tahun, Leeson hidup seperti bintang: gaji besar, bonus besar, apartemen mewah di Singapura, dan reputasi sebagai pedagang terbaik di Barings. Saat masih ditahan di Jerman, ia menulis buku *Rogue Trader*, yang terbit pada 1996 dan difilmkan pada 1999. Setelah bebas, ia menjadi pembicara tentang manajemen risiko, dibayar untuk menceritakan kesalahan yang meruntuhkan banknya.
+
+### Pelajaran
+
+Jangan pernah membiarkan satu orang memegang uang sekaligus mencatat dan memeriksanya sendiri. Prinsip pemisahan tugas ini terdengar membosankan, tetapi kisah Barings menunjukkan bahwa satu pelanggaran kecil terhadapnya bisa meruntuhkan institusi berumur dua abad.
+
+Bagi atasan: keuntungan yang terlalu besar dan terlalu konsisten patut dicurigai sama seriusnya dengan kerugian. Atasan Leeson di London tidak bertanya karena mereka senang dengan angkanya, dan bonus mereka sendiri bergantung pada angka itu.
+
+Dan bagi siapa pun yang pernah tergoda menyembunyikan satu kesalahan kecil di tempat kerja: kesalahan kecil yang diakui hari ini hampir selalu lebih murah daripada kesalahan yang disembunyikan sampai besok. Leeson memulai semua ini untuk menyembunyikan kerugian 20.000 poundsterling.
 
 ### Analisa Dark Triad
 
@@ -40,12 +48,15 @@ Selama dua tahun, Leeson hidup seperti bintang: gaji besar, bonus besar, apartem
 
 **Machiavellianisme: lemah sampai sedang.** Ia memang menipu atasannya dengan sistematis, tetapi tidak ada strategi jangka panjang. Yang ada hanyalah upaya menutup lubang hari demi hari, berharap pasar akan menyelamatkannya.
 
-**Kesimpulan:** Leeson lebih mirip penjudi yang terjebak daripada penipu yang merencanakan. Kisahnya sangat mirip dengan kisah eFishery di akhir buku ini: satu kesalahan kecil yang disembunyikan, lalu kebohongan yang harus terus dibesarkan untuk menutupi yang sebelumnya. Bedanya, Leeson tidak berbohong untuk menarik investor. Ia berbohong supaya tidak terlihat gagal.
+**Kesimpulan:** Leeson lebih mirip penjudi yang terjebak daripada penipu yang merencanakan. Kisahnya sangat mirip dengan kisah Gibran Huzaifah dan eFishery di akhir buku ini: satu kesalahan kecil yang disembunyikan, lalu kebohongan yang harus terus dibesarkan untuk menutupi yang sebelumnya. Bedanya, Leeson tidak berbohong untuk menarik investor. Ia berbohong supaya tidak terlihat gagal.
 
-### Hikmah
+### Profil
 
-Jangan pernah membiarkan satu orang memegang uang sekaligus mencatat dan memeriksanya sendiri. Prinsip pemisahan tugas ini terdengar membosankan, tetapi kisah Barings menunjukkan bahwa satu pelanggaran kecil terhadapnya bisa meruntuhkan institusi berumur dua abad.
+**Nama:** Nicholas William Leeson
+**Lahir:** 25 Februari 1967, Watford, Inggris
+**Wafat:** Masih hidup
+**Jenis kelamin:** Laki-laki
+**Negara:** Inggris
 
-Bagi atasan: keuntungan yang terlalu besar dan terlalu konsisten patut dicurigai sama seriusnya dengan kerugian. Atasan Leeson di London tidak bertanya karena mereka senang dengan angkanya, dan bonus mereka sendiri bergantung pada angka itu.
-
-Dan bagi siapa pun yang pernah tergoda menyembunyikan satu kesalahan kecil di tempat kerja: kesalahan kecil yang diakui hari ini hampir selalu lebih murah daripada kesalahan yang disembunyikan sampai besok. Leeson memulai semua ini untuk menyembunyikan kerugian 20.000 poundsterling.
+> “Kita tahu kita sedang melewati batas, tetapi karena sudah begitu sering melihatnya terjadi, hal itu jadi mudah, nyaris bisa diterima.”
+> — Wawancara dengan The Telegraph, 2023

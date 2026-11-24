@@ -2,7 +2,7 @@
 
 *Boston, 1920. Investasi: kupon perangko dan janji untung 50 persen dalam 45 hari.*
 
-### Kisahnya
+### Kisah
 
 Hampir semua orang pernah mendengar istilah "skema Ponzi". Tidak banyak yang tahu bahwa Ponzi adalah nama orang sungguhan, seorang imigran Italia bertubuh kecil, berpakaian necis, dan pandai bicara, yang selama beberapa bulan pada 1920 membuat kota Boston tergila-gila.
 
@@ -20,11 +20,11 @@ Kecurigaan mulai datang dari koran Boston Post. Pada akhir Juli 1920, koran itu 
 
 Pada awal Agustus, Boston Post memuat tulisan William McMasters, mantan humas Ponzi, yang menyebut Ponzi sebenarnya sudah bangkrut. Investor berbondong-bondong menarik uang. Ponzi membayar sebanyak yang ia bisa, dan konon sempat membagikan kopi dan donat kepada orang yang mengantre, untuk menunjukkan bahwa uangnya ada. Lalu auditor pemerintah menemukan bahwa utangnya sekitar tujuh juta dolar lebih besar dari asetnya. Pada pertengahan Agustus 1920, Ponzi menyerahkan diri kepada aparat federal.
 
-### Konsekuensi
+### Harga
 
 Kerugian investor diperkirakan sekitar 20 juta dolar pada nilai 1920, walaupun sumber lain menyebut angka antara 10 dan 15 juta dolar. Hanover Trust ditutup oleh regulator bank negara bagian, dan menurut laporan lima bank lain ikut runtuh. Para investor rata-rata hanya mendapat kembali kurang dari 30 sen untuk setiap dolar yang mereka setorkan, setelah proses yang berlangsung bertahun-tahun.
 
-Pada November 1920, Ponzi mengaku bersalah atas satu dakwaan penipuan lewat pos di pengadilan federal dan dihukum lima tahun penjara. Ia menjalani sekitar tiga setengah tahun. Ketika keluar, negara bagian Massachusetts menuntutnya lagi atas puluhan dakwaan pencurian. Ponzi berargumen bahwa ia tidak boleh dihukum dua kali untuk perbuatan yang sama, tetapi Mahkamah Agung Amerika pada 1922 memutuskan bahwa tuntutan negara bagian tetap sah. Setelah dua persidangan yang tidak menghasilkan putusan bersalah, persidangan ketiga menghukumnya tujuh sampai sembilan tahun penjara.
+Pada November 1920, Ponzi mengaku bersalah atas satu dakwaan penipuan lewat pos di pengadilan federal dan dihukum lima tahun penjara. Ia menjalani sekitar tiga setengah tahun. Negara bagian Massachusetts juga mendakwanya atas 22 tuduhan pencurian. Ponzi menolak dibawa dari penjara federal untuk diadili negara bagian, tetapi pada 1922 Mahkamah Agung Amerika memutuskan bahwa hal itu sah. Persidangan pertama, pada 1922, membebaskannya. Persidangan kedua, pada 1924, berakhir tanpa putusan. Persidangan ketiga, pada Februari 1925, menghukumnya tujuh sampai sembilan tahun penjara.
 
 Saat bebas dengan jaminan, ia pergi ke Florida dan menjual kavling tanah, sebagian berupa rawa, dengan janji keuntungan berlipat. Ia kembali dihukum, kabur, dan tertangkap di New Orleans, lalu dikirim kembali ke Massachusetts untuk menjalani hukumannya.
 
@@ -32,9 +32,17 @@ Ponzi tidak pernah menjadi warga negara Amerika. Begitu dibebaskan pada 1934, ia
 
 Boston Post dianugerahi Pulitzer pada 1921 atas liputannya yang membongkar skema itu. Nama Ponzi sendiri menjadi istilah resmi dalam dunia hukum dan keuangan untuk penipuan yang membayar investor lama dengan uang investor baru, dipakai sampai sekarang, termasuk dalam kasus Madoff di bab sebelumnya.
 
-### Keuntungan
+### Hasil
 
 Selama sekitar delapan bulan, Ponzi hidup seperti jutawan. Ia punya rumah mewah, mobil, pakaian mahal, saham pengendali di sebuah bank, dan ketenaran. Kerumunan orang menyambutnya di jalan sebagai jenius keuangan. Semua itu dibayar dengan uang para penanam modal kecil, dan semuanya lenyap ketika skemanya runtuh.
+
+### Pelajaran
+
+Hitung dulu, baru percaya. Untung 50 persen dalam 45 hari berarti lebih dari 300 persen setahun. Tidak ada bisnis wajar yang bisa membayar itu secara terus-menerus. Pola yang sama muncul lagi dan lagi di Indonesia, dari investasi bodong berkedok koperasi, arisan berantai, sampai robot trading yang menjanjikan profit harian.
+
+Dibayar di awal bukan bukti. Skema seperti ini justru sengaja membayar investor pertama tepat waktu supaya mereka bercerita kepada orang lain. Testimoni teman yang sudah untung adalah bahan bakar utamanya.
+
+Tanyakan dari mana keuntungannya, dan apakah ceritanya masuk akal dalam skala besar. Ide kupon perangko Ponzi benar di atas kertas, tetapi tidak mungkin dijalankan untuk ribuan orang. Bagi yang tergoda menjadi perekrut atau "leader", ingat juga: nama Ponzi abadi, tetapi ia meninggal miskin di negeri orang.
 
 ### Analisa Dark Triad
 
@@ -46,10 +54,13 @@ Selama sekitar delapan bulan, Ponzi hidup seperti jutawan. Ia punya rumah mewah,
 
 **Kesimpulan:** Narsisisme dan psikopati yang menonjol, dengan Machiavellianisme yang lebih dangkal. Ponzi bukan perencana jangka panjang seperti Madoff. Ia penjudi berbakat yang percaya pada pesonanya sendiri, dan terus berjudi sampai kehabisan meja.
 
-### Hikmah
+### Profil
 
-Hitung dulu, baru percaya. Untung 50 persen dalam 45 hari berarti lebih dari 300 persen setahun. Tidak ada bisnis wajar yang bisa membayar itu secara terus-menerus. Pola yang sama muncul lagi dan lagi di Indonesia, dari investasi bodong berkedok koperasi, arisan berantai, sampai robot trading yang menjanjikan profit harian.
+**Nama:** Charles Ponzi
+**Lahir:** 3 Maret 1882, Lugo, Italia
+**Wafat:** 18 Januari 1949, Rio de Janeiro, Brasil
+**Jenis kelamin:** Laki-laki
+**Negara:** Italia, lalu Amerika Serikat
 
-Dibayar di awal bukan bukti. Skema seperti ini justru sengaja membayar investor pertama tepat waktu supaya mereka bercerita kepada orang lain. Testimoni teman yang sudah untung adalah bahan bakar utamanya.
-
-Tanyakan dari mana keuntungannya, dan apakah ceritanya masuk akal dalam skala besar. Ide kupon perangko Ponzi benar di atas kertas, tetapi tidak mungkin dijalankan untuk ribuan orang. Bagi yang tergoda menjadi perekrut atau "leader", ingat juga: nama Ponzi abadi, tetapi ia meninggal miskin di negeri orang.
+> “Saya mendarat di negeri ini dengan uang tunai 2,50 dolar dan harapan senilai 1 juta dolar, dan harapan itu tidak pernah meninggalkan saya.”
+> — Kepada wartawan The New York Times

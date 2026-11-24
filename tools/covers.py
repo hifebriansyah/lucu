@@ -9,7 +9,9 @@ Usage:
     python3 tools/covers.py --check      # only report what would change
 
 The reader and the print page load small copies of the pictures, set in books.json:
-`storyArt` (for example ai/story-cover/web/{n}.jpg) and `partArt`
+`storyArt` (for example ai/story-cover/web/{n}.jpg; with `storyArtAt: "end"` the picture
+follows the story instead of facing its start, and `storyArtOffset` lets a later volume go on
+numbering in a shared folder, as bad/characters does) and `partArt`
 (ai/section-cover/web/s{n}.jpg). Originals live one folder up (ai/story-cover/1.jpeg,
 ai/section-cover/s1.jpeg) and can be jpg, jpeg, png or webp.
 
@@ -126,8 +128,9 @@ def sync(label, pattern, expected, rebuild, check):
         web.mkdir(exist_ok=True)
         index_file.write_text(json.dumps(dict(sorted(index.items())), indent=1) + "\n", encoding="utf-8")
 
-    missing = [n for n in range(1, expected + 1) if n not in found]
-    extra = sorted(n for n in found if n > expected)
+    wanted = set(range(1, expected + 1)) if isinstance(expected, int) else set(expected)
+    missing = sorted(n for n in wanted if n not in found)
+    extra = sorted(n for n in found if n not in wanted)
     if missing:
         print(f"  warning: no picture for {label} {', '.join(map(str, missing))}")
     if extra:
@@ -264,7 +267,14 @@ def main():
 
     stories, parts = manuscript_counts(book)
     if book.get("storyArt"):
-        sync("story", book["storyArt"], stories, args.all, args.check)
+        # Volumes of one book can share a picture folder, numbered on across volumes
+        # (storyArtOffset: Jilid 2's story 1 is picture 18). Expect every volume's pictures.
+        wanted = set()
+        for b in catalog:
+            if b.get("storyArt") == book["storyArt"]:
+                off = b.get("storyArtOffset", 0)
+                wanted |= set(range(off + 1, off + manuscript_counts(b)[0] + 1))
+        sync("story", book["storyArt"], wanted, args.all, args.check)
     if book.get("partArt"):
         sync("section", book["partArt"], parts, args.all, args.check)
     if book.get("contentsArt"):

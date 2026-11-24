@@ -2,7 +2,7 @@
 
 *Connecticut, 1981. Korporasi: memecat ratusan ribu orang demi harga saham.*
 
-### Kisahnya
+### Kisah
 
 John Francis Welch Jr. lahir pada 1935 di Massachusetts, anak tunggal seorang kondektur kereta dan ibu yang sangat menuntut. Ia gagap sejak kecil. Ibunya mengatakan kepadanya bahwa itu bukan masalah, hanya karena otaknya bekerja lebih cepat daripada lidahnya. Welch tumbuh dengan keyakinan itu: ia lebih cepat daripada orang lain, dan orang lain harus mengejarnya.
 
@@ -16,7 +16,7 @@ Lalu ia membuat sistem penilaian yang paling terkenal dalam dunia manajemen. Set
 
 Di saat yang sama, ia mengubah GE Capital, unit pembiayaan yang awalnya kecil, menjadi mesin laba raksasa. GE Capital meminjamkan uang, menyewakan pesawat, memberi kredit kartu belanja, dan mengasuransikan berbagai hal. Menjelang akhir masa jabatannya, unit ini menyumbang sekitar empat puluh persen laba GE. Laporan keuangan GE menjadi sangat rapi: hampir setiap kuartal, labanya naik sedikit dan selalu sedikit di atas perkiraan para analis. Para pengamat kemudian bertanya-tanya bagaimana perusahaan sebesar itu bisa begitu konsisten. Sebagian jawabannya ada di GE Capital, yang punya banyak aset yang bisa dijual atau dinilai ulang pada saat dibutuhkan untuk merapikan angka. Semua itu dalam batas aturan akuntansi saat itu.
 
-### Konsekuensi
+### Harga
 
 Puluhan perusahaan besar di seluruh dunia meniru sistem urutan sepuluh persen terbawah itu, dan banyak yang kemudian meninggalkannya. Ketika rekan kerja adalah pesaing yang harus dikalahkan setiap tahun, orang berhenti saling membantu, menyembunyikan informasi, dan menghindari proyek berisiko yang bisa membuat mereka terlihat buruk.
 
@@ -24,9 +24,17 @@ Welch pensiun pada 2001 dengan paket pesangon dan pensiun yang disebut-sebut ter
 
 Lalu kelemahan yang dulu tertutup mulai terlihat. Pada 2009, SEC menghukum GE membayar denda 50 juta dolar karena praktik akuntansi yang menyesatkan pada awal 2000-an, setelah era Welch. Dalam krisis keuangan 2008, GE Capital hampir runtuh dan harus diselamatkan dengan jaminan pemerintah dan suntikan dana investor besar. Harga saham GE butuh sekitar 25 tahun, sampai 2025, untuk kembali ke puncaknya tahun 2000, dan saat itu perusahaannya sudah dipecah. Pada 2018, GE dikeluarkan dari indeks Dow Jones, tempat ia bertahan lebih dari seratus tahun. Beberapa tahun kemudian, perusahaan raksasa itu dipecah menjadi tiga perusahaan terpisah.
 
-### Keuntungan
+### Hasil
 
 Selama dua puluh tahun Welch memimpin, nilai pasar GE naik dari sekitar 14 miliar dolar menjadi lebih dari 400 miliar dolar, sempat menjadi perusahaan paling berharga di dunia. Majalah Fortune menobatkannya sebagai "Manajer Abad Ini". Bukunya laris, bayaran ceramahnya sangat tinggi, dan sekolah bisnis di seluruh dunia mengajarkan caranya sebagai standar emas. Ia meninggal pada 2020 sebagai salah satu eksekutif terkaya dan paling berpengaruh dalam sejarah.
+
+### Pelajaran
+
+Angka yang naik setiap kuartal belum tentu tanda perusahaan sehat. Kadang itu tanda ada sesuatu yang sedang ditunda atau dirapikan. Pertumbuhan yang terlalu mulus layak dicurigai, bukan dirayakan.
+
+Memangkas orang bisa membuat laporan keuangan cantik dengan cepat. Tetapi yang hilang, seperti kepercayaan, pengalaman, dan keberanian untuk bereksperimen, tidak muncul di laporan mana pun sampai bertahun-tahun kemudian, ketika pemimpinnya sudah pensiun dengan tenang.
+
+Bagi pemimpin, pelajarannya adalah mengukur juga apa yang kamu tinggalkan setelah pergi. Bagi karyawan, kenali sistem tempatmu bekerja. Kalau sistemnya membuat rekan kerjamu menjadi lawan, kamu tidak sedang berada di tim. Kamu sedang berada di arena.
 
 ### Analisa Dark Triad
 
@@ -38,10 +46,13 @@ Selama dua puluh tahun Welch memimpin, nilai pasar GE naik dari sekitar 14 milia
 
 **Kesimpulan:** Machiavellianisme dan narsisisme yang saling menguatkan. Welch adalah contoh bagaimana sifat-sifat ini bisa diubah menjadi sistem dan diwariskan ke ribuan perusahaan lain, sehingga kekejamannya terasa normal.
 
-### Hikmah
+### Profil
 
-Angka yang naik setiap kuartal belum tentu tanda perusahaan sehat. Kadang itu tanda ada sesuatu yang sedang ditunda atau dirapikan. Pertumbuhan yang terlalu mulus layak dicurigai, bukan dirayakan.
+**Nama:** John Francis Welch Jr.
+**Lahir:** 19 November 1935, Peabody, Massachusetts
+**Wafat:** 1 Maret 2020, New York
+**Jenis kelamin:** Laki-laki
+**Negara:** Amerika Serikat
 
-Memangkas orang bisa membuat laporan keuangan cantik dengan cepat. Tetapi yang hilang, seperti kepercayaan, pengalaman, dan keberanian untuk bereksperimen, tidak muncul di laporan mana pun sampai bertahun-tahun kemudian, ketika pemimpinnya sudah pensiun dengan tenang.
-
-Bagi pemimpin, pelajarannya adalah mengukur juga apa yang kamu tinggalkan setelah pergi. Bagi karyawan, kenali sistem tempatmu bekerja. Kalau sistemnya membuat rekan kerjamu menjadi lawan, kamu tidak sedang berada di tim. Kamu sedang berada di arena.
+> “Kalau dilihat sekilas, nilai pemegang saham adalah gagasan paling bodoh di dunia.”
+> — Wawancara dengan Financial Times, 2009

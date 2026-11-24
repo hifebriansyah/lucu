@@ -2,7 +2,7 @@
 
 *New York, 1920-an. Saham: permainan orang dalam yang belum dilarang.*
 
-### Kisahnya
+### Kisah
 
 Joseph Patrick Kennedy lahir pada 1888 di Boston, cucu imigran Irlandia yang datang ke Amerika dengan tangan kosong. Ayahnya sudah naik kelas menjadi pemilik bar dan politikus lokal, tetapi keluarga Irlandia Katolik tetap dipandang rendah oleh kalangan elite Protestan Boston. Kennedy muda bersekolah di Harvard, tetapi tidak pernah diterima di klub-klub paling bergengsi di sana. Banyak penulis biografinya percaya, dari situlah tekadnya lahir: kalau tidak diterima, ia akan menjadi lebih kaya daripada mereka semua.
 
@@ -18,7 +18,7 @@ Selain saham, ia masuk ke industri film yang sedang tumbuh di Hollywood, membeli
 
 Yang paling terkenal dari Kennedy adalah waktunya. Menurut cerita yang terus diulang, pada 1929 seorang anak penyemir sepatu di Wall Street memberinya tip saham. Kennedy berpikir, kalau tukang semir sepatu pun sudah bermain saham, berarti pasar sudah terlalu panas. Ia pun menjual. Kebenaran kisah itu diperdebatkan, dan mungkin hanya bumbu. Tetapi hasilnya nyata. Ketika pasar saham runtuh pada Oktober 1929 dan jutaan orang Amerika kehilangan tabungannya, kekayaan Kennedy sebagian besar selamat, bahkan menurut sebagian penulis biografinya, bertambah karena ia juga bertaruh pada jatuhnya harga.
 
-### Konsekuensi
+### Harga
 
 Krisis 1929 menyeret Amerika ke Depresi Besar. Seperempat angkatan kerja menganggur. Publik mencari siapa yang bersalah, dan Kongres membuka penyelidikan panjang tentang apa yang terjadi di Wall Street. Praktik pool, manipulasi harga, dan wartawan bayaran diungkap satu per satu dalam sidang dengar pendapat yang menjadi berita utama.
 
@@ -26,11 +26,19 @@ Hasilnya adalah dua undang-undang yang mengubah pasar modal selamanya: Securitie
 
 Lalu datang kejutan. Presiden Franklin Roosevelt, yang kampanyenya didukung dana dan lobi Kennedy, menunjuk Joseph Kennedy sebagai ketua pertama SEC. Kalangan reformis protes keras. Bagaimana mungkin pemain lama diangkat menjadi wasit? Roosevelt konon menjawab dengan kalimat yang terkenal: untuk menangkap pencuri, pakailah pencuri.
 
-### Keuntungan
+### Hasil
 
 Kennedy ternyata menjadi ketua SEC yang efektif. Ia tahu semua trik karena pernah memakainya, dan ia membangun lembaga itu dengan cepat dan pragmatis, membujuk Wall Street untuk menerima aturan baru alih-alih melawannya. Setelah setahun lebih, ia mundur dengan reputasi yang membaik.
 
 Kekayaannya, dari saham, film, properti, dan bisnis impor minuman keras yang ia siapkan tepat ketika larangan alkohol di Amerika dicabut pada 1933, menjadi modal sebuah dinasti politik. Ia kemudian menjadi duta besar Amerika untuk Inggris. Anaknya, John F. Kennedy, menjadi Presiden Amerika Serikat pada 1961. Anak-anaknya yang lain menjadi jaksa agung dan senator.
+
+### Pelajaran
+
+Banyak aturan yang hari ini kita anggap wajar lahir dari praktik yang dulu legal. Larangan perdagangan orang dalam, kewajiban laporan keuangan, dan larangan menggoreng saham semuanya ditulis setelah ada jutaan korban. Yang hari ini "belum dilarang" belum tentu selamanya aman, dan biasanya justru sedang menunggu giliran untuk dilarang.
+
+Dari sisi lain, sebuah lembaga pengawas butuh orang yang benar-benar paham cara curang bekerja. Kadang yang paling efektif menutup celah adalah orang yang dulu memakainya.
+
+Bagi investor kecil, pelajarannya sederhana dan masih berlaku sampai hari ini. Kalau sebuah saham naik tanpa alasan yang jelas, volumenya tiba-tiba ramai, dan semua orang di sekitarmu, dari grup WhatsApp sampai tukang parkir, mulai membicarakannya, tanyakan siapa yang membeli paling awal dan siapa yang sedang bersiap menjual. Hampir selalu, orang itu bukan kamu.
 
 ### Analisa Dark Triad
 
@@ -42,10 +50,13 @@ Kekayaannya, dari saham, film, properti, dan bisnis impor minuman keras yang ia 
 
 **Kesimpulan:** Machiavellianisme yang kuat, ditambah ambisi status yang besar. Kennedy tidak butuh melanggar hukum. Ia cukup memahami hukum lebih baik daripada orang lain, sebelum dan sesudah hukum itu ditulis.
 
-### Hikmah
+### Profil
 
-Banyak aturan yang hari ini kita anggap wajar lahir dari praktik yang dulu legal. Larangan perdagangan orang dalam, kewajiban laporan keuangan, dan larangan menggoreng saham semuanya ditulis setelah ada jutaan korban. Yang hari ini "belum dilarang" belum tentu selamanya aman, dan biasanya justru sedang menunggu giliran untuk dilarang.
+**Nama:** Joseph Patrick Kennedy
+**Lahir:** 6 September 1888, East Boston, Massachusetts
+**Wafat:** 18 November 1969, Hyannis Port, Massachusetts
+**Jenis kelamin:** Laki-laki
+**Negara:** Amerika Serikat
 
-Dari sisi lain, sebuah lembaga pengawas butuh orang yang benar-benar paham cara curang bekerja. Kadang yang paling efektif menutup celah adalah orang yang dulu memakainya.
-
-Bagi investor kecil, pelajarannya sederhana dan masih berlaku sampai hari ini. Kalau sebuah saham naik tanpa alasan yang jelas, volumenya tiba-tiba ramai, dan semua orang di sekitarmu, dari grup WhatsApp sampai tukang parkir, mulai membicarakannya, tanyakan siapa yang membeli paling awal dan siapa yang sedang bersiap menjual. Hampir selalu, orang itu bukan kamu.
+> “Demokrasi sudah tamat di Inggris. Mungkin juga di sini.”
+> — Wawancara dengan Boston Globe, 1940

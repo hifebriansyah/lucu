@@ -21,7 +21,7 @@ DULU, KINI, BATAS = "Zaman Dulu", "Zaman Sekarang", "Melewati Batas Legal"
 
 VOLUMES = {
     1: [
-        (DULU, ["raden-wijaya", "coen", "daendels", "rockefeller", "rhodes", "kroc", "liem-sioe-liong"]),
+        (DULU, ["rockefeller", "raden-wijaya", "coen", "daendels", "rhodes", "kroc", "liem-sioe-liong"]),
         (KINI, ["dunlap", "singer", "paulson", "shkreli", "thiel"]),
         (BATAS, ["ponzi", "leeson", "madoff", "holmes", "efishery"]),
     ],
@@ -45,7 +45,7 @@ Buku ini adalah jilid pertama dari dua jilid, dan dibagi menjadi tiga bagian. *Z
 *Zaman Dulu* berisi kisah dari masa ketika aturannya ditulis oleh pihak yang kuat: penjarahan keraton Yogyakarta, Tanam Paksa, candu yang dijual secara resmi, pemogokan yang dipatahkan dengan senjata, juara maraton Olimpiade yang menang dengan racun tikus, dan para eksekutif yang memecat ribuan orang di hari harga saham naik. *Zaman Sekarang* berisi kisah tentang monopoli cengkih, obat penghilang rasa sakit yang membuat kecanduan, klub sepak bola yang dibeli dengan utangnya sendiri, dan harga obat yang naik pelan-pelan sampai enam kali lipat. Dan *Melewati Batas Legal* berisi kisah orang-orang yang tidak berhenti di garis hukum, termasuk satu kisah dari Indonesia, dan apa yang menunggu mereka di sana.""",
 }
 
-FOREWORD_END = """Setiap kisah disusun dengan urutan yang sama: kisahnya, konsekuensinya, keuntungannya, analisa Dark Triad, dan hikmah yang bisa kita ambil. Analisa itu mencoba menjawab satu pertanyaan: apakah perilaku mereka menunjukkan sifat-sifat gelap yang dikenal dalam psikologi, atau apakah orang biasa pun bisa sampai ke sana?
+FOREWORD_END = """Setiap kisah disusun dengan urutan yang sama: kisahnya, harga yang harus dibayar, hasil yang didapat, pelajaran yang bisa kita ambil, lalu analisa Dark Triad. Analisa itu mencoba menjawab satu pertanyaan: apakah perilaku mereka menunjukkan sifat-sifat gelap yang dikenal dalam psikologi, atau apakah orang biasa pun bisa sampai ke sana?
 
 Tujuan buku ini bukan untuk ditiru, dan bukan juga sekadar untuk dibenci. Kalau kita paham cara mereka berpikir dan cara mereka menang, kita jadi lebih sulit dikalahkan dengan cara yang sama, dan lebih cepat sadar kalau kita sendiri mulai bergeser ke arah mereka.
 
@@ -68,18 +68,18 @@ CLOSING = {
 
 Hukum selalu tertinggal satu langkah. Ia ditulis setelah ada korban, dan dibuat untuk menutup celah yang sudah dipakai. Rockefeller melahirkan undang-undang antimonopoli. Ponzi memberi nama pada jenis penipuan yang masih memakan korban sampai hari ini. Setiap kali, orang yang memakai celah itu sudah kaya sebelum celahnya ditutup. Dan di Nusantara, dari Banda sampai Batavia, "hukum" sering kali hanyalah izin yang ditulis oleh pihak yang memegang senjata.
 
-Analisa Dark Triad di buku ini juga menunjukkan sebuah pola. Sifat yang paling sering muncul adalah Machiavellianisme: kesabaran, kerahasiaan, dan kemampuan membaca aturan lebih teliti daripada orang lain. Sifat inilah yang paling cocok untuk menjadi "jahat tapi legal", karena orang Machiavellian tahu persis di mana garisnya dan berhenti tepat sebelum itu. Sebaliknya, mereka yang menunjukkan psikopati dan narsisisme yang kuat, seperti Al Dunlap dan Martin Shkreli, cenderung tidak bisa berhenti, dan akhirnya melewati garis itu. Dan kisah Nick Leeson serta eFishery mengingatkan bahwa orang tanpa sifat gelap yang menonjol pun bisa sampai ke tempat yang sama, kalau tekanan, kesempatan, dan alasannya cukup kuat.
+Analisa Dark Triad di buku ini juga menunjukkan sebuah pola. Sifat yang paling sering muncul adalah Machiavellianisme: kesabaran, kerahasiaan, dan kemampuan membaca aturan lebih teliti daripada orang lain. Sifat inilah yang paling cocok untuk menjadi "jahat tapi legal", karena orang Machiavellian tahu persis di mana garisnya dan berhenti tepat sebelum itu. Sebaliknya, mereka yang menunjukkan psikopati dan narsisisme yang kuat, seperti Al Dunlap dan Martin Shkreli, cenderung tidak bisa berhenti, dan akhirnya melewati garis itu. Dan kisah Nick Leeson serta Gibran Huzaifah di eFishery mengingatkan bahwa orang tanpa sifat gelap yang menonjol pun bisa sampai ke tempat yang sama, kalau tekanan, kesempatan, dan alasannya cukup kuat.
 
 Karena itu, "legal" bukan ukuran yang cukup. Pertanyaan yang lebih jujur adalah apakah kita masih nyaman kalau cara kita menang diketahui semua orang, terutama oleh orang yang kita kalahkan.
 
-Dan untuk kita yang lebih sering berada di sisi lain meja, hikmahnya praktis: tulis setiap janji, baca setiap kontrak, tanyakan siapa yang untung kalau kita rugi, dan jangan pernah merasa aman hanya karena lawan kita "tidak melanggar apa-apa".""",
+Dan untuk kita yang lebih sering berada di sisi lain meja, pelajarannya praktis: tulis setiap janji, baca setiap kontrak, tanyakan siapa yang untung kalau kita rugi, dan jangan pernah merasa aman hanya karena lawan kita "tidak melanggar apa-apa".""",
     2: """Enam belas kisah lagi, dan polanya tetap sama. Hukum selalu tertinggal satu langkah. Kennedy dan kawan-kawannya melahirkan aturan pasar modal. Paul Singer, di jilid pertama, mengubah cara negara-negara menulis surat utang. Enron melahirkan undang-undang yang mewajibkan para CEO menjamin sendiri kebenaran laporan keuangannya. Setiap kali, orang yang memakai celah itu sudah kaya sebelum celahnya ditutup.
 
 Jilid ini juga menunjukkan bahwa "jahat tapi legal" tidak selalu membutuhkan satu orang yang jahat. Tanam Paksa, monopoli cengkih, dan harga EpiPen adalah sistem: aturan yang memberi hadiah kepada orang yang paling tega, dan menyebarkan tanggung jawab ke begitu banyak tangan sehingga tidak ada yang merasa bersalah. Dark Triad membantu menjelaskan orang-orang seperti Frick, Belfort, dan Skilling. Tetapi untuk memahami sistem, kita perlu bertanya hal yang lain: siapa yang menulis aturannya, dan siapa yang dibayar untuk menjalankannya?
 
 Karena itu, "legal" bukan ukuran yang cukup. Pertanyaan yang lebih jujur adalah apakah kita masih nyaman kalau cara kita menang diketahui semua orang, terutama oleh orang yang kita kalahkan.
 
-Dan untuk kita yang lebih sering berada di sisi lain meja, hikmahnya praktis: tulis setiap janji, baca setiap kontrak, tanyakan siapa yang untung kalau kita rugi, dan jangan pernah merasa aman hanya karena lawan kita "tidak melanggar apa-apa".""",
+Dan untuk kita yang lebih sering berada di sisi lain meja, pelajarannya praktis: tulis setiap janji, baca setiap kontrak, tanyakan siapa yang untung kalau kita rugi, dan jangan pernah merasa aman hanya karena lawan kita "tidak melanggar apa-apa".""",
 }
 
 ABOUT = """Febriansyah sudah lima belas tahun bekerja di dunia teknologi di Jakarta, dari PHP developer, software engineer di agen perjalanan dan bursa kripto, Head of IT, CTO, sampai komisaris. Ia lulusan Telematika PNJ dan Sistem Informasi BINUS, sedang S2 di Universitas Nasional, dan bersertifikat Scrum Master dan Product Owner.
