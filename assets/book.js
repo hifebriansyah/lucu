@@ -9,6 +9,10 @@ export async function loadCatalog() {
   // A cover made by tools/covers.py (in a web/ folder) gets its fingerprint, so a new cover shows at once.
   await Promise.all(books.map(async (b) => {
     if (b.cover?.includes("/web/")) b.cover = (await versioned(b.cover))();
+    if (b.backCover) b.backCover = (await versioned(b.backCover))();
+    if (b.sideCover) b.sideCover = (await versioned(b.sideCover))();
+    if (b.uvArt) b.uvArt = (await versioned(b.uvArt))();
+    if (b.spineArt) b.spineArt = (await versioned(b.spineArt.to))();
   }));
   return books;
 }
@@ -141,6 +145,73 @@ function profileCards(html) {
   return holder.innerHTML;
 }
 
+// The back cover: the picture alone, edge to edge.
+// backText (books.json) sets text over it: the blurb paragraphs in the middle of the glowing
+// circle in the picture (its center is at backCircle, in % of the picture), and the
+// kicker at the foot.
+export function backCoverMarkup(book) {
+  const t = book.backText;
+  const [x, y] = book.backCircle || [50, 47];
+  const over = t
+    ? `<div class="cover-over back-over">`
+      + `<div class="orb-text" style="left:${x}%;top:${y}%">${(t.blurb || []).map((p) => `<p>${p}</p>`).join("")}</div>`
+      + `<div class="back-foot"><span class="kicker">${book.kicker || ""}</span>`
+      + (t.foot ? `<span class="genre">${t.foot}</span>` : "") + `</div></div>`
+    : "";
+  return `<div class="cover" style="--cover:${book.color}"><img class="cover-img" src="${book.backCover}" alt="">${over}</div>`;
+}
+
+// The spine: its width depends on the page count and paper, so this is a full A5 picture
+// with the title running top to bottom along its exact center line (spineArt adds a
+// head-and-shoulders portrait at the bottom); the printer crops a strip of the
+// spine's width around that line.
+// The kicker stacked upright, two letters a line, a gap between words: "SITI · M4.KZ-A"
+// becomes SI / TI, then M4 / KZ / -A (dots dropped).
+function spineKicker(kicker) {
+  // One cell per letter in a two-column grid, so the first letters (S T M K _) and the
+  // second letters (I I 4 Z A) each line up in a column.
+  return kicker.split(/\s*·\s*/)
+    .map((w) => w.replace(/\./g, "").match(/.{1,2}/g).map((p) => [...p.padEnd(2)].map((ch) => `<span>${ch.trim()}</span>`).join("")).join(""))
+    .join(`<span class="gap"></span>`);
+}
+
+export function spineMarkup(book) {
+  const title = (book.coverTitle || [book.title]).join(" ");
+  return `<div class="cover" style="--cover:${book.color}"><img class="cover-img" src="${book.sideCover}" alt="">`
+    + (book.spineArt ? `<div class="spine-figure"><img src="${book.spineArt}" alt=""></div>` : "")
+    + (book.kicker ? `<div class="spine-kicker">${spineKicker(book.kicker)}</div>` : "")
+    + `<div class="spine-text"><span class="spine-title">${title}</span>`
+    + `</div></div>`;
+}
+
+// Spot UV mask for the front cover: the same layout, white, with every piece of text, the
+// circle (frontRing) and SITI's outline (uvArt, made by tools/uv-mask.py, the size of the cover picture so it lines
+// up) in solid black. The printer puts the UV coating where it is black.
+export function uvMarkup(book) {
+  return coverMarkup(book, { withImage: true })
+    .replace('class="cover"', 'class="cover uv-mask"')
+    .replace(/<img class="cover-img" src="[^"]*"/, `${ring(book.frontRing)}<img class="cover-img" src="${book.uvArt}"`);
+}
+
+// Spot UV mask for the spine: the same layout, white, with the kicker, the title and SITI's
+// portrait in solid black.
+export function spineUvMarkup(book) {
+  return spineMarkup(book).replace('class="cover"', 'class="cover uv-mask"').replace(/<img class="cover-img"[^>]*>/, "");
+}
+
+// Spot UV mask for the back cover: the blurb and the kicker in solid black, plus the glowing
+// circle as a black ellipse (backRing: center x, center y, width, height, in % of the cover).
+// A glowing circle as a black ellipse: [center x, center y, width, height] in % of the cover.
+function ring(r) {
+  if (!r) return "";
+  const [x, y, w, h] = r;
+  return `<div class="uv-ring" style="left:${x}%;top:${y}%;width:${w}%;height:${h}%"></div>`;
+}
+
+export function backUvMarkup(book) {
+  return backCoverMarkup(book).replace('class="cover"', 'class="cover uv-mask"').replace(/<img class="cover-img"[^>]*>/, ring(book.backRing));
+}
+
 export function coverMarkup(book, { withImage = true } = {}) {
   // coverText: the cover picture has no lettering, so the title is set over it, in the
   // same Orbitron poster style as the part pages ("A, B" puts B on its own, bigger line).
@@ -149,7 +220,8 @@ export function coverMarkup(book, { withImage = true } = {}) {
   const over = book.coverText
     ? `<div class="cover-over"><span class="kicker">${book.kicker || ""}</span>`
       + `<h1 class="title">${lead ? `<span class="lead">${lead}</span>` : ""}<span class="main">${rest}</span></h1>`
-      + `<p class="sub">${book.subtitle}</p></div>`
+      + `<p class="sub">${book.subtitle}</p>`
+      + (book.author ? `<p class="cover-author">${book.author}</p>` : "") + `</div>`
     : "";
   const img = withImage
     ? `<img class="cover-img" src="${book.cover}" alt="" onerror="this.remove()">${over}`

@@ -1,4 +1,4 @@
-import { loadBook, coverMarkup } from "./book.js";
+import { loadBook, coverMarkup, backCoverMarkup, spineMarkup, uvMarkup, spineUvMarkup, backUvMarkup } from "./book.js";
 import { paginate, pageElement, blankPage } from "./paginate.js";
 import { PAPERS, DEFAULT_PAPER, savedPaper, savePaper, applyPaper, BORDERS, DEFAULT_BORDER, savedBorder, saveBorder, applyBorder, FRAMES, DEFAULT_FRAME, savedFrame, saveFrame, applyFrame, savedBw, saveBw, applyBw } from "./paper.js";
 
@@ -91,14 +91,39 @@ const pages = [
   ...interior,
 ];
 for (const s of sections) if (s.page !== undefined) s.page += 1;
-if (pages.length % 2 === 0) pages.push({ kind: "blank", html: "" }); // even out the last spread
+// The back cover ends the book alone on the left, like the front cover starts it alone on
+// the right: a blank page to even out the interior if needed, the inside of the back
+// cover, then the back cover.
+const hasBack = book.backCover && await fetch(book.backCover, { method: "HEAD" }).then((r) => r.ok).catch(() => false);
+let backAt = -1; // screen index of the back cover
+if (hasBack) {
+  if (pages.length % 2 === 1) pages.push({ kind: "blank", html: "" });
+  pages.push({ kind: "blank", html: "" }, { kind: "cover-page", html: backCoverMarkup(book) });
+  backAt = pages.length - 1;
+  // The spine, right of the back cover as on the closed book seen from behind: a strip from
+  // the middle of the spine picture (assets/reader.css .spine-page).
+  if (book.sideCover) pages.push({ kind: "cover-page spine-page", html: spineMarkup(book) });
+} else if (pages.length % 2 === 0) pages.push({ kind: "blank", html: "" }); // even out the last spread
+// The spot UV masks, last, laid out like the covers: the back's mask with the spine's to its
+// right, then the front's on its own. Black is coated with UV, white is left plain.
+let uvAt = -1, uvBackAt = -1;
+if (book.uvArt) {
+  if (pages.length % 2 === 0) pages.push({ kind: "blank", html: "" }); // the back's mask opens a spread on the left
+  if (hasBack) {
+    pages.push({ kind: "cover-page uv-page", html: backUvMarkup(book) });
+    uvBackAt = pages.length - 1;
+    pages.push(book.sideCover ? { kind: "cover-page spine-page uv-page", html: spineUvMarkup(book) } : { kind: "blank", html: "" });
+  }
+  pages.push({ kind: "cover-page uv-page", html: uvMarkup(book) });
+  uvAt = pages.length - 1;
+}
 
 /* ---------- Rendering ---------- */
 
 function buildPage(i) {
   const data = pages[i];
-  if (data && data.kind === "cover-page") {
-    const el = blankPage("cover-page");
+  if (data && data.kind.startsWith("cover-page")) {
+    const el = blankPage(data.kind);
     el.innerHTML = `<div class="body">${data.html}</div>`;
     return el;
   }
@@ -140,7 +165,13 @@ function render() {
   const [first, last] = shown();
   $("prevSec").disabled = !partPages.some((p) => p < first);
   $("nextSec").disabled = !partPages.some((p) => p > last);
-  $("folio").textContent = pos < 2 ? "Sampul" : `${pos - 1} / ${interior.length}`;
+  $("folio").textContent = pos < 2 ? "Sampul"
+    : uvAt >= 0 && pos === uvAt ? "UV depan"
+    : uvBackAt >= 0 && pos === uvBackAt ? "UV belakang"
+    : uvBackAt >= 0 && pos === uvBackAt + 1 ? "UV punggung"
+    : hasBack && pos > backAt ? "Punggung"
+    : hasBack && pos - 1 > interior.length ? "Sampul belakang"
+    : `${pos - 1} / ${interior.length}`;
   history.replaceState(null, "", `#p=${pos}`);
   syncToc();
 }
@@ -235,9 +266,15 @@ function shown() {
   return [Math.max(0, 2 * sp - 1), 2 * sp];
 }
 
-// Part (section) opening pages, in screen indexes: » goes to the next one after the pages
-// in view, « to the start of the current part, or the one before if already at its start.
-const partPages = sections.filter((s) => s.type === "part" && s.page !== undefined).map((s) => s.page);
+// Section opening pages, in screen indexes: every part and every titled page outside the
+// stories (Daftar Isi, Kata Pengantar, Kenalan dengan SITI, Penutup, Tentang Penulis), then
+// the back cover. » goes to the next one after the pages in view, « to the start of the
+// current section, or the one before if already at its start.
+const partPages = sections
+  .filter((s) => s.page !== undefined && (s.type === "part" || ((s.type === "front" || s.type === "toc") && s.title)))
+  .map((s) => s.page)
+  .concat(hasBack ? [backAt] : [])
+  .sort((a, b) => a - b);
 function jumpSection(dir) {
   const [first, last] = shown();
   const target = dir > 0 ? partPages.find((p) => p > last) : partPages.filter((p) => p < first).pop();
@@ -266,6 +303,11 @@ function buildToc() {
       (s.type === "story" && group ? group : toc).append(opt(s.title, s.page));
     }
   }
+  if (hasBack) toc.append(opt("Sampul belakang", backAt));
+  if (book.sideCover && backAt >= 0) toc.append(opt("Punggung", backAt + 1));
+  if (uvBackAt >= 0) toc.append(opt("UV spot (sampul belakang)", uvBackAt));
+  if (uvBackAt >= 0 && book.sideCover) toc.append(opt("UV spot (punggung)", uvBackAt + 1));
+  if (uvAt >= 0) toc.append(opt("UV spot (sampul depan)", uvAt));
 }
 function syncToc() {
   let best = 0;
@@ -286,24 +328,61 @@ function loadScript(src) {
     document.head.append(el);
   });
 }
-async function saveCover() {
-  const btn = $("coverBtn");
-  btn.disabled = true;
+// Marks a PNG as `dpi` dots per inch (a pHYs chunk right after IHDR), so 1748 x 2480 px opens
+// as A5 in print and layout apps instead of 72 dpi (about 62 x 87 cm).
+function withDpi(png, dpi) {
+  const ppm = Math.round(dpi / 0.0254);
+  const chunk = new Uint8Array(21);
+  const v = new DataView(chunk.buffer);
+  v.setUint32(0, 9);
+  chunk.set([0x70, 0x48, 0x59, 0x73], 4); // "pHYs"
+  v.setUint32(8, ppm);
+  v.setUint32(12, ppm);
+  chunk[16] = 1; // unit: metre
+  let c = ~0;
+  for (const b of chunk.subarray(4, 17)) {
+    c ^= b;
+    for (let k = 0; k < 8; k++) c = (c >>> 1) ^ (0xedb88320 & -(c & 1));
+  }
+  v.setUint32(17, ~c >>> 0);
+  const at = 8 + 25; // signature + IHDR chunk
+  const out = new Uint8Array(png.length + chunk.length);
+  out.set(png.subarray(0, at));
+  out.set(chunk, at);
+  out.set(png.subarray(at), at + chunk.length);
+  return out;
+}
+// Draws one cover's markup off screen as a PNG and returns its bytes.
+async function coverPng(markup) {
+  const holder = document.createElement("div");
+  holder.style.cssText = `position:fixed;left:-10000px;top:0;width:${COVER_W}px;height:${COVER_H}px;`;
+  holder.innerHTML = markup;
+  document.body.append(holder);
   try {
-    if (!window.htmlToImage) await loadScript("https://cdn.jsdelivr.net/npm/html-to-image@1.11.11/dist/html-to-image.js");
-    const holder = document.createElement("div");
-    holder.style.cssText = `position:fixed;left:-10000px;top:0;width:${COVER_W}px;height:${COVER_H}px;`;
-    holder.innerHTML = coverMarkup(book, { withImage: true });
-    document.body.append(holder);
     const img = holder.querySelector(".cover-img");
     if (img && !img.complete) await new Promise((r) => { img.onload = img.onerror = r; });
     await document.fonts.ready;
     const url = await window.htmlToImage.toPng(holder.firstElementChild, { width: COVER_W, height: COVER_H, pixelRatio: COVER_SCALE, cacheBust: false });
+    return withDpi(new Uint8Array(await (await fetch(url)).arrayBuffer()), 300);
+  } finally {
     holder.remove();
-    const a = Object.assign(document.createElement("a"), { href: url, download: `${book.id}-sampul.png` });
-    document.body.append(a);
-    a.click();
-    a.remove();
+  }
+}
+function download(bytes, name, type) {
+  const url = URL.createObjectURL(new Blob([bytes], { type }));
+  const a = Object.assign(document.createElement("a"), { href: url, download: name });
+  document.body.append(a);
+  a.click();
+  a.remove();
+  setTimeout(() => URL.revokeObjectURL(url), 10000);
+}
+// Each button saves one cover with its text: one download per click, so the browser never
+// blocks it.
+async function saveCover(btn, markup, name) {
+  btn.disabled = true;
+  try {
+    if (!window.htmlToImage) await loadScript("https://cdn.jsdelivr.net/npm/html-to-image@1.11.11/dist/html-to-image.js");
+    download(await coverPng(markup()), name, "image/png");
   } catch (err) {
     console.error(err);
     alert("Sampul belum bisa disimpan. Coba lagi.");
@@ -311,7 +390,17 @@ async function saveCover() {
     btn.disabled = false;
   }
 }
-$("coverBtn").addEventListener("click", saveCover);
+$("coverBtn").addEventListener("click", () => saveCover($("coverBtn"), () => coverMarkup(book, { withImage: true }), `${book.id}-sampul-depan.png`));
+$("backCoverBtn").hidden = !hasBack;
+$("backCoverBtn").addEventListener("click", () => saveCover($("backCoverBtn"), () => backCoverMarkup(book), `${book.id}-sampul-belakang.png`));
+$("spineBtn").hidden = !book.sideCover;
+$("spineBtn").addEventListener("click", () => saveCover($("spineBtn"), () => spineMarkup(book), `${book.id}-punggung.png`));
+$("uvBtn").hidden = !book.uvArt;
+$("uvBtn").addEventListener("click", () => saveCover($("uvBtn"), () => uvMarkup(book), `${book.id}-sampul-depan-uv.png`));
+$("uvBackBtn").hidden = !(book.uvArt && hasBack);
+$("uvBackBtn").addEventListener("click", () => saveCover($("uvBackBtn"), () => backUvMarkup(book), `${book.id}-sampul-belakang-uv.png`));
+$("uvSpineBtn").hidden = !(book.uvArt && book.sideCover);
+$("uvSpineBtn").addEventListener("click", () => saveCover($("uvSpineBtn"), () => spineUvMarkup(book), `${book.id}-punggung-uv.png`));
 
 /* ---------- Input ---------- */
 

@@ -1,30 +1,23 @@
 {
  "1.jpg": {
-  "src": "1f43dd9ba99f",
-  "contrast": 1.0
+  "src": "1f43dd9ba99f"
  },
  "2.jpg": {
-  "src": "0f72eee253a3",
-  "contrast": 1.0
+  "src": "0f72eee253a3"
  },
  "3.jpg": {
-  "src": "9eeb745399f4",
-  "contrast": 1.0
+  "src": "9eeb745399f4"
  },
  "4.jpg": {
-  "src": "eced020da3ef",
-  "contrast": 1.0
+  "src": "eced020da3ef"
  },
  "5.jpg": {
-  "src": "ceb95b6309d4",
-  "contrast": 1.0
+  "src": "ceb95b6309d4"
  },
  "6.jpg": {
-  "src": "2c1b56c52a18",
-  "contrast": 1.0
+  "src": "2c1b56c52a18"
  },
  "7.jpg": {
-  "src": "cdc50e35ed24",
-  "contrast": 1.0
+  "src": "cdc50e35ed24"
  }
 }

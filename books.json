@@ -4,8 +4,22 @@
     "title": "Kelakuan Pengguna Ai!!",
     "subtitle": "Cerita-Cerita Pendek tentang SITI & Para Pengguna Ai",
     "kicker": "SITI · M4.KZ-A",
+    "author": "Febriansyah, S.Kom., PSM, PSPO",
     "manuscript": "ai/naskah.md",
     "cover": "ai/book-cover/web/cover.jpg",
+    "backCover": "ai/book-cover/web/back.jpg",
+    "sideCover": "ai/book-cover/web/side.jpg",
+    "uvArt": "ai/book-cover/web/front-uv-siti.png",
+    "frontRing": [50.84, 18.12, 44.7, 30.2],
+    "spineArt": { "from": "ai/characterV3/siti.jpeg", "to": "ai/book-cover/web/siti.png" },
+    "backCircle": [49.2, 51],
+    "backRing": [50.1, 50.6, 60.5, 45.5],
+    "backText": {
+      "blurb": [
+        "Di kantor, di rumah, sampai di balai RT, semua orang kini dibantu SITI, sebuah AI agent yang rajin dan sopan. Ia tidak pernah membantah dan selalu menurut. Masalahnya, yang menyuruhnya itu kita.",
+        "Kumpulan cerita pendek tentang manusia dan AI yang sama-sama berusaha, tapi sering salah paham. Setiap cerita habis dibaca dalam satu menit, dan selalu berakhir dengan kejutan."
+      ]
+    },
     "coverText": true,
     "coverTitle": ["KELAKUAN", "PENGGUNA Ai!!"],
     "storyArt": "ai/story-cover/web/{n}.jpg",
@@ -30,5 +44,23 @@
     "manuscript": "politics/naskah.md",
     "cover": "politics/cover.jpg",
     "color": "#7a2e2a"
+  },
+  {
+    "id": "bad",
+    "title": "Jahat Tapi Legal, Jilid 1",
+    "subtitle": "Dark Triad di Balik Orang-Orang yang Kaya di Celah Hukum",
+    "author": "Febriansyah, S.Kom., PSM, PSPO",
+    "manuscript": "bad/naskah.md",
+    "cover": "bad/cover.jpg",
+    "color": "#2a2a2e"
+  },
+  {
+    "id": "bad2",
+    "title": "Jahat Tapi Legal, Jilid 2",
+    "subtitle": "Dark Triad di Balik Orang-Orang yang Kaya di Celah Hukum",
+    "author": "Febriansyah, S.Kom., PSM, PSPO",
+    "manuscript": "bad/naskah-2.md",
+    "cover": "bad/cover-2.jpg",
+    "color": "#3a2a2e"
   }
 ]

@@ -134,3 +134,11 @@ body { height: 100vh; overflow: hidden; display: flex; flex-direction: column; }
 .paper-actions .btn { padding: 8px 12px; font-size: 13px; }
 .paper-actions .btn:not(.ghost) { background: var(--accent); }
 .paper-note { margin: 8px 0 0; opacity: .65; font-size: 12px; }
+
+/* The spine page (right of the back cover): only a strip from the middle of the full spine
+   picture shows, against the back cover's edge; the rest of the page is see-through. */
+.slot .page.spine-page, .leaf .page.spine-page { background: transparent !important; box-shadow: none !important; }
+.page.spine-page .cover { clip-path: inset(0 40% 0 40% round 0 3px 3px 0); transform: translateX(-40%); filter: drop-shadow(4px 8px 14px rgba(0, 0, 0, .45)); }
+
+/* Buttons a book has no picture for (back cover, spine, UV) are hidden; .btn sets display, so restate it. */
+[hidden] { display: none !important; }

@@ -1,5 +1,17 @@
 {
+ "back.jpg": {
+  "src": "4ac87aac7ba5"
+ },
  "cover.jpg": {
   "src": "5059279cb75f"
+ },
+ "front-uv-siti.png": {
+  "src": "c410ceb860e7"
+ },
+ "side.jpg": {
+  "src": "1504f3325621"
+ },
+ "siti.png": {
+  "src": "bf8cb8cc3954"
  }
 }

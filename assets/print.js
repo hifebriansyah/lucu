@@ -46,7 +46,7 @@ const docxBtn = $("docxBtn"), docxLabel = docxBtn.querySelector("span");
 docxBtn.disabled = false;
 docxBtn.addEventListener("click", async () => {
   docxBtn.disabled = true; docxLabel.textContent = "Membuat…";
-  try { await exportDocx(book); docxLabel.textContent = "Word"; }
+  try { await exportDocx(book, sections); docxLabel.textContent = "Word"; }
   catch (e) { console.error(e); docxLabel.textContent = "Gagal, coba lagi"; }
   finally { docxBtn.disabled = false; }
 });

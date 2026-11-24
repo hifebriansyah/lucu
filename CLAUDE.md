@@ -4,6 +4,7 @@ Short funny stories written in casual Indonesian (gue/lu for dialogue). Each boo
 
 - `ai/`: book 1, *Kelakuan Pengguna Ai!!*. 62 stories about AI, in six parts plus an epilog.
 - `politics/`: book 2. 100 Indonesian political jokes.
+- `bad/`: book 3, *Jahat Tapi Legal*, in two volumes (stories in `bad/stories/`). Not a humor book: true stories, through the Dark Triad, of people who got rich in legal-but-ruthless ways. It has its own rules in `bad/CLAUDE.md`.
 
 `naskah.md` compiles every story of that book into one manuscript (title page, copyright, contents, foreword, the parts, closing). When a story changes or a new one is added, update that book's `naskah.md` and its Daftar Isi in the same change.
 

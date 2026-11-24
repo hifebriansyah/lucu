@@ -4,14 +4,14 @@
 
 &nbsp;
 
-**Febri, S.Kom., PSM, PSPO**
+**Febriansyah, S.Kom., PSM, PSPO**
 
 <div style="page-break-after: always;"></div>
 
 **Kelakuan Pengguna Ai!!**
 Cerita-Cerita Pendek tentang SITI & Para Pengguna Ai
 
-Penulis: Febri, S.Kom., PSM, PSPO
+Penulis: Febriansyah, S.Kom., PSM, PSPO
 Penyunting: [Nama Penyunting]
 Desain sampul: [Nama Desainer]
 
@@ -1392,8 +1392,8 @@ Sebagai catatan, buku ini ditulis bersama AI. Kalau ada bagian yang terasa terla
 
 ## Tentang Penulis
 
-Febri sudah lima belas tahun menulis kode di Jakarta, dari PHP developer, software engineer di agen perjalanan dan bursa kripto, Head of IT, CTO, sampai komisaris di Enam Dua Teknologi, jabatan yang rapatnya lebih jarang tapi lebih lama. Ia lulusan Telematika PNJ dan Sistem Informasi BINUS, sedang S2 di Universitas Nasional, dan bersertifikat Scrum Master. Artinya, ia resmi boleh bilang, "Nanti kita bahas di sprint berikutnya."
+Febriansyah sudah lima belas tahun menulis kode di Jakarta, dari PHP developer, software engineer di agen perjalanan dan bursa kripto, Head of IT, CTO, sampai komisaris di Enam Dua Teknologi, jabatan yang rapatnya lebih jarang tapi lebih lama. Ia lulusan Telematika PNJ dan Sistem Informasi BINUS, sedang S2 di Universitas Nasional, dan bersertifikat Scrum Master. Artinya, ia resmi boleh bilang, "Nanti kita bahas di sprint berikutnya."
 
-Waktu jadi Head of IT, ia merangkap DevOps, Scrum Master, Product Owner, dan programmer sekaligus. Satu orang, empat jabatan, satu kursi. Ia sudah jadi SITI duluan, sebelum SITI ada. Kalau ada mantan rekan kerjanya yang merasa mirip Pak Bos, tenang saja. Febri tidak bilang siapa-siapa. Ia cuma menulisnya.
+Waktu jadi Head of IT, ia merangkap DevOps, Scrum Master, Product Owner, dan programmer sekaligus. Satu orang, empat jabatan, satu kursi. Ia sudah jadi SITI duluan, sebelum SITI ada. Kalau ada mantan rekan kerjanya yang merasa mirip Pak Bos, tenang saja. Febriansyah tidak bilang siapa-siapa. Ia cuma menulisnya.
 
 febri.id

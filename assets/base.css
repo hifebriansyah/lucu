@@ -118,6 +118,51 @@ body {
 .cover-over .lead { font: 900 12.4cqw/1 "Orbitron", var(--font-ui); letter-spacing: .03em; }
 .cover-over .main { font: 900 6.6cqw/1 "Orbitron", var(--font-ui); letter-spacing: .04em; }
 .cover-over .sub { margin: auto 0 0; max-width: 80%; font: 600 3.6cqw/1.4 "Orbitron", var(--font-ui); letter-spacing: .06em; text-wrap: balance; text-shadow: 0 .3cqw 1cqw rgba(0, 0, 0, .8); }
+.cover-over .cover-author { margin: 2.4cqw 0 0; font: 600 2.8cqw/1.2 var(--font-ui); letter-spacing: .04em; color: #9fe6ff; text-shadow: 0 .3cqw 1cqw rgba(0, 0, 0, .8); }
+/* Back cover (books.json backText): the blurb in the middle of the picture's glowing circle
+   (centered on backCircle), white with the front cover title's cyan glow; the kicker at the foot. */
+.back-over { padding: 0 10cqw 7cqw; background: linear-gradient(transparent 78%, rgba(5, 12, 24, .8)); }
+.back-over .orb-text {
+  position: absolute; transform: translate(-50%, -50%); width: 76cqw;
+  display: flex; flex-direction: column; gap: 3cqw;
+  font: 600 2.75cqw/1.45 var(--font-ui); text-wrap: pretty;
+  text-shadow: 0 0 1cqw rgba(80, 220, 255, .9), 0 0 2.2cqw rgba(80, 220, 255, .6), 0 .3cqw .6cqw rgba(10, 40, 90, .7);
+}
+.back-over .orb-text p { margin: 0; }
+.back-over .orb-text p + p { font-style: italic; }
+/* Spot UV mask (uvMarkup in assets/book.js): white, with the text and SITI in solid black.
+   The title keeps its outline width, in black, so the black area is the letters as printed. */
+.cover.uv-mask { background: #fff; }
+.uv-mask .cover-art { display: none; }
+.uv-mask .cover-over { background: none; }
+.uv-mask .cover-over, .uv-mask .cover-over * { color: #000 !important; text-shadow: none !important; filter: none !important; }
+.uv-mask .cover-over .title { -webkit-text-stroke-color: #000; }
+/* The spine's mask (no background picture, spineUvMarkup): the portrait as a black silhouette. */
+.uv-mask .spine-kicker, .uv-mask .spine-title { color: #000; text-shadow: none; }
+.uv-mask .spine-figure img { filter: brightness(0); }
+.uv-ring { position: absolute; transform: translate(-50%, -50%); border-radius: 50%; background: #000; }
+/* Spine (books.json sideCover): the title on one line, rotated to read top to bottom
+   and centered on the picture, about 4.5 mm tall so it fits a spine of 7 mm or more. */
+.spine-text {
+  position: absolute; left: 50%; top: 50%; z-index: 1; transform: translate(-50%, -50%) rotate(90deg);
+  display: flex; align-items: center; gap: 6cqw; white-space: nowrap; line-height: 1;
+}
+/* With a figure (books.json spineArt): head and shoulders rising from the bottom edge, centered
+   (the top 41% of the full-length cut-out); the text stays centered on the whole spine. */
+.spine-figure { position: absolute; left: 50%; bottom: -4cqw; z-index: 1; transform: translateX(-50%); width: 12cqw; aspect-ratio: .72; overflow: hidden; }
+.spine-figure img { display: block; width: 100%; }
+/* The kicker (SITI · M4.KZ-A) at the top of the spine, upright, two letters a line in two
+   columns so each column's letters line up. */
+.spine-kicker { position: absolute; left: 50%; top: 5cqw; z-index: 1; transform: translateX(-50%);
+  display: grid; grid-template-columns: repeat(2, 2.2cqw); row-gap: .6cqw; justify-items: center;
+  font: 600 2cqw/1 "Orbitron", var(--font-ui); color: #9fe6ff; }
+.spine-kicker .gap { grid-column: 1 / -1; height: 1.4cqw; }
+.spine-title { font: 900 3.1cqw/1 "Orbitron", var(--font-ui); letter-spacing: .06em; color: #fff;
+  text-shadow: 0 0 1cqw rgba(80, 220, 255, .85); }
+.back-over .back-foot { margin-top: auto; display: flex; flex-direction: column; align-items: center; gap: 1.8cqw; }
+.back-over .back-foot .kicker { font-size: 2.2cqw; }
+.back-over .back-foot .author { margin: 0; color: #fff; opacity: 1; text-transform: none; font: 600 3.2cqw/1.2 var(--font-ui); letter-spacing: .04em; text-shadow: 0 .2cqw .8cqw rgba(0, 0, 0, .9); }
+.back-over .genre { font: 600 2cqw/1 "Orbitron", var(--font-ui); letter-spacing: .3em; color: #9fe6ff; }
 
 .btn {
   display: inline-flex;

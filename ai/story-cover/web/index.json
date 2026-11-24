@@ -1,250 +1,188 @@
 {
  "1.jpg": {
-  "src": "4380bcdccb47",
-  "contrast": 1.0
+  "src": "4380bcdccb47"
  },
  "10.jpg": {
-  "src": "3a9147e643cf",
-  "contrast": 1.0
+  "src": "3a9147e643cf"
  },
  "11.jpg": {
-  "src": "f7048e125274",
-  "contrast": 1.0
+  "src": "f7048e125274"
  },
  "12.jpg": {
-  "src": "a737495bdf00",
-  "contrast": 1.0
+  "src": "a737495bdf00"
  },
  "13.jpg": {
-  "src": "5f8c4bc683e6",
-  "contrast": 1.0
+  "src": "5f8c4bc683e6"
  },
  "14.jpg": {
-  "src": "b5f20e8c4a8f",
-  "contrast": 1.0
+  "src": "b5f20e8c4a8f"
  },
  "15.jpg": {
-  "src": "f0db763c6bb8",
-  "contrast": 1.0
+  "src": "f0db763c6bb8"
  },
  "16.jpg": {
-  "src": "1b628e6fb2e0",
-  "contrast": 1.0
+  "src": "1b628e6fb2e0"
  },
  "17.jpg": {
-  "src": "4f4d74178a45",
-  "contrast": 1.0
+  "src": "4f4d74178a45"
  },
  "18.jpg": {
-  "src": "9c0465140273",
-  "contrast": 1.0
+  "src": "9c0465140273"
  },
  "19.jpg": {
-  "src": "a0cebf87fa4d",
-  "contrast": 1.0
+  "src": "a0cebf87fa4d"
  },
  "2.jpg": {
-  "src": "4f5314583da8",
-  "contrast": 1.0
+  "src": "4f5314583da8"
  },
  "20.jpg": {
-  "src": "939d7586e98b",
-  "contrast": 1.0
+  "src": "939d7586e98b"
  },
  "21.jpg": {
-  "src": "123e34e87512",
-  "contrast": 1.0
+  "src": "123e34e87512"
  },
  "22.jpg": {
-  "src": "a8d10565bc4d",
-  "contrast": 1.0
+  "src": "a8d10565bc4d"
  },
  "23.jpg": {
-  "src": "7be960cf6eb0",
-  "contrast": 1.0
+  "src": "7be960cf6eb0"
  },
  "24.jpg": {
-  "src": "b9d818f202ca",
-  "contrast": 1.0
+  "src": "b9d818f202ca"
  },
  "25.jpg": {
-  "src": "1bc0e4f82c1d",
-  "contrast": 1.0
+  "src": "1bc0e4f82c1d"
  },
  "26.jpg": {
-  "src": "9520c8a74dfe",
-  "contrast": 1.0
+  "src": "9520c8a74dfe"
  },
  "27.jpg": {
-  "src": "ca5e7f548c9c",
-  "contrast": 1.0
+  "src": "ca5e7f548c9c"
  },
  "28.jpg": {
-  "src": "9afd025e3e63",
-  "contrast": 1.0
+  "src": "9afd025e3e63"
  },
  "29.jpg": {
-  "src": "fd251c321969",
-  "contrast": 1.0
+  "src": "fd251c321969"
  },
  "3.jpg": {
-  "src": "601377c2ceee",
-  "contrast": 1.0
+  "src": "601377c2ceee"
  },
  "30.jpg": {
-  "src": "a01638efcfcb",
-  "contrast": 1.0
+  "src": "a01638efcfcb"
  },
  "31.jpg": {
-  "src": "a1a2cf4cec44",
-  "contrast": 1.0
+  "src": "a1a2cf4cec44"
  },
  "32.jpg": {
-  "src": "5b4437fe28d5",
-  "contrast": 1.0
+  "src": "5b4437fe28d5"
  },
  "33.jpg": {
-  "src": "e8b3a7656c92",
-  "contrast": 1.0
+  "src": "e8b3a7656c92"
  },
  "34.jpg": {
-  "src": "52cddcbd28f2",
-  "contrast": 1.0
+  "src": "52cddcbd28f2"
  },
  "35.jpg": {
-  "src": "894ea89a6579",
-  "contrast": 1.0
+  "src": "894ea89a6579"
  },
  "36.jpg": {
-  "src": "e9a7e6241a22",
-  "contrast": 1.0
+  "src": "e9a7e6241a22"
  },
  "37.jpg": {
-  "src": "fc5cddfde141",
-  "contrast": 1.0
+  "src": "fc5cddfde141"
  },
  "38.jpg": {
-  "src": "318ce2d67d6f",
-  "contrast": 1.0
+  "src": "318ce2d67d6f"
  },
  "39.jpg": {
-  "src": "46ac92cb1a8d",
-  "contrast": 1.0
+  "src": "46ac92cb1a8d"
  },
  "4.jpg": {
-  "src": "3743ef9f96b7",
-  "contrast": 1.0
+  "src": "3743ef9f96b7"
  },
  "40.jpg": {
-  "src": "1f37ffa2a7c4",
-  "contrast": 1.0
+  "src": "1f37ffa2a7c4"
  },
  "41.jpg": {
-  "src": "65c77d8e9c86",
-  "contrast": 1.0
+  "src": "65c77d8e9c86"
  },
  "42.jpg": {
-  "src": "04ed365fd0a6",
-  "contrast": 1.0
+  "src": "04ed365fd0a6"
  },
  "43.jpg": {
-  "src": "1fe688adf40a",
-  "contrast": 1.0
+  "src": "1fe688adf40a"
  },
  "44.jpg": {
-  "src": "a636db7b5449",
-  "contrast": 1.0
+  "src": "a636db7b5449"
  },
  "45.jpg": {
-  "src": "a9a841f04467",
-  "contrast": 1.0
+  "src": "a9a841f04467"
  },
  "46.jpg": {
-  "src": "cc5a407e8ed8",
-  "contrast": 1.0
+  "src": "cc5a407e8ed8"
  },
  "47.jpg": {
-  "src": "c2c1d1540ed3",
-  "contrast": 1.0
+  "src": "c2c1d1540ed3"
  },
  "48.jpg": {
-  "src": "56f2cf3814f6",
-  "contrast": 1.0
+  "src": "56f2cf3814f6"
  },
  "49.jpg": {
-  "src": "8a2d70b51b13",
-  "contrast": 1.0
+  "src": "8a2d70b51b13"
  },
  "5.jpg": {
-  "src": "23910d298270",
-  "contrast": 1.0
+  "src": "23910d298270"
  },
  "50.jpg": {
-  "src": "9d2d3e6e4819",
-  "contrast": 1.0
+  "src": "9d2d3e6e4819"
  },
  "51.jpg": {
-  "src": "a37029e706b8",
-  "contrast": 1.0
+  "src": "a37029e706b8"
  },
  "52.jpg": {
-  "src": "631882ad98e0",
-  "contrast": 1.0
+  "src": "631882ad98e0"
  },
  "53.jpg": {
-  "src": "ba2a394fb8cf",
-  "contrast": 1.0
+  "src": "ba2a394fb8cf"
  },
  "54.jpg": {
-  "src": "1c3fb067a1ff",
-  "contrast": 1.0
+  "src": "1c3fb067a1ff"
  },
  "55.jpg": {
-  "src": "4b33096d39d9",
-  "contrast": 1.0
+  "src": "4b33096d39d9"
  },
  "56.jpg": {
-  "src": "409b85061c98",
-  "contrast": 1.0
+  "src": "409b85061c98"
  },
  "57.jpg": {
-  "src": "0ab4e75a377b",
-  "contrast": 1.0
+  "src": "0ab4e75a377b"
  },
  "58.jpg": {
-  "src": "965bfd1b07bd",
-  "contrast": 1.0
+  "src": "965bfd1b07bd"
  },
  "59.jpg": {
-  "src": "875d60930601",
-  "contrast": 1.0
+  "src": "875d60930601"
  },
  "6.jpg": {
-  "src": "a405560e3b6f",
-  "contrast": 1.0
+  "src": "a405560e3b6f"
  },
  "60.jpg": {
-  "src": "430b83f59a85",
-  "contrast": 1.0
+  "src": "430b83f59a85"
  },
  "61.jpg": {
-  "src": "bd788639d237",
-  "contrast": 1.0
+  "src": "bd788639d237"
  },
  "62.jpg": {
-  "src": "49ee2d5f50a7",
-  "contrast": 1.0
+  "src": "49ee2d5f50a7"
  },
  "7.jpg": {
-  "src": "b55709b61394",
-  "contrast": 1.0
+  "src": "b55709b61394"
  },
  "8.jpg": {
-  "src": "eef9bb085da1",
-  "contrast": 1.0
+  "src": "eef9bb085da1"
  },
  "9.jpg": {
-  "src": "7c1fb485378a",
-  "contrast": 1.0
+  "src": "7c1fb485378a"
  }
 }

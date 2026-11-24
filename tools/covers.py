@@ -16,8 +16,10 @@ ai/section-cover/s1.jpeg) and can be jpg, jpeg, png or webp.
 For each original this writes, when the copy is missing or the original's contents changed
 (checked by fingerprint, not by file date, since a file copied in from Finder keeps its old date):
 - web/<name>.jpg: color, 1200 px tall, loaded by the reader and the print page.
-The cover (books.json `cover`, for example ai/book-cover/web/cover.jpg) is copied from the
-picture one folder up, whatever its name (cover.jpeg wins if there are several), 1800 px tall.
+The front cover (books.json `cover`, for example ai/book-cover/web/cover.jpg) is copied from
+front.* one folder up (or cover.*, or the only picture there), COVER_HEIGHT px tall. The back
+cover (books.json `backCover`, ai/book-cover/web/back.jpg) is copied from back.* the same way,
+and the spine background (`sideCover`, web/side.jpg) from side.*.
 Each part's contents page has a picture too (books.json `contentsArt`, for example
 ai/section-art/web/{n}.jpg from ai/section-art/1.jpeg, numbered like the parts).
 Front-matter pictures (books.json `frontArt`, for example "Kenalan dengan SITI" ->
@@ -38,7 +40,7 @@ import re
 import sys
 from pathlib import Path
 
-from PIL import Image, ImageOps
+from PIL import Image, ImageChops, ImageDraw, ImageFilter, ImageOps
 
 ROOT = Path(__file__).resolve().parent.parent
 EXTS = {".jpg", ".jpeg", ".png", ".webp"}
@@ -134,21 +136,19 @@ def sync(label, pattern, expected, rebuild, check):
     return made
 
 
-def sync_cover(pattern, rebuild, check):
-    """The book cover: any picture in the folder above web/ (cover.jpeg is preferred when
-    there are several), copied to web/cover.jpg at COVER_HEIGHT px tall."""
+def sync_cover(pattern, names, label, rebuild, check):
+    """A cover picture: the first of `names` (front, cover / back) found in the folder above
+    web/, or the only picture there, copied to the books.json path at COVER_HEIGHT px tall."""
     web = ROOT / Path(pattern).parent
     src_dir = web.parent
     dest = ROOT / pattern
     pics = [p for p in src_dir.iterdir() if p.is_file() and p.suffix.lower() in EXTS] if src_dir.is_dir() else []
-    if not pics:
-        print(f"cover: no picture in {src_dir.relative_to(ROOT)}")
+    # the first name that has a picture; if several share it (back.png, back.jpeg), the newest
+    named = next((sorted((p for p in pics if p.stem.lower() == n), key=lambda p: p.stat().st_mtime, reverse=True) for n in names if any(p.stem.lower() == n for p in pics)), [])
+    src = named[0] if named else (pics[0] if len(pics) == 1 else None)
+    if not src:
+        print(f"{label}: no {' or '.join(n + '.jpeg' for n in names)} in {src_dir.relative_to(ROOT)}")
         return 0
-    named = [p for p in pics if p.stem.lower() == "cover"]
-    src = named[0] if named else max(pics, key=lambda p: p.stat().st_mtime)
-    if len(pics) > 1:
-        print(f"  warning: {len(pics)} pictures in {src_dir.relative_to(ROOT)}, using {src.name}"
-              + ("" if named else " (the newest; name the one you want cover.jpeg)"))
     index_file = web / "index.json"
     try:
         index = json.loads(index_file.read_text(encoding="utf-8"))
@@ -156,7 +156,7 @@ def sync_cover(pattern, rebuild, check):
         index = {}
     fp = fingerprint(src)
     if not rebuild and index.get(dest.name, {}).get("src") == fp and dest.exists():
-        print("cover: up to date")
+        print(f"{label}: up to date")
         return 0
     print(f"  {'would update' if check else 'update'} {src.relative_to(ROOT)} -> {dest.relative_to(ROOT)}")
     if not check:
@@ -168,7 +168,48 @@ def sync_cover(pattern, rebuild, check):
         im.save(dest, "JPEG", quality=85, optimize=True, progressive=True)
         index[dest.name] = {"src": fp}
         index_file.write_text(json.dumps(dict(sorted(index.items())), indent=1) + "\n", encoding="utf-8")
-    print(f"cover: {'to update' if check else 'updated'}")
+    print(f"{label}: {'to update' if check else 'updated'}")
+    return 1
+
+
+def sync_cutout(art, rebuild, check):
+    """The figure on the spine (books.json `spineArt`, {"from": original, "to": web/<name>.png}):
+    the original's plain white background, flood-filled from the corners, becomes see-through,
+    and the copy is cropped to the figure, HEIGHT px tall, as a PNG."""
+    src, dest = ROOT / art["from"], ROOT / art["to"]
+    if not src.exists():
+        print(f"spine figure: no {art['from']}")
+        return 0
+    web = dest.parent
+    index_file = web / "index.json"
+    try:
+        index = json.loads(index_file.read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        index = {}
+    fp = fingerprint(src)
+    if not rebuild and index.get(dest.name, {}).get("src") == fp and dest.exists():
+        print("spine figure: up to date")
+        return 0
+    print(f"  {'would update' if check else 'update'} {src.relative_to(ROOT)} -> {dest.relative_to(ROOT)}")
+    if not check:
+        with Image.open(src) as im:
+            im = ImageOps.exif_transpose(im).convert("RGB")
+        w, h = im.size
+        seed = im.convert("L").point(lambda v: 255 if v > 232 else 0)
+        for pt in [(0, 0), (w - 1, 0), (0, h - 1), (w - 1, h - 1)]:
+            if seed.getpixel(pt) == 255:
+                ImageDraw.floodfill(seed, pt, 128, thresh=0)
+        alpha = ImageChops.invert(seed.point(lambda v: 255 if v == 128 else 0)).filter(ImageFilter.GaussianBlur(1.2))
+        out = im.convert("RGBA")
+        out.putalpha(alpha)
+        out = out.crop(alpha.point(lambda v: 255 if v > 20 else 0).getbbox())
+        if out.height > HEIGHT:
+            out = out.resize((round(out.width * HEIGHT / out.height), HEIGHT), Image.LANCZOS)
+        web.mkdir(exist_ok=True)
+        out.save(dest, "PNG", optimize=True)
+        index[dest.name] = {"src": fp}
+        index_file.write_text(json.dumps(dict(sorted(index.items())), indent=1) + "\n", encoding="utf-8")
+    print(f"spine figure: {'to update' if check else 'updated'}")
     return 1
 
 
@@ -231,7 +272,13 @@ def main():
     if book.get("frontArt"):
         sync_front(book["frontArt"], args.all, args.check)
     if has_cover:
-        sync_cover(cover, args.all, args.check)
+        sync_cover(cover, ("front", "cover"), "cover", args.all, args.check)
+    if book.get("backCover"):
+        sync_cover(book["backCover"], ("back",), "back cover", args.all, args.check)
+    if book.get("sideCover"):
+        sync_cover(book["sideCover"], ("side",), "spine", args.all, args.check)
+    if book.get("spineArt"):
+        sync_cutout(book["spineArt"], args.all, args.check)
 
 
 if __name__ == "__main__":
