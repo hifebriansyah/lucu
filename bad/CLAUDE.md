@@ -1,6 +1,6 @@
-# bad/: Jahat Tapi Legal
+# bad/: Berhenti Jadi Orang Baik yang Miskin
 
-Book 3, *Jahat Tapi Legal: Dark Triad di Balik Orang-Orang yang Kaya di Celah Hukum*. The theme is the Dark Triad (narcissism, Machiavellianism, psychopathy). **Not a humor book**, so the comedy rules in `../CLAUDE.md` (punchlines, plot twists, the shared cast, gue/lu) don't apply here. Keep the format rules: one story per file, `naskah.md` and its Daftar Isi updated in the same change, no emoji.
+Book 3, *Berhenti Jadi Orang Baik yang Miskin: Belajar dari Kisah si Kaya yang “Jahat”* (working title; it was *Jahat Tapi Legal* before). The theme is the Dark Triad (narcissism, Machiavellianism, psychopathy). **Not a humor book**, so the comedy rules in `../CLAUDE.md` (punchlines, plot twists, the shared cast, gue/lu) don't apply here. Keep the format rules: one story per file, `naskah.md` and its Daftar Isi updated in the same change, no emoji.
 
 ## Shape
 

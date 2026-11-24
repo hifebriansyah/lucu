@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Builds the two volumes of book 3, Jahat Tapi Legal: bad/naskah.md (Jilid 1) and bad/naskah-2.md (Jilid 2).
+"""Builds the two volumes of book 3, Berhenti Jadi Orang Baik yang Miskin: bad/naskah.md (Jilid 1) and bad/naskah-2.md (Jilid 2).
 
 Each story lives in its own file, bad/stories/<slug>.md, starting with `# <Title>` (no number).
 VOLUMES below says which stories go in which volume and section, in reading order; each volume
@@ -13,8 +13,8 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent / "bad"
 BR = '<div style="page-break-after: always;"></div>'
 
-TITLE = "Jahat Tapi Legal"
-SUB = "Dark Triad di Balik Orang-Orang yang Kaya di Celah Hukum"
+TITLE = "Berhenti Jadi Orang Baik yang Miskin"
+SUB = "Belajar dari Kisah si Kaya yang “Jahat”"
 AUTHOR = "Febriansyah, S.Kom., PSM, PSPO"
 
 DULU, KINI, BATAS = "Zaman Dulu", "Zaman Sekarang", "Melewati Batas Legal"

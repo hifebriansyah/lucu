@@ -8,7 +8,7 @@ Two books of short, funny Indonesian stories and a two-volume book of true stori
 |---|---|---|
 | `ai/` | *Kelakuan Pengguna Ai!!* | 62, in six parts plus an epilog |
 | `politics/` | *Janji Tinggal Janji* (working title) | 100, in five parts |
-| `bad/` | *Jahat Tapi Legal* (working title), two volumes | 33 true stories: Jilid 1 has 17, Jilid 2 has 16, each in three parts |
+| `bad/` | *Berhenti Jadi Orang Baik yang Miskin: Belajar dari Kisah si Kaya yang “Jahat”* (working title), two volumes | 33 true stories: Jilid 1 has 17, Jilid 2 has 16, each in three parts |
 
 Book 1's author is Febriansyah, S.Kom., PSM, PSPO (the same name on the title page, imprint, Tentang Penulis and front cover); the manuscript ends with a Tentang Penulis page (page 149). The imprint page still has placeholders for the editor, cover designer, ISBN and publisher.
 

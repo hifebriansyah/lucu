@@ -1,6 +1,6 @@
-# Jahat Tapi Legal
+# Berhenti Jadi Orang Baik yang Miskin
 
-### Jilid 2: Dark Triad di Balik Orang-Orang yang Kaya di Celah Hukum
+### Jilid 2: Belajar dari Kisah si Kaya yang “Jahat”
 
 &nbsp;
 
@@ -8,8 +8,8 @@
 
 <div style="page-break-after: always;"></div>
 
-**Jahat Tapi Legal, Jilid 2**
-Dark Triad di Balik Orang-Orang yang Kaya di Celah Hukum
+**Berhenti Jadi Orang Baik yang Miskin, Jilid 2**
+Belajar dari Kisah si Kaya yang “Jahat”
 
 Penulis: Febriansyah, S.Kom., PSM, PSPO
 Penyunting: [Nama Penyunting]

@@ -1,4 +1,4 @@
-# Sources: Jahat Tapi Legal
+# Sources: Berhenti Jadi Orang Baik yang Miskin
 
 Each story's sources, by volume and in reading order. The first 21 stories were fact-checked on 24 November 2026; the 12 added for the two-volume edition were researched by their writers and then fact-checked separately the same day. Each story's profile page (dates and quote) was researched on 25 November 2026; its sources are the "Profil" and "Kutipan" lines. Check again before printing, especially the stories about living people and recent cases (Gibran Huzaifah of eFishery, Eddy Tansil, Liem Sioe Liong, BPPC, Sackler, Holmes, Bankman-Fried).
 
