@@ -32,6 +32,12 @@ Semua cerita dalam buku ini fiksi. Kesamaan nama tokoh, kantor, kelurahan, atau 
 *Untuk semua orang yang pernah bertanya ke AI,*
 *lalu bertanya lagi, "Yakin?"*
 
+*SITI: "Maaf, Anda benar. Saya keliru."*
+
+*"Lho, saya cuma nanya."*
+
+*SITI: "Maaf, Anda benar lagi."*
+
 <div style="page-break-after: always;"></div>
 
 ## Daftar Isi

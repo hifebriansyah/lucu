@@ -40,12 +40,32 @@
         <p class="paper-note">Dipakai juga di PDF.</p>
       </div>
     </div>
-    <button class="btn ghost" id="coverBtn" type="button" title="Simpan sampul depan dengan judulnya (PNG, A5 300 dpi)"><i data-lucide="image-down" class="icon"></i><span class="hide-sm">Depan</span></button>
-    <button class="btn ghost" id="backCoverBtn" type="button" title="Simpan sampul belakang dengan teksnya (PNG, A5 300 dpi)"><i data-lucide="image-down" class="icon"></i><span class="hide-sm">Belakang</span></button>
-    <button class="btn ghost" id="spineBtn" type="button" title="Simpan punggung buku: teks di garis tengah, potong selebar punggung (PNG, A5 300 dpi)"><i data-lucide="book" class="icon"></i><span class="hide-sm">Punggung</span></button>
-    <button class="btn ghost" id="uvBtn" type="button" title="Simpan masker UV spot sampul depan: hitam = dilapisi UV (PNG, A5 300 dpi)"><i data-lucide="sparkles" class="icon"></i><span class="hide-sm">UV depan</span></button>
-    <button class="btn ghost" id="uvBackBtn" type="button" title="Simpan masker UV spot sampul belakang: hitam = dilapisi UV (PNG, A5 300 dpi)"><i data-lucide="sparkles" class="icon"></i><span class="hide-sm">UV belakang</span></button>
-    <button class="btn ghost" id="uvSpineBtn" type="button" title="Simpan masker UV spot punggung: hitam = dilapisi UV (PNG, A5 300 dpi)"><i data-lucide="sparkles" class="icon"></i><span class="hide-sm">UV punggung</span></button>
+    <div class="paper-pick save-pick">
+      <button class="btn ghost" id="saveBtn" type="button" aria-expanded="false" aria-controls="savePanel" title="Simpan gambar sampul untuk cetak"><i data-lucide="image-down" class="icon"></i><span class="hide-sm">Gambar</span><i data-lucide="chevron-down" class="icon caret"></i></button>
+      <div class="paper-panel save-panel" id="savePanel" hidden>
+        <div class="paper-title">Sampul</div>
+        <div class="save-list">
+          <button class="swatch-btn" id="coverBtn" type="button" title="Simpan sampul depan dengan judulnya"><i data-lucide="image-down" class="icon"></i>Sampul depan</button>
+          <button class="swatch-btn" id="backCoverBtn" type="button" title="Simpan sampul belakang dengan teksnya"><i data-lucide="image-down" class="icon"></i>Sampul belakang</button>
+          <button class="swatch-btn" id="spineBtn" type="button" title="Simpan punggung buku: teks di garis tengah, potong selebar punggung"><i data-lucide="book" class="icon"></i>Punggung</button>
+        </div>
+        <div class="save-uv" id="saveUv">
+          <div class="paper-title">Masker UV spot</div>
+          <div class="save-list">
+            <button class="swatch-btn" id="uvBtn" type="button" title="Masker UV spot sampul depan: hitam = dilapisi UV"><i data-lucide="sparkles" class="icon"></i>UV sampul depan</button>
+            <button class="swatch-btn" id="uvBackBtn" type="button" title="Masker UV spot sampul belakang: hitam = dilapisi UV"><i data-lucide="sparkles" class="icon"></i>UV sampul belakang</button>
+            <button class="swatch-btn" id="uvSpineBtn" type="button" title="Masker UV spot punggung: hitam = dilapisi UV"><i data-lucide="sparkles" class="icon"></i>UV punggung</button>
+          </div>
+        </div>
+        <div class="save-uv">
+          <div class="paper-title">Isi buku</div>
+          <div class="save-list">
+            <button class="swatch-btn" id="zipBtn" type="button" title="Setiap gambar di dalam buku seperti tampil di sini: bingkai, judul bagian, bentuk, grafik; satu PNG per gambar, dalam satu ZIP"><i data-lucide="images" class="icon"></i><span id="zipLabel">Semua gambar (ZIP)</span></button>
+          </div>
+        </div>
+        <p class="paper-note">PNG, 300 dpi.</p>
+      </div>
+    </div>
     <a class="btn" id="printLink" href="#"><i data-lucide="printer" class="icon"></i><span class="hide-sm">PDF</span></a>
   </nav>
   <div class="stage" id="stage">

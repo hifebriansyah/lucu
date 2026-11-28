@@ -134,6 +134,14 @@ body { height: 100vh; overflow: hidden; display: flex; flex-direction: column; }
 .paper-actions .btn { padding: 8px 12px; font-size: 13px; }
 .paper-actions .btn:not(.ghost) { background: var(--accent); }
 .paper-note { margin: 8px 0 0; opacity: .65; font-size: 12px; }
+/* Gambar: the cover pictures to save, in one dropdown instead of six bar buttons. */
+.save-panel { width: 210px; }
+.save-list { display: flex; flex-direction: column; gap: 2px; }
+.save-list .swatch-btn { width: 100%; }
+.save-list .swatch-btn:disabled { opacity: .5; cursor: progress; }
+#zipBtn:disabled { opacity: 1; } /* it shows its progress in its label */
+.save-uv { margin-top: 10px; padding-top: 10px; border-top: 1px solid rgba(255, 255, 255, .12); }
+.bar .btn .caret { width: 14px; height: 14px; margin-left: -2px; opacity: .7; }
 
 /* The spine page (right of the back cover): only a strip from the middle of the full spine
    picture shows, against the back cover's edge; the rest of the page is see-through. */

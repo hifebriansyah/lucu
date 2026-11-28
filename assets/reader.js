@@ -68,7 +68,7 @@ function openPaper(open) {
 paperBtn.addEventListener("click", () => openPaper(paperPanel.hidden));
 $("paperReset").addEventListener("click", () => { paperPick.reset(); borderPick.reset(); framePick.reset(); });
 $("paperSave").addEventListener("click", () => { paperPick.keep(); borderPick.keep(); framePick.keep(); openPaper(false); });
-document.addEventListener("click", (e) => { if (!paperPanel.hidden && !e.target.closest(".paper-pick")) openPaper(false); });
+document.addEventListener("click", (e) => { if (!paperPanel.hidden && !e.target.closest(".paper-pick:not(.save-pick)")) openPaper(false); });
 document.addEventListener("keydown", (e) => { if (e.key === "Escape" && !paperPanel.hidden) openPaper(false); });
 
 if (missing) {
@@ -400,6 +400,93 @@ $("uvBtn").addEventListener("click", () => saveCover($("uvBtn"), () => uvMarkup(
 $("uvBackBtn").hidden = !(book.uvArt && hasBack);
 $("uvBackBtn").addEventListener("click", () => saveCover($("uvBackBtn"), () => backUvMarkup(book), `${book.id}-sampul-belakang-uv.png`));
 $("uvSpineBtn").hidden = !(book.uvArt && book.sideCover);
+$("saveUv").hidden = !book.uvArt;
+// Gambar: the save buttons live in one dropdown; it stays open while a picture is made.
+const saveBtn = $("saveBtn"), savePanel = $("savePanel");
+const openSave = (open) => { savePanel.hidden = !open; saveBtn.setAttribute("aria-expanded", open); };
+saveBtn.addEventListener("click", () => openSave(savePanel.hidden));
+document.addEventListener("click", (e) => { if (!savePanel.hidden && !e.target.closest(".save-pick")) openSave(false); });
+document.addEventListener("keydown", (e) => { if (e.key === "Escape" && !savePanel.hidden) openSave(false); });
+
+// Semua gambar (ZIP): every picture inside the book as the pages show it, with its frame,
+// title or shape drawn in, one PNG each at 300 dpi, for rebuilding the book elsewhere (Google
+// Docs) without the reader. Uses the current Kertas colors and Hitam putih. Photos are JPEG
+// (white outside a frame's rounded corners, like a document page), the chart and chat PNG:
+// - story and front pictures (art): the framed picture alone;
+// - part pages: the whole page, picture, fade and title;
+// - the hexagon facing a part: the framed shape alone (its trivia line is text);
+// - book 3's profile page: the Dark Triad chart alone;
+// - book 1's dedication: the verse and the chat;
+// - the front and back covers with their text, as the Gambar items save them.
+const PAGE_SCALE = 300 / 96; // CSS px are 96 per inch
+const slug = (s) => s.toLowerCase().replace(/^\d+\.\s*/, "").normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "").slice(0, 40);
+function bookPictures() {
+  const out = [];
+  interior.forEach((p, i) => {
+    const n = String(i + 1).padStart(3, "0");
+    const story = p.story ? p.story.match(/^(\d+)\.\s*(.*)$/) : null;
+    const name = story ? `cerita-${story[1]}-${slug(story[2])}` : slug(p.story || "");
+    if (p.kind === "art") out.push({ page: p, pick: ".body img", name: `${n}-gambar-${name || "depan"}`, jpeg: true });
+    else if (p.kind === "part") out.push({ page: p, pick: null, name: `${n}-bagian-${slug(p.story || "")}`, jpeg: true });
+    else if (p.kind === "hex-art" && p.html) out.push({ page: p, pick: "figure.hex", name: `${n}-bingkai-bagian`, jpeg: true });
+    else if (p.kind === "profile") out.push({ page: p, pick: "figure.triad", name: `${n}-grafik-${name}` });
+    else if (p.kind === "dedication" && p.html.includes("bubble")) out.push({ page: p, pick: ".body", name: `${n}-persembahan` });
+  });
+  return out;
+}
+async function pagePicture({ page, pick, jpeg }) {
+  const holder = document.createElement("div");
+  holder.style.cssText = "position:fixed;left:-10000px;top:0;";
+  holder.append(pageElement(page));
+  document.body.append(holder);
+  try {
+    const el = pick ? holder.querySelector(pick) : holder.firstElementChild;
+    if (!el) return null;
+    await Promise.all([...holder.querySelectorAll("img")].map((img) => img.complete ? null : new Promise((r) => { img.onload = img.onerror = r; })));
+    const r = el.getBoundingClientRect();
+    const opts = { width: Math.ceil(r.width), height: Math.ceil(r.height), pixelRatio: PAGE_SCALE, cacheBust: false };
+    if (jpeg) {
+      const url = await window.htmlToImage.toJpeg(el, { ...opts, quality: 0.9, backgroundColor: "#ffffff" });
+      return new Uint8Array(await (await fetch(url)).arrayBuffer());
+    }
+    const url = await window.htmlToImage.toPng(el, opts);
+    return withDpi(new Uint8Array(await (await fetch(url)).arrayBuffer()), 300);
+  } finally {
+    holder.remove();
+  }
+}
+$("zipBtn").addEventListener("click", async () => {
+  const btn = $("zipBtn"), label = $("zipLabel"), text = label.textContent;
+  btn.disabled = true;
+  try {
+    if (!window.htmlToImage) await loadScript("https://cdn.jsdelivr.net/npm/html-to-image@1.11.11/dist/html-to-image.js");
+    const { zipSync } = await import("https://cdn.jsdelivr.net/npm/fflate@0.8.2/+esm");
+    await document.fonts.ready;
+    const files = {};
+    const list = bookPictures();
+    const covers = [["000-sampul-depan", () => coverMarkup(book, { withImage: hasCover })]];
+    if (hasBack) covers.push(["999-sampul-belakang", () => backCoverMarkup(book)]);
+    const total = list.length + covers.length;
+    let done = 0;
+    for (const [name, markup] of covers) {
+      label.textContent = `Membuat ${++done}/${total}...`;
+      files[`${name}.png`] = await coverPng(markup());
+    }
+    for (const item of list) {
+      label.textContent = `Membuat ${++done}/${total}...`;
+      const bytes = await pagePicture(item);
+      if (bytes) files[`${item.name}.${item.jpeg ? "jpg" : "png"}`] = bytes;
+    }
+    label.textContent = "Membuat ZIP...";
+    download(zipSync(files, { level: 0 }), `${book.id}-gambar.zip`, "application/zip");
+  } catch (err) {
+    console.error(err);
+    alert("Gambar belum bisa disimpan. Coba lagi.");
+  } finally {
+    label.textContent = text;
+    btn.disabled = false;
+  }
+});
 $("uvSpineBtn").addEventListener("click", () => saveCover($("uvSpineBtn"), () => spineUvMarkup(book), `${book.id}-punggung-uv.png`));
 
 /* ---------- Input ---------- */

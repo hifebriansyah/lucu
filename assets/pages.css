@@ -26,7 +26,6 @@
 .page .foot { bottom: 10mm; font-size: 9pt; letter-spacing: 0; color: #555; }
 .page .body { flex: 1; overflow: hidden; }
 .page.cover-page { padding: 0; }
-.page.cover-page .body { font-size: 15px; }
 
 .body p { margin: 0 0 .6em; hyphens: auto; }
 .body h1, .body h2, .body h3 { font-family: var(--font-book); line-height: 1.15; text-wrap: balance; }
@@ -91,8 +90,13 @@
    a sent chat message, framed in toska with a tail at its lower right. */
 .page.dedication .body { display: flex; flex-direction: column; align-items: center; text-align: center; padding-top: 32%; }
 .page.dedication .body p { margin: 0; font-style: italic; font-size: 12pt; line-height: 1.7; }
-.page.dedication .body p.bubble { margin: 16pt 0 0 28mm; padding: 6pt 15pt 7pt; font: 700 13pt/1.2 var(--font-book); font-style: normal; border: 1.5pt solid var(--siti); border-radius: 14pt 14pt 3pt 14pt; background: #fff; }
+.page.dedication .body p.bubble { align-self: flex-end; margin: 16pt 12mm 0 0; padding: 6pt 13pt 7pt; font: 500 11pt/1.3 var(--font-book); font-style: normal; border: 1.5pt solid var(--siti); border-radius: 14pt 14pt 3pt 14pt; background: #fff; }
 .page.dedication .body p.bubble::after { content: "Terkirim"; display: block; margin-top: 3pt; text-align: right; font: 500 6.5pt/1 var(--font-ui); letter-spacing: .06em; color: var(--siti); }
+/* The chat that follows: the reader's messages share one right edge and SITI's replies (filled
+   toska, tail at lower left, signed SITI) one left edge, both 12 mm in from the text block. */
+.page.dedication .body p.bubble + p.bubble { margin-top: 9pt; }
+.page.dedication .body p.bubble.in { align-self: flex-start; margin: 9pt 0 0 12mm; text-align: left; color: #fff; background: var(--siti); border-radius: 14pt 14pt 14pt 3pt; }
+.page.dedication .body p.bubble.in::after { content: "SITI"; text-align: left; color: rgba(255, 255, 255, .85); }
 .page.part .body { text-align: center; padding-top: 40%; }
 .page.part h1 { font-size: 20pt; margin: 0; }
 /* Part page with a picture: the picture fills the whole page, edge to edge, with a poster

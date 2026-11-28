@@ -161,10 +161,21 @@ export function parseSections(md) {
 }
 
 // A dedication that ends on a quoted question ("Yakin?") shows the question as a sent chat
-// message under the verse (pages.css .bubble).
+// message under the verse, and any chat lines after it as more bubbles (pages.css .bubble).
 function chatBubble(html) {
   const q = '(?:"|&quot;|&#34;|\u201c|\u201d)';
-  return html.replace(new RegExp(`,?\\s*${q}([^"<&\u201d]+)${q}\\s*</em>\\s*</p>\\s*$`), ',</em></p><p class="bubble">$1</p>');
+  const holder = document.createElement("div");
+  holder.innerHTML = html;
+  const paras = [...holder.querySelectorAll(":scope > p")];
+  // The verse's closing quoted question becomes the first sent message.
+  const verse = paras[0];
+  if (verse) verse.outerHTML = verse.outerHTML.replace(new RegExp(`,?\\s*${q}([^"<&\u201d]+)${q}\\s*</em>\\s*</p>\\s*$`), ',</em></p><p class="bubble">$1</p>');
+  // Then a chat: *SITI: "..."* is SITI's reply, a lone *"..."* is the reader's next message.
+  for (const p of paras.slice(1)) {
+    const m = p.textContent.trim().match(new RegExp(`^(SITI:\\s*)?["\u201c](.+?)["\u201d]$`));
+    if (m) p.outerHTML = `<p class="bubble${m[1] ? " in" : ""}">${m[2]}</p>`;
+  }
+  return holder.innerHTML;
 }
 
 // A front-matter paragraph made only of "**Label:** value" lines (Kenalan dengan SITI) becomes a
